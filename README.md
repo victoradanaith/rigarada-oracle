@@ -10,7 +10,14 @@ A one-page viewer for the five RigaRada oracle decks, 90 cards each:
 | 4 | Occupations | ชื่ออาชีพบนโลก |
 | 5 | Traits | นิสัยความคิดของคน |
 
-Cards are text only, with no images. Each card shows its ID, category, Thai and English name, keywords, draft meaning and image concept. You can filter by category, search, and draw one card at random.
+The layout is the same as the RigaRada tarot prototype (`rigarada-mobile-fan-v2.html`):
+
+- **Fan Arc.** Cards lie face down in a fan. Swipe to browse (a swipe never picks a card), and tap the centre card or press "เลือกใบนี้" to pick one card at a time.
+- **1, 3 or 10 cards.** The 10-card reading is laid out as a Celtic Cross: 1 in the centre, 2 across 1 (turned 90°), 3 below, 4 left, 5 above, 6 right, and 7–10 up the right-hand column from bottom to top. Every card is the same size and the layout fits the screen. On short screens, number badges replace the position names.
+- **Reveal and large view.** A confirmation dialog appears before cards are turned over. Tap any revealed card to see it large, with its keywords and meaning, and use Previous/Next to move between positions.
+- **Keyboard and motion.** Arrow keys, Home/End and PageUp/PageDown move through the fan. Enter or Space picks a card, Delete removes it, and Ctrl/⌘+Z undoes. The page follows `prefers-reduced-motion` by default, with a manual override under "ตัวเลือกเพิ่มเติม".
+
+Cards are text only, with no images. Each face shows the Thai and English name. Switching decks starts a new reading with a freshly shuffled deck.
 
 ## Status: public
 

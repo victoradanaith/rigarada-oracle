@@ -2,49 +2,195 @@
 <html lang="th">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="robots" content="noindex, nofollow">
 <title>RigaRada Oracle</title>
+<!-- Fan Arc / Celtic Cross picker ported from the RigaRada tarot prototype (rigarada-mobile-fan-v2.html).
+     Changes: text-only card faces, access-code screen, 5-deck switcher, Thai UI, inspect in every mode. -->
 <style>
-:root{--bg:#f7f4ef;--surface:#fff;--ink:#22201c;--muted:#6b655c;--line:#e2dcd2;--accent:#7a4b2a;--accent-ink:#fff;--chip:#efe9df}
-@media (prefers-color-scheme:dark){:root{--bg:#171512;--surface:#221f1b;--ink:#eee8de;--muted:#a59d90;--line:#3a352e;--accent:#d9a77c;--accent-ink:#1a1510;--chip:#2d2924}}
+:root{
+  --bg:#f4f1ea;--surface:#fffdf8;--ink:#1f1d24;--muted:#5f5a68;--line:#d6cfc2;
+  --accent:#5143a8;--accent-ink:#fff;--accent-soft:rgba(81,67,168,.16);
+  --back1:#2b2838;--back2:#36324a;--back-line:#c9b98a;--ok:#2a7f5f;--focus:#c98a00;
+  --cw:76px;--ar:0.6;--rad:10px;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --bg:#14131a;--surface:#1f1d28;--ink:#ece8f2;--muted:#a9a4b6;--line:#3a3646;
+  --accent:#a394ff;--accent-ink:#14131a;--accent-soft:rgba(163,148,255,.18);--ok:#4cc298;--focus:#ffcc4d;}}
+:root[data-theme="dark"]{--bg:#14131a;--surface:#1f1d28;--ink:#ece8f2;--muted:#a9a4b6;--line:#3a3646;--accent:#a394ff;--accent-ink:#14131a;--accent-soft:rgba(163,148,255,.18);--ok:#4cc298;--focus:#ffcc4d;}
 *{box-sizing:border-box}
-body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.55 system-ui,-apple-system,"Sukhumvit Set","Noto Sans Thai",sans-serif}
-button{font:inherit;color:inherit;cursor:pointer}
-.wrap{max-width:1100px;margin:0 auto;padding:16px}
-/* gate */
-#gate{min-height:100vh;display:grid;place-items:center;padding:16px}
-#gate form{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:28px 24px;width:100%;max-width:340px;text-align:center}
+html,body{margin:0}
+body{background:var(--bg);color:var(--ink);font:16px/1.4 system-ui,-apple-system,"Segoe UI","Sukhumvit Set","Noto Sans Thai",sans-serif;-webkit-tap-highlight-color:transparent;overflow-x:hidden}
+.sr-only{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
+:focus-visible{outline:3px solid var(--focus);outline-offset:3px}
+[hidden]{display:none!important}
+
+/* access-code screen (screen gate only, not protection) */
+#gate{min-height:100dvh;display:grid;place-items:center;padding:16px}
+#gate form{background:var(--surface);border:1px solid var(--line);border-radius:18px;padding:28px 24px;width:100%;max-width:340px;text-align:center}
 #gate h1{margin:0 0 4px;font-size:1.3rem}
 #gate p{margin:0 0 18px;color:var(--muted);font-size:.9rem}
-#gate input{width:100%;font-size:1.4rem;letter-spacing:.4em;text-align:center;padding:10px;border:1px solid var(--line);border-radius:10px;background:var(--bg);color:var(--ink)}
-#gate button{margin-top:12px;width:100%;padding:10px;border:0;border-radius:10px;background:var(--accent);color:var(--accent-ink);font-weight:600}
+#gate input{width:100%;font:inherit;font-size:1.4rem;letter-spacing:.4em;text-align:center;padding:10px;border:1px solid var(--line);border-radius:12px;background:var(--bg);color:var(--ink)}
+#gate .btn{margin-top:12px;width:100%}
 #gate .err{color:#c0392b;min-height:1.4em;margin:10px 0 0;font-size:.9rem}
-/* app */
-header h1{margin:8px 0 2px;font-size:1.4rem}
-header p{margin:0 0 14px;color:var(--muted);font-size:.9rem}
-.tabs{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:12px}
-.tabs button{border:1px solid var(--line);background:var(--surface);border-radius:999px;padding:8px 14px}
-.tabs button[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:var(--accent-ink);font-weight:600}
-.cats{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:12px}
-.cats button{border:0;background:var(--chip);border-radius:999px;padding:5px 11px;font-size:.85rem}
-.cats button[aria-pressed="true"]{outline:2px solid var(--accent)}
-.bar{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin-bottom:16px}
-.bar input{flex:1;min-width:0;padding:8px 12px;border:1px solid var(--line);border-radius:10px;background:var(--surface);color:var(--ink);font:inherit}
-.bar button{border:1px solid var(--accent);background:transparent;color:var(--accent);border-radius:10px;padding:8px 12px;font-weight:600}
-.count{color:var(--muted);font-size:.85rem;margin:0 0 10px}
-.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:12px}
-.card{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:14px 16px;display:flex;flex-direction:column;gap:6px}
-.card.hl{outline:3px solid var(--accent)}
-.card .id{font-size:.75rem;color:var(--muted);display:flex;justify-content:space-between;gap:8px}
-.card h2{margin:0;font-size:1.1rem}
-.card .en{margin:0;color:var(--muted);font-style:italic;font-size:.9rem}
-.card .kw{display:flex;gap:4px;flex-wrap:wrap}
-.card .kw span{background:var(--chip);border-radius:6px;padding:1px 7px;font-size:.78rem}
-.card .meaning{margin:0}
-.card .concept{margin:0;color:var(--muted);font-size:.8rem}
-footer{color:var(--muted);font-size:.8rem;margin:24px 0 8px}
-[hidden]{display:none!important}
+
+.app{max-width:440px;margin:0 auto;padding:12px 16px 0;min-height:100dvh;display:flex;flex-direction:column}
+
+/* header */
+.top{display:flex;align-items:center;justify-content:space-between;gap:12px}
+.brand{font-size:1rem;font-weight:700;letter-spacing:.02em;margin:0}
+.seg{display:flex;border:1px solid var(--line);background:var(--surface);border-radius:12px;padding:3px;gap:2px;margin:0;min-width:0}
+.seg legend{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0)}
+.seg input{position:absolute;opacity:0;width:1px;height:1px}
+.seg label{min-height:44px;min-width:56px;padding:0 12px;display:flex;align-items:center;justify-content:center;border-radius:9px;font-size:.9rem;font-weight:600;cursor:pointer}
+.seg input:checked+label{background:var(--accent);color:var(--accent-ink)}
+.seg input:focus-visible+label{outline:3px solid var(--focus)}
+#countSeg label{min-width:52px;padding:0 8px}
+@media(max-width:359px){.top{flex-wrap:wrap}.top #countSeg{margin-left:auto}}
+
+/* deck switcher */
+.decks{display:flex;flex-wrap:wrap;gap:6px;border:0;padding:0;margin:10px 0 0}
+.decks legend{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0)}
+.decks input{position:absolute;opacity:0;width:1px;height:1px}
+.decks label{min-height:36px;padding:0 12px;display:flex;align-items:center;border:1px solid var(--line);background:var(--surface);border-radius:999px;font-size:.82rem;font-weight:600;cursor:pointer}
+.decks input:checked+label{background:var(--accent);border-color:var(--accent);color:var(--accent-ink)}
+.decks input:focus-visible+label{outline:3px solid var(--focus)}
+
+.status{margin:14px 0 8px}
+.status h2{font-size:1.15rem;margin:0}
+.status p{margin:2px 0 0;color:var(--muted);font-size:.9rem;font-variant-numeric:tabular-nums}
+.status p b{color:var(--ink)}
+.status .deckname{font-size:.8rem;color:var(--muted);margin:0 0 2px}
+
+/* tray */
+.tray{display:flex;justify-content:center;gap:12px;list-style:none;margin:0;padding:0}
+.tray.nudge{animation:nudge .35s}
+@keyframes nudge{25%{transform:translateX(-6px)}75%{transform:translateX(6px)}}
+.slot{width:64px}
+.tray.n1 .slot{width:84px}
+.tray.big .slot{width:min(28vw,108px)}
+.tray.big.n1 .slot{width:140px}
+.tray.n10{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:10px 8px}
+.tray.n10 .slot{width:100%;min-width:0}
+.tray.big.n10{grid-template-columns:repeat(2,minmax(0,1fr));gap:18px 12px}
+.tray.big.n10 .slot{width:100%}
+.tray.n10 .cardname{overflow-wrap:anywhere}
+.app:has(.tray.celtic){max-width:none;height:100dvh;min-height:0;padding-top:8px}
+.app:has(.tray.celtic)>.top,.app:has(.tray.celtic)>.decks,.app:has(.tray.celtic)>.status,.app:has(.tray.celtic)>.spreadhelp,.app:has(.tray.celtic)>details,.app:has(.tray.celtic)>.foot{flex-shrink:0}
+.app:has(.tray.celtic)>.status{margin:8px 0}
+.app:has(.tray.celtic)>details,.app:has(.tray.celtic)>.decks{display:none}
+.app:has(.tray.celtic) .foot{padding-top:6px}
+.app:has(.tray.celtic) .spreadhelp{margin:4px 0;font-size:.75rem}
+.tray.big.n10.celtic{flex:1;min-height:0;grid-template-columns:var(--spread-w) var(--spread-h) var(--spread-w) var(--spread-w);grid-template-rows:repeat(4,minmax(0,1fr));gap:6px 8px;justify-content:center;align-items:start}
+.tray.big.n10.celtic .slot{width:var(--spread-w);justify-self:center;position:relative}
+.tray.celtic .cardname{display:none}
+.tray.celtic .slotname{font-size:.65rem;text-align:center;height:26px;line-height:1.2;display:flex;align-items:center;justify-content:center}
+.tray.celtic .slot:nth-child(1){grid-column:2;grid-row:2}
+.tray.celtic .slot:nth-child(2){grid-column:2;grid-row:2;align-self:center;z-index:2;transform:translateY(13px)}
+.tray.celtic .box{width:var(--spread-w);height:var(--spread-h);aspect-ratio:auto!important}
+.tray.celtic .slot:nth-child(2) .box{transform:rotate(90deg)}
+.tray.celtic .slot:nth-child(2) .slotname{position:absolute;top:50%;z-index:3;min-height:0;height:auto;padding:3px 5px;border-radius:5px;background:var(--accent);color:var(--accent-ink);white-space:nowrap;transform:translateY(-50%)}
+.tray.celtic .slot:nth-child(3){grid-column:2;grid-row:3}
+.tray.celtic .slot:nth-child(4){grid-column:1;grid-row:2}
+.tray.celtic .slot:nth-child(5){grid-column:2;grid-row:1}
+.tray.celtic .slot:nth-child(6){grid-column:3;grid-row:2}
+.tray.celtic .slot:nth-child(7){grid-column:4;grid-row:4}
+.tray.celtic .slot:nth-child(8){grid-column:4;grid-row:3}
+.tray.celtic .slot:nth-child(9){grid-column:4;grid-row:2}
+.tray.celtic .slot:nth-child(10){grid-column:4;grid-row:1}
+@media(max-height:600px){
+  .tray.celtic .slotname{font-size:0;height:14px;width:14px;position:absolute;top:0;left:0;z-index:3;background:var(--surface);border-radius:3px}
+  .tray.celtic .slotname::before{content:attr(data-position);font-size:.7rem}
+  .tray.celtic .slot:nth-child(2) .slotname{font-size:0}
+  .app:has(.tray.celtic) .status{margin:4px 0}
+  .app:has(.tray.celtic) .spreadhelp{font-size:.7rem}
+}
+@media(max-height:450px){.app:has(.tray.celtic){padding-top:4px}.app:has(.tray.celtic) #countSeg label{min-height:32px}.app:has(.tray.celtic) .status h2{font-size:1rem;line-height:1.2}.app:has(.tray.celtic) .status p{font-size:.75rem;margin:0}.app:has(.tray.celtic) .foot{padding:4px 0}.app:has(.tray.celtic) .foot .btn{min-height:40px}.tray.celtic .slotbtn{min-width:44px;margin-left:min(0px,calc((var(--spread-w) - 44px)/2))}}
+.spreadhelp{font-size:.85rem;color:var(--muted);margin:8px 0 14px}
+.slotbtn{all:unset;box-sizing:border-box;display:flex;flex-direction:column;align-items:center;gap:4px;width:100%;cursor:pointer;border-radius:10px;padding:2px}
+.slotbtn:focus-visible{outline:3px solid var(--focus)}
+.slotname{font-size:.75rem;font-weight:700;color:var(--muted)}
+.box{position:relative;width:100%;aspect-ratio:var(--ar);perspective:700px}
+.empty{position:absolute;inset:0;border:2px dashed var(--line);border-radius:var(--rad);display:grid;place-items:center;color:var(--muted);font-size:1.1rem}
+.flip{position:absolute;inset:0;transform-style:preserve-3d;transition:transform .6s cubic-bezier(.2,.7,.2,1)}
+.slot.flipped .flip{transform:rotateY(180deg)}
+.flip>span{position:absolute;inset:0;border-radius:var(--rad);backface-visibility:hidden;-webkit-backface-visibility:hidden}
+/* text-only face: every card the same size; text scales with the card */
+.face{transform:rotateY(180deg);background:var(--surface);border:1px solid var(--line);box-shadow:inset 0 3px 0 var(--accent);container-type:size;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:6% 7%;gap:4%;overflow:hidden}
+.face b{font-size:clamp(7px,15cqw,20px);line-height:1.2;overflow-wrap:anywhere}
+.face i{font-size:clamp(6px,10cqw,13px);line-height:1.2;color:var(--muted);overflow-wrap:anywhere}
+.cardname{font-size:.75rem;font-weight:650;text-align:center;line-height:1.25;margin-top:3px}
+
+.x{position:absolute;top:-8px;right:-8px;width:26px;height:26px;border-radius:50%;background:var(--ink);color:var(--bg);display:grid;place-items:center;font-size:.75rem;font-weight:800;box-shadow:0 0 0 2px var(--bg)}
+.slot:not(.filled) .flip,.slot:not(.filled) .x,.slot.filled .empty,.locked .x{display:none}
+.slot.pop .box{animation:pop .45s}
+@keyframes pop{40%{transform:scale(1.14)}}
+
+/* card back */
+.back{background:
+  radial-gradient(circle at 50% 50%,transparent 0 15%,var(--back-line) 15% 16.5%,transparent 16.5% 26%,var(--back-line) 26% 27%,transparent 27%),
+  repeating-linear-gradient(45deg,var(--back1) 0 7px,var(--back2) 7px 14px);
+  box-shadow:inset 0 0 0 4px var(--back1),inset 0 0 0 5px var(--back-line)}
+
+/* fan stage */
+.stage{position:relative;height:286px;margin:10px -16px 0;overflow:hidden;touch-action:pan-y;user-select:none;-webkit-user-select:none;cursor:grab;border-radius:0}
+.stage:focus-visible{outline-offset:-4px;border-radius:18px}
+.stage.dragging{cursor:grabbing}
+.stage::before{content:"";position:absolute;left:50%;top:40px;width:220px;height:220px;margin-left:-110px;border-radius:50%;background:radial-gradient(circle,var(--accent-soft),transparent 70%);pointer-events:none}
+.card{position:absolute;left:calc(50% - var(--cw)/2);top:92px;width:var(--cw);aspect-ratio:var(--ar);border-radius:var(--rad);will-change:transform;
+  box-shadow:0 2px 6px rgba(0,0,0,.28),inset 0 0 0 4px var(--back1),inset 0 0 0 5px var(--back-line)}
+.card.is-center{box-shadow:0 14px 28px rgba(0,0,0,.38),inset 0 0 0 4px var(--back1),inset 0 0 0 5px var(--back-line),0 0 0 3px var(--accent),0 0 0 7px var(--accent-soft)}
+.card.taken{animation:taken .26s ease-in forwards}
+@keyframes taken{to{opacity:0;translate:0 -90px}}
+.stage.locked{display:none}
+.deckempty{position:absolute;inset:0;display:grid;place-items:center;color:var(--muted)}
+
+.focuslabel{text-align:center;margin:0 0 8px;min-height:44px}
+.focuslabel b{display:block;font-size:1.05rem;font-variant-numeric:tabular-nums}
+.focuslabel span{font-size:.82rem;color:var(--muted)}
+
+.pick{display:grid;grid-template-columns:56px 1fr 56px;gap:10px;align-items:center}
+.btn{min-height:48px;padding:0 16px;border-radius:14px;border:1px solid var(--line);background:var(--surface);color:var(--ink);font:inherit;font-weight:650;cursor:pointer}
+.btn.icon{min-height:56px;padding:0;font-size:1.4rem}
+.btn.primary{background:var(--accent);color:var(--accent-ink);border-color:transparent}
+.btn.select{min-height:56px;font-size:1.05rem}
+.btn[aria-disabled="true"]{opacity:.42;cursor:not-allowed}
+
+.foot{position:sticky;bottom:0;margin-top:auto;display:flex;gap:10px;padding:12px 0 calc(12px + env(safe-area-inset-bottom));background:linear-gradient(to top,var(--bg) 80%,transparent);z-index:5}
+.foot .btn{flex:1}
+.foot .btn.primary{flex:2}
+.ready{animation:ready 1.6s ease-in-out 2}
+@keyframes ready{50%{box-shadow:0 0 0 6px var(--accent-soft)}}
+
+details.more{margin:10px 0 4px;font-size:.9rem}
+details.more summary{min-height:44px;display:flex;align-items:center;color:var(--muted);cursor:pointer}
+.morebody{display:flex;flex-wrap:wrap;gap:10px 14px;align-items:center;padding-bottom:6px}
+.morebody .seg label{min-width:48px;font-size:.85rem}
+.morebody .lbl{font-size:.75rem;color:var(--muted);width:100%;margin-bottom:-6px}
+.morebody .note{font-size:.75rem;color:var(--muted);margin:4px 0 0}
+
+dialog{border:1px solid var(--line);border-radius:18px;background:var(--surface);color:var(--ink);width:min(360px,calc(100vw - 32px));padding:20px}
+dialog::backdrop{background:rgba(10,8,20,.6)}
+dialog h2{font-size:1.15rem;margin:0 0 6px}
+dialog p{margin:0 0 4px;color:var(--muted)}
+dialog .row{display:flex;gap:10px;margin-top:18px}
+dialog .row .btn{flex:1}
+.piles{display:flex;gap:10px;justify-content:center;margin-top:12px}
+.piles .btn{display:flex;flex-direction:column;align-items:center;gap:6px;padding:10px;min-width:72px}
+.piles i{width:40px;aspect-ratio:var(--ar);border-radius:var(--rad)}
+
+/* large card view */
+#dlgInspect{max-height:90dvh;overflow:auto}
+.bigcard{width:min(220px,60vw);aspect-ratio:var(--ar);margin:14px auto;border-radius:14px;background:var(--surface);border:1px solid var(--line);box-shadow:inset 0 4px 0 var(--accent),0 8px 22px rgba(0,0,0,.18);container-type:size;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:8%;gap:4%}
+.bigcard .bid{font-size:clamp(9px,6cqw,12px);color:var(--muted)}
+.bigcard b{font-size:clamp(14px,12cqw,26px);line-height:1.2}
+.bigcard i{font-size:clamp(11px,7.5cqw,16px);color:var(--muted)}
+#dlgInspect .kw{display:flex;gap:4px;flex-wrap:wrap;justify-content:center;margin:6px 0}
+#dlgInspect .kw span{background:var(--accent-soft);border-radius:6px;padding:1px 8px;font-size:.8rem}
+#inspectText{color:var(--ink);margin:6px 0 2px}
+#inspectCat{font-size:.8rem}
+
+.rm *,.rm *::before,.rm *::after{transition:none!important;animation:none!important}
 </style>
 </head>
 <body>
@@ -53,88 +199,507 @@ footer{color:var(--muted);font-size:.8rem;margin:24px 0 8px}
     <h1>RigaRada Oracle</h1>
     <p>ใส่รหัสเพื่อเข้าใช้</p>
     <input id="code" type="password" inputmode="numeric" maxlength="8" aria-label="รหัส" autofocus>
-    <button type="submit">เข้าใช้</button>
+    <button class="btn primary" type="submit">เข้าใช้</button>
     <div class="err" id="err" role="alert"></div>
   </form>
 </div>
 
-<div id="app" hidden>
-  <div class="wrap">
-    <header>
-      <h1 id="deckTitle"></h1>
-      <p id="deckSub"></p>
-    </header>
-    <nav class="tabs" id="tabs" aria-label="สำรับ"></nav>
-    <div class="cats" id="cats" aria-label="หมวด"></div>
-    <div class="bar">
-      <input id="q" type="search" placeholder="ค้นหาชื่อ คำหลัก หรือความหมาย" aria-label="ค้นหา">
-      <button id="draw" type="button">สุ่ม 1 ใบ</button>
-    </div>
-    <p class="count" id="count"></p>
-    <main class="grid" id="grid"></main>
-    <footer>Draft 01 · ข้อความเป็นแนวทางสะท้อนคิด ไม่ใช่การทำนายผล และไม่ใช่คำแนะนำทางการแพทย์ กฎหมาย หรือการเข้าเมือง</footer>
+<main class="app" id="app" hidden>
+  <div class="top">
+    <h1 class="brand">RigaRada</h1>
+    <fieldset class="seg" id="countSeg">
+      <legend>จำนวนไพ่</legend>
+      <input type="radio" name="count" id="c1" value="1"><label for="c1">1 ใบ</label>
+      <input type="radio" name="count" id="c3" value="3"><label for="c3">3 ใบ</label>
+      <input type="radio" name="count" id="c10" value="10"><label for="c10">10 ใบ</label>
+    </fieldset>
   </div>
-</div>
+
+  <fieldset class="decks" id="deckSeg"><legend>สำรับ</legend></fieldset>
+
+  <div class="status">
+    <p class="deckname" id="deckName"></p>
+    <h2 id="headline" tabindex="-1">เลือก 3 ใบ</h2>
+    <p id="progress"></p>
+  </div>
+
+  <ol class="tray" id="tray" aria-label="ไพ่ที่เลือก"></ol>
+  <p class="spreadhelp" id="spreadHelp" hidden>แตะตำแหน่งเพื่อดูไพ่ใบใหญ่</p>
+
+  <div id="stage" class="stage" role="listbox" tabindex="0"
+       aria-roledescription="พัดไพ่" aria-label="สำรับไพ่คว่ำ"
+       aria-describedby="stageHelp"></div>
+  <p id="stageHelp" class="sr-only">ปุ่มลูกศรซ้ายขวาเพื่อเลื่อนดูพัด Enter หรือ Space เพื่อเลือกใบที่อยู่ตรงกลาง</p>
+
+  <div class="focuslabel" id="focusLabel" aria-hidden="true"><b id="focusPos"></b><span id="focusHint">คว่ำอยู่ · ปัดพัดเพื่อเลื่อนดู</span></div>
+
+  <div class="pick" id="pick">
+    <button class="btn icon" id="bPrev" type="button" aria-label="ใบก่อนหน้า">‹</button>
+    <button class="btn primary select" id="bSelect" type="button">เลือกใบนี้</button>
+    <button class="btn icon" id="bNext" type="button" aria-label="ใบถัดไป">›</button>
+  </div>
+
+  <details class="more">
+    <summary>ตัวเลือกเพิ่มเติม</summary>
+    <div class="morebody">
+      <button class="btn" id="bShuffle" type="button">สับไพ่</button>
+      <button class="btn" id="bCut" type="button">ตัดไพ่…</button>
+      <span class="lbl" aria-hidden="true">การเคลื่อนไหว</span>
+      <fieldset class="seg"><legend>ลดการเคลื่อนไหว</legend>
+        <input type="radio" name="motion" id="r-auto" value="auto"><label for="r-auto">อัตโนมัติ</label>
+        <input type="radio" name="motion" id="r-on" value="on"><label for="r-on">ลด</label>
+        <input type="radio" name="motion" id="r-off" value="off"><label for="r-off">เต็ม</label>
+      </fieldset>
+      <p class="note">Draft 01 · ข้อความเป็นแนวทางสะท้อนคิด ไม่ใช่การทำนายผล และไม่ใช่คำแนะนำทางการแพทย์ กฎหมาย หรือการเข้าเมือง</p>
+    </div>
+  </details>
+
+  <div class="foot">
+    <button class="btn" id="bUndo" type="button">ย้อนกลับ</button>
+    <button class="btn primary" id="bReveal" type="button">เปิดไพ่…</button>
+    <button class="btn primary" id="bNew" type="button" hidden>เริ่มใหม่</button>
+  </div>
+</main>
+
+<div id="live" class="sr-only" aria-live="polite" aria-atomic="true"></div>
+
+<dialog id="dlgReveal" aria-labelledby="dRH" aria-describedby="dRP">
+  <h2 id="dRH">เปิดไพ่เลยไหม?</h2>
+  <p id="dRP"></p>
+  <div class="row">
+    <button class="btn" id="dBack" type="button">กลับไปก่อน</button>
+    <button class="btn primary" id="dGo" type="button">เปิดไพ่</button>
+  </div>
+</dialog>
+
+<dialog id="dlgCut" aria-labelledby="dCH">
+  <h2 id="dCH">ตัดไพ่</h2>
+  <p>เลือกกองที่จะวางไว้ด้านบน</p>
+  <div class="piles" id="piles"></div>
+  <div class="row"><button class="btn" id="dCutCancel" type="button">ยกเลิก</button></div>
+</dialog>
+
+<dialog id="dlgInspect" aria-labelledby="inspectTitle">
+  <h2 id="inspectTitle"></h2>
+  <p id="inspectMeaning"></p>
+  <div class="bigcard" aria-hidden="true"><span class="bid" id="inspectId"></span><b id="inspectTh"></b><i id="inspectEn"></i></div>
+  <p class="sr-only" id="inspectName"></p>
+  <div class="kw" id="inspectKw"></div>
+  <p id="inspectText"></p>
+  <p id="inspectCat"></p>
+  <div class="row"><button class="btn" id="inspectPrev" type="button">ก่อนหน้า</button><button class="btn" id="inspectNext" type="button">ถัดไป</button></div>
+  <div class="row"><button class="btn primary" id="inspectClose" type="button">กลับไปที่การวางไพ่</button></div>
+</dialog>
 
 <script>
+(()=>{
+"use strict";
 const DECKS=/*DECKS*/;
-// Screen gate only, not protection: the code and every card are readable in this public file. See README.
-const CODE="2456";
-const KEY="rro-unlocked";
-const $=id=>document.getElementById(id);
-let deck=0,cat=null;
+const $=s=>document.querySelector(s);
 
-function unlock(){$("gate").hidden=true;$("app").hidden=false;render();}
-try{if(sessionStorage.getItem(KEY)==="1")unlock();}catch(e){}
-$("gateForm").addEventListener("submit",e=>{
+/* ---------------- access-code screen ----------------
+   Screen gate only, not protection: the code and every card are readable in this public file. See README. */
+const CODE='2456',KEY='rro-unlocked';
+let started=false;
+function unlock(){$('#gate').hidden=true;$('#app').hidden=false;if(!started){started=true;start()}}
+try{if(sessionStorage.getItem(KEY)==='1')unlock()}catch(_){}
+$('#gateForm').addEventListener('submit',e=>{
   e.preventDefault();
-  if($("code").value.trim()===CODE){try{sessionStorage.setItem(KEY,"1");}catch(e){}unlock();}
-  else{$("err").textContent="รหัสไม่ถูกต้อง";$("code").value="";$("code").focus();}
+  if($('#code').value.trim()===CODE){try{sessionStorage.setItem(KEY,'1')}catch(_){}unlock();$('#stage').focus()}
+  else{$('#err').textContent='รหัสไม่ถูกต้อง';$('#code').value='';$('#code').focus()}
 });
 
-function el(tag,cls,text){const n=document.createElement(tag);if(cls)n.className=cls;if(text!=null)n.textContent=text;return n;}
+function start(){
+let deckIdx=0,DECK=DECKS[0].cards,N=DECK.length;
+const SLOP=8, PX_PER_CARD=46, FLICK_MS=140, TAP_MAX_MS=650, SUPPRESS_MS=450;
+const POS={1:['ไพ่ของคุณ'],3:['อดีต','ปัจจุบัน','อนาคต'],10:Array.from({length:10},(_,i)=>`ใบที่ ${i+1}`)};
+const CELTIC=['ปัจจุบัน','อุปสรรค','รากฐาน','อดีต','เป้าหมาย','อนาคตอันใกล้','ตัวตน','สิ่งรอบตัว','ความหวังและความกลัว','ผลลัพธ์'];
+const CONTEXT=['สถานการณ์ที่อยู่ตรงกลางของการอ่าน','สิ่งที่ขวางหรือท้าทายสถานการณ์','รากหรืออิทธิพลที่อยู่เบื้องลึก','พื้นหลังและอดีตที่เพิ่งผ่านมา','เป้าหมายหรือความเป็นไปได้ที่รู้ตัว','สิ่งที่กำลังจะเกิดต่อไป','มุมมองและวิธีรับมือของคุณ','ผู้คนและสภาพแวดล้อมรอบตัว','ความหวัง ความกลัว หรือความคาดหวัง','ทิศทางที่การวางไพ่ชี้ไป'];
+const positionLabel=i=>S.count===10?`${i+1} · ${CELTIC[i]}`:POS[S.count][i];
+const stage=$('#stage'), live=$('#live');
+const mqRM=matchMedia('(prefers-reduced-motion: reduce)');
+const shuffled=a=>{a=a.slice();for(let i=a.length-1;i>0;i--){const j=Math.random()*(i+1)|0;[a[i],a[j]]=[a[j],a[i]]}return a};
+const faceLabel=id=>`${DECK[id].name_th} (${DECK[id].name_en})`;
+const clamp=(v,a,b)=>Math.max(a,Math.min(b,v));
 
-function renderTabs(){
-  const t=$("tabs");t.replaceChildren();
-  DECKS.forEach((d,i)=>{const b=el("button",null,d.label);b.type="button";b.setAttribute("aria-pressed",i===deck);
-    b.onclick=()=>{deck=i;cat=null;$("q").value="";render();};t.append(b);});
-}
-function renderCats(){
-  const c=$("cats");c.replaceChildren();
-  const cats=[...new Set(DECKS[deck].cards.map(x=>x.category))];
-  [null,...cats].forEach(k=>{const b=el("button",null,k??"ทั้งหมด");b.type="button";b.setAttribute("aria-pressed",k===cat);
-    b.onclick=()=>{cat=k;renderCats();renderGrid();};c.append(b);});
-}
-function visible(){
-  const q=$("q").value.trim().toLowerCase();
-  return DECKS[deck].cards.filter(x=>(cat===null||x.category===cat)&&
-    (!q||[x.id,x.name_th,x.name_en,x.keywords.join(" "),x.meaning].join(" ").toLowerCase().includes(q)));
-}
-function card(x){
-  const a=el("article","card");a.id="c-"+x.id;
-  const top=el("div","id");top.append(el("span",null,x.id),el("span",null,x.category));
-  const kw=el("div","kw");x.keywords.forEach(k=>kw.append(el("span",null,k)));
-  a.append(top,el("h2",null,x.name_th),el("p","en",x.name_en),kw,el("p","meaning",x.meaning));
-  if(x.image_concept)a.append(el("p","concept","แนวคิดภาพ: "+x.image_concept));
-  return a;
-}
-function renderGrid(){
-  const list=visible(),g=$("grid");g.replaceChildren(...list.map(card));
-  $("count").textContent=`แสดง ${list.length} จาก ${DECKS[deck].cards.length} ใบ`;
-}
-function render(){
-  const d=DECKS[deck];$("deckTitle").textContent=d.th+" · "+d.en;
-  $("deckSub").textContent=`สำรับ ${deck+1} จาก ${DECKS.length} · ${d.cards.length} ใบ`;
-  document.title="RigaRada Oracle · "+d.label;
-  renderTabs();renderCats();renderGrid();
-}
-$("q").addEventListener("input",renderGrid);
-$("draw").addEventListener("click",()=>{
-  cat=null;$("q").value="";renderCats();renderGrid();
-  const cs=DECKS[deck].cards,x=cs[Math.floor(Math.random()*cs.length)];
-  document.querySelectorAll(".card.hl").forEach(n=>n.classList.remove("hl"));
-  const n=$("c-"+x.id);n.classList.add("hl");n.scrollIntoView({behavior:"smooth",block:"center"});
+// Card identities live only in this closure; the DOM never carries them before reveal.
+const S={count:3,order:shuffled([...Array(N).keys()]),slots:[null,null,null],cur:Math.floor(N/2),
+  revealed:false,hist:[],motion:'auto',busy:false};
+let f=S.cur, cardEls=[], raf=0, P=null, suppressUntil=0, wheelAcc=0, revealGeneration=0, selectionGeneration=0;
+
+const chosen=()=>S.slots.filter(x=>x!==null);
+const avail=()=>S.order.filter(id=>!S.slots.includes(id));
+const reduced=()=>S.motion==='on'||(S.motion==='auto'&&mqRM.matches);
+const say=t=>{live.textContent='';setTimeout(()=>{live.textContent=t},30)};
+const setDis=(b,on)=>b.setAttribute('aria-disabled',on?'true':'false');
+const isDis=b=>b.getAttribute('aria-disabled')==='true';
+const snap=()=>{S.hist.push(JSON.stringify({order:S.order,slots:S.slots,count:S.count,cur:S.cur}));if(S.hist.length>60)S.hist.shift()};
+
+/* ---------------- deck switcher ---------------- */
+const deckSeg=$('#deckSeg');
+DECKS.forEach((d,i)=>{
+  const inp=document.createElement('input');inp.type='radio';inp.name='deck';inp.id='d'+i;inp.value=i;
+  const lab=document.createElement('label');lab.htmlFor='d'+i;lab.textContent=d.label;lab.title=`${d.th} · ${d.en}`;
+  deckSeg.append(inp,lab);
 });
+function setDeck(i){
+  if(i===deckIdx)return;
+  deckIdx=i;DECK=DECKS[i].cards;N=DECK.length;
+  if($('#dlgInspect').open)$('#dlgInspect').close();
+  newReading(false);
+  say(`สำรับ ${DECKS[i].th} สับไพ่ใหม่แล้ว`);
+}
+
+/* ---------------- fan rendering ---------------- */
+function buildDeck(){
+  const A=avail();
+  S.cur=clamp(S.cur,0,Math.max(0,A.length-1));
+  stage.innerHTML='';cardEls=[];
+  if(!A.length){stage.innerHTML='<div class="deckempty">ไพ่หมดสำรับ</div>';return}
+  A.forEach((_,i)=>{
+    const el=document.createElement('div');
+    el.className='card back';el.id='opt-'+i;el.dataset.idx=i;el.setAttribute('role','option');
+    stage.appendChild(el);cardEls.push(el);
+  });
+  f=S.cur;paint(f);updateAria();
+}
+function radius(){return clamp(stage.clientWidth*1.05,380,560)}
+function paint(fp){
+  const R=radius(),step=7,gap=3.5;
+  for(const el of cardEls){
+    const d=+el.dataset.idx-fp,ad=Math.abs(d);
+    if(ad>7.5){el.style.visibility='hidden';continue}
+    el.style.visibility='';
+    const a=d*step+Math.sign(d)*Math.min(ad,1)*gap,r=a*Math.PI/180;
+    const x=R*Math.sin(r),y=R*(1-Math.cos(r)),t=Math.max(0,1-ad);
+    el.style.transform=`translate(${x.toFixed(1)}px,${(y-34*t).toFixed(1)}px) rotate(${a.toFixed(2)}deg) scale(${(1+0.32*t).toFixed(3)})`;
+    el.style.zIndex=String(300-Math.round(ad*10));
+    el.style.opacity=ad>6?String(clamp((7.5-ad)/1.5,0,1)):'1';
+    el.classList.toggle('is-center',ad<0.5);
+  }
+}
+function tweenTo(target){
+  cancelAnimationFrame(raf);
+  if(reduced()){f=target;paint(f);return}
+  const f0=f,t0=performance.now(),dur=280;
+  const tick=now=>{const k=Math.min(1,(now-t0)/dur),e=1-Math.pow(1-k,3);f=f0+(target-f0)*e;paint(f);if(k<1)raf=requestAnimationFrame(tick)};
+  raf=requestAnimationFrame(tick);
+}
+function updateAria(){
+  const n=cardEls.length;
+  cardEls.forEach((el,i)=>{
+    el.setAttribute('aria-selected',i===S.cur?'true':'false');
+    el.setAttribute('aria-label',`ไพ่คว่ำใบที่ ${i+1} จาก ${n}`+(i===S.cur?' อยู่ตรงกลาง':''));
+  });
+  if(n)stage.setAttribute('aria-activedescendant','opt-'+S.cur);else stage.removeAttribute('aria-activedescendant');
+  $('#focusPos').textContent=n?`ใบที่ ${S.cur+1} จาก ${n}`:'ไม่มีไพ่เหลือ';
+  setDis($('#bPrev'),S.cur<=0||S.revealed);setDis($('#bNext'),S.cur>=n-1||S.revealed);
+  const full=chosen().length>=S.count;
+  setDis($('#bSelect'),full||!n||S.revealed);
+  $('#bSelect').textContent=full?'เลือกครบแล้ว ดูด้านบน':'เลือกใบนี้';
+  $('#bSelect').setAttribute('aria-label',full?'เลือกครบแล้ว':`เลือกใบที่ ${S.cur+1} จาก ${n}`);
+}
+function setCursor(i,announce){
+  const n=cardEls.length;if(!n)return;
+  i=clamp(Math.round(i),0,n-1);
+  const changed=i!==S.cur;S.cur=i;
+  tweenTo(i);updateAria();
+  if(announce&&changed)say(`ใบที่ ${i+1} จาก ${n}`);
+}
+
+/* ---------------- actions ---------------- */
+function choose(){
+  if(S.revealed||S.busy||!cardEls.length)return;
+  const slot=S.slots.indexOf(null);
+  if(slot<0){say(`เลือกครบ ${S.count} ใบแล้ว เอาออกหนึ่งใบ หรือเปิดไพ่`);nudge();return}
+  const id=avail()[S.cur];
+  if(id===undefined||S.slots.includes(id))return;            // guard: never duplicate
+  S.busy=true;
+  const generation=selectionGeneration;
+  const el=cardEls[S.cur];
+  const commit=()=>{
+    if(generation!==selectionGeneration)return;
+    snap();S.slots[slot]=id;S.busy=false;
+    renderAll();
+    const s=document.querySelector(`.slot[data-i="${slot}"]`);if(s){s.classList.add('pop')}
+    const n=chosen().length,left=S.count-n;
+    say(`เลือกแล้ว${S.count>1?' ตำแหน่ง '+POS[S.count][slot]:''} เลือก ${n} จาก ${S.count}${left?' เหลือ '+left+' ใบ':''}${left?'':' พร้อมเปิดไพ่'}`);
+    if(!left)$('#bReveal').classList.add('ready');
+  };
+  if(reduced()||!el)commit();else{el.classList.add('taken');setTimeout(commit,240)}
+}
+function removeSlot(i){
+  if(S.revealed||S.slots[i]===null)return;
+  snap();const id=S.slots[i];S.slots[i]=null;
+  S.cur=avail().indexOf(id);                 // bring the returned card to the centre
+  renderAll();
+  const b=document.querySelector(`.slot[data-i="${i}"] .slotbtn`);b&&b.focus();
+  say(`เอา${POS[S.count][i]}ออกแล้ว ไพ่กลับเข้าสำรับและอยู่ตรงกลาง เลือก ${chosen().length} จาก ${S.count}`);
+}
+function undo(){
+  if(S.revealed||!S.hist.length)return;
+  cancelPendingSelection();
+  Object.assign(S,JSON.parse(S.hist.pop()));syncControls();renderAll();
+  say(`ย้อนกลับแล้ว เลือก ${chosen().length} จาก ${S.count}`);
+}
+function setCount(n){
+  if(n===S.count)return;
+  cancelPendingSelection();
+  if(S.revealed)newReading(false);
+  snap();const keep=chosen();S.count=n;S.slots=Array(n).fill(null);
+  keep.slice(0,n).forEach((id,i)=>S.slots[i]=id);
+  renderAll();
+  say(`โหมด ${n} ใบ เลือก ${chosen().length} จาก ${n}`+(keep.length>n?' ไพ่ที่เกินกลับเข้าสำรับแล้ว':''));
+}
+function doShuffle(){
+  if(S.revealed)return;
+  snap();S.order=shuffled(S.order);S.cur=Math.floor(avail().length/2);renderAll();say('สับไพ่แล้ว');
+}
+function openCut(){
+  if(S.revealed)return;
+  const A=avail(),t=Math.ceil(A.length/3),piles=[A.slice(0,t),A.slice(t,2*t),A.slice(2*t)];
+  const box=$('#piles');box.innerHTML='';
+  piles.forEach((p,i)=>{
+    const b=document.createElement('button');b.type='button';b.className='btn';
+    b.setAttribute('aria-label',`กองที่ ${i+1} มี ${p.length} ใบ`);
+    b.innerHTML=`<i class="back" aria-hidden="true"></i>กอง ${i+1}`;
+    b.onclick=()=>{snap();S.order=[...p,...piles.filter((_,k)=>k!==i).flat(),...chosen()];S.cur=Math.floor(avail().length/2);
+      $('#dlgCut').close();renderAll();stage.focus();say(`ตัดไพ่แล้ว กองที่ ${i+1} อยู่ด้านบน`)};
+    box.appendChild(b);
+  });
+  $('#dlgCut').showModal();
+}
+function askReveal(){
+  const left=S.count-chosen().length;
+  if(left>0){say(`เลือกอีก ${left} ใบก่อน`);nudge();return}
+  $('#dRP').textContent=`คุณเลือกไพ่คว่ำไว้ ${S.count} ใบ เมื่อเปิดแล้วจะเปลี่ยนใบที่เลือกไม่ได้`;
+  $('#dlgReveal').showModal();
+}
+function reveal(){
+  const generation=++revealGeneration;
+  $('#dlgReveal').close();
+  S.revealed=true;S.hist=[];renderAll();
+  const slots=[...document.querySelectorAll('.slot')];
+  let i=0;
+  const step=()=>{
+    if(!S.revealed||generation!==revealGeneration)return;
+    const li=slots[i],id=S.slots[i];
+    renderFace(li,id); // Card identity is written to the DOM only after confirmation.
+    li.classList.add('flipped');
+    li.querySelector('.slotbtn').setAttribute('aria-label',`${positionLabel(i)}: ${faceLabel(id)} แตะเพื่อดูใบใหญ่`);
+    if(S.count===10)li.querySelector('.slotname').textContent=positionLabel(i);
+    i++;
+    if(i<slots.length)setTimeout(step,reduced()?0:520);
+    else setTimeout(()=>{
+      if(!S.revealed||generation!==revealGeneration)return;
+      $('#headline').textContent='ผลการเปิดไพ่';$('#headline').focus();
+      say('เปิดแล้ว '+S.slots.map((id,k)=>`${positionLabel(k)}: ${faceLabel(id)}`).join(' · '));
+      $('#bNew').hidden=false;
+      fitCeltic(); // Include the visible New reading control in the final viewport budget.
+    },reduced()?0:450);
+  };
+  setTimeout(step,reduced()?0:200);
+}
+function renderFace(li,id){
+  const card=DECK[id],face=li.querySelector('.face');
+  face.replaceChildren();face.dataset.cardId=card.id;
+  const th=document.createElement('b');th.textContent=card.name_th;
+  const en=document.createElement('i');en.textContent=card.name_en;
+  face.append(th,en);
+  const label=document.createElement('span');label.className='cardname';label.textContent=card.name_th;
+  li.querySelector('.slotbtn').append(label);
+}
+function newReading(announce=true){
+  revealGeneration++; // Cancel callbacks from a reading replaced during its reveal.
+  cancelPendingSelection();
+  S.revealed=false;S.hist=[];S.slots=Array(S.count).fill(null);S.order=shuffled([...Array(N).keys()]);S.cur=Math.floor(N/2);
+  renderAll();if(announce){stage.focus();say('เริ่มใหม่ สับไพ่แล้ว')}
+}
+function cancelPendingSelection(){selectionGeneration++;S.busy=false;}
+let inspectIndex=0;
+const isFlipped=i=>!!document.querySelector(`.slot[data-i="${i}"].flipped`);
+function inspectCard(i){
+  if(!S.revealed||i<0||i>=S.count||!isFlipped(i))return;
+  inspectIndex=i;const card=DECK[S.slots[i]];
+  $('#inspectTitle').textContent=positionLabel(i);
+  $('#inspectMeaning').textContent=S.count===10?CONTEXT[i]:'';$('#inspectMeaning').hidden=S.count!==10;
+  $('#inspectId').textContent=card.id;$('#inspectTh').textContent=card.name_th;$('#inspectEn').textContent=card.name_en;
+  $('#inspectName').textContent=faceLabel(S.slots[i]);
+  const kw=$('#inspectKw');kw.replaceChildren(...card.keywords.map(k=>{const s=document.createElement('span');s.textContent=k;return s}));
+  $('#inspectText').textContent=card.meaning;
+  $('#inspectCat').textContent='หมวด: '+card.category;
+  const multi=S.count>1;$('#inspectPrev').hidden=$('#inspectNext').hidden=!multi;
+  setDis($('#inspectPrev'),i===0);setDis($('#inspectNext'),i===S.count-1||!isFlipped(i+1));
+  if(!$('#dlgInspect').open)$('#dlgInspect').showModal();
+}
+function nudge(){const t=$('#tray');t.classList.remove('nudge');void t.offsetWidth;t.classList.add('nudge')}
+
+/* ---------------- rendering ---------------- */
+function renderAll(){
+  document.documentElement.classList.toggle('rm',reduced());
+  renderTray();buildDeck();renderStatus();fitCeltic();
+}
+function fitCeltic(){
+  if(!S.revealed||S.count!==10)return;
+  const tray=$('#tray'),r=tray.getBoundingClientRect();
+  const label=tray.querySelector('.slotname'),extra=getComputedStyle(label).position==='absolute'?4:label.offsetHeight+8;
+  const h=Math.max(12,Math.min(160,(r.width-24)/2.8,(r.height-4*extra-18)/4));
+  tray.style.setProperty('--spread-h',h+'px');tray.style.setProperty('--spread-w',(h*.6)+'px');
+}
+function renderTray(){
+  const ol=$('#tray');ol.innerHTML='';
+  ol.className='tray n'+S.count+(S.revealed?' big locked':'')+(S.revealed&&S.count===10?' celtic':'');
+  $('#spreadHelp').hidden=!S.revealed;
+  $('#spreadHelp').textContent=S.count===10?'Celtic Cross · แตะตำแหน่งเพื่อดูไพ่ใบใหญ่':'แตะไพ่เพื่อดูใบใหญ่';
+  S.slots.forEach((id,i)=>{
+    const li=document.createElement('li');li.className='slot'+(id!==null?' filled':'');li.dataset.i=i;
+    li.innerHTML=`<button class="slotbtn" type="button"><span class="slotname" aria-hidden="true">${POS[S.count][i]}</span>
+      <span class="box" aria-hidden="true"><span class="empty">${S.count>1?i+1:'?'}</span>
+      <span class="flip"><span class="back"></span><span class="face"></span></span><span class="x">✕</span></span></button>`;
+    li.querySelector('.slotname').dataset.position=i+1;
+    const b=li.querySelector('.slotbtn');
+    b.setAttribute('aria-label',id===null?`${POS[S.count][i]}: ว่าง`:`${POS[S.count][i]}: เลือกไพ่คว่ำแล้ว กดเพื่อเอากลับเข้าสำรับ`);
+    b.onclick=()=>{if(S.revealed){inspectCard(i);return}if(S.slots[i]!==null)removeSlot(i);else say(`${POS[S.count][i]} ยังว่าง`)};
+    b.onkeydown=e=>{if(e.key==='Delete'||e.key==='Backspace'){e.preventDefault();removeSlot(i)}};
+    ol.appendChild(li);
+  });
+}
+function renderStatus(){
+  const n=chosen().length,left=S.count-n;
+  $('#deckName').textContent=`สำรับ ${deckIdx+1}/${DECKS.length} · ${DECKS[deckIdx].th} · ${DECKS[deckIdx].en}`;
+  document.title='RigaRada Oracle · '+DECKS[deckIdx].label;
+  $('#headline').textContent=S.revealed?'กำลังเปิดไพ่…':(left?`เลือก${left===S.count?' '+S.count+' ใบ':'อีก '+left+' ใบ'}`:'พร้อมเปิดไพ่');
+  $('#progress').innerHTML=`<b>เลือก ${n} จาก ${S.count}</b> · เหลือ ${left} · ในสำรับ ${avail().length} ใบ`;
+  stage.classList.toggle('locked',S.revealed);stage.inert=S.revealed;
+  $('#pick').hidden=S.revealed;$('#focusLabel').hidden=S.revealed;
+  $('#bUndo').hidden=S.revealed;setDis($('#bUndo'),!S.hist.length);
+  $('#bReveal').hidden=S.revealed;setDis($('#bReveal'),left>0);
+  $('#bReveal').textContent=left>0?`เปิดไพ่ (อีก ${left} ใบ)`:'เปิดไพ่…';
+  if(left>0)$('#bReveal').classList.remove('ready');
+  $('#bNew').hidden=true;
+  setDis($('#bShuffle'),S.revealed);setDis($('#bCut'),S.revealed);
+}
+
+/* ---------------- gestures ----------------
+   Taps are resolved in pointerup only (never via the click event).
+   Any pointer movement beyond SLOP marks the gesture as a drag; drags never select,
+   and a window-level capture listener swallows the trailing click for SUPPRESS_MS. */
+stage.addEventListener('pointerdown',e=>{
+  if(S.revealed||!e.isPrimary||e.button>0)return;
+  cancelAnimationFrame(raf);
+  P={id:e.pointerId,x0:e.clientX,y0:e.clientY,t0:performance.now(),f0:f,axis:null,moved:false,
+     card:e.target.closest('.card'),samples:[[e.clientX,performance.now()]]};
+});
+stage.addEventListener('pointermove',e=>{
+  if(!P||e.pointerId!==P.id)return;
+  const dx=e.clientX-P.x0,dy=e.clientY-P.y0;
+  if(!P.axis){
+    if(Math.hypot(dx,dy)<SLOP)return;
+    P.moved=true;
+    P.axis=Math.abs(dx)>Math.abs(dy)*1.15?'x':'y';
+    if(P.axis==='x'){try{stage.setPointerCapture(P.id)}catch(_){}stage.classList.add('dragging')}
+  }
+  if(P.axis!=='x')return;                       // vertical: leave it to page scroll
+  e.preventDefault();
+  const n=cardEls.length,raw=P.f0-dx/PX_PER_CARD;
+  f=raw<0?raw*0.3:raw>n-1?(n-1)+(raw-(n-1))*0.3:raw;   // rubber-band at ends
+  paint(f);
+  const now=performance.now();P.samples.push([e.clientX,now]);if(P.samples.length>6)P.samples.shift();
+  const near=clamp(Math.round(f),0,n-1);
+  if(near!==P.lastNear){P.lastNear=near;$('#focusPos').textContent=`ใบที่ ${near+1} จาก ${n}`}
+});
+function endGesture(e,cancelled){
+  if(!P||(e&&e.pointerId!==P.id))return;
+  const p=P;P=null;stage.classList.remove('dragging');
+  if(p.moved||cancelled){
+    suppressUntil=performance.now()+SUPPRESS_MS;
+    if(p.axis==='x'){
+      // velocity from the last 100ms only: a finger that pauses before lifting lands exactly where it is
+      const now=performance.now(),s=p.samples.filter(q=>now-q[1]<=100);
+      let v=0;
+      if(s.length>=2){const a=s[0],b=s[s.length-1];v=(b[0]-a[0])/Math.max(1,b[1]-a[1])}
+      if(Math.abs(v)<0.35)v=0;                   // ignore slow drift
+      const flick=clamp(-(v*FLICK_MS)/PX_PER_CARD,-3,3);
+      setCursor(f+flick,true);
+    }else if(cancelled){setCursor(S.cur,false)}
+    return;                                      // a drag never selects
+  }
+  if(performance.now()-p.t0>TAP_MAX_MS)return;   // long press: ignore
+  if(!p.card)return;
+  const i=+p.card.dataset.idx;
+  if(i===S.cur)choose();
+  else setCursor(i,true);                        // tapping a side card only focuses it
+}
+stage.addEventListener('pointerup',e=>endGesture(e,false));
+stage.addEventListener('pointercancel',e=>endGesture(e,true));
+// A touch that starts on a card is implicitly captured by that card; stage.setPointerCapture() then transfers it,
+// which fires lostpointercapture on the card and bubbles here. Only a loss on the stage itself ends the gesture.
+stage.addEventListener('lostpointercapture',e=>{if(e.target===stage&&P&&e.pointerId===P.id)endGesture(e,true)});
+window.addEventListener('click',e=>{
+  if(e.detail>0&&performance.now()<suppressUntil){e.preventDefault();e.stopPropagation()}
+},true);
+stage.addEventListener('click',e=>{e.preventDefault()});   // pointer taps are handled above; ignore clicks here
+stage.addEventListener('wheel',e=>{
+  if(S.revealed||Math.abs(e.deltaX)<=Math.abs(e.deltaY))return;
+  e.preventDefault();wheelAcc+=e.deltaX;
+  if(Math.abs(wheelAcc)>=50){setCursor(S.cur+Math.sign(wheelAcc),true);wheelAcc=0}
+},{passive:false});
+
+/* ---------------- keyboard ---------------- */
+stage.addEventListener('keydown',e=>{
+  if(S.revealed)return;
+  const n=cardEls.length;let to=null;
+  switch(e.key){
+    case 'ArrowRight':case 'ArrowDown':to=S.cur+1;break;
+    case 'ArrowLeft':case 'ArrowUp':to=S.cur-1;break;
+    case 'Home':to=0;break;
+    case 'End':to=n-1;break;
+    case 'PageDown':to=S.cur+5;break;
+    case 'PageUp':to=S.cur-5;break;
+    case 'Enter':case ' ':e.preventDefault();if(!e.repeat)choose();return;
+    default:return;
+  }
+  e.preventDefault();setCursor(to,false);
+});
+document.addEventListener('keydown',e=>{
+  if((e.ctrlKey||e.metaKey)&&!e.shiftKey&&e.key.toLowerCase()==='z'&&!document.querySelector('dialog[open]')){e.preventDefault();undo()}
+});
+$('#dlgInspect').addEventListener('keydown',e=>{
+  if(e.key==='ArrowLeft'){e.preventDefault();inspectCard(inspectIndex-1)}
+  else if(e.key==='ArrowRight'){e.preventDefault();inspectCard(inspectIndex+1)}
+});
+
+/* ---------------- wiring ---------------- */
+const on=(id,fn,always)=>$(id).addEventListener('click',()=>{if(!always&&isDis($(id)))return;fn()});
+on('#bPrev',()=>setCursor(S.cur-1,true));
+on('#bNext',()=>setCursor(S.cur+1,true));
+on('#bSelect',choose);
+on('#bUndo',undo);
+on('#bReveal',askReveal,true);
+on('#bNew',()=>newReading(),true);
+on('#bShuffle',doShuffle);on('#bCut',openCut);
+$('#dBack').onclick=()=>{$('#dlgReveal').close();say('เก็บไพ่ที่เลือกไว้แล้ว ยังเปลี่ยนได้')};
+$('#dGo').onclick=reveal;
+$('#dCutCancel').onclick=()=>$('#dlgCut').close();
+on('#inspectPrev',()=>inspectCard(inspectIndex-1));on('#inspectNext',()=>inspectCard(inspectIndex+1));
+$('#inspectClose').onclick=()=>$('#dlgInspect').close();
+
+function syncControls(){
+  for(const k of ['count','motion']){const el=document.querySelector(`input[name="${k}"][value="${S[k]}"]`);if(el)el.checked=true}
+  const d=document.querySelector(`input[name="deck"][value="${deckIdx}"]`);if(d)d.checked=true;
+}
+document.querySelectorAll('input[type=radio]').forEach(inp=>inp.addEventListener('change',()=>{
+  if(inp.name==='count'){setCount(+inp.value);return}
+  if(inp.name==='deck'){setDeck(+inp.value);return}
+  S[inp.name]=inp.value;
+  document.documentElement.classList.toggle('rm',reduced());paint(f);
+}));
+mqRM.addEventListener?.('change',()=>document.documentElement.classList.toggle('rm',reduced()));
+let rz;addEventListener('resize',()=>{clearTimeout(rz);rz=setTimeout(()=>{paint(f);fitCeltic()},80)});
+
+syncControls();renderAll();
+}
+})();
 </script>
 </body>
 </html>
