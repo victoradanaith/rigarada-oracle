@@ -45,8 +45,10 @@ body{background:var(--bg);color:var(--ink);font:16px/1.4 system-ui,-apple-system
 .seg label{min-height:44px;min-width:56px;padding:0 12px;display:flex;align-items:center;justify-content:center;border-radius:9px;font-size:.9rem;font-weight:600;cursor:pointer}
 .seg input:checked+label{background:var(--accent);color:var(--accent-ink)}
 .seg input:focus-visible+label{outline:3px solid var(--focus)}
-#countSeg label{min-width:52px;padding:0 8px}
-@media(max-width:359px){.top{flex-wrap:wrap}.top #countSeg{margin-left:auto}}
+/* six reading sizes: the selector gets its own full-width row under the brand */
+.top{flex-wrap:wrap}
+.top #countSeg{flex:1 1 100%}
+#countSeg label{flex:1;min-width:0;padding:0 2px;font-size:.85rem;white-space:nowrap}
 
 /* deck switcher */
 .decks{display:flex;flex-wrap:wrap;gap:6px;border:0;padding:0;margin:10px 0 0}
@@ -75,9 +77,20 @@ body{background:var(--bg);color:var(--ink);font:16px/1.4 system-ui,-apple-system
 .tray.big.n10{grid-template-columns:repeat(2,minmax(0,1fr));gap:18px 12px}
 .tray.big.n10 .slot{width:100%}
 .tray.n10 .cardname{overflow-wrap:anywhere}
-/* while picking 10 cards, keep the tray compact so the whole panel stays on screen */
+/* while picking 6, 9 or 10 cards, keep the tray compact so the panel has room */
 .tray.n10:not(.big){grid-template-columns:repeat(5,minmax(0,44px));justify-content:center;gap:10px 14px}
-.tray.n10:not(.big) .slotname{display:none}
+.tray.n6:not(.big),.tray.n9:not(.big){display:grid;justify-content:center;gap:10px 14px}
+.tray.n6:not(.big){grid-template-columns:repeat(6,minmax(0,40px));gap:10px 10px}
+.tray.n9:not(.big){grid-template-columns:repeat(5,minmax(0,44px))}
+.tray.n6:not(.big) .slot,.tray.n9:not(.big) .slot{width:100%;min-width:0}
+.tray.n10:not(.big) .slotname,.tray.n6:not(.big) .slotname,.tray.n9:not(.big) .slotname{display:none}
+/* revealed 4, 6 and 9 cards: a grid sized by fitGrid() so every card fits on screen */
+.tray.big.n4,.tray.big.n6,.tray.big.n9{display:grid;justify-content:center;gap:8px 12px}
+.tray.big.n4{grid-template-columns:repeat(2,var(--slot-w,100px))}
+.tray.big.n6,.tray.big.n9{grid-template-columns:repeat(3,var(--slot-w,90px))}
+.tray.big.n4 .slot,.tray.big.n6 .slot,.tray.big.n9 .slot{width:var(--slot-w,90px)}
+.tray.big.n6 .cardname,.tray.big.n9 .cardname{font-size:.7rem;overflow-wrap:anywhere}
+.app:has(.tray.big.n4)>.decks,.app:has(.tray.big.n6)>.decks,.app:has(.tray.big.n9)>.decks{display:none}
 .app:has(.tray.celtic){max-width:none;height:100dvh;min-height:0;padding-top:8px}
 .app:has(.tray.celtic)>.top,.app:has(.tray.celtic)>.decks,.app:has(.tray.celtic)>.status,.app:has(.tray.celtic)>.spreadhelp,.app:has(.tray.celtic)>details,.app:has(.tray.celtic)>.foot{flex-shrink:0}
 .app:has(.tray.celtic)>.status{margin:8px 0}
@@ -139,7 +152,11 @@ body{background:var(--bg);color:var(--ink);font:16px/1.4 system-ui,-apple-system
 /* tap-to-pick panel: every face-down card in view at once, no sideways scrolling */
 .panelwrap{position:relative;margin:14px 0 4px}
 .panelhint{font-size:.85rem;color:var(--muted);margin:0 0 8px;text-align:center}
+/* the whole deck sits on the panel; it scrolls up and down once the cards are shuffled */
+.panelscroll{max-height:max(220px,calc(100dvh - 380px));overflow-y:auto;overscroll-behavior:contain;padding:6px 4px;margin:0 -4px;border-radius:10px;background:var(--accent-soft)}
+.panelscroll.locked{overflow:hidden}
 .panel{display:grid;grid-template-columns:repeat(10,minmax(0,1fr));gap:6px 4px;position:relative}
+.pcard.far{visibility:hidden}
 .pcard{all:unset;box-sizing:border-box;display:block;aspect-ratio:var(--ar);border-radius:5px;cursor:pointer;
   background:radial-gradient(circle at 50% 50%,transparent 0 16%,var(--back-line) 16% 19%,transparent 19%),repeating-linear-gradient(45deg,var(--back1) 0 3px,var(--back2) 3px 6px);
   box-shadow:inset 0 0 0 2px var(--back1),inset 0 0 0 3px var(--back-line),0 1px 3px rgba(0,0,0,.25);
@@ -206,6 +223,9 @@ dialog .row .btn{flex:1}
       <legend>จำนวนไพ่</legend>
       <input type="radio" name="count" id="c1" value="1"><label for="c1">1 ใบ</label>
       <input type="radio" name="count" id="c3" value="3"><label for="c3">3 ใบ</label>
+      <input type="radio" name="count" id="c4" value="4"><label for="c4">4 ใบ</label>
+      <input type="radio" name="count" id="c6" value="6"><label for="c6">6 ใบ</label>
+      <input type="radio" name="count" id="c9" value="9"><label for="c9">9 ใบ</label>
       <input type="radio" name="count" id="c10" value="10"><label for="c10">10 ใบ</label>
     </fieldset>
   </div>
@@ -223,7 +243,7 @@ dialog .row .btn{flex:1}
 
   <div class="panelwrap" id="panelWrap">
     <p class="panelhint" id="panelHint"></p>
-    <div class="panel" id="panel" role="group" aria-label="แผงไพ่คว่ำ" aria-describedby="panelHelp"></div>
+    <div class="panelscroll" id="panelScroll"><div class="panel" id="panel" role="group" aria-label="แผงไพ่คว่ำ" aria-describedby="panelHelp"></div></div>
     <button class="btn primary mixbtn" id="bMix" type="button">คลุกไพ่</button>
   </div>
   <p id="panelHelp" class="sr-only">ใช้ปุ่มลูกศรเลื่อนระหว่างไพ่ กด Enter หรือ Space เพื่อเลือกใบนั้น</p>
@@ -282,8 +302,11 @@ $('#gateForm').addEventListener('submit',e=>{
 
 function start(){
 let deckIdx=0,DECK=DECKS[0].cards,N=DECK.length;
-const COLS=10, PANEL_MAX=40;                 // the panel deals 40 face-down cards from the shuffled deck
-const POS={1:['ไพ่ของคุณ'],3:['อดีต','ปัจจุบัน','อนาคต'],10:Array.from({length:10},(_,i)=>`ใบที่ ${i+1}`)};
+const COLS=10, ANIM=60;                       // every card goes on the panel; only the first 60 are animated during a shuffle
+const COUNTS=[1,3,4,6,9,10];
+const POS={1:['ไพ่ของคุณ'],3:['อดีต','ปัจจุบัน','อนาคต']};
+for(const n of [4,6,9,10])POS[n]=Array.from({length:n},(_,i)=>`ใบที่ ${i+1}`);
+const GRID={4:[2,2],6:[3,2],9:[3,3]};        // revealed layout for 4/6/9 cards: [columns, rows]
 const CELTIC=['ปัจจุบัน','อุปสรรค','รากฐาน','อดีต','เป้าหมาย','อนาคตอันใกล้','ตัวตน','สิ่งรอบตัว','ความหวังและความกลัว','ผลลัพธ์'];
 const CONTEXT=['สถานการณ์ที่อยู่ตรงกลางของการอ่าน','สิ่งที่ขวางหรือท้าทายสถานการณ์','รากหรืออิทธิพลที่อยู่เบื้องลึก','พื้นหลังและอดีตที่เพิ่งผ่านมา','เป้าหมายหรือความเป็นไปได้ที่รู้ตัว','สิ่งที่กำลังจะเกิดต่อไป','มุมมองและวิธีรับมือของคุณ','ผู้คนและสภาพแวดล้อมรอบตัว','ความหวัง ความกลัว หรือความคาดหวัง','ทิศทางที่การวางไพ่ชี้ไป'];
 const positionLabel=i=>S.count===10?`${i+1} · ${CELTIC[i]}`:POS[S.count][i];
@@ -292,7 +315,8 @@ const mqRM=matchMedia('(prefers-reduced-motion: reduce)');
 const shuffled=a=>{a=a.slice();for(let i=a.length-1;i>0;i--){const j=Math.random()*(i+1)|0;[a[i],a[j]]=[a[j],a[i]]}return a};
 const faceLabel=id=>DECK[id].name_en?`${DECK[id].name_th} (${DECK[id].name_en})`:DECK[id].name_th;
 const rand=(a,b)=>a+Math.random()*(b-a);
-const panelSize=()=>Math.min(PANEL_MAX,N);
+const panelSize=()=>N;
+const scroller=$('#panelScroll');
 
 // Card identities live only in this closure; the DOM never carries them before reveal.
 // panel[i] is the card id dealt to panel position i, or null once it has been picked.
@@ -329,27 +353,41 @@ function setDeck(i){
 /* ---------------- panel rendering ---------------- */
 function cards(){return [...panel.querySelectorAll('.pcard')]}
 function buildPanel(){
-  panel.replaceChildren();
-  S.panel.forEach((id,i)=>{
-    const b=document.createElement('button');b.type='button';b.className='pcard'+(id===null?' taken':'');
-    b.dataset.i=i;b.tabIndex=-1;
+  let els=cards();
+  if(els.length!==S.panel.length){        // a new deck or a new deal: make the buttons once
+    panel.replaceChildren();
+    S.panel.forEach((_,i)=>{
+      const b=document.createElement('button');b.type='button';b.className='pcard';b.dataset.i=i;
+      b.onclick=()=>pick(i);panel.appendChild(b);
+    });
+    els=cards();
+  }
+  // Update in place, so the panel keeps its scroll position after every pick.
+  els.forEach((b,i)=>{
+    const taken=S.panel[i]===null;
+    b.classList.toggle('taken',taken);b.tabIndex=-1;
     b.setAttribute('aria-label',`ไพ่คว่ำใบที่ ${i+1} จาก ${S.panel.length}`);
-    if(id===null)b.setAttribute('aria-hidden','true');
-    b.onclick=()=>pick(i);
-    panel.appendChild(b);
+    if(taken)b.setAttribute('aria-hidden','true');else b.removeAttribute('aria-hidden');
   });
   const open=S.panel.map((id,i)=>id===null?-1:i).filter(i=>i>=0);
   if(!open.includes(S.cur))S.cur=open[0]??0;
-  const c=cards()[S.cur];if(c)c.tabIndex=0;
+  const c=els[S.cur];if(c)c.tabIndex=0;
   panel.classList.toggle('ready',S.mixed&&!S.revealed);
-  // The frame can arrive late (background tab), so re-check that the cards are still waiting to be shuffled.
-  if(!S.mixed)requestAnimationFrame(()=>{if(!S.mixed&&!S.revealed)pile(false)});
+  scroller.classList.toggle('locked',!S.mixed||S.busy);
+  if(!S.mixed){
+    scroller.scrollTop=0;markFar(true);
+    // The frame can arrive late (background tab), so re-check that the cards are still waiting to be shuffled.
+    requestAnimationFrame(()=>{if(!S.mixed&&!S.revealed)pile(false)});
+  }
 }
-// Gather every card into one face-down pile in the middle of the panel.
+// Only the first ANIM cards take part in the pile and shuffle animation; the rest wait hidden.
+function markFar(on){cards().forEach((el,i)=>el.classList.toggle('far',on&&i>=ANIM))}
+function animCards(){return cards().slice(0,ANIM)}
+// Gather the cards into one face-down pile in the middle of the visible panel.
 function pile(animate){
-  const els=cards(),pr=panel.getBoundingClientRect(),cx=pr.left+pr.width/2,cy=pr.top+pr.height/2;
+  const pr=scroller.getBoundingClientRect(),cx=pr.left+pr.width/2,cy=pr.top+Math.min(pr.height,260)/2;
   if(!animate)panel.classList.add('notrans');
-  els.forEach((el,k)=>{
+  animCards().forEach((el,k)=>{
     const r=el.getBoundingClientRect();
     el.style.transform=`translate(${(cx-r.left-r.width/2).toFixed(1)}px,${(cy-r.top-r.height/2).toFixed(1)}px) rotate(${rand(-8,8).toFixed(1)}deg)`;
     el.style.zIndex=String(k);
@@ -357,10 +395,10 @@ function pile(animate){
   if(!animate){void panel.offsetWidth;panel.classList.remove('notrans')}
 }
 function scatter(){
-  const pr=panel.getBoundingClientRect();
-  cards().forEach(el=>{
+  const pr=scroller.getBoundingClientRect(),bottom=pr.top+Math.min(pr.height,260);
+  animCards().forEach(el=>{
     const r=el.getBoundingClientRect();
-    const tx=rand(pr.left,pr.right-r.width)-r.left,ty=rand(pr.top,pr.bottom-r.height)-r.top;
+    const tx=rand(pr.left,pr.right-r.width)-r.left,ty=rand(pr.top,bottom-r.height)-r.top;
     el.style.transform=`translate(${tx.toFixed(1)}px,${ty.toFixed(1)}px) rotate(${rand(-40,40).toFixed(1)}deg)`;
     el.style.zIndex=String(Math.random()*100|0);
   });
@@ -376,7 +414,9 @@ function mix(){
   const generation=++mixGeneration;
   const wasPiled=!panel.classList.contains('ready')&&cards().length;
   renderStatus();renderPanelOnly(true);
-  const finish=()=>{if(generation!==mixGeneration)return;S.busy=false;spread();panel.classList.add('ready');renderStatus();
+  scroller.scrollTop=0;scroller.classList.add('locked');markFar(true);
+  const finish=()=>{if(generation!==mixGeneration)return;S.busy=false;markFar(false);spread();panel.classList.add('ready');
+    scroller.classList.remove('locked');renderStatus();
     const c=cards()[S.cur];c&&c.focus({preventScroll:true});say(`คลุกไพ่แล้ว แตะเลือกไพ่ได้เลย ${S.count} ใบ`)};
   if(reduced()){finish();return}
   if(!wasPiled)pile(true);
@@ -487,7 +527,7 @@ function nudge(){const t=$('#tray');t.classList.remove('nudge');void t.offsetWid
 /* ---------------- rendering ---------------- */
 function renderAll(){
   document.documentElement.classList.toggle('rm',reduced());
-  renderTray();renderPanelOnly(false);renderStatus();fitCeltic();
+  renderTray();renderPanelOnly(false);renderStatus();fitCeltic();fitGrid();
 }
 function renderPanelOnly(keepPile){
   $('#panelWrap').classList.toggle('locked',S.revealed);
@@ -503,6 +543,16 @@ function fitCeltic(){
   const label=tray.querySelector('.slotname'),extra=getComputedStyle(label).position==='absolute'?4:label.offsetHeight+8;
   const h=Math.max(12,Math.min(160,(r.width-24)/2.8,(r.height-4*extra-18)/4));
   tray.style.setProperty('--spread-h',h+'px');tray.style.setProperty('--spread-w',(h*.6)+'px');
+}
+// Revealed 4/6/9-card grids: size the cards from the space left on screen, the way fitCeltic sizes the Celtic Cross.
+function fitGrid(){
+  const g=GRID[S.count],tray=$('#tray');
+  if(!S.revealed||!g){tray.style.removeProperty('--slot-w');return}
+  const [cols,rows]=g,top=tray.getBoundingClientRect().top+scrollY;
+  const below=76+100;                                   // footer button, help line and the options row
+  const avail=innerHeight-top-below, perRow=48;         // position label, card name and gap per row
+  const byH=(avail-rows*perRow)/rows*0.6, byW=(tray.clientWidth-(cols-1)*12)/cols;
+  tray.style.setProperty('--slot-w',Math.max(48,Math.min(byH,byW,130))+'px');
 }
 function renderTray(){
   const ol=$('#tray');ol.innerHTML='';
@@ -528,7 +578,7 @@ function renderStatus(){
   document.title='RigaRada Oracle · '+DECKS[deckIdx].label;
   $('#headline').textContent=S.revealed?'กำลังเปิดไพ่…':!S.mixed?'คลุกไพ่ก่อนเลือก':S.busy?'กำลังคลุกไพ่…':left?`เลือกใบที่ ${n+1} จาก ${S.count}`:'กำลังเปิดไพ่…';
   $('#progress').innerHTML=`<b>เลือก ${n} จาก ${S.count}</b> · บนแผง ${onPanel} ใบ · ทั้งสำรับ ${N} ใบ`;
-  $('#panelHint').textContent=!S.mixed?`สับไพ่ทั้งสำรับ แล้ววางแผง ${panelSize()} ใบให้แตะเลือก`:'แตะไพ่ใบที่อยากได้';
+  $('#panelHint').textContent=!S.mixed?`สับไพ่ทั้งสำรับ แล้ววางไพ่ทั้ง ${N} ใบบนแผงให้แตะเลือก`:`แตะไพ่ใบที่อยากได้ · เลื่อนขึ้นลงเพื่อดูครบ ${onPanel} ใบ`;
   $('#bMix').hidden=S.mixed||S.revealed;
   $('#bUndo').hidden=S.revealed;setDis($('#bUndo'),!S.hist.length||S.busy);
   $('#bReshuffle').hidden=S.revealed||!S.mixed;setDis($('#bReshuffle'),S.busy);
@@ -581,7 +631,7 @@ document.querySelectorAll('input[type=radio]').forEach(inp=>inp.addEventListener
   document.documentElement.classList.toggle('rm',reduced());
 }));
 mqRM.addEventListener?.('change',()=>document.documentElement.classList.toggle('rm',reduced()));
-let rz;addEventListener('resize',()=>{clearTimeout(rz);rz=setTimeout(()=>{if(!S.mixed&&!S.revealed)pile(false);fitCeltic()},80)});
+let rz;addEventListener('resize',()=>{clearTimeout(rz);rz=setTimeout(()=>{if(!S.mixed&&!S.revealed)pile(false);fitCeltic();fitGrid()},80)});
 
 syncControls();newReading(false);
 }
