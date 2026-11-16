@@ -119,6 +119,7 @@ body{background:var(--bg);color:var(--ink);font:16px/1.4 system-ui,-apple-system
 .face{transform:rotateY(180deg);background:var(--surface);border:1px solid var(--line);box-shadow:inset 0 3px 0 var(--accent);container-type:size;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:6% 7%;gap:4%;overflow:hidden}
 .face b{font-size:clamp(7px,15cqw,20px);line-height:1.2;overflow-wrap:anywhere}
 .face i{font-size:clamp(6px,10cqw,13px);line-height:1.2;color:var(--muted);overflow-wrap:anywhere}
+.face small{font-size:clamp(6px,8.5cqw,11px);line-height:1.2;color:var(--accent);overflow-wrap:anywhere}
 .cardname{font-size:.75rem;font-weight:650;text-align:center;line-height:1.25;margin-top:3px}
 
 .x{position:absolute;top:-8px;right:-8px;width:26px;height:26px;border-radius:50%;background:var(--ink);color:var(--bg);display:grid;place-items:center;font-size:.75rem;font-weight:800;box-shadow:0 0 0 2px var(--bg)}
@@ -319,7 +320,7 @@ const positionLabel=i=>S.count===10?`${i+1} · ${CELTIC[i]}`:POS[S.count][i];
 const stage=$('#stage'), live=$('#live');
 const mqRM=matchMedia('(prefers-reduced-motion: reduce)');
 const shuffled=a=>{a=a.slice();for(let i=a.length-1;i>0;i--){const j=Math.random()*(i+1)|0;[a[i],a[j]]=[a[j],a[i]]}return a};
-const faceLabel=id=>`${DECK[id].name_th} (${DECK[id].name_en})`;
+const faceLabel=id=>DECK[id].name_en?`${DECK[id].name_th} (${DECK[id].name_en})`:DECK[id].name_th;
 const clamp=(v,a,b)=>Math.max(a,Math.min(b,v));
 
 // Card identities live only in this closure; the DOM never carries them before reveal.
@@ -504,8 +505,9 @@ function renderFace(li,id){
   const card=DECK[id],face=li.querySelector('.face');
   face.replaceChildren();face.dataset.cardId=card.id;
   const th=document.createElement('b');th.textContent=card.name_th;
-  const en=document.createElement('i');en.textContent=card.name_en;
-  face.append(th,en);
+  face.append(th);
+  if(card.name_en){const en=document.createElement('i');en.textContent=card.name_en;face.append(en)}
+  if(DECKS[deckIdx].showCat){const c=document.createElement('small');c.textContent=card.category;face.append(c)}
   const label=document.createElement('span');label.className='cardname';label.textContent=card.name_th;
   li.querySelector('.slotbtn').append(label);
 }
@@ -523,10 +525,12 @@ function inspectCard(i){
   inspectIndex=i;const card=DECK[S.slots[i]];
   $('#inspectTitle').textContent=positionLabel(i);
   $('#inspectMeaning').textContent=S.count===10?CONTEXT[i]:'';$('#inspectMeaning').hidden=S.count!==10;
-  $('#inspectId').textContent=card.id;$('#inspectTh').textContent=card.name_th;$('#inspectEn').textContent=card.name_en;
+  $('#inspectId').textContent=card.id;$('#inspectTh').textContent=card.name_th;
+  $('#inspectEn').textContent=card.name_en;$('#inspectEn').hidden=!card.name_en;
   $('#inspectName').textContent=faceLabel(S.slots[i]);
   const kw=$('#inspectKw');kw.replaceChildren(...card.keywords.map(k=>{const s=document.createElement('span');s.textContent=k;return s}));
-  $('#inspectText').textContent=card.meaning;
+  kw.hidden=!card.keywords.length;
+  $('#inspectText').textContent=card.meaning;$('#inspectText').hidden=!card.meaning;
   $('#inspectCat').textContent='หมวด: '+card.category;
   const multi=S.count>1;$('#inspectPrev').hidden=$('#inspectNext').hidden=!multi;
   setDis($('#inspectPrev'),i===0);setDis($('#inspectNext'),i===S.count-1||!isFlipped(i+1));

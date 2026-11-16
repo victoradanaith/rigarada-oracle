@@ -1,0 +1,54 @@
+# ภาคตะวันออกเฉียงเหนือ (Northeast)
+คอนเนตทิคัต|Connecticut|||
+เมน|Maine|||
+แมสซาชูเซตส์|Massachusetts|||
+นิวแฮมป์เชียร์|New Hampshire|||
+โรดไอแลนด์|Rhode Island|||
+เวอร์มอนต์|Vermont|||
+นิวเจอร์ซีย์|New Jersey|||
+นิวยอร์ก|New York|||
+เพนซิลเวเนีย|Pennsylvania|||
+# ภาคตะวันตกกลาง (Midwest)
+อิลลินอยส์|Illinois|||
+อินดีแอนา|Indiana|||
+มิชิแกน|Michigan|||
+โอไฮโอ|Ohio|||
+วิสคอนซิน|Wisconsin|||
+ไอโอวา|Iowa|||
+แคนซัส|Kansas|||
+มินนิโซตา|Minnesota|||
+มิสซูรี|Missouri|||
+เนแบรสกา|Nebraska|||
+นอร์ทดาโคตา|North Dakota|||
+เซาท์ดาโคตา|South Dakota|||
+# ภาคใต้ (South)
+เดลาแวร์|Delaware|||
+ฟลอริดา|Florida|||
+จอร์เจีย|Georgia|||
+แมริแลนด์|Maryland|||
+นอร์ทแคโรไลนา|North Carolina|||
+เซาท์แคโรไลนา|South Carolina|||
+เวอร์จิเนีย|Virginia|||
+เวสต์เวอร์จิเนีย|West Virginia|||
+แอละแบมา|Alabama|||
+เคนทักกี|Kentucky|||
+มิสซิสซิปปี|Mississippi|||
+เทนเนสซี|Tennessee|||
+อาร์คันซอ|Arkansas|||
+ลุยเซียนา|Louisiana|||
+โอคลาโฮมา|Oklahoma|||
+เท็กซัส|Texas|||
+# ภาคตะวันตก (West)
+แอริโซนา|Arizona|||
+โคโลราโด|Colorado|||
+ไอดาโฮ|Idaho|||
+มอนแทนา|Montana|||
+เนวาดา|Nevada|||
+นิวเม็กซิโก|New Mexico|||
+ยูทาห์|Utah|||
+ไวโอมิง|Wyoming|||
+อะแลสกา|Alaska|||
+แคลิฟอร์เนีย|California|||
+ฮาวาย|Hawaii|||
+ออริกอน|Oregon|||
+วอชิงตัน|Washington|||

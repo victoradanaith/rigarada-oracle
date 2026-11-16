@@ -1,0 +1,201 @@
+# แอฟริกา
+แอลจีเรีย|Algeria|||
+แองโกลา|Angola|||
+เบนิน|Benin|||
+บอตสวานา|Botswana|||
+บูร์กินาฟาโซ|Burkina Faso|||
+บุรุนดี|Burundi|||
+กาบูเวร์ดี|Cabo Verde|||
+แคเมอรูน|Cameroon|||
+สาธารณรัฐแอฟริกากลาง|Central African Republic|||
+ชาด|Chad|||
+คอโมโรส|Comoros|||
+สาธารณรัฐคองโก|Republic of the Congo|||
+สาธารณรัฐประชาธิปไตยคองโก|Democratic Republic of the Congo|||
+โกตดิวัวร์|Côte d'Ivoire|||
+จิบูตี|Djibouti|||
+อียิปต์|Egypt|||
+อิเควทอเรียลกินี|Equatorial Guinea|||
+เอริเทรีย|Eritrea|||
+เอสวาตีนี|Eswatini|||
+เอธิโอเปีย|Ethiopia|||
+กาบอง|Gabon|||
+แกมเบีย|Gambia|||
+กานา|Ghana|||
+กินี|Guinea|||
+กินี-บิสเซา|Guinea-Bissau|||
+เคนยา|Kenya|||
+เลโซโท|Lesotho|||
+ไลบีเรีย|Liberia|||
+ลิเบีย|Libya|||
+มาดากัสการ์|Madagascar|||
+มาลาวี|Malawi|||
+มาลี|Mali|||
+มอริเตเนีย|Mauritania|||
+มอริเชียส|Mauritius|||
+โมร็อกโก|Morocco|||
+โมซัมบิก|Mozambique|||
+นามิเบีย|Namibia|||
+ไนเจอร์|Niger|||
+ไนจีเรีย|Nigeria|||
+รวันดา|Rwanda|||
+เซาตูเมและปรินซิปี|São Tomé and Príncipe|||
+เซเนกัล|Senegal|||
+เซเชลส์|Seychelles|||
+เซียร์ราลีโอน|Sierra Leone|||
+โซมาเลีย|Somalia|||
+แอฟริกาใต้|South Africa|||
+เซาท์ซูดาน|South Sudan|||
+ซูดาน|Sudan|||
+แทนซาเนีย|Tanzania|||
+โตโก|Togo|||
+ตูนิเซีย|Tunisia|||
+ยูกันดา|Uganda|||
+แซมเบีย|Zambia|||
+ซิมบับเว|Zimbabwe|||
+# เอเชีย
+อัฟกานิสถาน|Afghanistan|||
+อาร์มีเนีย|Armenia|||
+อาเซอร์ไบจาน|Azerbaijan|||
+บาห์เรน|Bahrain|||
+บังกลาเทศ|Bangladesh|||
+ภูฏาน|Bhutan|||
+บรูไน|Brunei|||
+กัมพูชา|Cambodia|||
+จีน|China|||
+ไซปรัส|Cyprus|||
+จอร์เจีย|Georgia|||
+อินเดีย|India|||
+อินโดนีเซีย|Indonesia|||
+อิหร่าน|Iran|||
+อิรัก|Iraq|||
+อิสราเอล|Israel|||
+ญี่ปุ่น|Japan|||
+จอร์แดน|Jordan|||
+คาซัคสถาน|Kazakhstan|||
+คูเวต|Kuwait|||
+คีร์กีซสถาน|Kyrgyzstan|||
+ลาว|Laos|||
+เลบานอน|Lebanon|||
+มาเลเซีย|Malaysia|||
+มัลดีฟส์|Maldives|||
+มองโกเลีย|Mongolia|||
+เมียนมา|Myanmar|||
+เนปาล|Nepal|||
+เกาหลีเหนือ|North Korea|||
+โอมาน|Oman|||
+ปากีสถาน|Pakistan|||
+ปาเลสไตน์|Palestine|||
+ฟิลิปปินส์|Philippines|||
+กาตาร์|Qatar|||
+ซาอุดีอาระเบีย|Saudi Arabia|||
+สิงคโปร์|Singapore|||
+เกาหลีใต้|South Korea|||
+ศรีลังกา|Sri Lanka|||
+ซีเรีย|Syria|||
+ทาจิกิสถาน|Tajikistan|||
+ไทย|Thailand|||
+ติมอร์-เลสเต|Timor-Leste|||
+ตุรกี|Türkiye|||
+เติร์กเมนิสถาน|Turkmenistan|||
+สหรัฐอาหรับเอมิเรตส์|United Arab Emirates|||
+อุซเบกิสถาน|Uzbekistan|||
+เวียดนาม|Vietnam|||
+เยเมน|Yemen|||
+# ยุโรป
+แอลเบเนีย|Albania|||
+อันดอร์รา|Andorra|||
+ออสเตรีย|Austria|||
+เบลารุส|Belarus|||
+เบลเยียม|Belgium|||
+บอสเนียและเฮอร์เซโกวีนา|Bosnia and Herzegovina|||
+บัลแกเรีย|Bulgaria|||
+โครเอเชีย|Croatia|||
+เช็กเกีย|Czechia|||
+เดนมาร์ก|Denmark|||
+เอสโตเนีย|Estonia|||
+ฟินแลนด์|Finland|||
+ฝรั่งเศส|France|||
+เยอรมนี|Germany|||
+กรีซ|Greece|||
+ฮังการี|Hungary|||
+ไอซ์แลนด์|Iceland|||
+ไอร์แลนด์|Ireland|||
+อิตาลี|Italy|||
+ลัตเวีย|Latvia|||
+ลิกเตนสไตน์|Liechtenstein|||
+ลิทัวเนีย|Lithuania|||
+ลักเซมเบิร์ก|Luxembourg|||
+มอลตา|Malta|||
+มอลโดวา|Moldova|||
+โมนาโก|Monaco|||
+มอนเตเนโกร|Montenegro|||
+เนเธอร์แลนด์|Netherlands|||
+มาซิโดเนียเหนือ|North Macedonia|||
+นอร์เวย์|Norway|||
+โปแลนด์|Poland|||
+โปรตุเกส|Portugal|||
+โรมาเนีย|Romania|||
+รัสเซีย|Russia|||
+ซานมารีโน|San Marino|||
+เซอร์เบีย|Serbia|||
+สโลวาเกีย|Slovakia|||
+สโลวีเนีย|Slovenia|||
+สเปน|Spain|||
+สวีเดน|Sweden|||
+สวิตเซอร์แลนด์|Switzerland|||
+ยูเครน|Ukraine|||
+สหราชอาณาจักร|United Kingdom|||
+นครรัฐวาติกัน|Vatican City|||
+# อเมริกาเหนือ
+แอนติกาและบาร์บูดา|Antigua and Barbuda|||
+บาฮามาส|Bahamas|||
+บาร์เบโดส|Barbados|||
+เบลีซ|Belize|||
+แคนาดา|Canada|||
+คอสตาริกา|Costa Rica|||
+คิวบา|Cuba|||
+โดมินิกา|Dominica|||
+สาธารณรัฐโดมินิกัน|Dominican Republic|||
+เอลซัลวาดอร์|El Salvador|||
+เกรเนดา|Grenada|||
+กัวเตมาลา|Guatemala|||
+เฮติ|Haiti|||
+ฮอนดูรัส|Honduras|||
+จาเมกา|Jamaica|||
+เม็กซิโก|Mexico|||
+นิการากัว|Nicaragua|||
+ปานามา|Panama|||
+เซนต์คิตส์และเนวิส|Saint Kitts and Nevis|||
+เซนต์ลูเซีย|Saint Lucia|||
+เซนต์วินเซนต์และเกรนาดีนส์|Saint Vincent and the Grenadines|||
+ตรินิแดดและโตเบโก|Trinidad and Tobago|||
+สหรัฐอเมริกา|United States|||
+# อเมริกาใต้
+อาร์เจนตินา|Argentina|||
+โบลิเวีย|Bolivia|||
+บราซิล|Brazil|||
+ชิลี|Chile|||
+โคลอมเบีย|Colombia|||
+เอกวาดอร์|Ecuador|||
+กายอานา|Guyana|||
+ปารากวัย|Paraguay|||
+เปรู|Peru|||
+ซูรินาม|Suriname|||
+อุรุกวัย|Uruguay|||
+เวเนซุเอลา|Venezuela|||
+# โอเชียเนีย
+ออสเตรเลีย|Australia|||
+ฟิจิ|Fiji|||
+คิริบาส|Kiribati|||
+หมู่เกาะมาร์แชลล์|Marshall Islands|||
+ไมโครนีเซีย|Micronesia|||
+นาอูรู|Nauru|||
+นิวซีแลนด์|New Zealand|||
+ปาเลา|Palau|||
+ปาปัวนิวกินี|Papua New Guinea|||
+ซามัว|Samoa|||
+หมู่เกาะโซโลมอน|Solomon Islands|||
+ตองกา|Tonga|||
+ตูวาลู|Tuvalu|||
+วานูอาตู|Vanuatu|||

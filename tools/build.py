@@ -1,19 +1,27 @@
-"""Build index.html from data/ (5 decks) and tools/template.html.
+"""Build index.html from data/ (8 decks) and tools/template.html.
 
 Usage: python3 tools/build.py   (run from the repo root)
 """
 import json
+import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "data"
+sys.path.insert(0, str(ROOT / "tools"))
+from keywords import parse as parse_keywords, notes as keyword_notes  # noqa: E402
+
 FIELDS = ["id", "category", "name_th", "name_en", "keywords", "meaning", "image_concept"]
+# label, id prefix, Thai name, English name, source file, show category on the card face
 DECKS = [
-    ("US-TH", "USTH", "คนไทยในอเมริกา", "Thai Life in America", "us-th-draft01.json"),
-    ("Appearance", "LOOK", "รูปลักษณ์หน้าตา", "Appearance", "appearance-draft01.txt"),
-    ("Health", "HLTH", "สุขภาพและโรคภัย", "Health & Illness", "health-draft01.txt"),
-    ("Occupations", "WORK", "ชื่ออาชีพบนโลก", "Occupations of the World", "occupations-draft01.txt"),
-    ("Traits", "MIND", "นิสัยความคิดของคน", "Human Traits & Mindsets", "traits-draft01.txt"),
+    ("US-TH", "USTH", "คนไทยในอเมริกา", "Thai Life in America", "us-th-keywords-source.txt", False),
+    ("Appearance", "LOOK", "รูปลักษณ์หน้าตา", "Appearance", "appearance-draft01.txt", False),
+    ("Health", "HLTH", "สุขภาพและโรคภัย", "Health & Illness", "health-draft01.txt", False),
+    ("Occupations", "WORK", "ชื่ออาชีพบนโลก", "Occupations of the World", "occupations-draft01.txt", False),
+    ("Traits", "MIND", "นิสัยความคิดของคน", "Human Traits & Mindsets", "traits-draft01.txt", False),
+    ("US States", "STAT", "รัฐในอเมริกา", "US States", "us-states-draft01.txt", True),
+    ("Countries", "CTRY", "ประเทศทั่วโลก", "Countries of the World", "countries-draft01.txt", True),
+    ("Thai Provinces", "PROV", "จังหวัดในไทย", "Thai Provinces", "thai-provinces-draft01.txt", True),
 ]
 
 
@@ -32,21 +40,22 @@ def load_txt(path, prefix):
     return cards
 
 
-def load_sheet(path):
-    rows = json.loads(path.read_text(encoding="utf-8"))["values"][1:]
-    return [dict(zip(FIELDS, r)) for r in rows]
-
-
 decks = []
-for label, prefix, th, en, src in DECKS:
-    p = DATA / src
-    cards = load_sheet(p) if p.suffix == ".json" else load_txt(p, prefix)
+for label, prefix, th, en, src, show_cat in DECKS:
+    path = DATA / src
+    if src == "us-th-keywords-source.txt":
+        cards, dups = parse_keywords(path)
+        (DATA / "us-th-keywords-notes.md").write_text(keyword_notes(cards, dups), encoding="utf-8")
+    else:
+        cards = load_txt(path, prefix)
     for c in cards:
         c["keywords"] = [k.strip() for k in c["keywords"].split(",") if k.strip()]
-    assert len(cards) == 90, (label, len(cards))
-    assert len({c["id"] for c in cards}) == 90, label
-    decks.append({"label": label, "th": th, "en": en, "cards": cards})
-    print(f"{label}: {len(cards)} cards")
+    ids = [c["id"] for c in cards]
+    names = [c["name_th"] for c in cards]
+    assert cards and len(set(ids)) == len(ids), label
+    assert len(set(names)) == len(names), (label, sorted({n for n in names if names.count(n) > 1}))
+    decks.append({"label": label, "th": th, "en": en, "showCat": show_cat, "cards": cards})
+    print(f"{label}: {len(cards)} cards, {len({c['category'] for c in cards})} categories")
 
 js = json.dumps(decks, ensure_ascii=False, separators=(",", ":")).replace("</", "<\\/")
 tpl = (ROOT / "tools/template.html").read_text(encoding="utf-8")
