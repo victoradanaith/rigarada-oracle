@@ -15,12 +15,13 @@ A one-page viewer for the eight RigaRada oracle decks:
 
 Deck 1 uses the keyword list exactly as approved, with no meaning added. Exact duplicates were removed, and run-together words were split. Every change is listed in `data/us-th-keywords-notes.md`. Deck 6 has the 50 states (Washington, D.C. is not a state). Deck 7 has the 193 UN member states plus the two UN observer states, Vatican City and Palestine. Deck 8 has the 76 provinces plus Bangkok, in the six-region grouping.
 
-The layout is the same as the RigaRada tarot prototype (`rigarada-mobile-fan-v2.html`):
+How a reading works:
 
-- **Fan Arc.** Cards lie face down in a fan. Swipe to browse (a swipe never picks a card), and tap the centre card or press "เลือกใบนี้" to pick one card at a time.
-- **1, 3 or 10 cards.** The 10-card reading is laid out as a Celtic Cross: 1 in the centre, 2 across 1 (turned 90°), 3 below, 4 left, 5 above, 6 right, and 7–10 up the right-hand column from bottom to top. Every card is the same size and the layout fits the screen. On short screens, number badges replace the position names.
-- **Reveal and large view.** A confirmation dialog appears before cards are turned over. Tap any revealed card to see it large, with its keywords and meaning, and use Previous/Next to move between positions.
-- **Keyboard and motion.** Arrow keys, Home/End and PageUp/PageDown move through the fan. Enter or Space picks a card, Delete removes it, and Ctrl/⌘+Z undoes. The page follows `prefers-reduced-motion` by default, with a manual override under "ตัวเลือกเพิ่มเติม".
+- **Shuffle first.** Each reading starts with the cards in one face-down pile. Pressing "คลุกไพ่" shuffles the whole deck, mixes the cards on screen, and then lays out a panel of 40 face-down cards from the shuffled deck (10 columns × 4 rows, all on screen at once). "คลุกไพ่ใหม่" shuffles again at any point before the last pick.
+- **Tap to pick.** Tap any card on the panel to pick it; there is no sideways scrolling. Tap a picked card in the tray to put it back on the panel.
+- **1, 3 or 10 cards.** The cards turn over as soon as the last one is picked, with no confirmation step. The 10-card reading is laid out as a Celtic Cross: 1 in the centre, 2 across 1 (turned 90°), 3 below, 4 left, 5 above, 6 right, and 7–10 up the right-hand column from bottom to top. Every card is the same size and the layout fits the screen. On short screens, number badges replace the position names.
+- **Large view.** Tap any revealed card to see it large, with its keywords and meaning, and use Previous/Next to move between positions.
+- **Keyboard and motion.** Arrow keys and Home/End move between cards on the panel, and Enter or Space picks one. Delete removes a picked card, and Ctrl/⌘+Z undoes. The page follows `prefers-reduced-motion` by default, with a manual override under "ตัวเลือกเพิ่มเติม"; with reduced motion the shuffle happens without animation.
 
 Cards are text only, with no images. Each face shows the Thai name, the English name where there is one, and for decks 6–8 the region or continent. Switching decks starts a new reading with a freshly shuffled deck.
 
