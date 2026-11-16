@@ -1,0 +1,140 @@
+<!doctype html>
+<html lang="th">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>RigaRada Oracle</title>
+<style>
+:root{--bg:#f7f4ef;--surface:#fff;--ink:#22201c;--muted:#6b655c;--line:#e2dcd2;--accent:#7a4b2a;--accent-ink:#fff;--chip:#efe9df}
+@media (prefers-color-scheme:dark){:root{--bg:#171512;--surface:#221f1b;--ink:#eee8de;--muted:#a59d90;--line:#3a352e;--accent:#d9a77c;--accent-ink:#1a1510;--chip:#2d2924}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.55 system-ui,-apple-system,"Sukhumvit Set","Noto Sans Thai",sans-serif}
+button{font:inherit;color:inherit;cursor:pointer}
+.wrap{max-width:1100px;margin:0 auto;padding:16px}
+/* gate */
+#gate{min-height:100vh;display:grid;place-items:center;padding:16px}
+#gate form{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:28px 24px;width:100%;max-width:340px;text-align:center}
+#gate h1{margin:0 0 4px;font-size:1.3rem}
+#gate p{margin:0 0 18px;color:var(--muted);font-size:.9rem}
+#gate input{width:100%;font-size:1.4rem;letter-spacing:.4em;text-align:center;padding:10px;border:1px solid var(--line);border-radius:10px;background:var(--bg);color:var(--ink)}
+#gate button{margin-top:12px;width:100%;padding:10px;border:0;border-radius:10px;background:var(--accent);color:var(--accent-ink);font-weight:600}
+#gate .err{color:#c0392b;min-height:1.4em;margin:10px 0 0;font-size:.9rem}
+/* app */
+header h1{margin:8px 0 2px;font-size:1.4rem}
+header p{margin:0 0 14px;color:var(--muted);font-size:.9rem}
+.tabs{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:12px}
+.tabs button{border:1px solid var(--line);background:var(--surface);border-radius:999px;padding:8px 14px}
+.tabs button[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:var(--accent-ink);font-weight:600}
+.cats{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:12px}
+.cats button{border:0;background:var(--chip);border-radius:999px;padding:5px 11px;font-size:.85rem}
+.cats button[aria-pressed="true"]{outline:2px solid var(--accent)}
+.bar{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin-bottom:16px}
+.bar input{flex:1;min-width:0;padding:8px 12px;border:1px solid var(--line);border-radius:10px;background:var(--surface);color:var(--ink);font:inherit}
+.bar button{border:1px solid var(--accent);background:transparent;color:var(--accent);border-radius:10px;padding:8px 12px;font-weight:600}
+.count{color:var(--muted);font-size:.85rem;margin:0 0 10px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:12px}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:14px 16px;display:flex;flex-direction:column;gap:6px}
+.card.hl{outline:3px solid var(--accent)}
+.card .id{font-size:.75rem;color:var(--muted);display:flex;justify-content:space-between;gap:8px}
+.card h2{margin:0;font-size:1.1rem}
+.card .en{margin:0;color:var(--muted);font-style:italic;font-size:.9rem}
+.card .kw{display:flex;gap:4px;flex-wrap:wrap}
+.card .kw span{background:var(--chip);border-radius:6px;padding:1px 7px;font-size:.78rem}
+.card .meaning{margin:0}
+.card .concept{margin:0;color:var(--muted);font-size:.8rem}
+footer{color:var(--muted);font-size:.8rem;margin:24px 0 8px}
+[hidden]{display:none!important}
+</style>
+</head>
+<body>
+<div id="gate">
+  <form id="gateForm" autocomplete="off">
+    <h1>RigaRada Oracle</h1>
+    <p>ใส่รหัสเพื่อเข้าใช้</p>
+    <input id="code" type="password" inputmode="numeric" maxlength="8" aria-label="รหัส" autofocus>
+    <button type="submit">เข้าใช้</button>
+    <div class="err" id="err" role="alert"></div>
+  </form>
+</div>
+
+<div id="app" hidden>
+  <div class="wrap">
+    <header>
+      <h1 id="deckTitle"></h1>
+      <p id="deckSub"></p>
+    </header>
+    <nav class="tabs" id="tabs" aria-label="สำรับ"></nav>
+    <div class="cats" id="cats" aria-label="หมวด"></div>
+    <div class="bar">
+      <input id="q" type="search" placeholder="ค้นหาชื่อ คำหลัก หรือความหมาย" aria-label="ค้นหา">
+      <button id="draw" type="button">สุ่ม 1 ใบ</button>
+    </div>
+    <p class="count" id="count"></p>
+    <main class="grid" id="grid"></main>
+    <footer>Draft 01 · ข้อความเป็นแนวทางสะท้อนคิด ไม่ใช่การทำนายผล และไม่ใช่คำแนะนำทางการแพทย์ กฎหมาย หรือการเข้าเมือง</footer>
+  </div>
+</div>
+
+<script>
+const DECKS=/*DECKS*/;
+// Screen gate only, not protection: the code and every card are readable in this public file. See README.
+const CODE="2456";
+const KEY="rro-unlocked";
+const $=id=>document.getElementById(id);
+let deck=0,cat=null;
+
+function unlock(){$("gate").hidden=true;$("app").hidden=false;render();}
+try{if(sessionStorage.getItem(KEY)==="1")unlock();}catch(e){}
+$("gateForm").addEventListener("submit",e=>{
+  e.preventDefault();
+  if($("code").value.trim()===CODE){try{sessionStorage.setItem(KEY,"1");}catch(e){}unlock();}
+  else{$("err").textContent="รหัสไม่ถูกต้อง";$("code").value="";$("code").focus();}
+});
+
+function el(tag,cls,text){const n=document.createElement(tag);if(cls)n.className=cls;if(text!=null)n.textContent=text;return n;}
+
+function renderTabs(){
+  const t=$("tabs");t.replaceChildren();
+  DECKS.forEach((d,i)=>{const b=el("button",null,d.label);b.type="button";b.setAttribute("aria-pressed",i===deck);
+    b.onclick=()=>{deck=i;cat=null;$("q").value="";render();};t.append(b);});
+}
+function renderCats(){
+  const c=$("cats");c.replaceChildren();
+  const cats=[...new Set(DECKS[deck].cards.map(x=>x.category))];
+  [null,...cats].forEach(k=>{const b=el("button",null,k??"ทั้งหมด");b.type="button";b.setAttribute("aria-pressed",k===cat);
+    b.onclick=()=>{cat=k;renderCats();renderGrid();};c.append(b);});
+}
+function visible(){
+  const q=$("q").value.trim().toLowerCase();
+  return DECKS[deck].cards.filter(x=>(cat===null||x.category===cat)&&
+    (!q||[x.id,x.name_th,x.name_en,x.keywords.join(" "),x.meaning].join(" ").toLowerCase().includes(q)));
+}
+function card(x){
+  const a=el("article","card");a.id="c-"+x.id;
+  const top=el("div","id");top.append(el("span",null,x.id),el("span",null,x.category));
+  const kw=el("div","kw");x.keywords.forEach(k=>kw.append(el("span",null,k)));
+  a.append(top,el("h2",null,x.name_th),el("p","en",x.name_en),kw,el("p","meaning",x.meaning));
+  if(x.image_concept)a.append(el("p","concept","แนวคิดภาพ: "+x.image_concept));
+  return a;
+}
+function renderGrid(){
+  const list=visible(),g=$("grid");g.replaceChildren(...list.map(card));
+  $("count").textContent=`แสดง ${list.length} จาก ${DECKS[deck].cards.length} ใบ`;
+}
+function render(){
+  const d=DECKS[deck];$("deckTitle").textContent=d.th+" · "+d.en;
+  $("deckSub").textContent=`สำรับ ${deck+1} จาก ${DECKS.length} · ${d.cards.length} ใบ`;
+  document.title="RigaRada Oracle · "+d.label;
+  renderTabs();renderCats();renderGrid();
+}
+$("q").addEventListener("input",renderGrid);
+$("draw").addEventListener("click",()=>{
+  cat=null;$("q").value="";renderCats();renderGrid();
+  const cs=DECKS[deck].cards,x=cs[Math.floor(Math.random()*cs.length)];
+  document.querySelectorAll(".card.hl").forEach(n=>n.classList.remove("hl"));
+  const n=$("c-"+x.id);n.classList.add("hl");n.scrollIntoView({behavior:"smooth",block:"center"});
+});
+</script>
+</body>
+</html>
