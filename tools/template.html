@@ -86,10 +86,10 @@ body{background:var(--bg);color:var(--ink);font:16px/1.4 system-ui,-apple-system
 .tray.n10:not(.big) .slotname,.tray.n6:not(.big) .slotname,.tray.n9:not(.big) .slotname{display:none}
 /* revealed 4, 6 and 9 cards: a grid sized by fitGrid() so every card fits on screen */
 .tray.big.n4,.tray.big.n6,.tray.big.n9{display:grid;justify-content:center;gap:8px 12px}
-.tray.big.n4{grid-template-columns:repeat(2,var(--slot-w,100px))}
+.tray.big.n4{grid-template-columns:repeat(4,var(--slot-w,80px))}
 .tray.big.n6,.tray.big.n9{grid-template-columns:repeat(3,var(--slot-w,90px))}
 .tray.big.n4 .slot,.tray.big.n6 .slot,.tray.big.n9 .slot{width:var(--slot-w,90px)}
-.tray.big.n6 .cardname,.tray.big.n9 .cardname{font-size:.7rem;overflow-wrap:anywhere}
+.tray.big.n4 .cardname,.tray.big.n6 .cardname,.tray.big.n9 .cardname{font-size:.7rem;overflow-wrap:anywhere}
 .app:has(.tray.big.n4)>.decks,.app:has(.tray.big.n6)>.decks,.app:has(.tray.big.n9)>.decks{display:none}
 .app:has(.tray.celtic){max-width:none;height:100dvh;min-height:0;padding-top:8px}
 .app:has(.tray.celtic)>.top,.app:has(.tray.celtic)>.decks,.app:has(.tray.celtic)>.status,.app:has(.tray.celtic)>.spreadhelp,.app:has(.tray.celtic)>details,.app:has(.tray.celtic)>.foot{flex-shrink:0}
@@ -97,19 +97,19 @@ body{background:var(--bg);color:var(--ink);font:16px/1.4 system-ui,-apple-system
 .app:has(.tray.celtic)>details,.app:has(.tray.celtic)>.decks{display:none}
 .app:has(.tray.celtic) .foot{padding-top:6px}
 .app:has(.tray.celtic) .spreadhelp{margin:4px 0;font-size:.75rem}
-.tray.big.n10.celtic{flex:1;min-height:0;grid-template-columns:var(--spread-w) var(--spread-h) var(--spread-w) var(--spread-w);grid-template-rows:repeat(4,minmax(0,1fr));gap:6px 8px;justify-content:center;align-items:start}
+.tray.big.n10.celtic{flex:1;min-height:0;grid-template-columns:repeat(3,var(--spread-w)) var(--spread-w);grid-template-rows:repeat(4,minmax(0,1fr));gap:6px 8px;justify-content:center;align-items:start}
 .tray.big.n10.celtic .slot{width:var(--spread-w);justify-self:center;position:relative}
 .tray.celtic .cardname{display:none}
 .tray.celtic .slotname{font-size:.65rem;text-align:center;height:26px;line-height:1.2;display:flex;align-items:center;justify-content:center}
-.tray.celtic .slot:nth-child(1){grid-column:2;grid-row:2}
-.tray.celtic .slot:nth-child(2){grid-column:2;grid-row:2;align-self:center;z-index:2;transform:translateY(13px)}
 .tray.celtic .box{width:var(--spread-w);height:var(--spread-h);aspect-ratio:auto!important}
-.tray.celtic .slot:nth-child(2) .box{transform:rotate(90deg)}
-.tray.celtic .slot:nth-child(2) .slotname{position:absolute;top:50%;z-index:3;min-height:0;height:auto;padding:3px 5px;border-radius:5px;background:var(--accent);color:var(--accent-ink);white-space:nowrap;transform:translateY(-50%)}
-.tray.celtic .slot:nth-child(3){grid-column:2;grid-row:3}
-.tray.celtic .slot:nth-child(4){grid-column:1;grid-row:2}
-.tray.celtic .slot:nth-child(5){grid-column:2;grid-row:1}
-.tray.celtic .slot:nth-child(6){grid-column:3;grid-row:2}
+/* 10 cards laid flat, every face visible, no card across another (layout from RigaRada's reference image):
+   row 1: 10 at the right; row 2: 6 3 . 9; row 3: 2 1 4 8; row 4: . 5 . 7 */
+.tray.celtic .slot:nth-child(1){grid-column:2;grid-row:3}
+.tray.celtic .slot:nth-child(2){grid-column:1;grid-row:3}
+.tray.celtic .slot:nth-child(3){grid-column:2;grid-row:2}
+.tray.celtic .slot:nth-child(4){grid-column:3;grid-row:3}
+.tray.celtic .slot:nth-child(5){grid-column:2;grid-row:4}
+.tray.celtic .slot:nth-child(6){grid-column:1;grid-row:2}
 .tray.celtic .slot:nth-child(7){grid-column:4;grid-row:4}
 .tray.celtic .slot:nth-child(8){grid-column:4;grid-row:3}
 .tray.celtic .slot:nth-child(9){grid-column:4;grid-row:2}
@@ -117,7 +117,6 @@ body{background:var(--bg);color:var(--ink);font:16px/1.4 system-ui,-apple-system
 @media(max-height:600px){
   .tray.celtic .slotname{font-size:0;height:14px;width:14px;position:absolute;top:0;left:0;z-index:3;background:var(--surface);border-radius:3px}
   .tray.celtic .slotname::before{content:attr(data-position);font-size:.7rem}
-  .tray.celtic .slot:nth-child(2) .slotname{font-size:0}
   .app:has(.tray.celtic) .status{margin:4px 0}
   .app:has(.tray.celtic) .spreadhelp{font-size:.7rem}
 }
@@ -306,7 +305,7 @@ const COLS=10, ANIM=60;                       // every card goes on the panel; o
 const COUNTS=[1,3,4,6,9,10];
 const POS={1:['ไพ่ของคุณ'],3:['อดีต','ปัจจุบัน','อนาคต']};
 for(const n of [4,6,9,10])POS[n]=Array.from({length:n},(_,i)=>`ใบที่ ${i+1}`);
-const GRID={4:[2,2],6:[3,2],9:[3,3]};        // revealed layout for 4/6/9 cards: [columns, rows]
+const GRID={4:[4,1],6:[3,2],9:[3,3]};        // revealed layout for 4/6/9 cards: [columns, rows]
 const CELTIC=['ปัจจุบัน','อุปสรรค','รากฐาน','อดีต','เป้าหมาย','อนาคตอันใกล้','ตัวตน','สิ่งรอบตัว','ความหวังและความกลัว','ผลลัพธ์'];
 const CONTEXT=['สถานการณ์ที่อยู่ตรงกลางของการอ่าน','สิ่งที่ขวางหรือท้าทายสถานการณ์','รากหรืออิทธิพลที่อยู่เบื้องลึก','พื้นหลังและอดีตที่เพิ่งผ่านมา','เป้าหมายหรือความเป็นไปได้ที่รู้ตัว','สิ่งที่กำลังจะเกิดต่อไป','มุมมองและวิธีรับมือของคุณ','ผู้คนและสภาพแวดล้อมรอบตัว','ความหวัง ความกลัว หรือความคาดหวัง','ทิศทางที่การวางไพ่ชี้ไป'];
 const positionLabel=i=>S.count===10?`${i+1} · ${CELTIC[i]}`:POS[S.count][i];
@@ -541,7 +540,7 @@ function fitCeltic(){
   if(!S.revealed||S.count!==10)return;
   const tray=$('#tray'),r=tray.getBoundingClientRect();
   const label=tray.querySelector('.slotname'),extra=getComputedStyle(label).position==='absolute'?4:label.offsetHeight+8;
-  const h=Math.max(12,Math.min(160,(r.width-24)/2.8,(r.height-4*extra-18)/4));
+  const h=Math.max(12,Math.min(160,(r.width-24)/2.5,(r.height-4*extra-18)/4));
   tray.style.setProperty('--spread-h',h+'px');tray.style.setProperty('--spread-w',(h*.6)+'px');
 }
 // Revealed 4/6/9-card grids: size the cards from the space left on screen, the way fitCeltic sizes the Celtic Cross.
@@ -558,7 +557,7 @@ function renderTray(){
   const ol=$('#tray');ol.innerHTML='';
   ol.className='tray n'+S.count+(S.revealed?' big locked':'')+(S.revealed&&S.count===10?' celtic':'');
   $('#spreadHelp').hidden=!S.revealed;
-  $('#spreadHelp').textContent=S.count===10?'Celtic Cross · แตะตำแหน่งเพื่อดูไพ่ใบใหญ่':'แตะไพ่เพื่อดูใบใหญ่';
+  $('#spreadHelp').textContent=S.count===10?'วาง 10 ใบ · แตะไพ่เพื่อดูใบใหญ่':'แตะไพ่เพื่อดูใบใหญ่';
   S.slots.forEach((id,i)=>{
     const li=document.createElement('li');li.className='slot'+(id!==null?' filled':'');li.dataset.i=i;
     li.innerHTML=`<button class="slotbtn" type="button"><span class="slotname" aria-hidden="true">${POS[S.count][i]}</span>

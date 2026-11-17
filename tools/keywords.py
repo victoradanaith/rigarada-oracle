@@ -11,7 +11,7 @@ from pathlib import Path
 # Items that contain spaces and stay one card.
 PHRASES = [
     "TikTok เกอร์", "นักเทรด Forex", "work and travel", "โดน Pause", "มี House เมท",
-    "Friends With Benefits", "One Night Stand", "mass shooting", "ลงทุน Forex ได้",
+    "Friends With Benefits", "One Night Stand", "mass shooting", "ลงทุน Forex ได้", "คน ABC",
 ]
 
 # Items posted with no space between them, split into separate cards.

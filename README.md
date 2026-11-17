@@ -4,7 +4,7 @@ A one-page viewer for the eight RigaRada oracle decks:
 
 | # | Button | Deck | Cards | Card content |
 |---|---|---|---|---|
-| 1 | US-TH | คนไทยในอเมริกา · Thai Life in America | 565 | One keyword per card, 30 groups |
+| 1 | US-TH | คนไทยในอเมริกา · Thai Life in America | 605 | One keyword per card, 31 groups |
 | 2 | Appearance | รูปลักษณ์หน้าตา | 90 | Name, keywords, draft meaning |
 | 3 | Health | สุขภาพและโรคภัย | 90 | Name, keywords, draft meaning |
 | 4 | Occupations | ชื่ออาชีพบนโลก | 90 | Name, keywords, draft meaning |
@@ -13,13 +13,13 @@ A one-page viewer for the eight RigaRada oracle decks:
 | 7 | Countries | ประเทศทั่วโลก | 195 | Thai and English name, continent |
 | 8 | Thai Provinces | จังหวัดในไทย | 77 | Thai and English name, region |
 
-Deck 1 uses the keyword list exactly as approved, with no meaning added. Exact duplicates were removed, and run-together words were split. Every change is listed in `data/us-th-keywords-notes.md`. Deck 6 has the 50 states (Washington, D.C. is not a state). Deck 7 has the 193 UN member states plus the two UN observer states, Vatican City and Palestine. Deck 8 has the 76 provinces plus Bangkok, in the six-region grouping.
+Deck 1 uses the keyword list exactly as approved, plus the 41 extra Thai-US keywords requested later (group "Thai-US เพิ่มเติม"), with no meaning added. Exact duplicates were removed, and run-together words were split. Every change is listed in `data/us-th-keywords-notes.md`. Deck 6 has the 50 states (Washington, D.C. is not a state). Deck 7 has the 193 UN member states plus the two UN observer states, Vatican City and Palestine. Deck 8 has the 76 provinces plus Bangkok, in the six-region grouping.
 
 How a reading works:
 
-- **Shuffle first.** Each reading starts with the cards in one face-down pile. Pressing "คลุกไพ่" shuffles the whole deck and mixes the cards on screen, then lays out every card in the deck on the panel (565 for US-TH, 195 for Countries, and so on) in 10 columns. The panel scrolls up and down and keeps its place after each pick. "คลุกไพ่ใหม่" shuffles again at any point before the last pick.
+- **Shuffle first.** Each reading starts with the cards in one face-down pile. Pressing "คลุกไพ่" shuffles the whole deck and mixes the cards on screen, then lays out every card in the deck on the panel (605 for US-TH, 195 for Countries, and so on) in 10 columns. The panel scrolls up and down and keeps its place after each pick. "คลุกไพ่ใหม่" shuffles again at any point before the last pick.
 - **Tap to pick.** Tap any card on the panel to pick it; there is no sideways scrolling. Tap a picked card in the tray to put it back on the panel.
-- **1, 3, 4, 6, 9 or 10 cards.** The cards turn over as soon as the last one is picked, with no confirmation step. 1 card is "ไพ่ของคุณ" and 3 cards are past, present and future. 4, 6 and 9 cards are laid out as 2×2, 3×2 and 3×3 grids labelled ใบที่ 1, 2, 3 and so on, sized to fit the screen. The 10-card reading is laid out as a Celtic Cross: 1 in the centre, 2 across 1 (turned 90°), 3 below, 4 left, 5 above, 6 right, and 7–10 up the right-hand column from bottom to top. Every card is the same size and the layout fits the screen. On short screens, number badges replace the position names.
+- **1, 3, 4, 6, 9 or 10 cards.** The cards turn over as soon as the last one is picked, with no confirmation step. 1 card is "ไพ่ของคุณ" and 3 cards are past, present and future. 4 cards are laid out in one row, 6 cards as two rows of 3 and 9 cards as 3×3, labelled ใบที่ 1, 2, 3 and so on and sized to fit the screen. The 10-card reading is laid flat with every face showing and no card across another, following RigaRada's reference image: 1 in the centre, 2 to its left, 3 above it, 4 to its right, 5 below it, 6 above 2, and 7–10 up the right-hand column from bottom to top. Every card is the same size and the layout fits the screen. On short screens, number badges replace the position names.
 - **Large view.** Tap any revealed card to see it large, with its keywords and meaning, and use Previous/Next to move between positions.
 - **Keyboard and motion.** Arrow keys and Home/End move between cards on the panel, and Enter or Space picks one. Delete removes a picked card, and Ctrl/⌘+Z undoes. The page follows `prefers-reduced-motion` by default, with a manual override under "ตัวเลือกเพิ่มเติม"; with reduced motion the shuffle happens without animation.
 
