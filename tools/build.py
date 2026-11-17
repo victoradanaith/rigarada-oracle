@@ -1,4 +1,4 @@
-"""Build index.html from data/ (8 decks) and tools/template.html.
+"""Build index.html from data/ (9 decks) and tools/template.html.
 
 Usage: python3 tools/build.py   (run from the repo root)
 """
@@ -22,6 +22,7 @@ DECKS = [
     ("US States", "STAT", "รัฐในอเมริกา", "US States", "us-states-draft01.txt", True),
     ("Countries", "CTRY", "ประเทศทั่วโลก", "Countries of the World", "countries-draft01.txt", True),
     ("Thai Provinces", "PROV", "จังหวัดในไทย", "Thai Provinces", "thai-provinces-draft01.txt", True),
+    ("Prognosis", "PROG", "อาการและแนวโน้มสุขภาพ", "Health Outlook & Prognosis", "prognosis-draft01.txt", False),
 ]
 
 
