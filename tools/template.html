@@ -72,18 +72,20 @@ body{background:var(--bg);color:var(--ink);font:16px/1.4 system-ui,-apple-system
 .tray.n1 .slot{width:84px}
 .tray.big .slot{width:min(28vw,108px)}
 .tray.big.n1 .slot{width:140px}
-.tray.n10{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:10px 8px}
+.tray.n10{display:grid;gap:10px 8px}
 .tray.n10 .slot{width:100%;min-width:0}
 .tray.big.n10{grid-template-columns:repeat(2,minmax(0,1fr));gap:18px 12px}
 .tray.big.n10 .slot{width:100%}
 .tray.n10 .cardname{overflow-wrap:anywhere}
-/* while picking 6, 9 or 10 cards, keep the tray compact so the panel has room */
-.tray.n10:not(.big){grid-template-columns:repeat(5,minmax(0,44px));justify-content:center;gap:10px 14px}
-.tray.n6:not(.big),.tray.n9:not(.big){display:grid;justify-content:center;gap:10px 14px}
-.tray.n6:not(.big){grid-template-columns:repeat(6,minmax(0,40px));gap:10px 10px}
-.tray.n9:not(.big){grid-template-columns:repeat(5,minmax(0,44px))}
-.tray.n6:not(.big) .slot,.tray.n9:not(.big) .slot{width:100%;min-width:0}
-.tray.n10:not(.big) .slotname,.tray.n6:not(.big) .slotname,.tray.n9:not(.big) .slotname{display:none}
+/* while picking, the tray already has the shape of the reading (RigaRada's reference images):
+   4 in one row, 6 as 3+3, 9 as 3x3, 10 in the flat 10-card layout. Slots stay small so the panel has room. */
+.tray.n6:not(.big),.tray.n9:not(.big),.tray.n10:not(.big){display:grid;justify-content:center;gap:6px 10px}
+.tray.n6:not(.big),.tray.n9:not(.big){grid-template-columns:repeat(3,36px)}
+.tray.n10:not(.big){grid-template-columns:repeat(4,30px)}
+.tray.n6:not(.big) .slot,.tray.n9:not(.big) .slot,.tray.n10:not(.big) .slot{width:100%;min-width:0}
+.tray.n10:not(.big) .slotname,.tray.n6:not(.big) .slotname,.tray.n9:not(.big) .slotname,.tray.n10:not(.big) .cardname,.tray.n6:not(.big) .cardname,.tray.n9:not(.big) .cardname{display:none}
+.tray.n6:not(.big) .empty,.tray.n9:not(.big) .empty,.tray.n10:not(.big) .empty{font-size:.8rem}
+.tray.n6:not(.big) .x,.tray.n9:not(.big) .x,.tray.n10:not(.big) .x{width:20px;height:20px;top:-6px;right:-6px;font-size:.65rem}
 /* revealed 4, 6 and 9 cards: a grid sized by fitGrid() so every card fits on screen */
 .tray.big.n4,.tray.big.n6,.tray.big.n9{display:grid;justify-content:center;gap:8px 12px}
 .tray.big.n4{grid-template-columns:repeat(4,var(--slot-w,80px))}
@@ -104,16 +106,16 @@ body{background:var(--bg);color:var(--ink);font:16px/1.4 system-ui,-apple-system
 .tray.celtic .box{width:var(--spread-w);height:var(--spread-h);aspect-ratio:auto!important}
 /* 10 cards laid flat, every face visible, no card across another (layout from RigaRada's reference image):
    row 1: 10 at the right; row 2: 6 3 . 9; row 3: 2 1 4 8; row 4: . 5 . 7 */
-.tray.celtic .slot:nth-child(1){grid-column:2;grid-row:3}
-.tray.celtic .slot:nth-child(2){grid-column:1;grid-row:3}
-.tray.celtic .slot:nth-child(3){grid-column:2;grid-row:2}
-.tray.celtic .slot:nth-child(4){grid-column:3;grid-row:3}
-.tray.celtic .slot:nth-child(5){grid-column:2;grid-row:4}
-.tray.celtic .slot:nth-child(6){grid-column:1;grid-row:2}
-.tray.celtic .slot:nth-child(7){grid-column:4;grid-row:4}
-.tray.celtic .slot:nth-child(8){grid-column:4;grid-row:3}
-.tray.celtic .slot:nth-child(9){grid-column:4;grid-row:2}
-.tray.celtic .slot:nth-child(10){grid-column:4;grid-row:1}
+.tray.n10 .slot:nth-child(1){grid-column:2;grid-row:3}
+.tray.n10 .slot:nth-child(2){grid-column:1;grid-row:3}
+.tray.n10 .slot:nth-child(3){grid-column:2;grid-row:2}
+.tray.n10 .slot:nth-child(4){grid-column:3;grid-row:3}
+.tray.n10 .slot:nth-child(5){grid-column:2;grid-row:4}
+.tray.n10 .slot:nth-child(6){grid-column:1;grid-row:2}
+.tray.n10 .slot:nth-child(7){grid-column:4;grid-row:4}
+.tray.n10 .slot:nth-child(8){grid-column:4;grid-row:3}
+.tray.n10 .slot:nth-child(9){grid-column:4;grid-row:2}
+.tray.n10 .slot:nth-child(10){grid-column:4;grid-row:1}
 @media(max-height:600px){
   .tray.celtic .slotname{font-size:0;height:14px;width:14px;position:absolute;top:0;left:0;z-index:3;background:var(--surface);border-radius:3px}
   .tray.celtic .slotname::before{content:attr(data-position);font-size:.7rem}
@@ -144,7 +146,6 @@ body{background:var(--bg);color:var(--ink);font:16px/1.4 system-ui,-apple-system
 
 /* card back */
 .back{background:
-  radial-gradient(circle at 50% 50%,transparent 0 15%,var(--back-line) 15% 16.5%,transparent 16.5% 26%,var(--back-line) 26% 27%,transparent 27%),
   repeating-linear-gradient(45deg,var(--back1) 0 7px,var(--back2) 7px 14px);
   box-shadow:inset 0 0 0 4px var(--back1),inset 0 0 0 5px var(--back-line)}
 
@@ -157,7 +158,7 @@ body{background:var(--bg);color:var(--ink);font:16px/1.4 system-ui,-apple-system
 .panel{display:grid;grid-template-columns:repeat(10,minmax(0,1fr));gap:6px 4px;position:relative}
 .pcard.far{visibility:hidden}
 .pcard{all:unset;box-sizing:border-box;display:block;aspect-ratio:var(--ar);border-radius:5px;cursor:pointer;
-  background:radial-gradient(circle at 50% 50%,transparent 0 16%,var(--back-line) 16% 19%,transparent 19%),repeating-linear-gradient(45deg,var(--back1) 0 3px,var(--back2) 3px 6px);
+  background:repeating-linear-gradient(45deg,var(--back1) 0 3px,var(--back2) 3px 6px);
   box-shadow:inset 0 0 0 2px var(--back1),inset 0 0 0 3px var(--back-line),0 1px 3px rgba(0,0,0,.25);
   transition:transform .55s cubic-bezier(.2,.7,.2,1),box-shadow .15s}
 .pcard.taken{visibility:hidden}
@@ -243,7 +244,7 @@ dialog .row .btn{flex:1}
   <div class="panelwrap" id="panelWrap">
     <p class="panelhint" id="panelHint"></p>
     <div class="panelscroll" id="panelScroll"><div class="panel" id="panel" role="group" aria-label="แผงไพ่คว่ำ" aria-describedby="panelHelp"></div></div>
-    <button class="btn primary mixbtn" id="bMix" type="button">คลุกไพ่</button>
+    <button class="btn primary mixbtn" id="bMix" type="button">สับไพ่</button>
   </div>
   <p id="panelHelp" class="sr-only">ใช้ปุ่มลูกศรเลื่อนระหว่างไพ่ กด Enter หรือ Space เพื่อเลือกใบนั้น</p>
 
@@ -262,7 +263,7 @@ dialog .row .btn{flex:1}
 
   <div class="foot">
     <button class="btn" id="bUndo" type="button">ย้อนกลับ</button>
-    <button class="btn" id="bReshuffle" type="button">คลุกไพ่ใหม่</button>
+    <button class="btn" id="bReshuffle" type="button">สับไพ่ใหม่</button>
     <button class="btn primary" id="bNew" type="button" hidden>เริ่มใหม่</button>
   </div>
 </main>
@@ -346,7 +347,7 @@ function setDeck(i){
   deckIdx=i;DECK=DECKS[i].cards;N=DECK.length;
   if($('#dlgInspect').open)$('#dlgInspect').close();
   newReading(false);
-  say(`สำรับ ${DECKS[i].th} กดคลุกไพ่ก่อนเลือก`);
+  say(`สำรับ ${DECKS[i].th} กดสับไพ่ก่อนเลือก`);
 }
 
 /* ---------------- panel rendering ---------------- */
@@ -416,7 +417,7 @@ function mix(){
   scroller.scrollTop=0;scroller.classList.add('locked');markFar(true);
   const finish=()=>{if(generation!==mixGeneration)return;S.busy=false;markFar(false);spread();panel.classList.add('ready');
     scroller.classList.remove('locked');renderStatus();
-    const c=cards()[S.cur];c&&c.focus({preventScroll:true});say(`คลุกไพ่แล้ว แตะเลือกไพ่ได้เลย ${S.count} ใบ`)};
+    const c=cards()[S.cur];c&&c.focus({preventScroll:true});say(`สับไพ่แล้ว แตะเลือกไพ่ได้เลย ${S.count} ใบ`)};
   if(reduced()){finish();return}
   if(!wasPiled)pile(true);
   const steps=[()=>scatter(),()=>scatter(),()=>pile(true),()=>scatter(),()=>finish()];
@@ -501,7 +502,7 @@ function newReading(announce=true){
   S.revealed=false;S.busy=false;S.hist=[];S.mixed=false;S.cur=0;
   S.slots=Array(S.count).fill(null);S.from=Array(S.count).fill(null);
   S.panel=shuffled([...Array(N).keys()]).slice(0,panelSize());
-  renderAll();if(announce){$('#bMix').focus();say('เริ่มใหม่ กดคลุกไพ่ก่อนเลือก')}
+  renderAll();if(announce){$('#bMix').focus();say('เริ่มใหม่ กดสับไพ่ก่อนเลือก')}
 }
 let inspectIndex=0;
 const isFlipped=i=>!!document.querySelector(`.slot[data-i="${i}"].flipped`);
@@ -575,7 +576,7 @@ function renderStatus(){
   const n=chosen().length,left=S.count-n,onPanel=S.panel.filter(x=>x!==null).length;
   $('#deckName').textContent=`สำรับ ${deckIdx+1}/${DECKS.length} · ${DECKS[deckIdx].th} · ${DECKS[deckIdx].en}`;
   document.title='RigaRada Oracle · '+DECKS[deckIdx].label;
-  $('#headline').textContent=S.revealed?'กำลังเปิดไพ่…':!S.mixed?'คลุกไพ่ก่อนเลือก':S.busy?'กำลังคลุกไพ่…':left?`เลือกใบที่ ${n+1} จาก ${S.count}`:'กำลังเปิดไพ่…';
+  $('#headline').textContent=S.revealed?'กำลังเปิดไพ่…':!S.mixed?'สับไพ่ก่อนเลือก':S.busy?'กำลังสับไพ่…':left?`เลือกใบที่ ${n+1} จาก ${S.count}`:'กำลังเปิดไพ่…';
   $('#progress').innerHTML=`<b>เลือก ${n} จาก ${S.count}</b> · บนแผง ${onPanel} ใบ · ทั้งสำรับ ${N} ใบ`;
   $('#panelHint').textContent=!S.mixed?`สับไพ่ทั้งสำรับ แล้ววางไพ่ทั้ง ${N} ใบบนแผงให้แตะเลือก`:`แตะไพ่ใบที่อยากได้ · เลื่อนขึ้นลงเพื่อดูครบ ${onPanel} ใบ`;
   $('#bMix').hidden=S.mixed||S.revealed;

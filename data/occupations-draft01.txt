@@ -94,3 +94,225 @@
 ไกด์นำเที่ยว|The Tour Guide|นำทาง,เล่าเรื่อง|พาคนอื่นไปเห็นสิ่งที่คุณรัก|ธงเล็กกับแผนที่
 แม่บ้าน|The Housekeeper|ทำให้สะอาด,พื้นที่ใหม่|พื้นที่สะอาดทำให้ใจโล่ง|ไม้กวาดกับหน้าต่างใส
 นักบวช|The Monastic|ละวาง,ภาวนา|งานบางอย่างคือการดูแลใจ|บาตรกับดอกบัว
+
+# สุขภาพและการดูแล
+ศัลยแพทย์|The Surgeon|แม่นยำ,ตัดสินใจ||
+กุมารแพทย์|The Pediatrician|เด็ก,อ่อนโยน||
+สูติแพทย์|The Obstetrician|กำเนิด,ดูแลแม่||
+จิตแพทย์|The Psychiatrist|จิตใจ,สมดุล||
+วิสัญญีแพทย์|The Anesthesiologist|หลับ,เฝ้าระวัง||
+รังสีแพทย์|The Radiologist|มองทะลุ,ภาพข้างใน||
+จักษุแพทย์|The Ophthalmologist|มองชัด,ดวงตา||
+แพทย์ผิวหนัง|The Dermatologist|ผิว,สิ่งที่มองเห็น||
+แพทย์แผนจีน|The TCM Doctor|สมดุล,ชีพจร||
+แพทย์แผนไทย|The Thai Medicine Doctor|สมุนไพร,ภูมิปัญญา||
+นักเทคนิคการแพทย์|The Lab Technician|ตรวจ,ความจริงในเลือด||
+นักรังสีการแพทย์|The X-Ray Technician|ภาพ,ส่องลึก||
+ผู้ช่วยพยาบาล|The Nursing Assistant|ช่วยเหลือ,ใกล้ชิด||
+นักกิจกรรมบำบัด|The Occupational Therapist|กลับมาทำได้,ทีละขั้น||
+นักแก้ไขการพูด|The Speech Therapist|เสียง,สื่อสาร||
+นักทัศนมาตร|The Optometrist|ค่าสายตา,ปรับมุมมอง||
+นักกำหนดอาหาร|The Dietitian|อาหาร,วินัย||
+นักบำบัดยาเสพติด|The Addiction Counselor|ฟื้นฟู,ไม่ตัดสิน||
+นักให้คำปรึกษา|The Counselor|รับฟัง,ชี้ทาง||
+โค้ชชีวิต|The Life Coach|เป้าหมาย,ผลักดัน||
+เทรนเนอร์ฟิตเนส|The Fitness Trainer|วินัย,แข็งแรง||
+อาสาสมัครสาธารณสุข|The Village Health Volunteer|ชุมชน,ใกล้บ้าน||
+พนักงานเปล|The Hospital Porter|เคลื่อนย้าย,มองไม่เห็นแต่สำคัญ||
+คนดูแลเด็ก|The Nanny|เลี้ยงดู,อดทน||
+พี่เลี้ยงคนพิการ|The Disability Aide|ช่วยเหลือ,ศักดิ์ศรี||
+ผู้ดูแลผู้ป่วยระยะท้าย|The Hospice Worker|ส่งท้าย,สงบ||
+ล่ามทางการแพทย์|The Medical Interpreter|เชื่อมภาษา,ไว้ใจ||
+เจ้าหน้าที่สาธารณสุข|The Public Health Officer|ป้องกัน,ส่วนรวม||
+นักระบาดวิทยา|The Epidemiologist|ติดตาม,รูปแบบ||
+นักเภสัชวิทยา|The Pharmacologist|ยา,ทดลอง||
+ผู้แทนยา|The Pharma Rep|ขาย,ความรู้ยา||
+ช่างตัดขนสัตว์เลี้ยง|The Pet Groomer|สัตว์,ดูแล||
+หมอฟันจัดฟัน|The Orthodontist|จัดระเบียบ,อดทน||
+หมอนวดกดจุด|The Reflexologist|จุดพลัง,ผ่อนคลาย||
+พนักงานสปา|The Spa Therapist|ผ่อนคลาย,สัมผัส||
+
+# ความรู้และวิทยาศาสตร์
+นักฟิสิกส์|The Physicist|กฎธรรมชาติ,พลังงาน||
+นักเคมี|The Chemist|ผสม,เปลี่ยนแปลง||
+นักชีววิทยา|The Biologist|ชีวิต,วิวัฒนาการ||
+นักพันธุศาสตร์|The Geneticist|รหัส,สายเลือด||
+นักธรณีวิทยา|The Geologist|หิน,เวลานาน||
+นักอุตุนิยมวิทยา|The Meteorologist|พยากรณ์,ลมฟ้า||
+นักสมุทรศาสตร์|The Oceanographer|ทะเลลึก,กระแส||
+นักนิเวศวิทยา|The Ecologist|ระบบ,สมดุล||
+นักสัตววิทยา|The Zoologist|สัตว์,สังเกต||
+นักพฤกษศาสตร์|The Botanist|พืช,เติบโต||
+นักประสาทวิทยา|The Neuroscientist|สมอง,การเชื่อมต่อ||
+นักเศรษฐศาสตร์|The Economist|เงิน,ระบบ||
+นักสังคมวิทยา|The Sociologist|สังคม,พฤติกรรม||
+นักมานุษยวิทยา|The Anthropologist|วัฒนธรรม,มนุษย์||
+นักภาษาศาสตร์|The Linguist|ภาษา,รากคำ||
+นักสถิติ|The Statistician|ตัวเลข,ความน่าจะเป็น||
+นักวิทยาศาสตร์ข้อมูล|The Data Scientist|ข้อมูล,รูปแบบ||
+วิศวกรปัญญาประดิษฐ์|The AI Engineer|เครื่องจักรคิด,อนาคต||
+วิศวกรซอฟต์แวร์|The Software Engineer|ระบบ,ตรรกะ||
+นักพัฒนาเว็บ|The Web Developer|หน้าเว็บ,เชื่อมคน||
+นักออกแบบยูเอ็กซ์|The UX Designer|ผู้ใช้,ใช้ง่าย||
+ผู้เชี่ยวชาญความปลอดภัยไซเบอร์|The Cybersecurity Specialist|ป้องกัน,ระวังภัย||
+นักวิเคราะห์ระบบ|The Systems Analyst|โครงสร้าง,แก้ปัญหา||
+ไอทีซัพพอร์ต|The IT Support|ซ่อม,ช่วยเหลือ||
+วิศวกรโยธา|The Civil Engineer|สะพาน,โครงสร้าง||
+วิศวกรเครื่องกล|The Mechanical Engineer|เครื่องจักร,กลไก||
+วิศวกรเคมี|The Chemical Engineer|กระบวนการ,แปรรูป||
+วิศวกรการบิน|The Aerospace Engineer|บิน,ท้าทาย||
+นักวิจัย|The Researcher|ค้นคว้า,ตั้งคำถาม||
+ครูอนุบาล|The Kindergarten Teacher|เล่น,ปลูกฝัง||
+ครูสอนพิเศษ|The Tutor|ทีละคน,เติมเต็ม||
+ครูสอนภาษา|The Language Teacher|สื่อสาร,เปิดโลก||
+ครูสอนดนตรี|The Music Teacher|จังหวะ,ฝึกฝน||
+ผู้อำนวยการโรงเรียน|The School Principal|นำ,รับผิดชอบ||
+นักเขียนตำรา|The Textbook Author|ความรู้,ส่งต่อ||
+
+# ศิลปะและสื่อ
+นักวาดภาพประกอบ|The Illustrator|เล่าเรื่องด้วยภาพ,จินตนาการ||
+นักวาดการ์ตูน|The Cartoonist|ขำ,เสียดสี||
+แอนิเมเตอร์|The Animator|เคลื่อนไหว,ให้ชีวิต||
+กราฟิกดีไซเนอร์|The Graphic Designer|สื่อสาร,องค์ประกอบ||
+นักออกแบบภายใน|The Interior Designer|พื้นที่,บรรยากาศ||
+นักแต่งเพลง|The Songwriter|ถ่ายทอด,ความรู้สึก||
+ดีเจ|The DJ|จังหวะ,ปลุกบรรยากาศ||
+โปรดิวเซอร์เพลง|The Music Producer|เบื้องหลัง,ประกอบ||
+วาทยกร|The Conductor|นำวง,ประสาน||
+นักร้องลูกทุ่ง|The Luk Thung Singer|บ้านเกิด,ความรัก||
+นักร้องหมอลำ|The Mor Lam Singer|อีสาน,ม่วนซื่น||
+นักเต้นบัลเล่ต์|The Ballet Dancer|วินัย,สง่างาม||
+นักแสดงโขน|The Khon Performer|ประเพณี,ท่วงท่า||
+นักพากย์|The Voice Actor|เสียง,หลายบทบาท||
+พิธีกร|The Host|ดำเนินรายการ,เชื่อมคน||
+ผู้ประกาศข่าว|The News Anchor|น่าเชื่อถือ,ถ่ายทอด||
+ดีเจวิทยุ|The Radio Host|เสียง,เพื่อนยามดึก||
+พอดแคสเตอร์|The Podcaster|เล่าเรื่อง,ความเห็น||
+ยูทูบเบอร์|The YouTuber|สร้างเอง,ผู้ติดตาม||
+อินฟลูเอนเซอร์|The Influencer|ชักจูง,ภาพลักษณ์||
+นางแบบนายแบบ|The Model|ภาพลักษณ์,ถูกมอง||
+ช่างแต่งหน้า|The Makeup Artist|เปลี่ยนโฉม,รายละเอียด||
+สไตลิสต์|The Stylist|ลุค,รสนิยม||
+บรรณาธิการ|The Editor|คัดกรอง,ขัดเกลา||
+นักเขียนบท|The Screenwriter|เรื่องราว,โครงเรื่อง||
+นักเขียนนิยาย|The Novelist|โลกในหัว,อดทน||
+นักวิจารณ์|The Critic|ประเมิน,ความเห็น||
+ช่างตัดต่อ|The Video Editor|เรียง,จังหวะ||
+ตากล้อง|The Camera Operator|มุมมอง,จับภาพ||
+ช่างเซรามิก|The Potter|ปั้น,ดิน||
+นักมายากล|The Magician|ลวงตา,ประหลาดใจ||
+นักกายกรรม|The Acrobat|สมดุล,กล้าเสี่ยง||
+นักกีฬาอาชีพ|The Pro Athlete|แข่งขัน,ฝึกหนัก||
+นักมวยไทย|The Muay Thai Fighter|ใจสู้,วินัย||
+นักเล่นเกมอาชีพ|The Esports Player|แข่ง,ไว||
+
+# ช่างฝีมือและการสร้าง
+ช่างปูน|The Mason|ฐานราก,ก่อ||
+ช่างทาสี|The House Painter|เปลี่ยนสี,เก็บงาน||
+ช่างหลังคา|The Roofer|ปกป้อง,สูง||
+ช่างกระจก|The Glazier|โปร่งใส,ระวัง||
+ช่างแอร์|The HVAC Technician|อุณหภูมิ,ซ่อม||
+ช่างซ่อมมือถือ|The Phone Repairer|ละเอียด,แก้ไข||
+ช่างซ่อมคอมพิวเตอร์|The Computer Technician|ระบบ,แก้ปัญหา||
+ช่างซ่อมรองเท้า|The Cobbler|ซ่อมแซม,เดินต่อ||
+ช่างทำกุญแจ|The Locksmith|เปิด,ความปลอดภัย||
+ช่างเครื่องประดับ|The Jeweler|ประณีต,ค่า||
+ช่างเจียระไนพลอย|The Gem Cutter|เจียร,เปล่งประกาย||
+ช่างทำขนม|The Pastry Chef|หวาน,พิถีพิถัน||
+คนทำขนมปัง|The Baker|ตื่นเช้า,อบอุ่น||
+คนแล่เนื้อ|The Butcher|ตัดแบ่ง,ชำนาญ||
+ช่างสัก|The Tattoo Artist|ตราถาวร,เรื่องราว||
+ช่างทำผม|The Hairdresser|เปลี่ยนลุค,ฟังเรื่อง||
+ช่างต่อขนตา|The Lash Technician|ละเอียด,ความงาม||
+ช่างจักสาน|The Basket Weaver|สาน,ภูมิปัญญา||
+ช่างแกะไม้|The Woodcarver|ลวดลาย,อดทน||
+ช่างตีเหล็ก|The Blacksmith|ไฟ,หล่อหลอม||
+ช่างทำเครื่องดนตรี|The Instrument Maker|เสียง,ฝีมือ||
+ช่างเย็บผ้า|The Seamstress|ต่อเติม,ประณีต||
+ช่างพิมพ์|The Printer|ผลิตซ้ำ,เผยแพร่||
+ช่างเขียนป้าย|The Sign Painter|ประกาศ,สะดุดตา||
+ช่างภาพงานแต่ง|The Wedding Photographer|ช่วงเวลา,ความรัก||
+ช่างจัดดอกไม้|The Florist|ความงาม,ชั่วคราว||
+ช่างซ่อมจักรยาน|The Bike Mechanic|ล้อ,ไปต่อ||
+ช่างซ่อมเครื่องบิน|The Aircraft Mechanic|ความปลอดภัย,ละเอียด||
+ช่างต่อเรือ|The Shipbuilder|ออกทะเล,สร้างใหญ่||
+คนขับรถเครน|The Crane Operator|ยก,แม่นยำ||
+คนงานก่อสร้าง|The Construction Worker|แรงงาน,สร้างเมือง||
+ผู้รับเหมา|The Contractor|รับงาน,คุมงาน||
+นักออกแบบผลิตภัณฑ์|The Product Designer|ใช้งาน,รูปทรง||
+ช่างพิมพ์สามมิติ|The 3D Printing Maker|ต้นแบบ,เทคโนโลยี||
+วิศวกรหุ่นยนต์|The Robotics Engineer|เครื่องจักร,อนาคต||
+
+# ธุรกิจ กฎหมาย และการปกครอง
+ซีอีโอ|The CEO|ตัดสินใจ,ทิศทาง||
+นักลงทุน|The Investor|เสี่ยง,มองไกล||
+นักเทรดหุ้น|The Stock Trader|จังหวะ,ความกล้า||
+ที่ปรึกษาการเงิน|The Financial Advisor|วางแผน,มั่นคง||
+ตัวแทนประกัน|The Insurance Agent|คุ้มครอง,โน้มน้าว||
+นายหน้าอสังหาฯ|The Real Estate Agent|บ้าน,ต่อรอง||
+ฝ่ายบุคคล|The HR Officer|คน,จัดสรร||
+นักประชาสัมพันธ์|The PR Officer|ภาพลักษณ์,สื่อสาร||
+ผู้จัดการโครงการ|The Project Manager|ประสาน,ทันเวลา||
+ที่ปรึกษาธุรกิจ|The Business Consultant|วิเคราะห์,แนะนำ||
+พนักงานออฟฟิศ|The Office Worker|ประจำ,รูทีน||
+พนักงานคอลเซ็นเตอร์|The Call Center Agent|รับฟัง,อดทน||
+แคชเชียร์|The Cashier|นับเงิน,ซื่อตรง||
+เจ้าของร้านอาหาร|The Restaurant Owner|ลงทุน,ดูแลลูกค้า||
+แม่ค้าออนไลน์|The Online Seller|ไลฟ์,ปิดการขาย||
+พ่อค้าแม่ค้าตลาดนัด|The Market Vendor|ขยัน,คล่องตัว||
+นักธุรกิจสตาร์ทอัพ|The Startup Founder|นวัตกรรม,เสี่ยง||
+ผู้ตรวจสอบบัญชี|The Auditor|ตรวจ,ความโปร่งใส||
+เจ้าหน้าที่สรรพากร|The Tax Officer|ภาษี,กฎ||
+อัยการ|The Prosecutor|กล่าวหา,ความยุติธรรม||
+ทนายความด้านตรวจคนเข้าเมือง|The Immigration Lawyer|เอกสาร,สถานะ||
+นิติกร|The Legal Officer|ตีความ,ข้อกฎหมาย||
+นักสืบ|The Detective|ค้นหา,ความจริง||
+เจ้าหน้าที่ตรวจคนเข้าเมือง|The Immigration Officer|ด่าน,อนุญาต||
+เจ้าหน้าที่ศุลกากร|The Customs Officer|ตรวจของ,ชายแดน||
+ผู้คุมเรือนจำ|The Prison Guard|ควบคุม,เฝ้าระวัง||
+นักดับเพลิง|The Firefighter|กล้าหาญ,ช่วยชีวิต||
+เจ้าหน้าที่รักษาความปลอดภัย|The Security Guard|เฝ้า,ปกป้อง||
+ผู้ใหญ่บ้าน|The Village Head|ชุมชน,ไกล่เกลี่ย||
+ผู้ว่าราชการ|The Governor|ปกครอง,รับผิดชอบ||
+นายกรัฐมนตรี|The Prime Minister|นำประเทศ,แรงกดดัน||
+กงสุล|The Consul|ดูแลคนไทย,ต่างแดน||
+นักเคลื่อนไหว|The Activist|เปลี่ยนแปลง,เสียงดัง||
+พนักงานไปรษณีย์|The Postal Worker|ส่งต่อ,ตรงเวลา||
+เจ้าหน้าที่องค์กรการกุศล|The Nonprofit Worker|ช่วยเหลือ,ภารกิจ||
+
+# บริการ ธรรมชาติ และการเดินทาง
+บาร์เทนเดอร์|The Bartender|ผสม,รับฟัง||
+ซอมเมอลิเย่ร์|The Sommelier|รสชาติ,ละเอียด||
+พ่อครัวร้านไทยในอเมริกา|The Thai Restaurant Cook|รสบ้าน,ไกลบ้าน||
+พนักงานล้างจาน|The Dishwasher|เบื้องหลัง,อดทน||
+พนักงานโรงแรม|The Hotel Staff|ต้อนรับ,บริการ||
+พนักงานต้อนรับ|The Receptionist|ด่านแรก,ยิ้ม||
+แม่บ้านโรงแรม|The Room Attendant|สะอาด,มองไม่เห็นแต่สำคัญ||
+คนทำความสะอาด|The Cleaner|ชำระ,เริ่มใหม่||
+คนเก็บขยะ|The Garbage Collector|ทิ้ง,ทำให้เมืองสะอาด||
+คนขับแท็กซี่|The Taxi Driver|ถนน,พบคนมากมาย||
+คนขับวินมอเตอร์ไซค์|The Motorbike Taxi Rider|ลัด,ว่องไว||
+คนขับรถบรรทุก|The Truck Driver|ทางไกล,โดดเดี่ยว||
+คนขับรถเมล์|The Bus Driver|เส้นทาง,ตรงเวลา||
+พนักงานขับรถไฟ|The Train Driver|รางเดียว,มุ่งหน้า||
+กัปตันเรือ|The Ship Captain|นำทาง,รับผิดชอบ||
+กะลาสี|The Sailor|ทะเล,ผจญภัย||
+ไรเดอร์ส่งอาหาร|The Food Delivery Rider|เร่งรีบ,หาเลี้ยงชีพ||
+คนส่งพัสดุ|The Parcel Courier|ส่งต่อ,ทันเวลา||
+พนักงานคลังสินค้า|The Warehouse Worker|จัดเก็บ,แรงงาน||
+ชาวสวนผลไม้|The Orchard Farmer|ผล,รอคอย||
+ชาวไร่|The Field Farmer|ดิน,ฤดูกาล||
+คนกรีดยาง|The Rubber Tapper|ตื่นดึก,อดทน||
+คนเลี้ยงผึ้ง|The Beekeeper|หวาน,อดทน||
+คนเลี้ยงไก่|The Poultry Farmer|เช้าตรู่,เลี้ยงดู||
+ควาญช้าง|The Mahout|ผูกพัน,ช้าง||
+เจ้าหน้าที่ป่าไม้|The Forest Ranger|ปกป้อง,ป่า||
+นักอนุรักษ์|The Conservationist|รักษา,ธรรมชาติ||
+ครูสอนดำน้ำ|The Dive Instructor|ใต้ทะเล,ไว้ใจ||
+ไลฟ์การ์ด|The Lifeguard|เฝ้าดู,ช่วยชีวิต||
+พนักงานเกษตรในอเมริกา|The Farmworker in America|ไกลบ้าน,แรงงาน||
+พนักงานร้านนวดไทยในอเมริกา|The Thai Massage Worker Abroad|สองมือ,ส่งเงินกลับบ้าน||
+พนักงานคาสิโน|The Casino Dealer|โชค,กติกา||
+พนักงานร้านสะดวกซื้อ|The Convenience Store Clerk|ตลอดคืน,บริการ||
+คนรับจ้างทั่วไป|The Day Laborer|รายวัน,ไม่แน่นอน||
+นักเดินทางดิจิทัล|The Digital Nomad|อิสระ,ทำงานที่ไหนก็ได้||
