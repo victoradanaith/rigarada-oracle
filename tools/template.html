@@ -57,6 +57,10 @@ body{background:var(--bg);color:var(--ink);font:16px/1.4 system-ui,-apple-system
 .decks label{min-height:36px;padding:0 12px;display:flex;align-items:center;border:1px solid var(--line);background:var(--surface);border-radius:999px;font-size:.82rem;font-weight:600;cursor:pointer}
 .decks input:checked+label{background:var(--accent);border-color:var(--accent);color:var(--accent-ink)}
 .decks input:focus-visible+label{outline:3px solid var(--focus)}
+.catpick{display:flex;align-items:center;gap:8px;margin:8px 0 0;font-size:.85rem;font-weight:600}
+.catpick select{flex:1;min-width:0;min-height:40px;padding:0 10px;border:1px solid var(--line);border-radius:10px;background:var(--surface);color:inherit;font:inherit;font-weight:600}
+.catpick select:focus-visible{outline:3px solid var(--focus)}
+.app:has(.tray.big.n4)>.catpick,.app:has(.tray.big.n6)>.catpick,.app:has(.tray.big.n9)>.catpick,.app:has(.tray.celtic)>.catpick{display:none}
 
 .status{margin:14px 0 8px}
 .status h2{font-size:1.15rem;margin:0}
@@ -231,6 +235,7 @@ dialog .row .btn{flex:1}
   </div>
 
   <fieldset class="decks" id="deckSeg"><legend>สำรับ</legend></fieldset>
+  <label class="catpick" id="catPick" hidden>หมวด <select id="catSel"></select></label>
 
   <div class="status">
     <p class="deckname" id="deckName"></p>
@@ -301,7 +306,7 @@ $('#gateForm').addEventListener('submit',e=>{
 });
 
 function start(){
-let deckIdx=0,DECK=DECKS[0].cards,N=DECK.length;
+let deckIdx=0,catName='',DECK=DECKS[0].cards,N=DECK.length;
 const COLS=10, ANIM=60;                       // every card goes on the panel; only the first 60 are animated during a shuffle
 const COUNTS=[1,3,4,6,9,10];
 const POS={1:['ไพ่ของคุณ'],3:['อดีต','ปัจจุบัน','อนาคต']};
@@ -342,9 +347,27 @@ DECKS.forEach((d,i)=>{
   const lab=document.createElement('label');lab.htmlFor='d'+i;lab.textContent=d.label;lab.title=`${d.th} · ${d.en}`;
   deckSeg.append(inp,lab);
 });
+/* ---------------- category picker (decks with catPick: every card, or one category) ---------------- */
+const catSel=$('#catSel');
+function fillCats(){
+  const d=DECKS[deckIdx];$('#catPick').hidden=!d.catPick;catSel.replaceChildren();
+  if(!d.catPick)return;
+  const counts=new Map();d.cards.forEach(c=>counts.set(c.category,(counts.get(c.category)||0)+1));
+  const all=new Option(`ทุกหมวด (${d.cards.length} ใบ)`,'');catSel.append(all);
+  counts.forEach((n,c)=>catSel.append(new Option(`${c} (${n} ใบ)`,c)));
+  catSel.value=catName;
+}
+function setCat(c){
+  if(c===catName)return;
+  catName=c;const all=DECKS[deckIdx].cards;DECK=c?all.filter(x=>x.category===c):all;N=DECK.length;
+  if($('#dlgInspect').open)$('#dlgInspect').close();
+  newReading(false);
+  say(`${c?'หมวด '+c:'ทุกหมวด'} ${N} ใบ กดสับไพ่ก่อนเลือก`);
+}
+catSel.addEventListener('change',()=>setCat(catSel.value));
 function setDeck(i){
   if(i===deckIdx)return;
-  deckIdx=i;DECK=DECKS[i].cards;N=DECK.length;
+  deckIdx=i;catName='';DECK=DECKS[i].cards;N=DECK.length;fillCats();
   if($('#dlgInspect').open)$('#dlgInspect').close();
   newReading(false);
   say(`สำรับ ${DECKS[i].th} กดสับไพ่ก่อนเลือก`);
@@ -574,7 +597,7 @@ function renderTray(){
 }
 function renderStatus(){
   const n=chosen().length,left=S.count-n,onPanel=S.panel.filter(x=>x!==null).length;
-  $('#deckName').textContent=`สำรับ ${deckIdx+1}/${DECKS.length} · ${DECKS[deckIdx].th} · ${DECKS[deckIdx].en}`;
+  $('#deckName').textContent=`สำรับ ${deckIdx+1}/${DECKS.length} · ${DECKS[deckIdx].th} · ${DECKS[deckIdx].en}`+(catName?` · หมวด ${catName}`:'');
   document.title='RigaRada Oracle · '+DECKS[deckIdx].label;
   $('#headline').textContent=S.revealed?'กำลังเปิดไพ่…':!S.mixed?'สับไพ่ก่อนเลือก':S.busy?'กำลังสับไพ่…':left?`เลือกใบที่ ${n+1} จาก ${S.count}`:'กำลังเปิดไพ่…';
   $('#progress').innerHTML=`<b>เลือก ${n} จาก ${S.count}</b> · บนแผง ${onPanel} ใบ · ทั้งสำรับ ${N} ใบ`;
@@ -633,7 +656,7 @@ document.querySelectorAll('input[type=radio]').forEach(inp=>inp.addEventListener
 mqRM.addEventListener?.('change',()=>document.documentElement.classList.toggle('rm',reduced()));
 let rz;addEventListener('resize',()=>{clearTimeout(rz);rz=setTimeout(()=>{if(!S.mixed&&!S.revealed)pile(false);fitCeltic();fitGrid()},80)});
 
-syncControls();newReading(false);
+fillCats();syncControls();newReading(false);
 }
 })();
 </script>

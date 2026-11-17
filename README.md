@@ -1,6 +1,6 @@
 # RigaRada Oracle (Draft 01)
 
-A one-page viewer for the nine RigaRada oracle decks:
+A one-page viewer for the eleven RigaRada oracle decks:
 
 | # | Button | Deck | Cards | Card content |
 |---|---|---|---|---|
@@ -13,8 +13,18 @@ A one-page viewer for the nine RigaRada oracle decks:
 | 7 | Countries | ประเทศทั่วโลก | 195 | Thai and English name, continent |
 | 8 | Thai Provinces | จังหวัดในไทย | 77 | Thai and English name, region |
 | 9 | Prognosis | อาการและแนวโน้มสุขภาพ · Health Outlook & Prognosis | 300 | Thai and English name and two keywords, 6 groups of 50 |
+| 10 | Sacred World | สิ่งศักดิ์สิทธิ์ทั่วโลก · Sacred Figures & Places of the World | 500 | Thai and English name and two keywords, 9 groups |
+| 11 | Karma | วิบากกรรม · Karma Across Lifetimes | 500 | Thai and English name and two keywords, 9 groups |
 
-Deck 1 uses the keyword list exactly as approved, plus the 41 extra Thai-US keywords requested later (group "Thai-US เพิ่มเติม"), with no meaning added. Exact duplicates were removed, and run-together words were split. Every change is listed in `data/us-th-keywords-notes.md`. Decks 2–5 were extended from 90 to 300 cards each at RigaRada's request. The 210 new cards per deck (35 per group) are appended after the original 90, so the original IDs did not change, and they carry a Thai and English name and two keywords with no meaning yet. No name repeats within a deck. Deck 6 has the 50 states (Washington, D.C. is not a state). Deck 7 has the 193 UN member states plus the two UN observer states, Vatican City and Palestine. Deck 8 has the 76 provinces plus Bangkok, in the six-region grouping. Deck 9 is a separate deck RigaRada asked for on 17 Nov: words that describe how an illness goes rather than what it is (how fast it heals, how hard it is to treat, how severe it is, the outlook, the kind of care, and overall health). None of its names repeat a card in deck 3.
+Deck 1 uses the keyword list exactly as approved, plus the 41 extra Thai-US keywords requested later (group "Thai-US เพิ่มเติม"), with no meaning added. Exact duplicates were removed, and run-together words were split. Every change is listed in `data/us-th-keywords-notes.md`. Decks 2–5 were extended from 90 to 300 cards each at RigaRada's request. The 210 new cards per deck (35 per group) are appended after the original 90, so the original IDs did not change, and they carry a Thai and English name and two keywords with no meaning yet. No name repeats within a deck. Deck 6 has the 50 states (Washington, D.C. is not a state). Deck 7 has the 193 UN member states plus the two UN observer states, Vatican City and Palestine. Deck 8 has the 76 provinces plus Bangkok, in the six-region grouping. Deck 9 is a separate deck RigaRada asked for on 17 Nov: words that describe how an illness goes rather than what it is (how fast it heals, how hard it is to treat, how severe it is, the outlook, the kind of care, and overall health). None of its names repeat a card in deck 3. Deck 10 (requested 17 Nov, 21:16) covers founders, Buddhas and bodhisattvas, Hindu, Chinese, Japanese and Korean deities, saints and angels, spiritual teachers who have died, sacred images and objects, well-known belief systems, and sacred places outside Thailand. It includes every religion except Islam, and leaves out Thai figures and places, which belong to the separate Thai deck RigaRada asked for at 21:14. Deck 11 (21:25) describes karma from past and present lives, good and bad, across beliefs worldwide. Its cards are belief content for reflection, not statements of fact.
+
+## Category picker
+
+US-TH, Sacred World and Karma show a "หมวด" dropdown under the deck buttons: "ทุกหมวด" (every card, the default) or one category at a time, with its card count. Choosing a category starts a new reading from that category only. Which decks get the dropdown is set by `CAT_PICK` in `tools/build.py`.
+
+## Sheet export
+
+`python3 tools/build.py` also writes `data/sheet-export/<prefix>.tsv`, one row per card in the main sheet's column order (ID, category, Thai, English, keywords, meaning, image concept). The main Google Sheet can pull a deck with `=IMPORTDATA(".../data/sheet-export/<prefix>.tsv")`.
 
 How a reading works:
 

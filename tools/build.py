@@ -1,4 +1,4 @@
-"""Build index.html from data/ (9 decks) and tools/template.html.
+"""Build index.html from data/ (11 decks) and tools/template.html.
 
 Usage: python3 tools/build.py   (run from the repo root)
 """
@@ -23,7 +23,12 @@ DECKS = [
     ("Countries", "CTRY", "ประเทศทั่วโลก", "Countries of the World", "countries-draft01.txt", True),
     ("Thai Provinces", "PROV", "จังหวัดในไทย", "Thai Provinces", "thai-provinces-draft01.txt", True),
     ("Prognosis", "PROG", "อาการและแนวโน้มสุขภาพ", "Health Outlook & Prognosis", "prognosis-draft01.txt", False),
+    ("Sacred World", "SACR", "สิ่งศักดิ์สิทธิ์ทั่วโลก", "Sacred Figures & Places of the World", "sacred-world-draft01.txt", False),
+    ("Karma", "KARM", "วิบากกรรม", "Karma Across Lifetimes", "karma-draft01.txt", False),
 ]
+
+# decks that get a category dropdown (every card, or one category at a time)
+CAT_PICK = {"USTH", "SACR", "KARM"}
 
 
 def load_txt(path, prefix):
@@ -55,8 +60,19 @@ for label, prefix, th, en, src, show_cat in DECKS:
     names = [c["name_th"] for c in cards]
     assert cards and len(set(ids)) == len(ids), label
     assert len(set(names)) == len(names), (label, sorted({n for n in names if names.count(n) > 1}))
-    decks.append({"label": label, "th": th, "en": en, "showCat": show_cat, "cards": cards})
+    deck = {"label": label, "th": th, "en": en, "showCat": show_cat, "cards": cards}
+    if prefix in CAT_PICK:
+        deck["catPick"] = True
+    decks.append(deck)
     print(f"{label}: {len(cards)} cards, {len({c['category'] for c in cards})} categories")
+
+# one TSV per deck for the main Google Sheet (columns A-G), pulled in with IMPORTDATA
+EXPORT = DATA / "sheet-export"
+EXPORT.mkdir(exist_ok=True)
+for (label, prefix, *_), d in zip(DECKS, decks):
+    rows = ["\t".join([c["id"], c["category"] or "", c["name_th"], c["name_en"] or "", ",".join(c["keywords"]), c.get("meaning") or "", c.get("image_concept") or ""]) for c in d["cards"]]
+    assert not any("\t" in v for c in d["cards"] for v in (c["name_th"], c["name_en"] or "", c["category"] or ""))
+    (EXPORT / f"{prefix.lower()}.tsv").write_text("\n".join(rows) + "\n", encoding="utf-8")
 
 js = json.dumps(decks, ensure_ascii=False, separators=(",", ":")).replace("</", "<\\/")
 tpl = (ROOT / "tools/template.html").read_text(encoding="utf-8")
