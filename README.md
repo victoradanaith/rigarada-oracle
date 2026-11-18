@@ -49,9 +49,9 @@ This repo is **public**, and the page is published on GitHub Pages: https://vict
 
 Anyone on the internet can read everything here: the source files in `data/`, the full `index.html`, and the git history.
 
-## ⚠️ Code 2456 only hides the screen. It is not real protection
+## ⚠️ Code 59 only hides the screen. It is not real protection
 
-The page asks for code `2456` before it shows the cards, but that check runs in the browser. The code and every card are written in plain text inside `index.html`, and the repo is public. Anyone can read every card with View Source, from GitHub, or by downloading `data/`, without the code.
+The page asks for code `59` before it shows the cards, but that check runs in the browser. The code and every card are written in plain text inside `index.html`, and the repo is public. Anyone can read every card with View Source, from GitHub, or by downloading `data/`, without the code.
 
 The code only keeps casual visitors from seeing the cards straight away. Don't put anything in this repo that must stay secret.
 

@@ -299,7 +299,7 @@ const $=s=>document.querySelector(s);
 
 /* ---------------- access-code screen ----------------
    Screen gate only, not protection: the code and every card are readable in this public file. See README. */
-const CODE='2456',KEY='rro-unlocked';
+const CODE='59',KEY='rro-unlocked-59';
 let started=false;
 function unlock(){$('#gate').hidden=true;$('#app').hidden=false;if(!started){started=true;start()}}
 try{if(sessionStorage.getItem(KEY)==='1')unlock()}catch(_){}
