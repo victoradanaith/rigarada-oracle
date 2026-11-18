@@ -80,7 +80,6 @@ body{background:var(--bg);color:var(--ink);font:16px/1.4 system-ui,-apple-system
 .tray.n10 .slot{width:100%;min-width:0}
 .tray.big.n10{grid-template-columns:repeat(2,minmax(0,1fr));gap:18px 12px}
 .tray.big.n10 .slot{width:100%}
-.tray.n10 .cardname{overflow-wrap:anywhere}
 /* while picking, the tray already has the shape of the reading (RigaRada's reference images):
    4 in one row, 6 as 3+3, 9 as 3x3, 10 in the flat 10-card layout. Slots stay small so the panel has room. */
 .tray.n6:not(.big),.tray.n9:not(.big),.tray.n10:not(.big){display:grid;justify-content:center;gap:6px 10px}
@@ -95,7 +94,7 @@ body{background:var(--bg);color:var(--ink);font:16px/1.4 system-ui,-apple-system
 .tray.big.n4{grid-template-columns:repeat(4,var(--slot-w,80px))}
 .tray.big.n6,.tray.big.n9{grid-template-columns:repeat(3,var(--slot-w,90px))}
 .tray.big.n4 .slot,.tray.big.n6 .slot,.tray.big.n9 .slot{width:var(--slot-w,90px)}
-.tray.big.n4 .cardname,.tray.big.n6 .cardname,.tray.big.n9 .cardname{font-size:.7rem;overflow-wrap:anywhere}
+.tray.big.n4 .cardname,.tray.big.n6 .cardname,.tray.big.n9 .cardname{font-size:.7rem}
 .app:has(.tray.big.n4)>.decks,.app:has(.tray.big.n6)>.decks,.app:has(.tray.big.n9)>.decks{display:none}
 .app:has(.tray.celtic){max-width:none;height:100dvh;min-height:0;padding-top:8px}
 .app:has(.tray.celtic)>.top,.app:has(.tray.celtic)>.decks,.app:has(.tray.celtic)>.status,.app:has(.tray.celtic)>.spreadhelp,.app:has(.tray.celtic)>details,.app:has(.tray.celtic)>.foot{flex-shrink:0}
@@ -138,10 +137,15 @@ body{background:var(--bg);color:var(--ink);font:16px/1.4 system-ui,-apple-system
 .flip>span{position:absolute;inset:0;border-radius:var(--rad);backface-visibility:hidden;-webkit-backface-visibility:hidden}
 /* text-only face: every card the same size; text scales with the card */
 .face{transform:rotateY(180deg);background:var(--surface);border:1px solid var(--line);box-shadow:inset 0 3px 0 var(--accent);container-type:size;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:6% 7%;gap:4%;overflow:hidden}
-.face b{font-size:clamp(7px,15cqw,20px);line-height:1.2;overflow-wrap:anywhere}
+.face b{font-size:clamp(7px,15cqw,20px);line-height:1.2}
 .face i{font-size:clamp(6px,10cqw,13px);line-height:1.2;color:var(--muted);overflow-wrap:anywhere}
-.face small{font-size:clamp(6px,8.5cqw,11px);line-height:1.2;color:var(--accent);overflow-wrap:anywhere}
+.face small{font-size:clamp(6px,8.5cqw,11px);line-height:1.2;color:var(--accent)}
 .cardname{font-size:.75rem;font-weight:650;text-align:center;line-height:1.25;margin-top:3px}
+/* Thai names wrap only between words (Intl.Segmenter); fitNames() shrinks the text until the longest word fits */
+.w{white-space:nowrap}
+.tray.big.n4 .cardname,.tray.big.n6 .cardname,.tray.big.n9 .cardname,.tray.big.n10 .cardname{display:block;margin-left:-5px;margin-right:-5px}
+.cardname,.face b,.face small{text-wrap:balance}
+.brk,.brk .w{overflow-wrap:anywhere;white-space:normal}
 
 .x{position:absolute;top:-8px;right:-8px;width:26px;height:26px;border-radius:50%;background:var(--ink);color:var(--bg);display:grid;place-items:center;font-size:.75rem;font-weight:800;box-shadow:0 0 0 2px var(--bg)}
 .slot:not(.filled) .flip,.slot:not(.filled) .x,.slot.filled .empty,.locked .x{display:none}
@@ -513,13 +517,60 @@ function reveal(){
 function renderFace(li,id){
   const card=DECK[id],face=li.querySelector('.face');
   face.replaceChildren();face.dataset.cardId=card.id;
-  const th=document.createElement('b');th.textContent=card.name_th;
+  const th=document.createElement('b');setWords(th,card.name_th);
   face.append(th);
   if(card.name_en){const en=document.createElement('i');en.textContent=card.name_en;face.append(en)}
-  if(DECKS[deckIdx].showCat){const c=document.createElement('small');c.textContent=card.category;face.append(c)}
-  const label=document.createElement('span');label.className='cardname';label.textContent=card.name_th;
+  if(DECKS[deckIdx].showCat){const c=document.createElement('small');setWords(c,card.category);face.append(c)}
+  const label=document.createElement('span');label.className='cardname';setWords(label,card.name_th);
   li.querySelector('.slotbtn').append(label);
+  nameRO.observe(li);requestAnimationFrame(()=>fitNames(li));
 }
+const SEG=window.Intl&&Intl.Segmenter?new Intl.Segmenter('th',{granularity:'word'}):null;
+function setWords(el,text){
+  el.replaceChildren();
+  if(!SEG){el.textContent=text;return}
+  // words become unbreakable chunks; brackets and punctuation stick to the word next to them
+  const parts=[];let open='';
+  for(const {segment,isWordLike} of SEG.segment(text)){
+    if(/^\s+$/.test(segment)){parts.push(' ');continue}
+    if(!isWordLike&&/^[(\[“"']+$/.test(segment)){open+=segment;continue}
+    if(!isWordLike&&parts.length&&parts[parts.length-1]!==' '&&!/^[-–]$/.test(segment)){parts[parts.length-1]+=segment;continue}
+    parts.push(open+segment);open='';
+  }
+  if(open)parts.push(open);
+  // the browser's Thai dictionary misses rare words (อาสนวิหาร -> อาสน|วิ|หา|ร...): glue any piece
+  // with at most one Thai consonant onto its neighbour, so lines never break off a stray syllable
+  const cons=t=>(t.replace(/[ก-ฮ][ิุ]?์/g,'').match(/[ก-ฮ]/g)||[]).length; // silent letters (์) don't count
+  for(let i=parts.length-1;i>0;i--){ // a piece can't start with a following vowel or tone mark, or end with a leading vowel
+    if(parts[i]!==' '&&parts[i-1]!==' '&&(/^[ะาำิีึืุูั็่้๊๋์ๅ]/.test(parts[i])||/[เแโใไ]$/.test(parts[i-1]))){parts[i-1]+=parts[i];parts.splice(i,1)}
+  }
+  for(let i=0;i<parts.length;i++){
+    const t=parts[i];if(t===' '||!/[ก-๛]/.test(t)||cons(t)>1)continue;
+    if(parts[i+1]&&parts[i+1]!==' '){parts[i+1]=t+parts[i+1];parts.splice(i,1);i--}
+    else if(i>0&&parts[i-1]!==' '){parts[i-1]+=t;parts.splice(i,1);i--}
+  }
+  parts.forEach((t,i)=>{
+    if(t===' '){el.append(' ');return}
+    const w=document.createElement('span');w.className='w';w.textContent=t;el.append(w);
+    if(parts[i+1]&&parts[i+1]!==' ')el.append(document.createElement('wbr'));
+  });
+}
+function fitText(el,maxW){
+  el.style.fontSize='';el.classList.remove('brk');
+  const ws=[...el.querySelectorAll('.w')];
+  if(!ws.length||!maxW||!el.offsetParent)return;
+  const widest=()=>Math.max(...ws.map(w=>w.offsetWidth));
+  let fs=parseFloat(getComputedStyle(el).fontSize),i=0;const min=Math.max(6.5,fs*.7);
+  while(widest()>maxW&&fs>min&&i++<40){fs-=.5;el.style.fontSize=fs+'px'}
+  if(widest()>maxW)el.classList.add('brk');
+}
+function fitNames(li){
+  const face=li.querySelector('.face'),b=face&&face.querySelector('b'),lab=li.querySelector('.cardname');
+  if(b)fitText(b,face.clientWidth*.86);
+  const sm=face&&face.querySelector('small');if(sm)fitText(sm,face.clientWidth*.86);
+  if(lab)fitText(lab,lab.clientWidth||li.querySelector('.slotbtn').clientWidth);
+}
+const nameRO=new ResizeObserver(es=>es.forEach(e=>fitNames(e.target)));
 function newReading(announce=true){
   revealGeneration++;mixGeneration++;  // cancel callbacks from the reading being replaced
   S.revealed=false;S.busy=false;S.hist=[];S.mixed=false;S.cur=0;
