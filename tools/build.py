@@ -1,4 +1,4 @@
-"""Build index.html from data/ (11 decks) and tools/template.html.
+"""Build index.html from data/ (12 decks) and tools/template.html.
 
 Usage: python3 tools/build.py   (run from the repo root)
 """
@@ -25,10 +25,11 @@ DECKS = [
     ("Prognosis", "PROG", "อาการและแนวโน้มสุขภาพ", "Health Outlook & Prognosis", "prognosis-draft01.txt", False),
     ("Sacred World", "SACR", "สิ่งศักดิ์สิทธิ์ทั่วโลก", "Sacred Figures & Places of the World", "sacred-world-draft01.txt", False),
     ("Karma", "KARM", "วิบากกรรม", "Karma Across Lifetimes", "karma-draft01.txt", False),
+    ("Sacred Thailand", "THSC", "สิ่งศักดิ์สิทธิ์ในไทย", "Sacred Figures & Places of Thailand", "sacred-thailand-draft01.txt", False),
 ]
 
 # decks that get a category dropdown (every card, or one category at a time)
-CAT_PICK = {"USTH", "SACR", "KARM"}
+CAT_PICK = {"USTH", "SACR", "KARM", "THSC"}
 
 
 def load_txt(path, prefix):
