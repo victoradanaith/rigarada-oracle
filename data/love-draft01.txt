@@ -1,0 +1,1017 @@
+# สถานะความสัมพันธ์
+โสดสนิท|Completely single|โสด,อิสระ||
+โสดแต่มีคนคุย|Single but talking to someone|คนคุย,เริ่มต้น||
+คนคุยหลายคน|Talking to several people|ตัวเลือก,ไม่ผูกมัด||
+คนคุยที่ยังไม่ชัดเจน|An undefined talking stage|ไม่ชัดเจน,รอคำตอบ||
+แอบชอบข้างเดียว|A one-sided crush|แอบชอบ,ข้างเดียว||
+มีคนแอบชอบอยู่|Someone secretly likes you|แอบชอบ,ไม่รู้ตัว||
+ชอบกันแต่ยังไม่มีใครพูด|Mutual feelings, unspoken|ใจตรงกัน,ไม่กล้าพูด||
+เพื่อนที่มากกว่าเพื่อน|More than friends|เพื่อน,ก้ำกึ่ง||
+เพื่อนสนิทที่กลายเป็นแฟน|Best friends turned lovers|เพื่อนสนิท,เปลี่ยนสถานะ||
+เพิ่งเริ่มคบ|Just started dating|เริ่มคบ,ช่วงแรก||
+ช่วงโปรโมชั่น|The honeymoon phase|หวาน,ช่วงแรก||
+คบกันมานาน|A long relationship|มั่นคง,คุ้นเคย||
+แฟนที่ยังไม่เปิดตัว|A secret relationship|ไม่เปิดตัว,ความลับ||
+เปิดตัวกับครอบครัวแล้ว|Introduced to family|เปิดตัว,ครอบครัว||
+คบแบบไม่ผูกมัด|Casual, no strings|ไม่ผูกมัด,อิสระ||
+เพื่อนนอน|Friends with benefits|ไม่ผูกมัด,ร่างกาย||
+คบกันระยะไกล|Long distance|ระยะทาง,คิดถึง||
+คบต่างประเทศ|Dating across countries|ต่างประเทศ,ต่างเวลา||
+หมั้นแล้ว|Engaged|หมั้น,สัญญา||
+กำลังวางแผนแต่งงาน|Planning a wedding|แต่งงาน,วางแผน||
+แต่งงานแล้ว|Married|ชีวิตคู่,พันธะ||
+แต่งงานแต่ไม่จดทะเบียน|Married without registration|ไม่จดทะเบียน,ความเสี่ยง||
+จดทะเบียนแต่ไม่ได้จัดงาน|Registered without a ceremony|จดทะเบียน,เรียบง่าย||
+อยู่ด้วยกันโดยไม่แต่งงาน|Living together unmarried|อยู่ด้วยกัน,ไม่แต่ง||
+แยกกันอยู่ชั่วคราว|Temporarily separated|แยกกันอยู่,ทบทวน||
+กำลังหย่า|Going through divorce|หย่า,เปลี่ยนผ่าน||
+หย่าแล้ว|Divorced|หย่า,เริ่มใหม่||
+หม้ายเพราะคู่จากไป|Widowed|สูญเสีย,คิดถึง||
+เลิกกันแล้วแต่ยังคุยกัน|Broken up but still talking|แฟนเก่า,ค้างคา||
+แฟนเก่ากลับมาขอคืนดี|An ex wants to get back together|แฟนเก่า,คืนดี||
+รีเทิร์นกับแฟนเก่า|Back with an ex|รีเทิร์น,โอกาสที่สอง||
+ห่างกันสักพัก|Taking a break|พักความสัมพันธ์,ทบทวน||
+ทะเลาะกันอยู่|Currently fighting|ทะเลาะ,ตึงเครียด||
+คืนดีกันแล้ว|Made up|คืนดี,เข้าใจ||
+มีลูกด้วยกัน|Have children together|ลูก,ครอบครัว||
+เลี้ยงลูกคนเดียว|Single parent|ลูก,เข้มแข็ง||
+คู่ที่มีลูกติด|A partner with children|ลูกติด,ครอบครัวผสม||
+ครอบครัวผสม|A blended family|ครอบครัวผสม,ปรับตัว||
+คู่รักวัยเกษียณ|Love in retirement|บั้นปลาย,เพื่อนชีวิต||
+รักครั้งแรก|First love|รักแรก,ความทรงจำ||
+รักครั้งใหม่หลังเจ็บ|New love after hurt|เริ่มใหม่,เยียวยา||
+รักวัยเรียน|School-age love|วัยเรียน,ใสๆ||
+รักในที่ทำงาน|Office romance|ที่ทำงาน,ระวัง||
+รักจากแอปหาคู่|Love from a dating app|แอปหาคู่,ทำความรู้จัก||
+รักจากโซเชียล|Love from social media|ออนไลน์,ตรวจสอบ||
+รักแรกพบ|Love at first sight|แรกพบ,ประทับใจ||
+รักที่ค่อยๆ เป็นไป|Love that grows slowly|ค่อยเป็นค่อยไป,มั่นคง||
+ความสัมพันธ์เปิด|An open relationship|ข้อตกลง,ความยินยอม||
+ความสัมพันธ์ที่มีคนรักหลายคนโดยยินยอม|Consensual polyamory|ความยินยอม,ซื่อสัตย์||
+มีกิ๊ก|Seeing someone on the side|กิ๊ก,ความเสี่ยง||
+เป็นกิ๊กของคนอื่น|Being someone's side partner|ไม่เปิดเผย,ความเจ็บ||
+เป็นมือที่สาม|Being the third party|มือที่สาม,ทางเลือก||
+ถูกแอบคบซ้อน|Being two-timed|ถูกนอกใจ,ความจริง||
+คู่หมั้นที่ผู้ใหญ่จัดให้|An arranged match|คลุมถุงชน,ครอบครัว||
+คนที่พ่อแม่แนะนำ|Someone your parents suggest|ผู้ใหญ่,แนะนำ||
+แต่งเพื่อเอกสาร|A marriage for paperwork|เอกสาร,ความเสี่ยง||
+สถานะไม่ชัดว่าเป็นอะไรกัน|Unsure what you are|สถานะ,ต้องคุย||
+ยังไม่พร้อมมีแฟน|Not ready to date|ไม่พร้อม,ดูแลใจ||
+เลือกโสดเพื่อตัวเอง|Choosing to be single|โสด,เลือกเอง||
+รอใครบางคนอยู่|Waiting for someone|รอ,ความหวัง||
+ตามจีบอยู่|Pursuing someone|จีบ,ตั้งใจ||
+ถูกจีบอยู่|Being pursued|ถูกจีบ,ตัดสินใจ||
+จีบไม่ติด|The crush isn't working|จีบไม่ติด,ปล่อยวาง||
+ใกล้จะคบ|Almost together|ใกล้แล้ว,จังหวะ||
+คนรักที่จากไปแล้ว|A love who has passed away|สูญเสีย,ความทรงจำ||
+คนที่ยังลืมไม่ได้|Someone you can't forget|ลืมไม่ได้,ค้างคา||
+รักเก่าที่บังเอิญเจอ|Bumping into an old love|บังเอิญ,ความทรงจำ||
+เนื้อคู่ที่ยังไม่เจอ|A soulmate yet to meet|เนื้อคู่,อนาคต||
+เนื้อคู่อยู่ใกล้ตัว|Your soulmate is close by|เนื้อคู่,ใกล้ตัว||
+คู่ชีวิตที่จดทะเบียนสมรสเท่าเทียม|Registered under marriage equality|สมรสเท่าเทียม,สิทธิ||
+# เพศและรูปแบบความรักที่หลากหลาย
+ชายรักหญิง|A man and a woman|ชายหญิง,ความรัก||
+หญิงรักชาย|A woman loving a man|หญิงชาย,ความรัก||
+ชายรักชาย|Two men|เกย์,ความรัก||
+หญิงรักหญิง|Two women|เลสเบี้ยน,ความรัก||
+รักได้ทั้งสองเพศ|Bisexual love|ไบเซ็กชวล,ความรัก||
+รักที่ไม่ยึดติดเพศ|Pansexual love|แพนเซ็กชวล,ความรัก||
+คนข้ามเพศกับความรัก|Trans love|คนข้ามเพศ,ความรัก||
+คู่ที่เป็นนอนไบนารี|A non-binary partner|นอนไบนารี,ความรัก||
+คนที่ไม่รู้สึกดึงดูดทางเพศ|Asexual love|เอเซ็กชวล,ความรัก||
+รักแบบโรแมนติกโดยไม่เน้นเรื่องเพศ|Romantic without sex|โรแมนติก,ใจ||
+ยังสำรวจตัวตนทางเพศ|Still exploring your identity|สำรวจตัวตน,เวลา||
+เปิดตัวกับครอบครัว (Coming out)|Coming out to family|เปิดตัว,ความกล้า||
+ยังไม่เปิดตัวเรื่องเพศ|Not out yet|ยังไม่เปิดตัว,ปลอดภัย||
+ครอบครัวยอมรับ|Family accepts|ยอมรับ,อบอุ่น||
+ครอบครัวยังไม่ยอมรับ|Family doesn't accept yet|ไม่ยอมรับ,อดทน||
+สังคมรอบตัวไม่เข้าใจ|People around don't understand|สังคม,ภูมิคุ้มกันใจ||
+ได้สิทธิตามกฎหมายสมรสเท่าเทียม|Rights under marriage equality law|สมรสเท่าเทียม,กฎหมาย||
+อยากมีลูกในคู่เพศเดียวกัน|A same-sex couple wanting children|ลูก,ทางเลือก||
+รับบุตรบุญธรรม|Adopting|บุตรบุญธรรม,ครอบครัว||
+รักต่างวัยมาก|A big age gap|ต่างวัย,ความเข้าใจ||
+คู่รักอายุน้อยกว่า|A younger partner|อายุน้อยกว่า,พลัง||
+คู่รักอายุมากกว่า|An older partner|อายุมากกว่า,ประสบการณ์||
+รักวัยรุ่น|Teen love|วัยรุ่น,เรียนรู้||
+รักวัยทำงาน|Love in your working years|วัยทำงาน,จัดเวลา||
+รักวัยกลางคน|Midlife love|วัยกลางคน,มั่นคง||
+รักวัยเก๋า|Love later in life|วัยเก๋า,เพื่อนชีวิต||
+คนพิการกับความรัก|Love with disability|ความพิการ,ยอมรับ||
+รักคนที่ป่วยเรื้อรัง|Loving someone with chronic illness|ดูแล,อดทน||
+รักคนที่มีปัญหาสุขภาพจิต|Loving someone with mental illness|สุขภาพจิต,เข้าใจ||
+รักแบบเพื่อนชีวิต|Companionship|เพื่อนชีวิต,อบอุ่น||
+รักแบบหลงใหล|Passionate love|หลงใหล,ไฟ||
+รักแบบมั่นคง|Steady love|มั่นคง,ไว้ใจ||
+รักแบบให้อิสระ|Love that gives freedom|อิสระ,เคารพ||
+รักแบบครอบครองสูง|Possessive love|หวง,ขอบเขต||
+รักแบบพ่อแม่ลูก|Parental-style love|ดูแล,ไม่เท่ากัน||
+รักแบบเพื่อน|Friendly love|เพื่อน,สบายใจ||
+รักตัวเองก่อน|Love yourself first|รักตัวเอง,ฐานใจ||
+รักที่ต้องแอบซ่อน|A love you must hide|แอบซ่อน,ความกดดัน||
+รักที่สังคมไม่ยอมรับ|A love society rejects|สังคม,ความกล้า||
+รักที่ศาสนาไม่ยอมรับ|A love your religion rejects|ศาสนา,ทางเลือก||
+รักออนไลน์ที่ไม่เคยเจอตัว|Online love, never met|ออนไลน์,ตรวจสอบ||
+รักที่เกิดจากการช่วยเหลือ|Love born from helping|ช่วยเหลือ,บุญคุณ||
+รักที่เกิดจากความเหงา|Love born from loneliness|เหงา,ทบทวน||
+รักแบบสามเศร้า|A love triangle|สามเส้า,ทางเลือก||
+รักพี่น้องเพื่อน|Loving a friend's sibling|คนใกล้ตัว,ระวัง||
+รักเพื่อนของแฟนเก่า|Loving your ex's friend|แฟนเก่า,ซับซ้อน||
+รักคนในวงการเดียวกัน|Loving someone in your field|อาชีพ,เข้าใจกัน||
+รักคนต่างสายอาชีพ|Loving someone in a different field|ต่างอาชีพ,เรียนรู้||
+รักคนดัง|Loving someone famous|คนดัง,ความเป็นส่วนตัว||
+รักครูหรือหัวหน้า|Falling for a teacher or boss|อำนาจ,ระวัง||
+รักลูกค้า|Falling for a client|ลูกค้า,ขอบเขต||
+รักคนที่มีเจ้าของแล้ว|Loving someone taken|มีเจ้าของ,ถอย||
+รักคนที่ไม่รักใคร|Loving someone who won't love|ข้างเดียว,ปล่อยวาง||
+รักคนที่เคยทำร้าย|Loving someone who hurt you|เจ็บ,ระวัง||
+รักคนที่ช่วยให้เราโต|A love that helps you grow|เติบโต,สนับสนุน||
+รักที่เหมือนพรหมลิขิต|A love that feels destined|พรหมลิขิต,ผูกพัน||
+รักที่ต้องเลือกระหว่างงาน|Love versus career|งาน,เลือก||
+รักที่ต้องเลือกระหว่างครอบครัว|Love versus family|ครอบครัว,เลือก||
+รักที่ต้องย้ายประเทศ|A love that means moving abroad|ย้ายประเทศ,เสียสละ||
+รักที่ทำให้กลายเป็นคนดีขึ้น|A love that makes you better|ดีขึ้น,แรงบันดาลใจ||
+# ความสมหวังในความรัก
+สมหวังในความรัก|Love works out|สมหวัง,ยินดี||
+ได้คบกับคนที่ชอบ|Dating the one you like|สมหวัง,ใจตรงกัน||
+เขาชอบกลับ|They like you back|ใจตรงกัน,ตอบรับ||
+ได้รับคำบอกรัก|Hearing "I love you"|บอกรัก,อบอุ่น||
+ได้รับการขอแต่งงาน|A proposal|ขอแต่งงาน,ก้าวใหม่||
+ได้แต่งงานกับคนที่รัก|Marrying the one you love|แต่งงาน,สมหวัง||
+ครอบครัวทั้งสองฝ่ายยินดี|Both families are happy|ครอบครัว,ยอมรับ||
+ได้คืนดีกับคนที่รัก|Reconciling with your love|คืนดี,โอกาส||
+ความสัมพันธ์ไปต่อได้ดี|The relationship moves forward well|ราบรื่น,ก้าวหน้า||
+คู่เข้าใจกันมากขึ้น|Understanding each other more|เข้าใจ,ใกล้ชิด||
+ได้เจอเนื้อคู่|Meeting your soulmate|เนื้อคู่,พรหมลิขิต||
+เจอคนที่ใช่ในเวลาที่ใช่|Right person, right time|จังหวะ,ลงตัว||
+มีคนจริงใจเข้ามา|A sincere person arrives|จริงใจ,มั่นคง||
+คนรักทำให้รู้สึกปลอดภัย|Your partner makes you feel safe|ปลอดภัย,ไว้ใจ||
+ได้ใช้ชีวิตด้วยกัน|Building a life together|ชีวิตคู่,ร่วมทาง||
+ย้ายมาอยู่ด้วยกัน|Moving in together|อยู่ด้วยกัน,ก้าวใหม่||
+ได้บ้านหลังแรกด้วยกัน|A first home together|บ้าน,อนาคต||
+มีลูกตามที่หวัง|Children as hoped|ลูก,ครอบครัว||
+ได้วีซ่าคู่รักผ่าน|A partner visa approved|วีซ่า,สมหวัง||
+ระยะไกลได้กลับมาอยู่ใกล้|Long distance ends|ใกล้กัน,สมหวัง||
+ผ่านช่วงวิกฤตไปด้วยกัน|Through a crisis together|ผ่านพ้น,แข็งแรง||
+ฉลองครบรอบอย่างมีความสุข|A happy anniversary|ครบรอบ,ความทรงจำ||
+ได้ไปเที่ยวด้วยกัน|A trip together|เที่ยว,ความสุข||
+ได้รับของขวัญจากใจ|A heartfelt gift|ของขวัญ,ใส่ใจ||
+ได้รับคำขอโทษที่รอ|The apology you waited for|ขอโทษ,เยียวยา||
+ความรักทำให้งานดีขึ้น|Love lifts your work|สนับสนุน,พลัง||
+คนรักสนับสนุนความฝัน|Your partner backs your dream|สนับสนุน,ความฝัน||
+คนรักดูแลยามป่วย|Cared for when sick|ดูแล,อบอุ่น||
+ได้รักแบบเปิดเผย|Loving openly|เปิดเผย,ภูมิใจ||
+คนรอบตัวยอมรับคู่ของเรา|Others accept your partner|ยอมรับ,สังคม||
+ความรักครั้งนี้ยั่งยืน|This love lasts|ยั่งยืน,มั่นคง||
+รักแท้ที่รอมานาน|A true love long awaited|รักแท้,รอคอย||
+ได้รู้ใจกันโดยไม่ต้องพูด|Knowing each other without words|รู้ใจ,ผูกพัน||
+เข้าขากันเรื่องเงิน|In sync about money|การเงิน,ลงตัว||
+เข้าขากันเรื่องอนาคต|In sync about the future|อนาคต,ลงตัว||
+เข้ากับครอบครัวคู่ได้ดี|Get on with their family|ครอบครัว,ยอมรับ||
+ได้รับการยอมรับจากลูกของคู่|Accepted by your partner's children|ลูกติด,ยอมรับ||
+มีความสุขกับความโสด|Happy being single|โสด,ความสุข||
+หลุดจากความสัมพันธ์ที่ไม่ดีได้|Free from a bad relationship|หลุดพ้น,โล่ง||
+พบรักใหม่ที่ดีกว่า|A better new love|รักใหม่,ดีกว่า||
+คนที่ชอบมาสารภาพรัก|Your crush confesses|สารภาพ,สมหวัง||
+จีบติด|The pursuit works|จีบติด,ยินดี||
+นัดเดตครั้งแรกราบรื่น|A smooth first date|เดต,ประทับใจ||
+มีพรหมลิขิตพาให้เจอกัน|Fate brings you together|พรหมลิขิต,บังเอิญ||
+ผู้ใหญ่ช่วยจับคู่ได้ดี|An elder makes a good match|ผู้ใหญ่,จับคู่||
+ได้คนรักที่นิสัยดี|A kind partner|นิสัยดี,โชคดี||
+ได้คนรักที่มีฐานะ|A well-off partner|ฐานะ,มั่นคง||
+ได้คนรักที่ทำงานหนักเพื่ออนาคต|A partner who works for your future|ขยัน,อนาคต||
+ได้คนรักที่ซื่อสัตย์|A faithful partner|ซื่อสัตย์,ไว้ใจ||
+รักกันมากขึ้นหลังทะเลาะ|Closer after a fight|ทะเลาะ,เข้าใจ||
+ได้งานแต่งตามฝัน|The wedding you dreamed of|งานแต่ง,สมหวัง||
+ได้เปิดใจคุยเรื่องสำคัญ|An honest talk about big things|เปิดใจ,ชัดเจน||
+ได้รับความไว้ใจคืน|Trust regained|ไว้ใจ,ฟื้นฟู||
+ความรักช่วยเยียวยาแผลเก่า|Love heals an old wound|เยียวยา,อ่อนโยน||
+ได้รักคนที่รักเราเท่ากัน|Loved as much as you love|เท่ากัน,สมดุล||
+คู่ยอมปรับเพื่อเรา|Your partner adapts for you|ปรับตัว,ใส่ใจ||
+ได้ใช้ชีวิตบั้นปลายด้วยกัน|Growing old together|บั้นปลาย,ยั่งยืน||
+มีคนรอที่บ้าน|Someone waiting at home|อบอุ่น,บ้าน||
+รักนี้มีคนอวยพร|A love with blessings|อวยพร,มงคล||
+ได้ความรักจากที่ไม่คาดคิด|Love from where you least expected|ไม่คาดคิด,ลาภ||
+# ความผิดหวังและการเลิกรา
+ผิดหวังในความรัก|Let down in love|ผิดหวัง,เยียวยา||
+ถูกปฏิเสธ|Rejected|ปฏิเสธ,ก้าวต่อ||
+อกหัก|Heartbroken|อกหัก,เวลา||
+ถูกบอกเลิก|Being broken up with|ถูกบอกเลิก,ยอมรับ||
+เป็นฝ่ายบอกเลิก|Ending it yourself|บอกเลิก,ตัดสินใจ||
+เลิกกันด้วยดี|An amicable breakup|เลิกด้วยดี,เคารพ||
+เลิกกันแบบมีปัญหา|A messy breakup|ขัดแย้ง,ระวัง||
+ถูกนอกใจ|Cheated on|นอกใจ,ความจริง||
+ถูกหลอก|Deceived|ถูกหลอก,บทเรียน||
+ถูกหลอกเงินจากความรัก|A romance scam|ถูกหลอกเงิน,ระวัง||
+ถูกเท|Ghosted|ถูกเท,ปล่อย||
+ถูกทิ้งไว้กลางทาง|Abandoned midway|ทิ้ง,ยืนเอง||
+ถูกเปรียบเทียบกับแฟนเก่า|Compared with an ex|เปรียบเทียบ,คุณค่า||
+รักแต่ไปต่อไม่ได้|Love that can't continue|รักแต่ไม่ได้,ยอมรับ||
+ครอบครัวกีดกัน|Family stands in the way|ครอบครัว,กีดกัน||
+แต่งงานแล้วไม่มีความสุข|Unhappy marriage|ชีวิตคู่,ทบทวน||
+รักที่หมดไฟ|Love that has gone cold|หมดไฟ,จุดใหม่||
+รักที่กลายเป็นความเคยชิน|Love turned to habit|เคยชิน,ใส่ใจ||
+ห่างเหินกันโดยไม่รู้ตัว|Drifting apart|ห่างเหิน,คุยกัน||
+คนที่รอไม่กลับมา|The one you waited for doesn't come back|รอ,ปล่อยวาง||
+แฟนเก่ามีคนใหม่|Your ex has someone new|แฟนเก่า,ก้าวต่อ||
+คนที่ชอบมีแฟนแล้ว|Your crush is taken|มีเจ้าของ,ถอย||
+รักข้างเดียวที่ไม่สมหวัง|Unrequited love|ข้างเดียว,ปล่อย||
+เสียใจซ้ำเรื่องเดิม|Hurt again the same way|ซ้ำเดิม,บทเรียน||
+รู้สึกว่าไม่มีใครรัก|Feeling unloved|เหงา,รักตัวเอง||
+เหงาแม้มีแฟน|Lonely in a relationship|เหงา,คุยกัน||
+เสียคนรักไปจากความตาย|Losing a partner to death|สูญเสีย,ไว้อาลัย||
+หย่าร้างและแบ่งทรัพย์|Divorce and dividing property|หย่า,ทรัพย์สิน||
+ต้องแยกกับลูก|Separated from your children|ลูก,คิดถึง||
+ถูกพูดถึงในทางเสียหายหลังเลิก|Badmouthed after a breakup|ชื่อเสียง,วางตัว||
+ยังติดต่อแฟนเก่าไม่ได้ตัดขาด|Can't cut contact with an ex|ตัดขาด,ขอบเขต||
+งานแต่งถูกยกเลิก|A wedding called off|ยกเลิก,เริ่มใหม่||
+คู่หมั้นเปลี่ยนใจ|A fiancé changes their mind|เปลี่ยนใจ,ยอมรับ||
+ถูกใช้เป็นตัวสำรอง|Being a backup option|ตัวสำรอง,คุณค่า||
+ให้มากเกินไปจนเหนื่อย|Giving until exhausted|ให้มากไป,สมดุล||
+รักแต่ทนนิสัยไม่ไหว|In love but can't stand the habits|นิสัย,ขีดจำกัด||
+รักที่มีความรุนแรง|A violent relationship|ความรุนแรง,ขอความช่วยเหลือ||
+ถูกควบคุมทุกอย่าง|Being controlled|ควบคุม,อิสระ||
+ถูกหึงจนอึดอัด|Suffocating jealousy|หึง,ขอบเขต||
+ความรักทำให้เสียเพื่อน|Love costs you friends|เพื่อน,สมดุล||
+ความรักทำให้เสียงาน|Love costs you work|การงาน,สมดุล||
+ความรักทำให้เป็นหนี้|Love leaves you in debt|หนี้,ระวัง||
+วีซ่าคู่รักไม่ผ่าน|A partner visa refused|วีซ่า,ผิดหวัง||
+ระยะทางทำให้เลิกกัน|Distance ends it|ระยะทาง,ยอมรับ||
+เวลาไม่ตรงกัน|Wrong timing|จังหวะ,ยอมรับ||
+ต่างคนต่างโต|Growing in different directions|ต่างทาง,เคารพ||
+เป้าหมายชีวิตไม่ตรงกัน|Different life goals|เป้าหมาย,ทางเลือก||
+ไม่อยากมีลูกเหมือนกัน|Disagreement about children|ลูก,ตัดสินใจ||
+ความลับถูกเปิดเผย|A secret revealed|ความลับ,ความจริง||
+เห็นแชทที่ไม่ควรเห็น|Seeing messages you shouldn't|แชท,ความจริง||
+ผิดหวังที่เขาไม่เปลี่ยน|Let down that they won't change|ไม่เปลี่ยน,ยอมรับ||
+รักที่จบเพราะเงิน|Love ended by money|เงิน,บทเรียน||
+ทนอยู่เพราะลูก|Staying for the kids|ลูก,ทบทวน||
+ทนอยู่เพราะกลัวเหงา|Staying for fear of loneliness|กลัวเหงา,กล้า||
+คิดถึงแฟนเก่าทุกคืน|Missing an ex every night|คิดถึง,ปล่อยวาง||
+หลงรักคนที่ทำร้าย|Loving someone who hurts you|ทำร้าย,ออกมา||
+ความรักไม่มีอนาคต|A love with no future|ไม่มีอนาคต,ตัดสินใจ||
+ถูกตัดสินจากสังคมหลังเลิก|Judged after a breakup|สังคม,ภูมิคุ้มกันใจ||
+ผิดหวังจากคนที่ไว้ใจที่สุด|Let down by the one you trusted most|ไว้ใจ,เยียวยา||
+ไม่ได้รับคำขอโทษ|No apology given|ขอโทษ,ปล่อยวาง||
+ผิดหวังแต่ได้รู้จักตัวเองมากขึ้น|Let down but knowing yourself better|เติบโต,เข้าใจตัวเอง||
+ถูกขอเลิกผ่านข้อความ|Dumped by text|ถูกบอกเลิก,ศักดิ์ศรี||
+คนที่รักย้ายไปไกล|The one you love moves far away|ระยะทาง,ยอมรับ||
+# อุปสรรคและสิ่งที่ติดขัด
+สื่อสารไม่ตรงกัน|Miscommunication|สื่อสาร,เข้าใจผิด||
+ไม่กล้าพูดความรู้สึก|Afraid to say how you feel|ไม่กล้า,เปิดใจ||
+ตารางชีวิตไม่ตรงกัน|Schedules never match|เวลา,จัดการ||
+งานยุ่งจนไม่มีเวลาให้กัน|Too busy for each other|งานยุ่ง,ให้เวลา||
+ระยะทางไกล|Distance|ระยะทาง,สื่อสาร||
+เขตเวลาต่างกัน|Different time zones|ต่างเวลา,จัดเวลา||
+เงินไม่พอ|Not enough money|การเงิน,วางแผน||
+หนี้สินของฝ่ายใดฝ่ายหนึ่ง|One partner's debt|หนี้,เปิดเผย||
+ภาระครอบครัวมาก|Heavy family duties|ภาระ,แบ่งปัน||
+พ่อแม่ไม่ปลื้ม|Parents disapprove|ครอบครัว,พิสูจน์||
+ญาติชอบยุ่ง|Interfering relatives|ญาติ,ขอบเขต||
+เพื่อนไม่ชอบคู่|Friends dislike your partner|เพื่อน,ฟังหูไว้หู||
+แฟนเก่ายังวนเวียน|An ex still hanging around|แฟนเก่า,ขอบเขต||
+มีมือที่สามเข้ามา|A third party appears|มือที่สาม,ระวัง||
+ความหึงหวง|Jealousy|หึง,ไว้ใจ||
+ความไม่มั่นใจในตัวเอง|Self-doubt|ไม่มั่นใจ,คุณค่า||
+บาดแผลจากรักเก่า|Wounds from an old love|แผลเก่า,เยียวยา||
+กลัวการผูกมัด|Fear of commitment|ผูกมัด,กลัว||
+ไม่พร้อมแต่งงาน|Not ready to marry|ไม่พร้อม,เวลา||
+อายุต่างกันมาก|A big age gap|อายุ,ความเข้าใจ||
+ฐานะต่างกัน|Different financial status|ฐานะ,ยอมรับ||
+การศึกษาต่างกัน|Different education|การศึกษา,เคารพ||
+ศาสนาต่างกัน|Different religions|ศาสนา,ข้อตกลง||
+วัฒนธรรมต่างกัน|Different cultures|วัฒนธรรม,เรียนรู้||
+ภาษาสื่อสารไม่คล่อง|A language barrier|ภาษา,อดทน||
+เอกสารและวีซ่าติดขัด|Visa and paperwork problems|วีซ่า,เอกสาร||
+กฎหมายไม่รองรับ|The law doesn't support it|กฎหมาย,ทางเลือก||
+สังคมกดดัน|Social pressure|สังคม,ยืนหยัด||
+ข่าวลือ|Rumours|ข่าวลือ,ความจริง||
+นิสัยไม่ลงรอยกัน|Clashing habits|นิสัย,ปรับ||
+ทะเลาะเรื่องเดิมซ้ำๆ|The same fight again|ทะเลาะ,แก้ที่ต้นเหตุ||
+เรื่องบนเตียงไม่ลงตัว|Intimacy doesn't fit|ความใกล้ชิด,คุยกัน||
+อยากมีลูกไม่ตรงกัน|Different wishes about children|ลูก,คุยกัน||
+มีลูกยาก|Trouble having children|มีบุตรยาก,ปรึกษาแพทย์||
+สุขภาพของคนใดคนหนึ่ง|One partner's health|สุขภาพ,ดูแล||
+การติดเหล้าหรือพนัน|Drinking or gambling|เสพติด,ขอความช่วยเหลือ||
+ติดโทรศัพท์ไม่สนใจกัน|Phones over each other|โทรศัพท์,ใส่ใจ||
+ไม่มีเวลาส่วนตัว|No personal time|ส่วนตัว,สมดุล||
+ความลับที่ยังไม่บอก|A secret not yet told|ความลับ,จังหวะ||
+ไม่ได้เปิดตัวกับใคร|Not introduced to anyone|ไม่เปิดตัว,สถานะ||
+คู่ไม่ชัดเจน|An unclear partner|ไม่ชัดเจน,ถาม||
+คนรอบตัวแนะนำคนอื่นให้|Others keep setting you up|คนอื่น,ตัดสินใจ||
+ดวงชง|A clashing astrological year|ดวงชง,ความเชื่อ||
+ช่วงดวงตก|A low period in your luck|ดวงตก,อดทน||
+เคยมีคดีหรือประวัติ|A past record|ประวัติ,ความจริง||
+ลูกติดไม่ยอมรับ|Stepchildren resist|ลูกติด,เวลา||
+ที่อยู่ไม่ลงตัว|Can't agree where to live|ที่อยู่,ประนีประนอม||
+งานต้องย้ายบ่อย|Work keeps moving you|ย้ายงาน,ปรับตัว||
+ต่างคนต่างเหนื่อย|Both worn out|เหนื่อย,พัก||
+ความคาดหวังสูงเกินไป|Expectations too high|คาดหวัง,ปรับ||
+เคยถูกนอกใจจึงระแวง|Suspicion after past cheating|ระแวง,เยียวยา||
+เปิดใจยาก|Hard to open up|เปิดใจ,ค่อยเป็นค่อยไป||
+ไม่รู้ว่าเขาคิดอย่างไร|Not knowing what they think|ไม่รู้ใจ,ถามตรง||
+รอคำตอบนาน|A long wait for an answer|รอ,กำหนดเวลา||
+ไม่มีโอกาสได้เจอกัน|No chance to meet|โอกาส,สร้างจังหวะ||
+เพศสภาพที่ครอบครัวยังไม่รู้|Identity family doesn't know yet|เปิดตัว,ปลอดภัย||
+ความต่างทางการเมือง|Political differences|การเมือง,เคารพ||
+อาชีพที่ต้องเสี่ยงอันตราย|A dangerous job|อาชีพ,ห่วงใย||
+อาชีพที่ต้องพบคนมาก|A job meeting many people|อาชีพ,ไว้ใจ||
+ติดค้างบุญคุณกันเกินไป|Too much debt of gratitude|บุญคุณ,สมดุล||
+เหนื่อยกับการเริ่มใหม่|Tired of starting over|เริ่มใหม่,พักใจ||
+เข้าใจผิดจากข้อความ|Misread messages|ข้อความ,โทรคุย||
+อดีตของอีกฝ่าย|Your partner's past|อดีต,ยอมรับ||
+ต่างคนต่างไม่ยอม|Neither will give in|ทิฐิ,ประนีประนอม||
+พูดแรงตอนโกรธ|Harsh words in anger|คำพูด,ใจเย็น||
+ไม่ขอโทษกัน|No one apologises|ขอโทษ,ก้าวก่อน||
+ความเหนื่อยจากงานบ้าน|Housework strain|งานบ้าน,แบ่งหน้าที่||
+ปัญหาเรื่องสัตว์เลี้ยง|Pet disagreements|สัตว์เลี้ยง,ตกลง||
+ไม่ได้รับเกียรติต่อหน้าคนอื่น|Disrespected in front of others|เกียรติ,คุยกัน||
+คู่ไม่ยอมเปิดตัวในโซเชียล|Partner won't show you on social media|โซเชียล,สถานะ||
+# สิ่งที่ควรปรับปรุง
+ควรพูดความรู้สึกตรงๆ|Say what you feel directly|พูดตรง,เปิดใจ||
+ควรฟังมากขึ้น|Listen more|ฟัง,เข้าใจ||
+ควรใจเย็นลง|Calm down|ใจเย็น,สติ||
+ควรให้เวลากันมากขึ้น|Give each other more time|เวลา,ใส่ใจ||
+ควรให้พื้นที่ส่วนตัว|Give space|พื้นที่,อิสระ||
+ควรลดความหึง|Ease the jealousy|หึง,ไว้ใจ||
+ควรเชื่อใจกันมากขึ้น|Trust more|ไว้ใจ,ปล่อย||
+ควรขอโทษก่อน|Apologise first|ขอโทษ,ลดทิฐิ||
+ควรชมกันบ่อยขึ้น|Praise each other more|ชม,กำลังใจ||
+ควรขอบคุณในสิ่งเล็กๆ|Thank each other for small things|ขอบคุณ,ใส่ใจ||
+ควรวางแผนการเงินร่วมกัน|Plan money together|การเงิน,วางแผน||
+ควรแยกเงินส่วนตัวให้ชัด|Keep personal money clear|การเงิน,ขอบเขต||
+ควรดูแลตัวเองให้ดีขึ้น|Take better care of yourself|ดูแลตัวเอง,สุขภาพ||
+ควรแต่งตัวให้คู่ประทับใจ|Dress to delight your partner|แต่งตัว,เสน่ห์||
+ควรเลิกนิสัยเดิมที่คู่ไม่ชอบ|Drop a habit your partner dislikes|นิสัย,ปรับ||
+ควรเลิกเปรียบเทียบกับคนอื่น|Stop comparing|เปรียบเทียบ,พอใจ||
+ควรให้เกียรติครอบครัวคู่|Respect their family|ครอบครัว,ให้เกียรติ||
+ควรตั้งขอบเขตกับครอบครัวตัวเอง|Set boundaries with your own family|ครอบครัว,ขอบเขต||
+ควรตั้งขอบเขตกับแฟนเก่า|Set boundaries with exes|แฟนเก่า,ขอบเขต||
+ควรวางโทรศัพท์ตอนอยู่ด้วยกัน|Put the phone down together|โทรศัพท์,อยู่กับปัจจุบัน||
+ควรเที่ยวด้วยกันบ้าง|Travel together sometimes|เที่ยว,ความทรงจำ||
+ควรมีกิจกรรมร่วมกัน|Share an activity|กิจกรรม,ใกล้ชิด||
+ควรคุยเรื่องอนาคตให้ชัด|Talk about the future clearly|อนาคต,ชัดเจน||
+ควรคุยเรื่องลูกให้ตรงกัน|Agree about children|ลูก,ตกลง||
+ควรเปิดเผยเรื่องหนี้|Be open about debt|หนี้,ซื่อสัตย์||
+ควรเลิกเก็บความลับ|Stop keeping secrets|ความลับ,ซื่อสัตย์||
+ควรรักตัวเองให้มากขึ้น|Love yourself more|รักตัวเอง,คุณค่า||
+ควรเลิกง้อคนที่ไม่เห็นค่า|Stop chasing someone who doesn't value you|คุณค่า,ปล่อย||
+ควรเปิดใจให้คนใหม่|Open your heart to someone new|เปิดใจ,โอกาส||
+ควรออกไปพบปะผู้คน|Get out and meet people|พบปะ,โอกาส||
+ควรลองแอปหาคู่อย่างระวัง|Try dating apps carefully|แอปหาคู่,ระวัง||
+ควรตรวจสอบตัวตนคนที่คุยออนไลน์|Verify who you're talking to online|ตรวจสอบ,ปลอดภัย||
+ควรเรียนภาษาของคู่|Learn your partner's language|ภาษา,ใกล้ชิด||
+ควรเรียนรู้วัฒนธรรมของคู่|Learn your partner's culture|วัฒนธรรม,เคารพ||
+ควรเคารพศาสนาของคู่|Respect your partner's religion|ศาสนา,เคารพ||
+ควรปรึกษาผู้เชี่ยวชาญด้านคู่รัก|See a couples counsellor|ผู้เชี่ยวชาญ,ช่วยเหลือ||
+ควรรักษาสัญญาเล็กๆ|Keep small promises|สัญญา,ไว้ใจ||
+ควรตรงต่อเวลานัด|Be on time|ตรงเวลา,ให้เกียรติ||
+ควรเลิกประชดประชัน|Stop the sarcasm|ประชด,คำพูด||
+ควรเลิกขุดเรื่องเก่า|Stop dragging up the past|เรื่องเก่า,ปล่อย||
+ควรแบ่งงานบ้านให้ยุติธรรม|Share housework fairly|งานบ้าน,ยุติธรรม||
+ควรดูแลพ่อแม่ทั้งสองฝ่าย|Care for both sets of parents|พ่อแม่,สมดุล||
+ควรมีเงินเก็บฉุกเฉิน|Keep an emergency fund|เงินเก็บ,มั่นคง||
+ควรเพิ่มความโรแมนติก|Add more romance|โรแมนติก,หวาน||
+ควรเซอร์ไพรส์บ้าง|Surprise them sometimes|เซอร์ไพรส์,ใส่ใจ||
+ควรถามความต้องการของคู่|Ask what your partner needs|ถาม,ใส่ใจ||
+ควรบอกความต้องการของตัวเอง|Say what you need|บอก,ชัดเจน||
+ควรพักทะเลาะแล้วค่อยคุย|Pause a fight, talk later|พัก,ใจเย็น||
+ควรยอมรับข้อเสียของกันและกัน|Accept each other's flaws|ยอมรับ,เข้าใจ||
+ควรเลิกพยายามเปลี่ยนเขา|Stop trying to change them|ยอมรับ,ปล่อย||
+ควรรู้จักพอ|Know when it's enough|พอ,สมดุล||
+ควรเลือกคนที่เลือกเรา|Choose someone who chooses you|เลือก,คุณค่า||
+ควรเลิกคุยกับหลายคน|Stop talking to several people|ชัดเจน,ซื่อสัตย์||
+ควรทำให้สถานะชัดเจน|Make your status clear|สถานะ,ชัดเจน||
+ควรตัดสินใจเสียที|Make a decision|ตัดสินใจ,ก้าว||
+ควรให้เวลาเยียวยาตัวเอง|Give yourself time to heal|เยียวยา,เวลา||
+ควรปิดช่องทางติดต่อแฟนเก่า|Close contact with an ex|ตัดขาด,ก้าวต่อ||
+ควรแต่งตัวและดูแลรูปลักษณ์|Care for your appearance|รูปลักษณ์,มั่นใจ||
+ควรออกกำลังกายด้วยกัน|Exercise together|ออกกำลัง,สุขภาพ||
+ควรกินข้าวด้วยกันบ่อยขึ้น|Eat together more|อาหาร,อบอุ่น||
+ควรพูดคำว่ารักบ่อยขึ้น|Say "I love you" more|บอกรัก,อบอุ่น||
+ควรสัมผัสกันอย่างอ่อนโยน|More gentle touch|สัมผัส,ใกล้ชิด||
+ควรเคารพการตัดสินใจของคู่|Respect their decisions|เคารพ,อิสระ||
+ควรมีเป้าหมายร่วมกัน|Share a goal|เป้าหมาย,ร่วมทาง||
+ควรหาความสุขของตัวเองด้วย|Find your own joy too|ความสุข,สมดุล||
+# ไปต่อหรือพอแค่นี้
+ไปต่อได้|You can carry on|ไปต่อ,มั่นใจ||
+ไปต่อแต่ต้องปรับ|Carry on, but adjust|ไปต่อ,ปรับ||
+ไปต่ออย่างระวัง|Carry on carefully|ไปต่อ,ระวัง||
+ควรพอแค่นี้|Time to stop|พอ,ปล่อย||
+พักไว้ก่อน|Pause for now|พัก,ทบทวน||
+ให้โอกาสอีกครั้ง|Give one more chance|โอกาส,เงื่อนไข||
+อย่าให้โอกาสอีก|Don't give another chance|ไม่ให้โอกาส,ปกป้องใจ||
+รอได้|Worth waiting|รอ,ความหวัง||
+ไม่ควรรอ|Don't wait|ไม่รอ,ก้าวต่อ||
+คุยให้ชัดก่อนตัดสินใจ|Talk it through before deciding|คุยชัด,ตัดสินใจ||
+ถามใจตัวเองอีกครั้ง|Ask your heart again|ใจตัวเอง,ทบทวน||
+ตั้งกำหนดเวลาให้ความสัมพันธ์|Set a deadline|กำหนดเวลา,ชัดเจน||
+ไปต่อเพราะรัก ไม่ใช่เพราะกลัวเหงา|Stay for love, not fear of loneliness|เหตุผล,รัก||
+พอเพราะเคารพตัวเอง|Stop out of self-respect|เคารพตัวเอง,คุณค่า||
+ยังมีเยื่อใยให้กลับมาได้|There's still a thread back|เยื่อใย,คืนดี||
+ไม่มีเยื่อใยแล้ว|Nothing left to return to|จบ,ยอมรับ||
+ไปต่อหลังเคลียร์มือที่สาม|Continue once the third party is gone|มือที่สาม,เคลียร์||
+ไปต่อหลังเคลียร์หนี้|Continue once debts are cleared|หนี้,เคลียร์||
+ไปต่อเมื่อครอบครัวยอมรับ|Continue when family accepts|ครอบครัว,ยอมรับ||
+แต่งงานได้|Marriage is right|แต่งงาน,พร้อม||
+ยังไม่ควรแต่ง|Not yet time to marry|รอ,พร้อม||
+ย้ายไปอยู่ด้วยกันได้|Move in together|อยู่ด้วยกัน,พร้อม||
+ยังไม่ควรอยู่ด้วยกัน|Not yet time to live together|รอ,ทำความรู้จัก||
+เปลี่ยนจากแฟนเป็นเพื่อน|From lovers to friends|เพื่อน,เปลี่ยนสถานะ||
+ตัดขาดเพื่อเยียวยา|Cut contact to heal|ตัดขาด,เยียวยา||
+เริ่มต้นใหม่กับคนเดิม|Start fresh with the same person|เริ่มใหม่,คนเดิม||
+เริ่มต้นใหม่กับคนใหม่|Start fresh with someone new|เริ่มใหม่,คนใหม่||
+อยู่คนเดียวสักพัก|Be alone a while|อยู่คนเดียว,พักใจ||
+ทำตามเหตุผลมากกว่าอารมณ์|Follow reason over emotion|เหตุผล,สติ||
+ทำตามใจครั้งนี้|Follow your heart this time|ใจ,กล้า||
+ฟังคำแนะนำของผู้ใหญ่|Listen to an elder|ผู้ใหญ่,คำแนะนำ||
+อย่าฟังเสียงคนอื่นมากเกินไป|Don't listen to others too much|ตัดสินใจเอง,ใจ||
+ไปต่อได้ถ้าเขาเปลี่ยนจริง|Continue if they truly change|เปลี่ยนจริง,พิสูจน์||
+อย่าไปต่อถ้ามีความรุนแรง|Don't continue if there is violence|ความรุนแรง,ปลอดภัย||
+ไปต่อได้ถ้าคุยกันรู้เรื่อง|Continue if you can talk it out|สื่อสาร,ไปต่อ||
+ให้เวลาสามเดือนแล้วค่อยดูใหม่|Give it three months|เวลา,ทบทวน||
+ความสัมพันธ์นี้สอนบทเรียนพอแล้ว|This relationship has taught enough|บทเรียน,จบ||
+รักษาไว้ ความสัมพันธ์นี้มีค่า|Keep it; it's precious|มีค่า,รักษา||
+ลองใหม่อีกครั้งอย่างเป็นผู้ใหญ่|Try again, as adults|ผู้ใหญ่,โอกาส||
+ไปต่อเพื่อลูกได้แต่ต้องคุยให้ชัด|Stay for the kids only with clear terms|ลูก,ข้อตกลง||
+แยกกันด้วยดีเพื่อลูก|Separate kindly for the kids|ลูก,ด้วยดี||
+ไปต่อแบบระยะไกลได้|Long distance can work|ระยะไกล,ไปต่อ||
+ยุติระยะไกล|End the long distance|ระยะไกล,ยุติ||
+ไปต่อเมื่อพร้อมทั้งสองฝ่าย|Continue when you're both ready|พร้อม,ทั้งคู่||
+รอให้เขาพร้อม|Wait until they're ready|รอ,อดทน||
+อย่ารอคนที่ไม่เลือกเรา|Don't wait for someone who won't choose you|ไม่รอ,คุณค่า||
+ไปต่อด้วยความไว้ใจใหม่|Continue with rebuilt trust|ไว้ใจ,ฟื้นฟู||
+ปิดเรื่องนี้แล้วขอบคุณมัน|Close it and be grateful|ขอบคุณ,ปิด||
+ไปต่อ แต่รักตัวเองด้วย|Continue, and love yourself too|ไปต่อ,รักตัวเอง||
+ปล่อยให้เวลาตัดสิน|Let time decide|เวลา,ปล่อย||
+# รูปลักษณ์หน้าตาของคนรัก
+ตัวสูง|Tall|รูปร่าง,สูง||
+ตัวเล็ก|Petite|รูปร่าง,เล็ก||
+สูงปานกลาง|Average height|รูปร่าง,กลาง||
+หุ่นผอม|Slim|รูปร่าง,ผอม||
+หุ่นนักกีฬา|Athletic|รูปร่าง,ฟิต||
+หุ่นกล้ามใหญ่|Muscular|รูปร่าง,แข็งแรง||
+หุ่นอวบ|Curvy|รูปร่าง,อวบ||
+ท้วมน่ากอด|Soft and huggable|รูปร่าง,อบอุ่น||
+ไหล่กว้าง|Broad shoulders|รูปร่าง,ไหล่||
+ผิวขาว|Fair skin|ผิว,ขาว||
+ผิวเหลือง|Golden skin|ผิว,เหลือง||
+ผิวสองสี|Tan skin|ผิว,สองสี||
+ผิวคล้ำ|Dark skin|ผิว,คล้ำ||
+ผิวแทนจากแดด|Sun-tanned|ผิว,แทน||
+มีกระ|Freckles|ผิว,กระ||
+หน้าตี๋|East Asian look|หน้าตา,ตี๋||
+หน้าหวาน|Sweet-faced|หน้าตา,หวาน||
+หน้าคม|Sharp features|หน้าตา,คม||
+หน้าเข้ม|Strong features|หน้าตา,เข้ม||
+หน้าลูกครึ่ง|Mixed-heritage look|หน้าตา,ลูกครึ่ง||
+หน้าฝรั่ง|Western look|หน้าตา,ฝรั่ง||
+หน้าเด็กกว่าอายุ|Looks younger than their age|หน้าตา,เด็ก||
+หน้าดูเป็นผู้ใหญ่|Looks mature|หน้าตา,ผู้ใหญ่||
+ตาโต|Big eyes|ตา,โต||
+ตาตี่|Narrow eyes|ตา,ตี่||
+ตาสองชั้น|Double eyelids|ตา,สองชั้น||
+ตาชั้นเดียว|Single eyelids|ตา,ชั้นเดียว||
+ตาสีอ่อน|Light-coloured eyes|ตา,สีอ่อน||
+ใส่แว่น|Wears glasses|แว่นตา,ลุค||
+คิ้วเข้ม|Thick brows|คิ้ว,เข้ม||
+จมูกโด่ง|A high nose|จมูก,โด่ง||
+ปากอิ่ม|Full lips|ปาก,อิ่ม||
+ยิ้มสวย|A lovely smile|รอยยิ้ม,เสน่ห์||
+มีลักยิ้ม|Dimples|ลักยิ้ม,น่ารัก||
+ฟันเรียงสวย|Neat teeth|ฟัน,ยิ้ม||
+ผมยาว|Long hair|ผม,ยาว||
+ผมสั้น|Short hair|ผม,สั้น||
+ผมหยิก|Curly hair|ผม,หยิก||
+ผมตรงสลวย|Straight, silky hair|ผม,ตรง||
+ผมทำสี|Dyed hair|ผม,สีผม||
+หัวล้านหรือไถเกรียน|Bald or shaved|ผม,เกรียน||
+มีหนวดเครา|A beard|หนวดเครา,ลุค||
+มีรอยสัก|Tattoos|รอยสัก,ตัวตน||
+มีปาน|A birthmark|ปาน,จุดเด่น||
+มีไฝเสน่ห์|A beauty mark|ไฝ,เสน่ห์||
+มีแผลเป็นที่มีเรื่องราว|A scar with a story|แผลเป็น,เรื่องราว||
+แต่งตัวเรียบร้อย|Neatly dressed|แต่งตัว,เรียบร้อย||
+แต่งตัวแฟชั่น|Fashionable|แต่งตัว,แฟชั่น||
+แต่งตัวสบายๆ|Casual style|แต่งตัว,สบาย||
+แต่งตัวสายสปอร์ต|Sporty style|แต่งตัว,สปอร์ต||
+แต่งตัวสายหวาน|Soft, sweet style|แต่งตัว,หวาน||
+แต่งตัวสายเท่|Cool style|แต่งตัว,เท่||
+แต่งตัวแบรนด์เนม|Designer clothes|แต่งตัว,แบรนด์||
+ใส่ชุดทำงานตลอด|Always in work clothes|แต่งตัว,ทำงาน||
+ใส่เครื่องแบบ|Wears a uniform|เครื่องแบบ,อาชีพ||
+ดูสะอาดสะอ้าน|Clean and fresh|สะอาด,ดูดี||
+กลิ่นหอม|Smells good|กลิ่น,เสน่ห์||
+เสียงทุ้ม|A deep voice|เสียง,ทุ้ม||
+เสียงหวาน|A sweet voice|เสียง,หวาน||
+บุคลิกสง่า|Graceful bearing|บุคลิก,สง่า||
+บุคลิกเป็นกันเอง|Easygoing presence|บุคลิก,เป็นกันเอง||
+ดูเงียบขรึม|Quiet and reserved|บุคลิก,ขรึม||
+ดูอบอุ่น|Warm-looking|บุคลิก,อบอุ่น||
+ดูดุแต่ใจดี|Looks stern but is kind|บุคลิก,ใจดี||
+หน้าตาธรรมดาแต่มีเสน่ห์|Plain but charming|เสน่ห์,ธรรมดา||
+หน้าตาดีมาก|Very good-looking|หน้าตา,ดี||
+หน้าตาคล้ายคนในครอบครัวเรา|Resembles your family|หน้าตา,คุ้นเคย||
+หน้าตาคล้ายแฟนเก่า|Looks like an ex|หน้าตา,ระวังเปรียบเทียบ||
+ดูแลสุขภาพดี|Health-conscious|สุขภาพ,ดูแล||
+อายุมากกว่าที่เห็น|Older than they look|อายุ,ไม่คาดคิด||
+# นิสัยและทัศนคติของคู่
+ใจดี|Kind|นิสัย,ใจดี||
+ใจเย็น|Calm|นิสัย,ใจเย็น||
+ใจร้อน|Hot-tempered|นิสัย,ใจร้อน||
+ขี้หึง|Jealous|นิสัย,หึง||
+ขี้งอน|Sulks easily|นิสัย,งอน||
+ขี้อ้อน|Affectionate and clingy|นิสัย,อ้อน||
+ขี้เล่น|Playful|นิสัย,ขี้เล่น||
+จริงจัง|Serious|นิสัย,จริงจัง||
+ตลก|Funny|นิสัย,ตลก||
+เงียบ|Quiet|นิสัย,เงียบ||
+ช่างพูด|Talkative|นิสัย,ช่างพูด||
+อ่อนโยน|Gentle|นิสัย,อ่อนโยน||
+เข้มแข็ง|Strong|นิสัย,เข้มแข็ง||
+ขี้ใจน้อย|Easily hurt|นิสัย,ใจน้อย||
+ซื่อสัตย์|Faithful|นิสัย,ซื่อสัตย์||
+เจ้าชู้|Flirtatious|นิสัย,เจ้าชู้||
+ขยัน|Hardworking|นิสัย,ขยัน||
+ขี้เกียจ|Lazy|นิสัย,ขี้เกียจ||
+ประหยัด|Thrifty|นิสัย,ประหยัด||
+ใช้เงินเก่ง|Spends freely|นิสัย,ใช้เงิน||
+ใจกว้าง|Generous|นิสัย,ใจกว้าง||
+ขี้เหนียว|Stingy|นิสัย,ขี้เหนียว||
+รักครอบครัว|Family-minded|ทัศนคติ,ครอบครัว||
+ติดเพื่อน|Friend-focused|นิสัย,เพื่อน||
+ติดเกม|Into gaming|นิสัย,เกม||
+ติดงาน|A workaholic|นิสัย,งาน||
+รักสัตว์|Loves animals|นิสัย,สัตว์||
+รักธรรมชาติ|Loves nature|นิสัย,ธรรมชาติ||
+ชอบเที่ยว|Loves to travel|นิสัย,เที่ยว||
+ติดบ้าน|A homebody|นิสัย,บ้าน||
+ชอบเข้าสังคม|Social|นิสัย,สังคม||
+เก็บตัว|Introverted|นิสัย,เก็บตัว||
+ทันสมัย|Modern-minded|ทัศนคติ,ทันสมัย||
+หัวโบราณ|Traditional|ทัศนคติ,โบราณ||
+เปิดกว้างเรื่องเพศ|Open about gender and sexuality|ทัศนคติ,เปิดกว้าง||
+เชื่อเรื่องดวง|Believes in fortune|ทัศนคติ,ความเชื่อ||
+ไม่เชื่อเรื่องดวง|Doesn't believe in fortune|ทัศนคติ,เหตุผล||
+เคร่งศาสนา|Devout|ทัศนคติ,ศาสนา||
+มีเหตุผล|Reasonable|ทัศนคติ,เหตุผล||
+ใช้อารมณ์|Emotional|ทัศนคติ,อารมณ์||
+มองโลกในแง่ดี|Optimistic|ทัศนคติ,มองบวก||
+มองโลกในแง่ร้าย|Pessimistic|ทัศนคติ,มองลบ||
+มีเป้าหมายชัด|Goal-driven|ทัศนคติ,เป้าหมาย||
+ใช้ชีวิตไปวันๆ|Lives day by day|ทัศนคติ,ไม่วางแผน||
+อยากมีลูก|Wants children|ทัศนคติ,ลูก||
+ไม่อยากมีลูก|Doesn't want children|ทัศนคติ,ไม่มีลูก||
+อยากแต่งงาน|Wants to marry|ทัศนคติ,แต่งงาน||
+ไม่เชื่อในการแต่งงาน|Doesn't believe in marriage|ทัศนคติ,ไม่แต่ง||
+ให้เกียรติคู่|Respectful|ทัศนคติ,ให้เกียรติ||
+ชอบควบคุม|Controlling|นิสัย,ควบคุม||
+พึ่งพาได้|Reliable|นิสัย,ที่พึ่ง||
+ต้องการให้ดูแล|Needs looking after|นิสัย,พึ่งพา||
+ตรงไปตรงมา|Straightforward|นิสัย,ตรง||
+พูดอ้อม|Indirect|นิสัย,อ้อม||
+โรแมนติก|Romantic|นิสัย,โรแมนติก||
+ไม่ค่อยแสดงออก|Not expressive|นิสัย,ไม่แสดงออก||
+ขี้ระแวง|Suspicious|นิสัย,ระแวง||
+ปล่อยวางเก่ง|Lets things go|นิสัย,ปล่อยวาง||
+ถือทิฐิ|Proud and stubborn|นิสัย,ทิฐิ||
+ยอมคน|Yielding|นิสัย,ยอม||
+เป็นผู้นำ|A leader|นิสัย,ผู้นำ||
+เป็นผู้ตาม|A follower|นิสัย,ผู้ตาม||
+ชอบความเป็นส่วนตัว|Values privacy|นิสัย,ส่วนตัว||
+ชอบโพสต์โซเชียล|Posts a lot online|นิสัย,โซเชียล||
+ใส่ใจรายละเอียด|Attentive to detail|นิสัย,ใส่ใจ||
+# ความเหมือนและความต่างระหว่างคู่
+ชอบอะไรเหมือนกัน|Like the same things|เหมือนกัน,เข้ากัน||
+นิสัยคล้ายกัน|Similar personalities|เหมือนกัน,เข้าใจ||
+นิสัยตรงข้ามกัน|Opposite personalities|ต่างกัน,เติมเต็ม||
+เป้าหมายชีวิตเดียวกัน|Same life goals|เป้าหมาย,ร่วมทาง||
+ความฝันต่างกัน|Different dreams|ความฝัน,สนับสนุน||
+รสนิยมการกินเหมือนกัน|Same taste in food|อาหาร,เข้ากัน||
+รสนิยมการกินต่างกัน|Different taste in food|อาหาร,ปรับ||
+นอนเร็วกับนอนดึก|Early bird and night owl|เวลานอน,ปรับ||
+ชอบเที่ยวต่างแบบกัน|Different travel styles|เที่ยว,ประนีประนอม||
+เรื่องเงินคิดเหมือนกัน|Same view on money|การเงิน,ลงตัว||
+เรื่องเงินคิดต่างกัน|Different views on money|การเงิน,ตกลง||
+เลี้ยงลูกคนละแบบ|Different parenting styles|เลี้ยงลูก,ตกลง||
+พื้นเพครอบครัวคล้ายกัน|Similar family backgrounds|ครอบครัว,คุ้นเคย||
+พื้นเพครอบครัวต่างกันมาก|Very different families|ครอบครัว,เรียนรู้||
+เรียนมาสายเดียวกัน|Same field of study|การศึกษา,เข้าใจ||
+อาชีพเดียวกัน|Same profession|อาชีพ,เข้าใจ||
+อาชีพต่างกันมาก|Very different jobs|อาชีพ,เรียนรู้||
+ความเร็วชีวิตต่างกัน|Different pace of life|จังหวะ,ปรับ||
+ชอบสังคมต่างกัน|Different social needs|สังคม,สมดุล||
+งานอดิเรกเดียวกัน|A shared hobby|งานอดิเรก,ใกล้ชิด||
+ภาษารักต่างกัน|Different love languages|ภาษารัก,เรียนรู้||
+ภาษารักตรงกัน|Matching love languages|ภาษารัก,เข้ากัน||
+ความต้องการทางกายต่างกัน|Different physical needs|ใกล้ชิด,คุยกัน||
+ความสะอาดคนละมาตรฐาน|Different standards of tidiness|ความสะอาด,ตกลง||
+การจัดการอารมณ์ต่างกัน|Handle emotions differently|อารมณ์,เข้าใจ||
+วิธีทะเลาะต่างกัน|Fight differently|ทะเลาะ,กติกา||
+มุมมองการเมืองเหมือนกัน|Same politics|การเมือง,เข้ากัน||
+มุมมองการเมืองต่างกัน|Different politics|การเมือง,เคารพ||
+ความเชื่อเรื่องดวงต่างกัน|Different beliefs about fortune|ความเชื่อ,เคารพ||
+อายุใกล้กัน|Close in age|อายุ,เข้าใจ||
+ต่างรุ่น|Different generations|อายุ,เรียนรู้||
+ฐานะใกล้กัน|Similar finances|ฐานะ,สมดุล||
+ฐานะคนละระดับ|Different finances|ฐานะ,เคารพ||
+ราศีเข้ากัน (ความเชื่อ)|Compatible signs (belief)|ราศี,ความเชื่อ||
+ปีนักษัตรชงกัน (ความเชื่อ)|Clashing zodiac years (belief)|ปีนักษัตร,ความเชื่อ||
+ธาตุเข้ากัน (ความเชื่อ)|Compatible elements (belief)|ธาตุ,ความเชื่อ||
+ดวงสมพงศ์ (ความเชื่อ)|Astrologically matched (belief)|ดวงสมพงศ์,ความเชื่อ||
+ดวงไม่สมพงศ์ (ความเชื่อ)|Astrologically mismatched (belief)|ดวงสมพงศ์,ความเชื่อ||
+เติมเต็มสิ่งที่อีกฝ่ายขาด|Filling each other's gaps|เติมเต็ม,สมดุล||
+เหมือนกันจนชนกัน|So alike you clash|เหมือนกัน,ชน||
+ต่างกันจนเรียนรู้กันได้|Different enough to learn|ต่างกัน,เติบโต||
+ความคาดหวังต่างกัน|Different expectations|คาดหวัง,คุยกัน||
+เป้าหมายเรื่องที่อยู่ต่างกัน|Different ideas about where to live|ที่อยู่,ตกลง||
+อยากอยู่ไทยกับอยากอยู่ต่างประเทศ|Thailand versus abroad|ประเทศ,ตกลง||
+คนหนึ่งเปิดเผย อีกคนเก็บความรู้สึก|One open, one private|แสดงออก,เข้าใจ||
+คนหนึ่งวางแผน อีกคนตามใจ|One plans, one improvises|วางแผน,ยืดหยุ่น||
+คนหนึ่งประหยัด อีกคนใช้เก่ง|One saves, one spends|การเงิน,สมดุล||
+คนหนึ่งติดบ้าน อีกคนชอบเที่ยว|One homebody, one adventurer|ไลฟ์สไตล์,สมดุล||
+คนหนึ่งใจร้อน อีกคนใจเย็น|One fiery, one calm|อารมณ์,สมดุล||
+คนหนึ่งเคร่ง อีกคนสบายๆ|One strict, one relaxed|ความเคร่ง,สมดุล||
+มองอนาคตไปทางเดียวกัน|Looking to the same future|อนาคต,ร่วมทาง||
+มีคุณค่าชีวิตเหมือนกัน|Shared core values|คุณค่า,มั่นคง||
+รักสัตว์เหมือนกัน|Both love animals|สัตว์,เข้ากัน||
+ศรัทธาเดียวกัน|Same faith|ศรัทธา,เข้ากัน||
+มีบาดแผลคล้ายกัน|Similar old wounds|แผลเก่า,เข้าใจ||
+# ชาติพันธุ์ เชื้อชาติ ศาสนา และวัฒนธรรม
+คนไทยด้วยกัน|Both Thai|เชื้อชาติ,เหมือนกัน||
+คู่ไทยกับฝรั่ง|Thai and Western|ต่างเชื้อชาติ,เรียนรู้||
+คู่ไทยกับคนเอเชียตะวันออก|Thai and East Asian|ต่างเชื้อชาติ,เอเชีย||
+คู่ไทยกับคนญี่ปุ่น|Thai and Japanese|ต่างชาติ,ญี่ปุ่น||
+คู่ไทยกับคนเกาหลี|Thai and Korean|ต่างชาติ,เกาหลี||
+คู่ไทยกับคนจีน|Thai and Chinese|ต่างชาติ,จีน||
+คู่ไทยกับคนอินเดีย|Thai and Indian|ต่างชาติ,อินเดีย||
+คู่ไทยกับคนอาเซียน|Thai and Southeast Asian|ต่างชาติ,อาเซียน||
+คู่ไทยกับคนละติน|Thai and Latin American|ต่างชาติ,ละติน||
+คู่ไทยกับคนแอฟริกัน|Thai and African|ต่างชาติ,แอฟริกา||
+คู่ไทยกับคนอเมริกัน|Thai and American|ต่างชาติ,อเมริกา||
+คู่ไทยกับคนยุโรป|Thai and European|ต่างชาติ,ยุโรป||
+คู่ไทยกับคนออสเตรเลีย|Thai and Australian|ต่างชาติ,ออสเตรเลีย||
+คู่ไทยกับคนตะวันออกกลาง|Thai and Middle Eastern|ต่างชาติ,ตะวันออกกลาง||
+คู่ลูกครึ่ง|A mixed-heritage partner|ลูกครึ่ง,สองวัฒนธรรม||
+คนไทยเชื้อสายจีน|Thai-Chinese heritage|เชื้อสาย,จีน||
+คนไทยภาคเหนือกับภาคใต้|North and South Thai|ภูมิภาค,ต่างถิ่น||
+คนอีสานกับคนกรุงเทพฯ|Isan and Bangkok|ภูมิภาค,ต่างถิ่น||
+คนเมืองกับคนต่างจังหวัด|City and countryside|เมือง,ชนบท||
+ชาติพันธุ์ชนเผ่ากับคนเมือง|Hill-tribe and city|ชาติพันธุ์,เรียนรู้||
+คนไทยที่เกิดโตต่างประเทศ|Thai raised abroad|สองวัฒนธรรม,ตัวตน||
+พุทธกับพุทธ|Both Buddhist|ศาสนา,เหมือนกัน||
+พุทธกับอิสลาม|Buddhist and Muslim|ศาสนา,ต่างกัน||
+พุทธกับคริสต์|Buddhist and Christian|ศาสนา,ต่างกัน||
+พุทธกับฮินดู|Buddhist and Hindu|ศาสนา,ต่างกัน||
+พุทธกับซิกข์|Buddhist and Sikh|ศาสนา,ต่างกัน||
+พุทธกับยิว|Buddhist and Jewish|ศาสนา,ต่างกัน||
+คนมีศาสนากับคนไม่มีศาสนา|Religious and non-religious|ศาสนา,เคารพ||
+ต่างนิกายในศาสนาเดียวกัน|Different branches of one faith|นิกาย,เข้าใจ||
+ต้องเปลี่ยนศาสนาเพื่อแต่งงาน|Converting to marry|เปลี่ยนศาสนา,ตัดสินใจ||
+แต่งงานสองพิธีตามสองศาสนา|Two weddings, two faiths|พิธีแต่ง,สองศาสนา||
+เลี้ยงลูกในสองศาสนา|Raising children in two faiths|ลูก,ศาสนา||
+ครอบครัวต้องการสินสอด|Family expects a dowry|สินสอด,ประเพณี||
+ครอบครัวไม่ถือเรื่องสินสอด|Family doesn't insist on dowry|สินสอด,ยืดหยุ่น||
+ประเพณีแต่งงานต่างกัน|Different wedding traditions|ประเพณี,ผสม||
+อาหารประจำบ้านต่างกัน|Different home cooking|อาหาร,เรียนรู้||
+ข้อห้ามทางอาหารต่างกัน|Different food rules|อาหาร,เคารพ||
+วันหยุดเทศกาลต่างกัน|Different festivals|เทศกาล,ฉลองทั้งสอง||
+ภาษาแม่ต่างกัน|Different mother tongues|ภาษา,เรียนรู้||
+สื่อสารด้วยภาษาที่สาม|Talking in a third language|ภาษา,พยายาม||
+ความหมายของคำพูดต่างวัฒนธรรม|Words mean different things across cultures|ภาษา,เข้าใจผิด||
+วิธีแสดงความรักต่างวัฒนธรรม|Love shown differently by culture|วัฒนธรรม,เข้าใจ||
+ความสัมพันธ์กับพ่อแม่ต่างวัฒนธรรม|Different family closeness by culture|ครอบครัว,วัฒนธรรม||
+บทบาทชายหญิงต่างวัฒนธรรม|Gender roles differ by culture|บทบาท,ตกลง||
+ความเป็นส่วนตัวต่างวัฒนธรรม|Privacy differs by culture|ส่วนตัว,เคารพ||
+การแบ่งเงินต่างวัฒนธรรม|Money sharing differs by culture|การเงิน,ตกลง||
+การดูแลพ่อแม่ยามแก่ต่างวัฒนธรรม|Elder care differs by culture|พ่อแม่,ตกลง||
+ถูกมองด้วยอคติทางเชื้อชาติ|Facing racial prejudice|อคติ,ยืนหยัด||
+ครอบครัวไม่ยอมรับคนต่างชาติ|Family rejects a foreigner|ครอบครัว,พิสูจน์||
+ครอบครัวต่างชาติต้อนรับดี|Their foreign family welcomes you|ครอบครัว,อบอุ่น||
+คนรอบตัวคิดว่ารักเพราะเงิน|People assume it's about money|อคติ,ความจริง||
+ต้องเลือกประเทศที่จะอยู่|Choosing a country to live in|ประเทศ,ตัดสินใจ||
+ลูกจะได้สองสัญชาติ|Children with two nationalities|สัญชาติ,ลูก||
+ความเหมือนทางความเชื่อทำให้ใกล้ชิด|Shared belief brings you closer|ความเชื่อ,ใกล้ชิด||
+ความต่างทางวัฒนธรรมทำให้ชีวิตกว้างขึ้น|Cultural difference widens your life|วัฒนธรรม,เติบโต||
+เรียนรู้ประวัติศาสตร์ของบ้านเกิดคู่|Learn your partner's homeland history|ประวัติศาสตร์,เคารพ||
+พูดภาษาครอบครัวคู่ได้|Speak your partner's family language|ภาษา,ยอมรับ||
+คู่รักต่างวรรณะหรือชนชั้นตามธรรมเนียม|Different caste or class tradition|ชนชั้น,ยืนหยัด||
+คู่รักผู้ลี้ภัยหรือผู้อพยพ|A refugee or migrant partner|ผู้อพยพ,ความมั่นคง||
+คู่รักชาวต่างชาติในไทย|A foreign partner living in Thailand|ต่างชาติ,ปรับตัว||
+คนไทยไปอยู่บ้านคู่ต่างประเทศ|Thai moving to the partner's country|ย้ายประเทศ,ปรับตัว||
+ความรักข้ามพรมแดนที่ครอบครัวทั้งสองยอมรับ|A cross-border love both families accept|ข้ามพรมแดน,ยอมรับ||
+# ครอบครัวและคนรอบตัวของคู่
+พ่อแม่ฝ่ายเขาเอ็นดู|Their parents adore you|ครอบครัว,เอ็นดู||
+พ่อแม่ฝ่ายเขาไม่ปลื้ม|Their parents are cool to you|ครอบครัว,พิสูจน์||
+แม่สามีหรือแม่ภรรยาจุกจิก|A fussy mother-in-law|แม่ยาย,ขอบเขต||
+พ่อตาหรือพ่อสามีเข้มงวด|A strict father-in-law|พ่อตา,ให้เกียรติ||
+พี่น้องเขาช่วยเชียร์|Their siblings cheer you on|พี่น้อง,สนับสนุน||
+พี่น้องเขาขัดขวาง|Their siblings get in the way|พี่น้อง,ขอบเขต||
+เพื่อนเขายอมรับ|Their friends accept you|เพื่อน,ยอมรับ||
+เพื่อนเขาชอบพาเที่ยว|Their friends lead them astray|เพื่อน,ไว้ใจ||
+ครอบครัวเรายอมรับเขา|Your family accepts them|ครอบครัว,ยอมรับ||
+ครอบครัวเราห่วงเกินไป|Your family worries too much|ครอบครัว,ขอบเขต||
+ญาติถามเมื่อไรจะแต่ง|Relatives ask when you'll marry|ญาติ,แรงกดดัน||
+ต้องดูแลพ่อแม่ทั้งสองฝ่าย|Caring for both families|พ่อแม่,แบ่งปัน||
+ต้องอยู่บ้านพ่อแม่คู่|Living with your in-laws|อยู่ร่วม,ปรับตัว||
+ลูกของเขาเปิดใจรับเรา|Their child opens up to you|ลูกติด,ยอมรับ||
+แฟนเก่าของเขาต้องติดต่อเพราะลูก|Their ex must stay in touch for the kids|แฟนเก่า,ลูก||
+สัตว์เลี้ยงของเขาไม่ชอบเรา|Their pet dislikes you|สัตว์เลี้ยง,เวลา||
+หัวหน้างานเขาจุ้นจ้าน|Their boss interferes|ที่ทำงาน,ขอบเขต||
+คนที่ทำงานเขาสนิทเกินไป|A co-worker too close|ที่ทำงาน,ไว้ใจ||
+ครอบครัวหวังพึ่งเงินคู่|Family relies on your partner's money|การเงิน,ขอบเขต||
+ผู้ใหญ่ช่วยไกล่เกลี่ย|An elder mediates|ผู้ใหญ่,ไกล่เกลี่ย||
+เพื่อนเป็นกาวใจ|A friend brings you back together|เพื่อน,กาวใจ||
+คนรอบตัวยุแยง|People stir up trouble|ยุแยง,มีสติ||
+คนรอบตัวอิจฉา|People around are envious|อิจฉา,ระวัง||
+ครอบครัวกำหนดฤกษ์แต่งงาน|Family sets the wedding date|ฤกษ์,ประเพณี||
+ครอบครัวอยากให้มีหลาน|Family wants grandchildren|หลาน,แรงกดดัน||
+ครอบครัวเป็นห่วงเรื่องฐานะ|Family worries about status|ฐานะ,พิสูจน์||
+ครอบครัวกังวลเรื่องศาสนา|Family worries about religion|ศาสนา,คุยกัน||
+ครอบครัวกังวลเรื่องย้ายประเทศ|Family worries about moving abroad|ย้ายประเทศ,สื่อสาร||
+ปู่ย่าตายายรักเขา|The grandparents love them|ผู้สูงอายุ,เอ็นดู||
+คนในชุมชนนินทา|The neighbours gossip|ชุมชน,ไม่สนใจ||
+เพื่อนสนิทเราไม่เห็นด้วย|Your best friend disagrees|เพื่อน,ฟัง||
+ลูกของเรายอมรับคู่ใหม่|Your child accepts a new partner|ลูก,ยอมรับ||
+ครอบครัวสองฝ่ายเข้ากันได้ดี|The families get along|ครอบครัว,ลงตัว||
+ครอบครัวสองฝ่ายขัดแย้งกัน|The families clash|ครอบครัว,ไกล่เกลี่ย||
+ครอบครัวช่วยเรื่องบ้าน|Family helps with a home|บ้าน,สนับสนุน||
+ครอบครัวช่วยเลี้ยงลูก|Family helps raise the kids|เลี้ยงลูก,ช่วยเหลือ||
+ต้องดูแลญาติที่ป่วย|Caring for a sick relative|ญาติ,ดูแล||
+มรดกครอบครัวกระทบความรัก|Inheritance affects the relationship|มรดก,ชัดเจน||
+พ่อแม่หย่าร้างมีผลต่อมุมมองรัก|Divorced parents shape your view of love|พ่อแม่,บาดแผล||
+แบบอย่างชีวิตคู่ที่ดีจากพ่อแม่|Parents as a good model|พ่อแม่,แบบอย่าง||
+ไม่มีครอบครัวให้พึ่ง|No family to lean on|ยืนเอง,สร้างครอบครัว||
+เพื่อนต่างชาติของเขา|Their foreign friends|เพื่อน,ภาษา||
+เพื่อนเพศตรงข้ามของเขา|Their friends of the gender you'd worry about|เพื่อน,ไว้ใจ||
+ครอบครัวให้เลือกเอง|Family lets you choose|อิสระ,เคารพ||
+ครอบครัวจัดคู่ให้|Family arranges a match|คลุมถุงชน,ตัดสินใจ||
+ครอบครัวอยากให้คู่ทำงานด้วยกัน|Family wants you in the family business|ธุรกิจครอบครัว,ขอบเขต||
+คนรอบตัวแนะนำคนใหม่ให้|Someone introduces a new person|แนะนำ,โอกาส||
+เพื่อนแนะนำคนดี|A friend introduces someone good|เพื่อน,โอกาส||
+ชุมชนศาสนาช่วยสนับสนุน|A faith community supports you|ชุมชน,สนับสนุน||
+ครอบครัวยอมรับเพศสภาพของคู่|Family accepts your partner's identity|เพศสภาพ,ยอมรับ||
+# บุคคลที่สาม (บวกและลบ)
+มือที่สามแอบแฝง|A hidden third party|มือที่สาม,ระวัง||
+มือที่สามเปิดเผยตัว|A third party reveals themselves|มือที่สาม,ความจริง||
+คนเก่ากลับมาแทรก|An old flame returns|คนเก่า,ขอบเขต||
+คนในที่ทำงานเข้ามาแทรก|A co-worker steps in|ที่ทำงาน,ระวัง||
+คนออนไลน์ที่คุยลับๆ|A secret online chat|ออนไลน์,ความลับ||
+คนที่แอบชอบคู่ของเรา|Someone has a crush on your partner|แอบชอบ,ไว้ใจ||
+คนที่แอบชอบเรา|Someone has a crush on you|แอบชอบ,ชัดเจน||
+เพื่อนที่ใกล้ชิดเกินขอบเขต|A friend too close for comfort|เพื่อน,ขอบเขต||
+ญาติที่คอยยุยง|A relative who stirs things up|ญาติ,สติ||
+คนที่หวังผลประโยชน์|Someone after money|ผลประโยชน์,ระวัง||
+มิจฉาชีพหลอกรักออนไลน์|An online romance scammer|มิจฉาชีพ,ตรวจสอบ||
+คนที่ทำให้คู่หึง|Someone who makes your partner jealous|หึง,โปร่งใส||
+คนที่คู่เปรียบเทียบเรา|Someone your partner compares you to|เปรียบเทียบ,คุณค่า||
+ถูกใส่ร้ายโดยบุคคลที่สาม|Slandered by a third party|ใส่ร้าย,ความจริง||
+บุคคลที่สามช่วยให้คืนดี|A third party helps you reconcile|กาวใจ,คืนดี||
+แม่สื่อที่พาให้เจอกัน|A matchmaker brings you together|แม่สื่อ,โชค||
+เพื่อนที่คอยให้คำปรึกษา|A friend who advises well|ที่ปรึกษา,มิตรภาพ||
+ผู้ใหญ่ที่คอยปกป้องความรัก|An elder protecting your love|ผู้ใหญ่,คุ้มครอง||
+นักบำบัดคู่รัก|A couples therapist|ผู้เชี่ยวชาญ,ช่วยเหลือ||
+คนที่ทำให้เห็นค่าคู่มากขึ้น|Someone who makes you value your partner more|เห็นค่า,มุมมอง||
+คนที่เปิดตาให้เห็นความจริง|Someone who opens your eyes|ความจริง,ตื่นรู้||
+คนใหม่ที่ดีกว่าเข้ามาหลังเลิก|A better person arrives after a breakup|คนใหม่,โอกาส||
+คนที่เข้ามาให้กำลังใจช่วงเจ็บ|Someone who comforts you when hurt|กำลังใจ,ระวังใจ||
+รักซ้อนที่ต้องเลือก|Two loves, one choice|เลือก,ซื่อสัตย์||
+ตัวเราเป็นบุคคลที่สาม|You are the third party|ทางเลือก,ทบทวน||
+คู่ถูกคนอื่นจีบ|Someone is pursuing your partner|ถูกจีบ,ไว้ใจ||
+คนที่ติดต่อมาบอกความลับ|Someone reveals a secret|ความลับ,ตรวจสอบ||
+เพื่อนของแฟนเก่าที่ยังส่งข่าว|An ex's friend passing on news|ข่าว,ขอบเขต||
+ลูกค้าที่ใกล้ชิดเกินไป|A client getting too close|ลูกค้า,ขอบเขต||
+หัวหน้าที่สนใจเกินงาน|A boss interested beyond work|หัวหน้า,ขอบเขต||
+คนที่ใช้ไสยศาสตร์ตามความเชื่อ|Someone said to use love magic (belief)|ไสยศาสตร์,ความเชื่อ||
+คนที่ทำให้ทะเลาะกันบ่อย|Someone who causes frequent fights|ทะเลาะ,ห่างไกล||
+คนที่พาไปในทางไม่ดี|Someone who leads you astray|ทางผิด,ห่างไกล||
+คนที่ช่วยให้เราโตขึ้น|Someone who helps you grow|เติบโต,บวก||
+คนที่ทำให้กล้าออกจากรักเก่า|Someone who helps you leave a bad love|กล้า,บวก||
+คนที่ไม่ได้ตั้งใจแทรกแต่ทำให้สะเทือน|Someone who unintentionally shakes things|ไม่ตั้งใจ,สื่อสาร||
+คนรักเก่าที่ยังเป็นเพื่อนดีกันได้|An ex who can be a good friend|แฟนเก่า,เพื่อน||
+คนที่แค่ผ่านมาไม่ต้องคิดมาก|Just passing through, don't overthink|ผ่านมา,ปล่อย||
+คนที่เข้ามาทดสอบความรัก|Someone who tests your love|ทดสอบ,มั่นคง||
+คนที่บอกว่าจะเลิกกับคู่เพื่อเรา|Someone promising to leave their partner for you|คำสัญญา,ระวัง||
+คนที่ยืนยันว่าโสดแต่ไม่ใช่|Someone claiming to be single who isn't|โกหก,ตรวจสอบ||
+คนที่ยังไม่ลืมแฟนเก่า|Someone not over their ex|แฟนเก่า,รอ||
+คนที่ต้องเลือกระหว่างเรากับครอบครัว|Someone choosing between you and family|ครอบครัว,ตัดสินใจ||
+คนที่ปรากฏในความฝัน (ความเชื่อ)|Someone who appears in a dream (belief)|ความฝัน,ความเชื่อ||
+คนที่ทำให้เข้าใจว่าเราควรได้มากกว่านี้|Someone who shows you deserve more|คุณค่า,บวก||
+คนที่ทำให้แผนแต่งงานสะดุด|Someone who disrupts wedding plans|แต่งงาน,อุปสรรค||
+คนที่ยืมเงินแล้วกระทบความรัก|A borrower who strains your relationship|เงิน,ขอบเขต||
+คนที่เข้ามาเพราะวีซ่า|Someone in it for a visa|วีซ่า,ระวัง||
+คนที่ช่วยเหลือโดยไม่หวังอะไร|Someone who helps expecting nothing|น้ำใจ,บวก||
+คนที่ทำให้หัวเราะได้อีกครั้ง|Someone who makes you laugh again|หัวเราะ,บวก||
+คนที่เราต้องขอโทษ|Someone you owe an apology|ขอโทษ,แก้ไข||
+คนที่เราต้องให้อภัย|Someone you need to forgive|อภัย,ปล่อย||
+คนที่ทำให้เราเลือกตัวเอง|Someone who makes you choose yourself|รักตัวเอง,บวก||
+คนที่ควรตัดออกจากชีวิต|Someone to cut out of your life|ตัดขาด,ปกป้องใจ||
+คนที่ควรเก็บไว้ใกล้ตัว|Someone to keep close|มิตรภาพ,มีค่า||
+คนที่แอบดูโซเชียลเรา|Someone watching your social media|โซเชียล,ความเป็นส่วนตัว||
+คนที่คู่ไม่เคยพูดถึง|Someone your partner never mentions|ความลับ,ถาม||
+คนที่คู่พูดถึงบ่อยเกินไป|Someone your partner mentions too often|สังเกต,คุยกัน||
+คนที่ทำให้กลับมาเชื่อในความรัก|Someone who restores your faith in love|ศรัทธา,บวก||
+คนที่คอยเตือนเมื่อเราหลงทางในรัก|Someone who warns you when love leads you astray|เตือนสติ,บวก||
+# เงิน บ้าน และอนาคตของคู่
+เก็บเงินแต่งงานด้วยกัน|Saving for the wedding together|เงินเก็บ,แต่งงาน||
+งบงานแต่งบานปลาย|Wedding costs balloon|งบ,วางแผน||
+ช่วยกันผ่อนบ้าน|Paying off a home together|บ้าน,ร่วมกัน||
+ซื้อรถคันแรกด้วยกัน|A first car together|รถ,เป้าหมาย||
+บัญชีร่วม|A joint account|บัญชีร่วม,ไว้ใจ||
+แยกบัญชีกันชัดเจน|Separate accounts|บัญชีแยก,ขอบเขต||
+คนหนึ่งหาเงินหลัก|One main earner|รายได้,บทบาท||
+หาเงินพอๆ กัน|Equal earners|รายได้,สมดุล||
+ทำธุรกิจด้วยกัน|Running a business together|ธุรกิจ,ขอบเขต||
+ลงทุนด้วยกัน|Investing together|ลงทุน,ตกลง||
+ค้ำประกันให้กัน|Guaranteeing each other's loans|ค้ำประกัน,ระวัง||
+ทำสัญญาก่อนสมรส|A prenuptial agreement|สัญญา,ชัดเจน||
+ทำพินัยกรรมให้กัน|Wills for each other|พินัยกรรม,มั่นคง||
+ทำประกันชีวิตให้กัน|Life insurance for each other|ประกัน,ห่วงใย||
+วางแผนมีลูก|Planning children|ลูก,วางแผน||
+ค่าเลี้ยงดูลูก|Child-raising costs|ลูก,งบ||
+วางแผนเกษียณด้วยกัน|Planning retirement together|เกษียณ,อนาคต||
+ย้ายบ้านเพื่อคู่|Moving house for your partner|ย้าย,เสียสละ||
+ย้ายงานเพื่อคู่|Changing jobs for your partner|ย้ายงาน,เสียสละ||
+ย้ายประเทศเพื่อคู่|Moving country for your partner|ย้ายประเทศ,เสียสละ||
+ส่งเงินให้ครอบครัวฝ่ายหนึ่ง|Sending money to one family|ครอบครัว,ตกลง||
+หนี้ก่อนแต่งงาน|Debts from before marriage|หนี้,เปิดเผย||
+คนหนึ่งตกงาน|One partner loses work|ตกงาน,ประคอง||
+คนหนึ่งได้เลื่อนตำแหน่ง|One partner is promoted|เลื่อนตำแหน่ง,ยินดี||
+เงินทำให้ทะเลาะกัน|Money fights|การเงิน,คุยกัน||
+เงินทำให้ใกล้ชิดกันขึ้น|Money brings you together|การเงิน,ร่วมมือ||
+ฝันถึงบ้านหลังเดียวกัน|Dreaming of the same home|บ้าน,ความฝัน||
+อยู่คอนโดด้วยกัน|Sharing a condo|คอนโด,อยู่ด้วยกัน||
+อยู่บ้านพ่อแม่ไปก่อน|Living with parents for now|บ้านพ่อแม่,ประหยัด||
+เช่าบ้านอยู่ด้วยกัน|Renting together|เช่า,เริ่มต้น||
+ทรัพย์สินก่อนสมรส|Property from before marriage|สินส่วนตัว,ชัดเจน||
+สินสมรส|Marital property|สินสมรส,กฎหมาย||
+ใช้ชีวิตเรียบง่ายด้วยกัน|A simple life together|เรียบง่าย,พอใจ||
+ใช้ชีวิตหรูหราด้วยกัน|A luxurious life together|หรูหรา,สมดุล||
+ของขวัญราคาแพง|An expensive gift|ของขวัญ,ความหมาย||
+ของขวัญเล็กๆ ที่มีความหมาย|A small meaningful gift|ของขวัญ,ใส่ใจ||
+ออกค่าเดตกันคนละครึ่ง|Splitting date costs|ค่าใช้จ่าย,เท่าเทียม||
+ฝ่ายหนึ่งเลี้ยงตลอด|One always pays|ค่าใช้จ่าย,สมดุล||
+เป้าหมายการเงินห้าปี|A five-year money goal|เป้าหมาย,อนาคต||
+มีลูกแล้วงานกับบ้านต้องแบ่ง|Splitting work and home after children|ลูก,แบ่งหน้าที่||
+คู่ช่วยดูแลพ่อแม่เราด้วยเงิน|Your partner helps your parents financially|พ่อแม่,น้ำใจ||
+เงินออมฉุกเฉินของคู่|A couple's emergency fund|เงินออม,มั่นคง||
+อนาคตยังไม่แน่นอน|An uncertain future|ไม่แน่นอน,ยืดหยุ่น||
+อนาคตสดใส|A bright future|สดใส,มั่นคง||
+วางแผนแต่งงานในปีนี้|Planning to marry this year|แต่งงาน,ปีนี้||
+แต่งงานเรียบง่ายไม่จัดใหญ่|A small, simple wedding|งานแต่ง,เรียบง่าย||
+ฮันนีมูนที่ฝันไว้|The dream honeymoon|ฮันนีมูน,ความทรงจำ||
+ต่อเติมบ้านเพื่อครอบครัว|Extending the home for family|บ้าน,ครอบครัว||
+เลี้ยงสัตว์ด้วยกัน|Getting a pet together|สัตว์เลี้ยง,ความรับผิดชอบ||
+อายุมากขึ้นด้วยกันอย่างมั่นคง|Ageing together securely|บั้นปลาย,มั่นคง||
+# วิธีเสริมดวงความรัก (ความเชื่อ)
+ไหว้พระตรีมูรติ ราชประสงค์ กรุงเทพฯ|Pray at the Trimurti Shrine, Bangkok|ความเชื่อ,ตรีมูรติ||
+ถวายกุหลาบแดงเก้าดอกแด่พระตรีมูรติ|Offer nine red roses to Trimurti|ความเชื่อ,ดอกกุหลาบ||
+ไหว้พระแม่ลักษมี|Pray to Lakshmi|ความเชื่อ,ลักษมี||
+ไหว้เจ้าแม่กวนอิมขอคู่ครองที่ดี|Ask Guanyin for a good partner|ความเชื่อ,กวนอิม||
+ไหว้เทพเจ้าแห่งความรักแบบจีน (เยว่เหล่า)|Pray to Yue Lao, the Chinese matchmaker god|ความเชื่อ,เยว่เหล่า||
+ผูกด้ายแดงตามความเชื่อจีน|Tie a red thread, a Chinese belief|ความเชื่อ,ด้ายแดง||
+ไหว้ศาลเจ้าเรื่องความรักในญี่ปุ่น (เอ็นมุสุบิ)|Visit an en-musubi love shrine in Japan|ความเชื่อ,ญี่ปุ่น||
+ทำบุญด้วยดอกไม้สีชมพู|Offer pink flowers|ความเชื่อ,สีชมพู||
+ใส่สีมงคลด้านความรักตามวันเกิด|Wear your birth-day love colour|ความเชื่อ,สีมงคล||
+พกเครื่องรางเมตตามหานิยม|Carry a charm for charisma|ความเชื่อ,เมตตามหานิยม||
+สวดคาถาเมตตามหานิยม|Chant a charisma verse|ความเชื่อ,คาถา||
+ทำบุญร่วมกันเป็นคู่|Make merit together as a couple|ความเชื่อ,ร่วมบุญ||
+อธิษฐานขอคู่ที่เหมาะสม|Pray for a suitable partner|ความเชื่อ,อธิษฐาน||
+ปล่อยปลาคู่|Release a pair of fish|ความเชื่อ,คู่||
+ปลูกต้นไม้มงคลด้านความรัก|Plant a love-luck tree|ความเชื่อ,ไม้มงคล||
+จัดห้องนอนตามฮวงจุ้ยด้านความรัก|Arrange the bedroom by feng shui for love|ความเชื่อ,ฮวงจุ้ย||
+วางของเป็นคู่ในห้องนอน|Keep things in pairs in the bedroom|ความเชื่อ,ฮวงจุ้ย||
+เคลียร์ของแฟนเก่าออกจากบ้าน|Clear an ex's things from home|ความเชื่อ,เริ่มใหม่||
+ทำความสะอาดมุมความรักของบ้าน|Clean the love corner of the house|ความเชื่อ,ฮวงจุ้ย||
+เลือกวันดีขอแต่งงาน|Propose on an auspicious day|ความเชื่อ,ฤกษ์||
+ดูฤกษ์แต่งงาน|Choose a wedding date by astrology|ความเชื่อ,ฤกษ์||
+ดูดวงสมพงศ์ก่อนคบ|Check compatibility before dating|ความเชื่อ,ดวงสมพงศ์||
+ใส่น้ำหอมกลิ่นที่ทำให้มั่นใจ|Wear a scent that makes you confident|แนวปฏิบัติ,มั่นใจ||
+ดูแลรูปลักษณ์ให้สดใส|Keep your look bright|แนวปฏิบัติ,เสน่ห์||
+ยิ้มให้บ่อยขึ้น|Smile more|แนวปฏิบัติ,เสน่ห์||
+ออกไปในที่ที่คนชอบเหมือนกันอยู่|Go where people with your interests go|แนวปฏิบัติ,โอกาส||
+เข้าร่วมกิจกรรมอาสา|Join volunteer activities|แนวปฏิบัติ,พบคนดี||
+ให้เพื่อนแนะนำคนดีๆ|Let friends introduce someone|แนวปฏิบัติ,เครือข่าย||
+เปิดโปรไฟล์หาคู่อย่างจริงใจ|An honest dating profile|แนวปฏิบัติ,จริงใจ||
+ทำบุญอุทิศให้เจ้ากรรมนายเวรด้านความรัก|Dedicate merit to karmic creditors in love|ความเชื่อ,คลายกรรม||
+ไหว้พระประจำวันเกิดของคู่|Pray to your partner's birth-day Buddha|ความเชื่อ,วันเกิด||
+ใส่บาตรร่วมกันในวันครบรอบ|Give alms together on an anniversary|ความเชื่อ,ครบรอบ||
+เขียนคำอธิษฐานถึงคนที่รอ|Write a wish for the one you're waiting for|ความเชื่อ,อธิษฐาน||
+ขอพรพ่อแม่ก่อนเริ่มรักใหม่|Ask parents' blessing before a new love|ความเชื่อ,พรพ่อแม่||
+ทำบุญวันวาเลนไทน์|Make merit on Valentine's Day|ความเชื่อ,วาเลนไทน์||
+แขวนกระดิ่งหรือโมบายเสียงใสที่ประตู|Hang a clear-sounding chime by the door|ความเชื่อ,ฮวงจุ้ย||
+พกหินโรสควอตซ์ตามความเชื่อ|Carry rose quartz (belief)|ความเชื่อ,หินมงคล||
+ปักธูปเลขคู่ตามความเชื่อจีน|Even-numbered incense, a Chinese belief|ความเชื่อ,จีน||
+ไหว้พระจันทร์ตามความเชื่อเรื่องรัก|Moon-worship for love, a folk belief|ความเชื่อ,พระจันทร์||
+ลอยกระทงคู่|Float a krathong together|ความเชื่อ,ลอยกระทง||
+อธิษฐานใต้ต้นไม้ศักดิ์สิทธิ์|Pray beneath a sacred tree|ความเชื่อ,ต้นไม้||
+ถวายผ้าสีแดงแด่องค์เทพ|Offer red cloth to a deity|ความเชื่อ,ผ้าแดง||
+ทำทานให้คู่รักที่ลำบาก|Help a struggling couple|ความเชื่อ,ทาน||
+สวดมนต์แผ่เมตตาถึงคนที่รัก|Send loving-kindness to your love|ความเชื่อ,เมตตา||
+บอกขอบคุณคนรักทุกวัน|Thank your partner daily|แนวปฏิบัติ,ขอบคุณ||
+เขียนจดหมายรักด้วยมือ|Write a love letter by hand|แนวปฏิบัติ,โรแมนติก||
+ปรุงอาหารที่คู่ชอบ|Cook their favourite dish|แนวปฏิบัติ,ใส่ใจ||
+ไปวัดที่เคยไปด้วยกันครั้งแรก|Return to the first temple you visited together|ความเชื่อ,ความทรงจำ||
+ใช้เลขมงคลคู่ในวันสำคัญ|Lucky paired numbers on big days|ความเชื่อ,เลขมงคล||
+ตั้งรูปคู่ในมุมที่สว่างของบ้าน|Display a couple photo in a bright spot|ความเชื่อ,ฮวงจุ้ย||
+ผูกข้อมือรับขวัญกันและกัน|Tie blessing threads for each other|ความเชื่อ,สู่ขวัญ||
+ทำบุญด้วยของหวานให้ความรักหวาน|Give sweets as merit for a sweet love|ความเชื่อ,ขนมหวาน||
+ฝึกพูดคำดีกับตัวเองทุกเช้า|Kind words to yourself each morning|แนวปฏิบัติ,มั่นใจ||
+ไปเที่ยวทะเลด้วยกันเพื่อเติมพลังรัก|A seaside trip to recharge love|แนวปฏิบัติ,เติมพลัง||
+ปลูกต้นไม้ด้วยกันในวันครบรอบ|Plant a tree together on an anniversary|ความเชื่อ,เติบโต||
+จุดเทียนอธิษฐานคู่กัน|Light candles and pray together|ความเชื่อ,อธิษฐาน||
+เคารพสิ่งศักดิ์สิทธิ์ที่คู่นับถือ|Respect what your partner holds sacred|แนวปฏิบัติ,เคารพ||
+ขอขมาคนเก่าในใจก่อนเริ่มใหม่|Make inner peace with a past love first|ความเชื่อ,ปล่อยวาง||
+ใส่เครื่องประดับคู่|Matching jewellery|ความเชื่อ,คู่||
+ไหว้พระขอพรเรื่องคู่ที่วัดในวันเกิด|Pray for love at a temple on your birthday|ความเชื่อ,วันเกิด||
+# วิธีแก้เคล็ดความรัก (ความเชื่อ)
+แก้เคล็ดด้วยการทำบุญสะเดาะเคราะห์ความรัก|Ease love misfortune through merit|ความเชื่อ,สะเดาะเคราะห์||
+แก้ปีชงก่อนแต่งงาน|Address a clash year before marrying|ความเชื่อ,ปีชง||
+เลื่อนฤกษ์แต่งงานเมื่อดวงชง|Postpone a wedding in a clash year|ความเชื่อ,ฤกษ์||
+เปลี่ยนเบอร์โทรศัพท์ให้เป็นมงคล|Change to an auspicious phone number|ความเชื่อ,เลขมงคล||
+เปลี่ยนชื่อเล่นตามหลักมงคล|Change nickname by auspicious rules|ความเชื่อ,ชื่อมงคล||
+ทิ้งของขวัญจากคนเก่าที่ทำร้าย|Let go of gifts from someone who hurt you|ความเชื่อ,ตัดขาด||
+ไม่ให้ของมีคมเป็นของขวัญคู่รัก|Don't give sharp things to a partner|ความเชื่อ,ข้อห้าม||
+ไม่ให้รองเท้าเป็นของขวัญคนรัก|Don't give shoes to a lover (Thai belief)|ความเชื่อ,ข้อห้าม||
+ไม่ให้นาฬิกาเป็นของขวัญตามความเชื่อจีน|Don't give clocks (Chinese belief)|ความเชื่อ,ข้อห้าม||
+ไม่ทะเลาะกันก่อนนอน|Don't go to bed angry|แนวปฏิบัติ,ใจเย็น||
+เปลี่ยนผ้าปูที่นอนใหม่หลังเลิกรา|New bed linen after a breakup|ความเชื่อ,เริ่มใหม่||
+ย้ายเตียงไม่ให้ชิดผนังด้านเดียว|Move the bed off one wall|ความเชื่อ,ฮวงจุ้ย||
+เอากระจกออกจากหัวเตียง|Remove the mirror facing the bed|ความเชื่อ,ฮวงจุ้ย||
+เลิกเก็บรูปแฟนเก่าในโทรศัพท์|Delete an ex's photos|แนวปฏิบัติ,ก้าวต่อ||
+บล็อกช่องทางคนที่ทำร้าย|Block someone who hurts you|แนวปฏิบัติ,ปกป้อง||
+ทำบุญให้คนรักเก่าแล้วปล่อยวาง|Make merit for an old love, then let go|ความเชื่อ,ปล่อยวาง||
+ขอขมาเจ้ากรรมนายเวรด้านคู่ครอง|Ask forgiveness of karmic creditors in love|ความเชื่อ,ขอขมา||
+ล้างหน้าด้วยน้ำมนต์ก่อนนัดสำคัญ|Wash with holy water before a big date|ความเชื่อ,น้ำมนต์||
+ห้ามขอแต่งงานในวันที่ทะเลาะ|Never propose on a day you've fought|ความเชื่อ,จังหวะ||
+คืนแหวนที่ไม่ได้ใช้|Return a ring you no longer use|ความเชื่อ,เคลียร์||
+เผาจดหมายที่ทำให้เจ็บอย่างปลอดภัย|Safely burn letters that hurt|ความเชื่อ,ปล่อยวาง||
+ไม่พูดถึงคนอื่นต่อหน้าคู่บ่อยๆ|Don't keep mentioning others|แนวปฏิบัติ,ให้เกียรติ||
+ตั้งกติกาทะเลาะอย่างปลอดภัย|Agree rules for safe arguing|แนวปฏิบัติ,กติกา||
+พาไปไหว้พระด้วยกันหลังทะเลาะ|Visit a temple together after a fight|ความเชื่อ,คืนดี||
+แก้บนที่เคยบนเรื่องความรัก|Repay a love vow|ความเชื่อ,แก้บน||
+ไม่บนบานเรื่องความรักเกินตัว|Don't make love vows you can't keep|ความเชื่อ,สัจจะ||
+ไม่ใช้ไสยศาสตร์บังคับใจคน|Never use magic to force someone's heart|ความเชื่อ,เคารพ||
+คืนของที่หยิบมาจากบ้านแฟนเก่า|Return things from an ex's home|ความเชื่อ,เคลียร์||
+เปลี่ยนสีวอลเปเปอร์โทรศัพท์ตามวัน|Change phone wallpaper by day colour|ความเชื่อ,สีมงคล||
+ไม่วางรองเท้าไว้ข้างเตียง|Don't leave shoes by the bed|ความเชื่อ,ฮวงจุ้ย||
+ไม่เก็บต้นไม้แห้งตายในห้องนอน|No dead plants in the bedroom|ความเชื่อ,ฮวงจุ้ย||
+ไม่ตัดผมช่วงวันที่ดวงไม่ดี|No haircut on an unlucky day|ความเชื่อ,วันห้าม||
+ใส่สีที่ส่งเสริมตามวันนัด|Wear the right colour for the date's day|ความเชื่อ,สีมงคล||
+ไม่ให้ยืมเงินกันจำนวนมากช่วงคบใหม่|No big loans early in dating|แนวปฏิบัติ,ระวัง||
+ตรวจสอบตัวตนก่อนโอนเงินให้คนรักออนไลน์|Verify before sending money to an online love|ข้อเท็จจริง,มิจฉาชีพ||
+ไปปรึกษาผู้เชี่ยวชาญแทนการพึ่งเคล็ดอย่างเดียว|See a counsellor, not only rituals|ข้อเท็จจริง,ผู้เชี่ยวชาญ||
+กราบขอขมาพ่อแม่ที่เคยขัดใจเรื่องคู่|Ask parents' pardon for past conflict over a partner|ความเชื่อ,ขอขมา||
+ทำบุญให้สัตว์ที่เคยทำร้าย|Make merit for animals you've harmed|ความเชื่อ,คลายกรรม||
+ย้ายของขวัญคนเก่าออกจากมุมความรัก|Move an ex's gifts out of the love corner|ความเชื่อ,ฮวงจุ้ย||
+เปลี่ยนรหัสผ่านที่เป็นวันเกิดคนเก่า|Change passwords tied to an ex's birthday|แนวปฏิบัติ,ก้าวต่อ||
+ไม่ส่องโซเชียลแฟนเก่า|Stop checking an ex's social media|แนวปฏิบัติ,ก้าวต่อ||
+ปิดแจ้งเตือนช่วงเยียวยาใจ|Mute notifications while healing|แนวปฏิบัติ,พักใจ||
+สวดมนต์ก่อนนอนเมื่อฝันถึงคนเก่า|Chant before sleep when dreaming of an ex|ความเชื่อ,ใจสงบ||
+ไม่เล่าเรื่องคู่ให้คนนอกฟังทุกเรื่อง|Don't share every couple matter outside|แนวปฏิบัติ,เป็นส่วนตัว||
+แก้เคล็ดชื่อคู่ที่เขียนรวมกันด้วยการทำบุญ|Merit to ease worries about matched names|ความเชื่อ,ชื่อ||
+ไม่ใส่สีดำล้วนไปงานแต่งตามธรรมเนียมไทย|Avoid all-black at a Thai wedding|ความเชื่อ,ธรรมเนียม||
+ไม่ขอแต่งงานในเดือนที่ครอบครัวถือ|Avoid months the family considers unlucky|ความเชื่อ,ธรรมเนียม||
+ปรับทิศหัวนอนเพื่อนอนหลับร่วมกันได้ดี|Turn the bed for better shared sleep|ความเชื่อ,ทิศ||
+หาเวลาเงียบด้วยกันหลังทะเลาะ|Quiet time together after a fight|แนวปฏิบัติ,คืนดี||
+ไม่ข้ามหัวคู่ตามความเชื่อไทย|Don't step over your partner's head (Thai belief)|ความเชื่อ,ให้เกียรติ||
+# ช่องทางพบเจอและระยะทาง
+เจอกันที่ทำงาน|Meeting at work|ที่ทำงาน,พบเจอ||
+เจอกันที่สถานศึกษา|Meeting at school|สถานศึกษา,พบเจอ||
+เจอกันในงานแต่งเพื่อน|Meeting at a friend's wedding|งานแต่ง,พบเจอ||
+เจอกันที่วัดหรือศาสนสถาน|Meeting at a place of worship|ศาสนสถาน,พบเจอ||
+เจอกันระหว่างเดินทาง|Meeting while travelling|เดินทาง,พบเจอ||
+เจอกันในต่างประเทศ|Meeting abroad|ต่างประเทศ,พบเจอ||
+เจอกันผ่านแอปหาคู่|Meeting on a dating app|แอปหาคู่,ระวัง||
+เจอกันผ่านเกมออนไลน์|Meeting in an online game|เกม,ออนไลน์||
+เจอกันผ่านโซเชียลมีเดีย|Meeting on social media|โซเชียล,ตรวจสอบ||
+เจอกันในกลุ่มงานอดิเรก|Meeting in a hobby group|งานอดิเรก,พบเจอ||
+เจอกันที่ฟิตเนส|Meeting at the gym|ฟิตเนส,พบเจอ||
+เจอกันที่ร้านกาแฟประจำ|Meeting at your regular café|ร้านกาแฟ,บังเอิญ||
+เจอกันในงานอาสา|Meeting while volunteering|อาสา,พบเจอ||
+เพื่อนแนะนำให้รู้จัก|Introduced by a friend|เพื่อน,แนะนำ||
+ญาติแนะนำให้รู้จัก|Introduced by a relative|ญาติ,แนะนำ||
+เจอกันซ้ำโดยบังเอิญ|Repeated chance meetings|บังเอิญ,พรหมลิขิต||
+คนข้างบ้าน|The neighbour|ข้างบ้าน,ใกล้ตัว||
+คนที่รู้จักมานานแต่เพิ่งเห็นค่า|Someone long known, newly seen|คนคุ้นเคย,เห็นค่า||
+คนที่เคยเรียนด้วยกันสมัยเด็ก|A childhood classmate|เพื่อนเก่า,ย้อนวัย||
+คนที่เจอในช่วงเวลายากลำบาก|Someone met in hard times|ยากลำบาก,ผูกพัน||
+อยู่คนละจังหวัด|Different provinces|ระยะทาง,จังหวัด||
+อยู่คนละประเทศ|Different countries|ระยะทาง,ประเทศ||
+อยู่ใกล้แต่ไม่ค่อยเจอ|Close but rarely meeting|ใกล้,ให้เวลา||
+เจอกันแค่วันหยุด|Only on weekends|วันหยุด,คุณภาพเวลา||
+คุยกันทางวิดีโอทุกคืน|Video calls every night|วิดีโอคอล,สม่ำเสมอ||
+ส่งจดหมายหรือของขวัญข้ามประเทศ|Mail and gifts across borders|ของขวัญ,คิดถึง||
+บินไปหากัน|Flying to see each other|เดินทาง,ลงทุน||
+นัดเจอกันครึ่งทาง|Meeting halfway|ครึ่งทาง,ประนีประนอม||
+วางแผนย้ายมาอยู่ใกล้กัน|Planning to live closer|ย้าย,วางแผน||
+ระยะทางพิสูจน์ใจ|Distance proves the heart|ระยะทาง,พิสูจน์||
+ระยะทางทำให้ห่างเหิน|Distance pulls you apart|ระยะทาง,ห่างเหิน||
+คนรักทำงานบนเรือหรือเดินทางบ่อย|A partner at sea or always travelling|เดินทาง,อดทน||
+คนรักรับราชการทหารหรือประจำการไกล|A partner posted far away|ประจำการ,อดทน||
+เจอกันตอนอายุมากแล้ว|Meeting later in life|วัย,ไม่สาย||
+เจอกันตอนยังเด็กแล้วกลับมาเจอใหม่|Meeting young, reunited later|กลับมาเจอ,พรหมลิขิต||
+เจอกันในงานบุญ|Meeting at a merit-making event|งานบุญ,มงคล||
+เจอกันที่งานคอนเสิร์ต|Meeting at a concert|คอนเสิร์ต,สนุก||
+เจอกันผ่านการทำงานออนไลน์|Meeting through online work|ออนไลน์,ทำงาน||
+เจอกันเพราะสัตว์เลี้ยง|Meeting through pets|สัตว์เลี้ยง,บังเอิญ||
+เจอกันในช่วงเรียนภาษา|Meeting in a language class|เรียนภาษา,พบเจอ||

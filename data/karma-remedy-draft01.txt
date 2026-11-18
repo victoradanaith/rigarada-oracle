@@ -1,0 +1,508 @@
+# ทำบุญและทำทาน (ความเชื่อไทยพุทธ)
+ใส่บาตรพระตอนเช้า|Give morning alms|ความเชื่อ,ใส่บาตร||
+ใส่บาตรตามวันเกิด|Give alms on your birth weekday|ความเชื่อ,วันเกิด||
+ใส่บาตรพระเก้ารูป|Give alms to nine monks|ความเชื่อ,เลขมงคล||
+ตักบาตรเทโวในวันออกพรรษา|Join the Tak Bat Devo alms at the end of Lent|ความเชื่อ,ออกพรรษา||
+ถวายสังฆทาน|Offer sangha dana|ความเชื่อ,สังฆทาน||
+ถวายสังฆทานยารักษาโรค|Offer medicine as sangha dana|ความเชื่อ,สุขภาพ||
+ถวายภัตตาหารเพล|Offer the midday meal to monks|ความเชื่อ,ภัตตาหาร||
+ถวายน้ำปานะ|Offer afternoon drinks to monks|ความเชื่อ,น้ำปานะ||
+ถวายผ้าไตรจีวร|Offer monk's robes|ความเชื่อ,ผ้าไตร||
+ถวายเทียนพรรษา|Offer a Buddhist Lent candle|ความเชื่อ,เข้าพรรษา||
+ถวายผ้าอาบน้ำฝน|Offer rain-bathing cloths|ความเชื่อ,เข้าพรรษา||
+ทอดกฐิน|Hold a kathina offering|ความเชื่อ,กฐิน||
+ทอดผ้าป่า|Hold a pha pa offering|ความเชื่อ,ผ้าป่า||
+ถวายหลอดไฟและไฟฟ้าแก่วัด|Give lighting to a temple|ความเชื่อ,แสงสว่าง||
+ถวายน้ำมันตะเกียงบูชาพระ|Offer lamp oil|ความเชื่อ,แสงสว่าง||
+ถวายดอกไม้ธูปเทียน|Offer flowers, incense and candles|ความเชื่อ,บูชา||
+ถวายพระพุทธรูปประจำวันเกิด|Offer a birth-day Buddha image|ความเชื่อ,พระประจำวันเกิด||
+ร่วมสร้างพระประธาน|Help fund a main Buddha image|ความเชื่อ,บุญใหญ่||
+ร่วมสร้างโบสถ์|Help build an ordination hall|ความเชื่อ,บุญใหญ่||
+ร่วมบูรณะวัดเก่า|Help restore an old temple|ความเชื่อ,บูรณะ||
+ปิดทองพระพุทธรูป|Apply gold leaf to a Buddha image|ความเชื่อ,ปิดทอง||
+ปิดทองหลังพระ|Do good quietly|ความเชื่อ,ไม่หวังผล||
+ร่วมหล่อพระ|Join a Buddha image casting|ความเชื่อ,หล่อพระ||
+ถวายที่ดินสร้างวัด|Give land for a temple|ความเชื่อ,บุญใหญ่||
+ถวายอาหารแก่แม่ชี|Give food to nuns|ความเชื่อ,ทาน||
+ทำบุญเลี้ยงพระที่บ้าน|Host monks for a house blessing meal|ความเชื่อ,บ้าน||
+ทำบุญวันเกิดที่วัด|Make merit at a temple on your birthday|ความเชื่อ,วันเกิด||
+ทำบุญอุทิศให้บรรพบุรุษ|Make merit for ancestors|ความเชื่อ,บรรพบุรุษ||
+ทำบุญอุทิศให้เจ้ากรรมนายเวร|Make merit for karmic creditors|ความเชื่อ,เจ้ากรรมนายเวร||
+ทำบุญอุทิศให้ทารกที่ไม่ได้เกิด|Make merit for an unborn child|ความเชื่อ,ขอขมา||
+ทำบุญโลงศพให้ศพไร้ญาติ|Donate coffins for the unclaimed dead|ความเชื่อ,ศพไร้ญาติ||
+บริจาคให้มูลนิธิช่วยศพไร้ญาติ|Give to a foundation for the unclaimed dead|ความเชื่อ,มูลนิธิ||
+ไถ่ชีวิตโคกระบือ|Redeem cattle from slaughter|ความเชื่อ,ชีวิต||
+ปล่อยปลาในแหล่งน้ำที่ปลอดภัย|Release fish into safe water|ความเชื่อ,ปล่อยสัตว์||
+ปล่อยนกปล่อยปลาอย่างรับผิดชอบ|Release animals responsibly|ความเชื่อ,ไม่ทำร้ายระบบนิเวศ||
+ให้อาหารสัตว์จรจัด|Feed stray animals|ความเชื่อ,เมตตา||
+รับเลี้ยงสัตว์จากศูนย์พักพิง|Adopt from a shelter|แนวปฏิบัติ,สัตว์||
+บริจาคโลหิต|Give blood|ข้อเท็จจริง,ช่วยชีวิตได้จริง||
+บริจาคอวัยวะ|Pledge organ donation|ข้อเท็จจริง,ช่วยชีวิตได้จริง||
+บริจาคร่างกายให้โรงเรียนแพทย์|Donate your body to medical education|ข้อเท็จจริง,การศึกษา||
+บริจาคดวงตา|Pledge eye donation|ข้อเท็จจริง,สภากาชาด||
+บริจาคให้โรงพยาบาลรัฐ|Give to a public hospital|แนวปฏิบัติ,สุขภาพ||
+บริจาคทุนการศึกษา|Fund a scholarship|แนวปฏิบัติ,การศึกษา||
+บริจาคหนังสือให้โรงเรียนห่างไกล|Send books to remote schools|แนวปฏิบัติ,ความรู้||
+บริจาคเสื้อผ้าที่ยังใช้ได้|Donate usable clothes|แนวปฏิบัติ,แบ่งปัน||
+บริจาคอาหารให้ธนาคารอาหาร|Give to a food bank|แนวปฏิบัติ,อาหาร||
+เลี้ยงอาหารเด็กกำพร้า|Feed orphans|ความเชื่อ,เด็ก||
+เลี้ยงอาหารผู้สูงอายุ|Feed elders in care|ความเชื่อ,ผู้สูงอายุ||
+ตั้งโรงทานในงานบุญ|Run a free food stall at a festival|ความเชื่อ,โรงทาน||
+แจกน้ำดื่มให้คนเดินทาง|Hand out water to travellers|ความเชื่อ,น้ำ||
+พิมพ์หนังสือสวดมนต์แจก|Print chant books to give away|ความเชื่อ,ธรรมทาน||
+ให้ธรรมะเป็นทาน|Share the Dhamma|ความเชื่อ,ธรรมทาน||
+ให้อภัยเป็นทาน|Give forgiveness as a gift|ความเชื่อ,อภัยทาน||
+ให้ความรู้เป็นทาน|Teach for free|แนวปฏิบัติ,วิทยาทาน||
+ช่วยแรงงานในงานวัด|Volunteer at a temple fair|แนวปฏิบัติ,แรงกาย||
+ทำความสะอาดวัด|Clean a temple|ความเชื่อ,ความสะอาด||
+ล้างห้องน้ำวัด|Clean temple toilets|ความเชื่อ,ลดอัตตา||
+กวาดลานเจดีย์|Sweep around a stupa|ความเชื่อ,ใจเบา||
+ปลูกต้นโพธิ์ในวัด|Plant a bodhi tree at a temple|ความเชื่อ,ร่มเย็น||
+ปลูกต้นไม้ในที่สาธารณะ|Plant trees in public spaces|แนวปฏิบัติ,ธรรมชาติ||
+ทำบุญสะพานหรือถนนในชุมชน|Help build a community path or bridge|ความเชื่อ,สาธารณประโยชน์||
+ช่วยค่ารักษาผู้ป่วยยากไร้|Help a poor patient's medical bills|แนวปฏิบัติ,สุขภาพ||
+ช่วยค่าเทอมเด็กที่ขาดแคลน|Pay a needy child's school fees|แนวปฏิบัติ,การศึกษา||
+จ้างงานคนที่กำลังลำบาก|Hire someone who is struggling|แนวปฏิบัติ,โอกาส||
+อุดหนุนร้านคนตัวเล็ก|Buy from small local sellers|แนวปฏิบัติ,ชุมชน||
+คืนเงินที่ยืมมาให้ครบ|Repay what you borrowed|แนวปฏิบัติ,หนี้||
+ชดใช้ความเสียหายที่เคยทำ|Repair damage you caused|แนวปฏิบัติ,ชดใช้||
+ทำบุญด้วยเงินที่หามาสุจริต|Give with honestly earned money|ความเชื่อ,สุจริต||
+ทำบุญโดยไม่โพสต์อวด|Give without posting about it|ความเชื่อ,ไม่หวังผล||
+กรวดน้ำหลังทำบุญทุกครั้ง|Pour water to dedicate merit each time|ความเชื่อ,กรวดน้ำ||
+# บทสวดมนต์และพระคาถา (ความเชื่อ)
+บทนะโม ตัสสะ ก่อนสวดทุกครั้ง|Namo Tassa before every chant|ความเชื่อ,เริ่มต้น||
+ไตรสรณคมน์ เพื่อตั้งหลักใจ|The Three Refuges, to steady the mind|ความเชื่อ,ที่พึ่ง||
+บทสรรเสริญพุทธคุณ (อิติปิโส) เพื่อใจสงบ|Itipiso, praise of the Buddha, for calm|ความเชื่อ,ใจสงบ||
+สวดอิติปิโสเท่าอายุบวกหนึ่ง เพื่อต่อดวง|Itipiso as many times as your age plus one, believed to renew luck|ความเชื่อ,ต่อดวง||
+พระคาถาชินบัญชร เพื่อคุ้มครองตัว|Chinabanchon verses, believed protective|ความเชื่อ,สมเด็จโต||
+บทพาหุงมหากา เพื่อชนะอุปสรรค|Bahum Mahaka, believed to overcome obstacles|ความเชื่อ,ชัยชนะ||
+บทมหาการุณิโก เพื่อความสำเร็จ|Maha Karuniko, for success|ความเชื่อ,ชยปริตร||
+บทชุมนุมเทวดา ก่อนเริ่มสวด|Invitation to the devas before chanting|ความเชื่อ,เทวดา||
+กรณียเมตตสูตร เพื่อเมตตาและไม่มีภัย|Karaniya Metta Sutta, for loving-kindness|ความเชื่อ,เมตตา||
+มงคลสูตร เพื่อชีวิตที่เป็นมงคล|Mangala Sutta, for a blessed life|ความเชื่อ,มงคล||
+รัตนสูตร เพื่อขจัดภัยและโรค|Ratana Sutta, believed to ward off danger and disease|ความเชื่อ,ขจัดภัย||
+ขันธปริตร เพื่อป้องกันสัตว์มีพิษ|Khandha Paritta, believed to guard against venomous creatures|ความเชื่อ,ปลอดภัย||
+โมรปริตร เพื่อความปลอดภัยเช้าเย็น|Mora Paritta, for safety morning and evening|ความเชื่อ,ปลอดภัย||
+วัฏฏกปริตร เพื่อป้องกันอัคคีภัย|Vattaka Paritta, believed to guard against fire|ความเชื่อ,ไฟ||
+อังคุลิมาลปริตร เพื่อการคลอดราบรื่น|Angulimala Paritta, believed to ease childbirth|ความเชื่อ,คลอดลูก||
+โพชฌังคปริตร เพื่อหายป่วย|Bojjhanga Paritta, believed to aid recovery|ความเชื่อ,สุขภาพ||
+อาฏานาฏิยปริตร เพื่อป้องกันสิ่งไม่ดี|Atanatiya Paritta, believed to protect from harm|ความเชื่อ,คุ้มครอง||
+ธชัคคสูตร เพื่อคลายความกลัว|Dhajagga Sutta, to ease fear|ความเชื่อ,คลายกลัว||
+ธัมมจักกัปปวัตตนสูตร เพื่อปัญญา|Dhammacakkappavattana Sutta, for wisdom|ความเชื่อ,ปัญญา||
+อนัตตลักขณสูตร เพื่อปล่อยวาง|Anattalakkhana Sutta, for letting go|ความเชื่อ,ปล่อยวาง||
+บทแผ่เมตตาให้ตนเอง|Loving-kindness for yourself|ความเชื่อ,เมตตาตัวเอง||
+บทแผ่เมตตาให้สรรพสัตว์|Loving-kindness for all beings|ความเชื่อ,เมตตา||
+บทกรวดน้ำอิมินา เพื่ออุทิศส่วนกุศล|Imina verse to dedicate merit|ความเชื่อ,กรวดน้ำ||
+บทกรวดน้ำให้เจ้ากรรมนายเวร|Dedication to karmic creditors|ความเชื่อ,คลายกรรม||
+บทขอขมาพระรัตนตรัย|Asking forgiveness of the Triple Gem|ความเชื่อ,ขอขมา||
+บทขอขมาพ่อแม่|Asking forgiveness of parents|ความเชื่อ,กตัญญู||
+คาถาบูชาพระสีวลี เพื่อโชคลาภ|Verse to Phra Sivali, believed to bring fortune|ความเชื่อ,โชคลาภ||
+คาถาบูชาท้าวเวสสุวรรณ เพื่อปกป้อง|Verse to Vessavana, believed protective|ความเชื่อ,คุ้มครอง||
+คาถาหลวงปู่ทวด เพื่อแคล้วคลาด|Luang Pu Thuat's verse, believed to keep you safe|ความเชื่อ,แคล้วคลาด||
+พระคาถามหาจักรพรรดิ เพื่อบารมี|Maha Chakkraphat verse, for standing|ความเชื่อ,หลวงปู่ดู่||
+บทโพธิบาท เพื่อป้องกันภัยรอบทิศ|Bodhibat verses, believed to protect all directions|ความเชื่อ,ทิศ||
+ยอดพระกัณฑ์ไตรปิฎก เพื่อสะเดาะเคราะห์|Yot Phra Kan Traipidok, believed to ease misfortune|ความเชื่อ,สะเดาะเคราะห์||
+บทสวดพระประจำวันเกิด|Chant for your birth-day Buddha|ความเชื่อ,วันเกิด||
+คาถาบูชาพระราหู เพื่อคลายเคราะห์|Verse to Rahu, believed to ease bad luck|ความเชื่อ,ราหู||
+คาถาบูชาพระแม่ธรณี|Verse to Mother Earth|ความเชื่อ,แผ่นดิน||
+คาถาบูชาแม่โพสพ เพื่อข้าวของไม่ขาด|Verse to Mae Phosop, the rice spirit|ความเชื่อ,อาหาร||
+คาถาบูชาเจ้าที่ก่อนเข้าบ้านใหม่|Verse to the land spirit before moving in|ความเชื่อ,บ้านใหม่||
+คาถาบูชาพระพิฆเนศ (โอม ศรี คเณศายะ นะมะห์)|Om Shri Ganeshaya Namah|ความเชื่อ,เริ่มต้นสิ่งใหม่||
+คาถาบูชาพระแม่กวนอิม|Prayer to Guanyin|ความเชื่อ,เมตตา||
+คาถาบูชาพระพรหม|Prayer to Brahma|ความเชื่อ,พร||
+ภาวนา พุทโธ ระหว่างวัน|Repeat "Buddho" through the day|ความเชื่อ,สติ||
+สวดมนต์ก่อนนอนสิบนาที|Ten minutes of chanting before bed|ความเชื่อ,นอนหลับ||
+สวดมนต์ข้ามปีที่วัด|New Year's Eve chanting at a temple|ความเชื่อ,ปีใหม่||
+สวดมนต์พร้อมครอบครัว|Chant together as a family|ความเชื่อ,ครอบครัว||
+ฟังสวดมนต์ระหว่างเดินทาง|Listen to chanting while travelling|ความเชื่อ,เดินทาง||
+สวดมนต์ต่อเนื่องเก้าวัน|Nine days of chanting|ความเชื่อ,ตั้งใจ||
+สวดมนต์ในวันเกิดของตัวเอง|Chant on your birthday|ความเชื่อ,วันเกิด||
+สวดมนต์ให้คนป่วย|Chant for someone who is ill|ความเชื่อ,ส่งกำลังใจ||
+สวดมนต์ให้คนที่จากไป|Chant for someone who has died|ความเชื่อ,อุทิศ||
+สวดมนต์ก่อนสอบหรือสัมภาษณ์|Chant before an exam or interview|ความเชื่อ,ตั้งสติ||
+ฟังเทศน์มหาชาติ|Hear the Vessantara Jataka sermon|ความเชื่อ,บุญมหาชาติ||
+อ่านพระสูตรวันละหน้า|Read a page of a sutta each day|ความเชื่อ,ปัญญา||
+คัดบทสวดด้วยลายมือ|Copy a chant by hand|ความเชื่อ,สมาธิ||
+ท่องบทสวดให้จำได้หนึ่งบท|Learn one chant by heart|ความเชื่อ,ความตั้งใจ||
+สวดมนต์ออนไลน์ร่วมกับวัด|Join a temple's online chanting|ความเชื่อ,ชุมชน||
+สวดมนต์แปลไทยให้เข้าใจความหมาย|Chant in Thai translation to understand it|ความเชื่อ,เข้าใจ||
+สวดมนต์แล้วอธิษฐานสั้นๆ|Chant, then make one short wish|ความเชื่อ,อธิษฐาน||
+สวดมนต์แล้วนั่งเงียบห้านาที|Chant, then sit quietly five minutes|ความเชื่อ,สงบ||
+สวดมนต์ไม่ต้องยาว แต่ทำทุกวัน|Chant short but daily|ความเชื่อ,สม่ำเสมอ||
+บทสวดถวายพรพระ (อิติปิ โส ถึง สุปฏิปันโน)|The full Triple Gem recollection|ความเชื่อ,พระรัตนตรัย||
+# ศีล สมาธิ และการปฏิบัติดี
+รักษาศีลห้าหนึ่งเดือน|Keep the Five Precepts for a month|ความเชื่อ,ศีล||
+ถือศีลแปดในวันพระ|Keep eight precepts on holy days|ความเชื่อ,ศีลแปด||
+งดเหล้าเข้าพรรษา|Give up alcohol for Lent|แนวปฏิบัติ,สุขภาพ||
+งดเนื้อสัตว์ในวันเกิด|No meat on your birthday|ความเชื่อ,เมตตา||
+กินเจตามเทศกาล|Keep the vegetarian festival|ความเชื่อ,กินเจ||
+กินมังสวิรัติสัปดาห์ละวัน|One meat-free day a week|แนวปฏิบัติ,เมตตา||
+นั่งสมาธิวันละสิบห้านาที|Meditate fifteen minutes daily|มีงานวิจัยสนับสนุน,สมาธิ||
+เดินจงกรม|Walking meditation|ความเชื่อ,สติ||
+ปฏิบัติธรรมที่วัดสามวัน|A three-day retreat at a temple|ความเชื่อ,ปฏิบัติธรรม||
+บวชเนกขัมมะ|Short lay ordination|ความเชื่อ,เว้นวรรค||
+บวชชีพราหมณ์|Ordain as a white-robed lay nun|ความเชื่อ,ปฏิบัติ||
+บวชพระให้พ่อแม่|Ordain for your parents|ความเชื่อ,กตัญญู||
+บวชสามเณรภาคฤดูร้อน|Summer novice ordination|ความเชื่อ,เยาวชน||
+เข้าคอร์สวิปัสสนาสิบวัน|A ten-day vipassana course|ความเชื่อ,วิปัสสนา||
+ฝึกสติขณะกินข้าว|Mindful eating|มีงานวิจัยสนับสนุน,สติ||
+ฝึกสติขณะทำงานบ้าน|Mindful chores|แนวปฏิบัติ,สติ||
+พูดแต่คำจริงหนึ่งสัปดาห์|A week of only true words|ความเชื่อ,สัจจะ||
+งดพูดส่อเสียด|Stop divisive talk|ความเชื่อ,วาจา||
+งดนินทา|Stop gossiping|แนวปฏิบัติ,วาจา||
+งดด่าทอในโลกออนไลน์|No abuse online|แนวปฏิบัติ,วาจา||
+รักษาสัจจะกับตัวเอง|Keep promises to yourself|แนวปฏิบัติ,วินัย||
+ทำตามคำสัญญาที่ค้างไว้|Finish a promise left undone|แนวปฏิบัติ,สัจจะ||
+แก้บนที่เคยบนไว้|Fulfil a vow you made|ความเชื่อ,แก้บน||
+ขอโทษคนที่เคยทำร้าย|Apologise to someone you hurt|แนวปฏิบัติ,คืนดี||
+ให้อภัยคนที่ทำร้ายเรา|Forgive someone who hurt you|มีงานวิจัยสนับสนุน,อภัย||
+ดูแลพ่อแม่ด้วยตัวเอง|Care for your parents yourself|ความเชื่อ,กตัญญู||
+กราบเท้าพ่อแม่|Bow at your parents' feet|ความเชื่อ,กตัญญู||
+โทรหาพ่อแม่ทุกวัน|Call your parents every day|แนวปฏิบัติ,ครอบครัว||
+ไปเยี่ยมญาติผู้ใหญ่|Visit older relatives|แนวปฏิบัติ,ครอบครัว||
+รดน้ำดำหัวผู้ใหญ่ในวันสงกรานต์|Pour water for elders at Songkran|ความเชื่อ,สงกรานต์||
+ตอบแทนบุญคุณครู|Repay a teacher's kindness|ความเชื่อ,บุญคุณ||
+ช่วยงานคนที่เคยช่วยเรา|Help someone who once helped you|แนวปฏิบัติ,บุญคุณ||
+ไม่ซ้ำเติมคนที่พลาด|Don't kick people when they're down|แนวปฏิบัติ,เมตตา||
+ยินดีกับความสำเร็จของคนอื่น|Celebrate others' success|ความเชื่อ,มุทิตา||
+วางใจเป็นกลางกับเรื่องที่แก้ไม่ได้|Equanimity about what you can't change|ความเชื่อ,อุเบกขา||
+มีเมตตาต่อคนที่ไม่ชอบเรา|Kindness to those who dislike you|ความเชื่อ,เมตตา||
+ทำงานให้เต็มที่โดยไม่โกง|Work fully and honestly|แนวปฏิบัติ,สุจริต||
+จ่ายค่าแรงลูกน้องตรงเวลา|Pay staff on time|แนวปฏิบัติ,เป็นธรรม||
+คืนของที่เก็บได้|Return lost property|แนวปฏิบัติ,ซื่อตรง||
+ใช้เงินอย่างมีสติ|Spend mindfully|แนวปฏิบัติ,การเงิน||
+เลิกเล่นการพนัน|Stop gambling|ข้อเท็จจริง,ลดหนี้||
+ขับรถอย่างมีสติ|Drive mindfully|ข้อเท็จจริง,ความปลอดภัย||
+ดูแลสัตว์เลี้ยงจนวาระสุดท้าย|Care for your pet to the end|แนวปฏิบัติ,ความรับผิดชอบ||
+ไม่ทิ้งขยะลงน้ำ|Never dump waste in water|ข้อเท็จจริง,ธรรมชาติ||
+ลดการใช้พลาสติก|Use less plastic|ข้อเท็จจริง,ธรรมชาติ||
+เป็นอาสาสมัครเดือนละครั้ง|Volunteer once a month|มีงานวิจัยสนับสนุน,อาสา||
+สอนสิ่งที่รู้ให้คนรุ่นหลัง|Teach what you know|แนวปฏิบัติ,ส่งต่อ||
+ฟังคนอื่นจนจบโดยไม่ขัด|Listen without interrupting|แนวปฏิบัติ,การฟัง||
+ไม่ตัดสินคนจากภายนอก|Don't judge by appearance|แนวปฏิบัติ,ใจกว้าง||
+ทบทวนความดีของตัวเองก่อนนอน|Recall one good deed before sleep|ความเชื่อ,ทบทวน||
+จดบันทึกความผิดพลาดเพื่อไม่ทำซ้ำ|Note mistakes so you don't repeat them|แนวปฏิบัติ,เรียนรู้||
+ตั้งใจทำความดีหนึ่งอย่างต่อวัน|One good deed a day|ความเชื่อ,ความดี||
+ไม่ผูกใจเจ็บข้ามวัน|Don't carry anger past the day|ความเชื่อ,ปล่อยวาง||
+เคารพความเชื่อของคนอื่น|Respect others' beliefs|แนวปฏิบัติ,ใจกว้าง||
+อยู่อย่างพอเพียง|Live with enough|ความเชื่อ,พอเพียง||
+# สถานที่มูเตลูในไทย (ความเชื่อ · ระบุจังหวัด)
+ไหว้พระพรหมเอราวัณ ราชประสงค์ กรุงเทพฯ|Erawan Shrine, Bangkok|ความเชื่อ,กรุงเทพฯ||
+ไหว้พระตรีมูรติ หน้าเซ็นทรัลเวิลด์ กรุงเทพฯ เรื่องความรัก|Trimurti Shrine, Bangkok, for love|ความเชื่อ,กรุงเทพฯ||
+ไหว้พระพิฆเนศ ห้วยขวาง กรุงเทพฯ|Ganesha Shrine, Huai Khwang, Bangkok|ความเชื่อ,กรุงเทพฯ||
+ไหว้พระแม่อุมาเทวี วัดแขก สีลม กรุงเทพฯ|Sri Maha Mariamman Temple, Silom, Bangkok|ความเชื่อ,กรุงเทพฯ||
+ไหว้ศาลหลักเมืองกรุงเทพฯ|Bangkok City Pillar Shrine|ความเชื่อ,กรุงเทพฯ||
+ไหว้เทวสถานโบสถ์พราหมณ์ เสาชิงช้า กรุงเทพฯ|Devasathan Brahmin temple, Bangkok|ความเชื่อ,กรุงเทพฯ||
+ไหว้ศาลเจ้าพ่อเสือ ถนนตะนาว กรุงเทพฯ|Chao Pho Suea Shrine, Bangkok|ความเชื่อ,กรุงเทพฯ||
+ไหว้พระที่วัดเล่งเน่ยยี่ เยาวราช กรุงเทพฯ|Wat Mangkon Kamalawat, Bangkok|ความเชื่อ,กรุงเทพฯ||
+ไหว้สมเด็จโต วัดระฆังโฆสิตาราม กรุงเทพฯ|Somdet To at Wat Rakhang, Bangkok|ความเชื่อ,กรุงเทพฯ||
+ไหว้พระศรีศากยมุนี วัดสุทัศนเทพวราราม กรุงเทพฯ|Wat Suthat, Bangkok|ความเชื่อ,กรุงเทพฯ||
+ไหว้พระแก้วมรกต วัดพระศรีรัตนศาสดาราม กรุงเทพฯ|Emerald Buddha, Bangkok|ความเชื่อ,กรุงเทพฯ||
+ไหว้พระนอน วัดโพธิ์ กรุงเทพฯ|Reclining Buddha, Wat Pho, Bangkok|ความเชื่อ,กรุงเทพฯ||
+ขึ้นภูเขาทอง วัดสระเกศ กรุงเทพฯ|Golden Mount, Wat Saket, Bangkok|ความเชื่อ,กรุงเทพฯ||
+ไหว้แม่นาคพระโขนง วัดมหาบุศย์ กรุงเทพฯ|Mae Nak Shrine, Wat Mahabut, Bangkok|ความเชื่อ,กรุงเทพฯ||
+ไหว้พระที่วัดชนะสงคราม กรุงเทพฯ เพื่อชนะอุปสรรค|Wat Chana Songkhram, Bangkok|ความเชื่อ,กรุงเทพฯ||
+ไหว้หลวงพ่อโต วัดบางพลีใหญ่ใน สมุทรปราการ|Luang Pho To, Wat Bang Phli Yai Nai, Samut Prakan|ความเชื่อ,สมุทรปราการ||
+ไหว้ท้าวเวสสุวรรณ วัดจุฬามณี สมุทรสงคราม|Vessavana at Wat Chulamani, Samut Songkhram|ความเชื่อ,สมุทรสงคราม||
+ไหว้หลวงพ่อบ้านแหลม สมุทรสงคราม|Luang Pho Ban Laem, Samut Songkhram|ความเชื่อ,สมุทรสงคราม||
+ไหว้องค์พระปฐมเจดีย์ นครปฐม|Phra Pathommachedi, Nakhon Pathom|ความเชื่อ,นครปฐม||
+ไหว้หลวงพ่อวัดไร่ขิง นครปฐม|Luang Pho Wat Rai Khing, Nakhon Pathom|ความเชื่อ,นครปฐม||
+ไหว้หลวงพ่อพุทธโสธร ฉะเชิงเทรา|Luang Pho Sothon, Chachoengsao|ความเชื่อ,ฉะเชิงเทรา||
+ไหว้หลวงพ่อโต วัดพนัญเชิง พระนครศรีอยุธยา|Wat Phanan Choeng, Ayutthaya|ความเชื่อ,อยุธยา||
+ไหว้พระมงคลบพิตร พระนครศรีอยุธยา|Phra Mongkhon Bophit, Ayutthaya|ความเชื่อ,อยุธยา||
+ไหว้พระที่วัดใหญ่ชัยมงคล พระนครศรีอยุธยา|Wat Yai Chai Mongkhon, Ayutthaya|ความเชื่อ,อยุธยา||
+กราบรอยพระพุทธบาท วัดพระพุทธบาท สระบุรี|Buddha's Footprint, Saraburi|ความเชื่อ,สระบุรี||
+ไหว้ศาลพระกาฬ ลพบุรี|San Phra Kan, Lop Buri|ความเชื่อ,ลพบุรี||
+ไหว้พระพุทธชินราช พิษณุโลก|Phra Phuttha Chinnarat, Phitsanulok|ความเชื่อ,พิษณุโลก||
+ไหว้หลวงพ่อเพชร วัดท่าหลวง พิจิตร|Luang Pho Phet, Phichit|ความเชื่อ,พิจิตร||
+ไหว้ศาลเจ้าพ่อเจ้าแม่ปากน้ำโพ นครสวรรค์|Pak Nam Pho Shrine, Nakhon Sawan|ความเชื่อ,นครสวรรค์||
+ไหว้หลวงพ่อโต วัดป่าเลไลยก์ สุพรรณบุรี|Wat Pa Lelai, Suphan Buri|ความเชื่อ,สุพรรณบุรี||
+ไหว้พระธาตุดอยสุเทพ เชียงใหม่|Doi Suthep, Chiang Mai|ความเชื่อ,เชียงใหม่||
+ไหว้เสาอินทขิล วัดเจดีย์หลวง เชียงใหม่|Inthakin pillar, Wat Chedi Luang, Chiang Mai|ความเชื่อ,เชียงใหม่||
+ไหว้พระสิงห์ วัดพระสิงห์ เชียงใหม่|Phra Singh, Chiang Mai|ความเชื่อ,เชียงใหม่||
+ไหว้พระธาตุดอยคำ เชียงใหม่ แก้บนด้วยพวงมาลัยมะลิ|Doi Kham, Chiang Mai, vows repaid with jasmine|ความเชื่อ,เชียงใหม่||
+ไหว้พระธาตุหริภุญชัย ลำพูน|Phra That Hariphunchai, Lamphun|ความเชื่อ,ลำพูน||
+ไหว้พระธาตุลำปางหลวง ลำปาง|Phra That Lampang Luang, Lampang|ความเชื่อ,ลำปาง||
+ไหว้พระธาตุช่อแฮ แพร่|Phra That Cho Hae, Phrae|ความเชื่อ,แพร่||
+ไหว้พระธาตุแช่แห้ง น่าน|Phra That Chae Haeng, Nan|ความเชื่อ,น่าน||
+ไหว้พระธาตุดอยตุง เชียงราย|Phra That Doi Tung, Chiang Rai|ความเชื่อ,เชียงราย||
+ไหว้พระธาตุผาซ่อนแก้ว เพชรบูรณ์|Wat Pha Son Kaeo, Phetchabun|ความเชื่อ,เพชรบูรณ์||
+ไหว้พระธาตุพนม นครพนม|Phra That Phanom, Nakhon Phanom|ความเชื่อ,นครพนม||
+ไหว้พระธาตุเชิงชุม สกลนคร|Phra That Choeng Chum, Sakon Nakhon|ความเชื่อ,สกลนคร||
+ไปคำชะโนด อ.บ้านดุง อุดรธานี|Kham Chanot, Udon Thani|ความเชื่อ,อุดรธานี||
+ไหว้หลวงพ่อพระใส วัดโพธิ์ชัย หนองคาย|Luang Pho Phra Sai, Nong Khai|ความเชื่อ,หนองคาย||
+ไหว้พระธาตุบังพวน หนองคาย|Phra That Bang Phuan, Nong Khai|ความเชื่อ,หนองคาย||
+ไหว้พระธาตุศรีสองรัก ด่านซ้าย เลย|Phra That Si Song Rak, Loei|ความเชื่อ,เลย||
+ไหว้ย่าโม อนุสาวรีย์ท้าวสุรนารี นครราชสีมา|Thao Suranari Monument, Nakhon Ratchasima|ความเชื่อ,นครราชสีมา||
+ไหว้ศาลเจ้าพ่อพระยาแล ชัยภูมิ|Chao Pho Phraya Lae, Chaiyaphum|ความเชื่อ,ชัยภูมิ||
+ปฏิบัติธรรมที่วัดหนองป่าพง อุบลราชธานี|Wat Nong Pa Phong, Ubon Ratchathani|ความเชื่อ,อุบลราชธานี||
+ไหว้ไอ้ไข่ วัดเจดีย์ อ.สิชล นครศรีธรรมราช|Ai Khai at Wat Chedi, Nakhon Si Thammarat|ความเชื่อ,นครศรีธรรมราช||
+ไหว้พระบรมธาตุ วัดพระมหาธาตุวรมหาวิหาร นครศรีธรรมราช|Wat Phra Mahathat, Nakhon Si Thammarat|ความเชื่อ,นครศรีธรรมราช||
+ไหว้ศาลหลักเมืองนครศรีธรรมราช|City Pillar Shrine, Nakhon Si Thammarat|ความเชื่อ,นครศรีธรรมราช||
+ไหว้หลวงปู่ทวด วัดช้างให้ ปัตตานี|Luang Pu Thuat, Wat Chang Hai, Pattani|ความเชื่อ,ปัตตานี||
+ไหว้หลวงปู่ทวด วัดพะโคะ สงขลา|Wat Phakho, Songkhla|ความเชื่อ,สงขลา||
+ไหว้เจ้าแม่ลิ้มกอเหนี่ยว ปัตตานี|Lim Ko Niao Shrine, Pattani|ความเชื่อ,ปัตตานี||
+ไหว้พระบรมธาตุไชยา สุราษฎร์ธานี|Phra Borommathat Chaiya, Surat Thani|ความเชื่อ,สุราษฎร์ธานี||
+ขึ้นเขาคิชฌกูฏ จันทบุรี ช่วงเปิดให้ขึ้นตามประกาศ|Khao Khitchakut, Chanthaburi, in the official season|ความเชื่อ,จันทบุรี||
+ไหว้พระที่วัดญาณสังวราราม ชลบุรี|Wat Yannasangwararam, Chon Buri|ความเชื่อ,ชลบุรี||
+ไหว้พระที่วัดถ้ำกลองเพล หนองบัวลำภู|Wat Tham Klong Phen, Nong Bua Lamphu|ความเชื่อ,หนองบัวลำภู||
+ไหว้พระที่ดอนเจดีย์ สุพรรณบุรี|Don Chedi, Suphan Buri|ความเชื่อ,สุพรรณบุรี||
+# พิธีกรรมแก้กรรมและแก้เคล็ด (ความเชื่อ)
+สะเดาะเคราะห์ที่วัด|A misfortune-easing rite at a temple|ความเชื่อ,สะเดาะเคราะห์||
+แก้ปีชงด้วยการไหว้ไท้ส่วยเอี๊ยะ|Pay respects to Tai Sui in a clash year|ความเชื่อ,ปีชง||
+ต่ออายุตามประเพณีล้านนา (สืบชะตา)|Lanna Suep Chata life-extension rite|ความเชื่อ,สืบชะตา||
+ทำบุญสะเดาะเคราะห์ตามวันเกิด|Merit-making by birth weekday|ความเชื่อ,วันเกิด||
+ทำพิธีขอขมาพระแม่ธรณี|Ask forgiveness of Mother Earth|ความเชื่อ,ขอขมา||
+ทำพิธีขอขมาเจ้าที่เจ้าทาง|Ask forgiveness of the land spirits|ความเชื่อ,เจ้าที่||
+ตั้งศาลพระภูมิตามฤกษ์|Raise a spirit house at an auspicious time|ความเชื่อ,ศาลพระภูมิ||
+ย้ายศาลพระภูมิอย่างถูกพิธี|Move a spirit house with the proper rite|ความเชื่อ,ศาลพระภูมิ||
+ถวายของไหว้ศาลพระภูมิทุกวันพระ|Offer to the spirit house on holy days|ความเชื่อ,ศาลพระภูมิ||
+แก้บนตามที่สัญญาไว้|Repay a vow as promised|ความเชื่อ,แก้บน||
+บวชเพื่อตัดกรรม|Ordain to cut karmic ties|ความเชื่อ,ตัดกรรม||
+ทำบุญโลงศพสะเดาะเคราะห์|Donate a coffin to ease misfortune|ความเชื่อ,สะเดาะเคราะห์||
+ลอดโบสถ์ตามความเชื่อ|Crawl under a temple hall, a folk rite|ความเชื่อ,สะเดาะเคราะห์||
+นอนโลงตามความเชื่อบางวัด|A symbolic coffin rite at some temples|ความเชื่อ,ตายแล้วเกิดใหม่||
+อาบน้ำมนต์|Holy water blessing|ความเชื่อ,น้ำมนต์||
+รดน้ำมนต์ที่วัด|Receive holy water at a temple|ความเชื่อ,น้ำมนต์||
+ผูกข้อมือรับขวัญ (บายศรีสู่ขวัญ)|Baisi Su Khwan wrist-tying|ความเชื่อ,ขวัญ||
+ทำขวัญนาค|Khwan Nak ceremony before ordination|ความเชื่อ,บวช||
+ทำบุญขึ้นบ้านใหม่|House-warming merit|ความเชื่อ,บ้านใหม่||
+เจิมรถใหม่|Bless a new car|ความเชื่อ,รถ||
+เจิมหน้าร้านก่อนเปิดกิจการ|Bless a shop before opening|ความเชื่อ,ธุรกิจ||
+เลือกฤกษ์ก่อนเริ่มงานสำคัญ|Choose an auspicious time|ความเชื่อ,ฤกษ์||
+เปลี่ยนชื่อตามหลักโหราศาสตร์|Change your name by astrology|ความเชื่อ,ชื่อมงคล||
+ใส่เสื้อสีมงคลประจำวัน|Wear the lucky colour of the day|ความเชื่อ,สีมงคล||
+พกพระประจำวันเกิดติดตัว|Carry your birth-day Buddha|ความเชื่อ,พระประจำวันเกิด||
+ลอยกระทงขอขมาพระแม่คงคา|Float a krathong to ask the river's forgiveness|ความเชื่อ,ลอยกระทง||
+ปล่อยโคมลอยในที่ที่อนุญาต|Release a lantern where permitted|ความเชื่อ,ยี่เป็ง||
+ทำบุญตักบาตรวันขึ้นปีใหม่|New Year alms-giving|ความเชื่อ,ปีใหม่||
+ก่อเจดีย์ทรายในวันสงกรานต์|Build a sand stupa at Songkran|ความเชื่อ,สงกรานต์||
+สรงน้ำพระในวันสงกรานต์|Bathe Buddha images at Songkran|ความเชื่อ,สงกรานต์||
+ถวายตุงล้านนา|Offer a Lanna tung flag|ความเชื่อ,ล้านนา||
+ทำบุญข้าวประดับดิน|Bun Khao Pradap Din, for the departed|ความเชื่อ,อีสาน||
+ทำบุญข้าวสาก|Bun Khao Sak, for the departed|ความเชื่อ,อีสาน||
+ทำบุญสารทเดือนสิบ|Sat Duean Sip merit, southern Thailand|ความเชื่อ,ภาคใต้||
+ชิงเปรตตามประเพณีใต้|Ching Pret, southern merit for spirits|ความเชื่อ,ภาคใต้||
+ไหว้เจ้าแบบจีนในวันตรุษจีน|Chinese New Year offerings|ความเชื่อ,ตรุษจีน||
+ไหว้บรรพบุรุษในวันเช็งเม้ง|Qingming ancestor visits|ความเชื่อ,เช็งเม้ง||
+แขวนตะกรุดหรือพระเครื่องอย่างเคารพ|Wear an amulet respectfully|ความเชื่อ,พระเครื่อง||
+คืนพระเครื่องที่ไม่ได้ใช้ให้วัด|Return unused amulets to a temple|ความเชื่อ,คืนวัด||
+ไม่เก็บของจากวัดกลับบ้าน|Take nothing home from a temple|ความเชื่อ,ของสงฆ์||
+คืนของที่หยิบจากสถานที่ศักดิ์สิทธิ์|Return what you took from a sacred site|ความเชื่อ,คืนของ||
+ขอขมาต้นไม้ก่อนตัด|Ask a tree's pardon before felling it|ความเชื่อ,รุกขเทวดา||
+ปลูกต้นไม้มงคลหน้าบ้าน|Plant an auspicious tree at the front|ความเชื่อ,ไม้มงคล||
+ไหว้แม่ซื้อให้เด็กเล็ก|Offerings to Mae Sue, guardian of babies|ความเชื่อ,เด็กเล็ก||
+ทำบุญให้สัตว์เลี้ยงที่ตายไป|Make merit for a pet who died|ความเชื่อ,สัตว์เลี้ยง||
+จุดเทียนอธิษฐานต่อหน้าพระ|Light a candle and pray before the Buddha|ความเชื่อ,อธิษฐาน||
+เขียนจดหมายขอขมาแล้วเผาอย่างปลอดภัย|Write an apology letter and burn it safely|ความเชื่อ,ปล่อยวาง||
+ตัดผมหรือเล็บตามวันมงคล|Cut hair or nails on lucky days|ความเชื่อ,วันมงคล||
+ไม่ตัดเล็บตอนกลางคืน|Don't cut nails at night|ความเชื่อ,ข้อห้าม||
+เปลี่ยนทิศหัวนอน|Change the direction your bed faces|ความเชื่อ,ทิศ||
+เคลียร์ของเก่าที่ค้างในบ้าน|Clear old things from home|ความเชื่อ,พลังงานใหม่||
+ทำบุญครบรอบวันตายของคนในครอบครัว|Merit on a family death anniversary|ความเชื่อ,ครบรอบ||
+บนบานอย่างระวัง สิ่งที่ทำได้จริงเท่านั้น|Make only vows you can keep|ความเชื่อ,สัจจะ||
+ขอพรพ่อแม่ในวันเกิด|Ask your parents' blessing on your birthday|ความเชื่อ,พรพ่อแม่||
+ไหว้ครูก่อนเริ่มเรียนวิชาใหม่|Wai Khru before learning something new|ความเชื่อ,ไหว้ครู||
+# จิตวิทยา การวางตัว และการปรับความคิด
+เขียนความรู้สึกลงสมุดทุกคืน|Journal your feelings each night|มีงานวิจัยสนับสนุน,การเขียนบำบัด||
+จดสามสิ่งที่ขอบคุณในวันนี้|Write three things you're grateful for|มีงานวิจัยสนับสนุน,ความกตัญญู||
+แยกเรื่องที่ควบคุมได้กับควบคุมไม่ได้|Separate what you can and can't control|แนวปฏิบัติ,วางใจ||
+ตั้งคำถามกับความคิดลบ|Question a negative thought|มีงานวิจัยสนับสนุน,ปรับความคิด||
+มองหาหลักฐานก่อนเชื่อความกลัว|Look for evidence before believing a fear|มีงานวิจัยสนับสนุน,ปรับความคิด||
+เปลี่ยนคำพูดกับตัวเองให้ใจดีขึ้น|Talk to yourself more kindly|มีงานวิจัยสนับสนุน,เมตตาตัวเอง||
+ให้อภัยตัวเองแต่รับผิดชอบต่อ|Forgive yourself and still take responsibility|แนวปฏิบัติ,อภัย||
+ขอโทษอย่างเจาะจงและไม่แก้ตัว|Apologise specifically, without excuses|แนวปฏิบัติ,คืนดี||
+พูดความต้องการตรงๆ อย่างสุภาพ|State your needs clearly and politely|แนวปฏิบัติ,สื่อสาร||
+ฝึกปฏิเสธโดยไม่รู้สึกผิด|Practise saying no without guilt|แนวปฏิบัติ,ขอบเขต||
+ตั้งขอบเขตกับคนที่ทำร้ายใจ|Set boundaries with people who hurt you|แนวปฏิบัติ,ขอบเขต||
+ถอยออกจากความสัมพันธ์ที่เป็นพิษ|Step back from a toxic relationship|แนวปฏิบัติ,ความปลอดภัย||
+หยุดเปรียบเทียบกับคนอื่นในโซเชียล|Stop comparing yourself on social media|แนวปฏิบัติ,โซเชียล||
+ลดเวลาหน้าจอก่อนนอน|Less screen time before bed|มีงานวิจัยสนับสนุน,การนอน||
+แบ่งปัญหาใหญ่เป็นขั้นเล็ก|Break a big problem into small steps|แนวปฏิบัติ,วางแผน||
+ทำสิ่งที่ผัดไว้หนึ่งอย่างวันนี้|Do one postponed thing today|แนวปฏิบัติ,ลงมือ||
+ตั้งเป้าหมายที่วัดผลได้|Set a measurable goal|แนวปฏิบัติ,เป้าหมาย||
+ฉลองความสำเร็จเล็กๆ|Celebrate small wins|แนวปฏิบัติ,กำลังใจ||
+ยอมรับความรู้สึกโดยไม่ตัดสิน|Accept feelings without judging them|มีงานวิจัยสนับสนุน,การยอมรับ||
+ตั้งชื่ออารมณ์ที่กำลังรู้สึก|Name the emotion you feel|มีงานวิจัยสนับสนุน,อารมณ์||
+หายใจช้าก่อนตอบโต้|Breathe slowly before reacting|มีงานวิจัยสนับสนุน,การหายใจ||
+รอให้ใจเย็นก่อนส่งข้อความ|Wait to calm down before sending a message|แนวปฏิบัติ,ใจเย็น||
+ฟังเพื่อเข้าใจ ไม่ใช่เพื่อเอาชนะ|Listen to understand, not to win|แนวปฏิบัติ,การฟัง||
+มองเรื่องเดิมจากมุมของอีกฝ่าย|See it from the other side|แนวปฏิบัติ,เห็นอกเห็นใจ||
+เลิกแบกความรับผิดชอบที่ไม่ใช่ของเรา|Put down responsibility that isn't yours|แนวปฏิบัติ,ปล่อยวาง||
+เขียนจดหมายถึงคนที่โกรธแต่ไม่ส่ง|Write an unsent letter to someone you're angry with|แนวปฏิบัติ,ระบาย||
+คุยกับนักจิตวิทยาหรือจิตแพทย์|Talk to a psychologist or psychiatrist|ข้อเท็จจริง,ผู้เชี่ยวชาญ||
+โทรสายด่วนสุขภาพจิต 1323 เมื่อไม่ไหว|Call Thailand's mental health hotline 1323|ข้อเท็จจริง,ขอความช่วยเหลือ||
+บอกคนที่ไว้ใจเมื่อรู้สึกแย่|Tell someone you trust when you feel low|มีงานวิจัยสนับสนุน,ที่พึ่ง||
+เข้ากลุ่มคนที่ผ่านเรื่องคล้ายกัน|Join a support group|มีงานวิจัยสนับสนุน,กลุ่มช่วยเหลือ||
+หยุดโทษกรรมเก่าแล้วดูสิ่งที่ทำได้วันนี้|Stop blaming old karma; look at what you can do today|แนวปฏิบัติ,ปัจจุบัน||
+แยกข้อเท็จจริงออกจากเรื่องที่คิดเอง|Separate facts from assumptions|แนวปฏิบัติ,ปรับความคิด||
+ไม่ตัดสินใจเรื่องใหญ่ตอนอารมณ์แรง|No big decisions in strong emotion|แนวปฏิบัติ,ตัดสินใจ||
+นอนให้พอก่อนแก้ปัญหา|Sleep enough before solving problems|มีงานวิจัยสนับสนุน,การนอน||
+ทำรายการข้อดีข้อเสียก่อนเลือก|List pros and cons before choosing|แนวปฏิบัติ,ตัดสินใจ||
+ยอมรับว่าบางคนจะไม่ชอบเรา|Accept that some people won't like you|แนวปฏิบัติ,ปล่อยวาง||
+ขอความช่วยเหลือโดยไม่อาย|Ask for help without shame|แนวปฏิบัติ,ที่พึ่ง||
+ชมคนอื่นอย่างจริงใจวันละครั้ง|Sincerely praise someone daily|แนวปฏิบัติ,ความสัมพันธ์||
+ขอบคุณคนที่ช่วยเราอย่างเจาะจง|Thank helpers specifically|แนวปฏิบัติ,ขอบคุณ||
+ทำสิ่งดีให้คนอื่นโดยไม่บอก|Do a secret kindness|มีงานวิจัยสนับสนุน,ความสุข||
+ใช้เวลากับคนที่ทำให้ใจสบาย|Spend time with people who calm you|แนวปฏิบัติ,ความสัมพันธ์||
+ลดเวลากับคนที่ดูดพลัง|Spend less time with draining people|แนวปฏิบัติ,ขอบเขต||
+ตั้งกิจวัตรเช้าที่ทำได้จริง|A morning routine you can keep|แนวปฏิบัติ,กิจวัตร||
+ทำทีละอย่าง ไม่ทำหลายอย่างพร้อมกัน|One thing at a time|มีงานวิจัยสนับสนุน,สมาธิ||
+จัดตารางเวลาพักให้ตัวเอง|Schedule rest|แนวปฏิบัติ,พัก||
+เรียนรู้ทักษะใหม่หนึ่งอย่าง|Learn one new skill|แนวปฏิบัติ,เติบโต||
+อ่านหนังสือที่เปิดมุมมอง|Read something that widens your view|แนวปฏิบัติ,มุมมอง||
+มองความผิดพลาดเป็นบทเรียน|See mistakes as lessons|แนวปฏิบัติ,เติบโต||
+ลดความคาดหวังที่ไม่สมจริง|Lower unrealistic expectations|แนวปฏิบัติ,ความคาดหวัง||
+ยอมรับความไม่แน่นอนของชีวิต|Accept uncertainty|แนวปฏิบัติ,ปล่อยวาง||
+ไม่เอาคุณค่าตัวเองไปผูกกับยอดไลก์|Don't tie your worth to likes|แนวปฏิบัติ,คุณค่าตัวเอง||
+วางแผนการเงินเพื่อลดความกังวล|Plan your money to worry less|แนวปฏิบัติ,การเงิน||
+จัดการหนี้ทีละก้อน|Tackle debt one item at a time|แนวปฏิบัติ,หนี้||
+ปรึกษาทนายหรือผู้รู้เมื่อมีคดี|See a lawyer in legal trouble|ข้อเท็จจริง,ผู้เชี่ยวชาญ||
+ไปหาหมอเมื่อมีอาการ ไม่รอแก้กรรมอย่างเดียว|See a doctor for symptoms; don't rely on rites alone|ข้อเท็จจริง,สุขภาพ||
+อยู่ห่างจากคนที่ใช้ความเชื่อหลอกเอาเงิน|Avoid people who use belief to take money|ข้อเท็จจริง,ระวังมิจฉาชีพ||
+ไม่จ่ายเงินแก้กรรมจนเดือดร้อน|Never pay for rites beyond your means|ข้อเท็จจริง,ระวังมิจฉาชีพ||
+พูดคุยกับครอบครัวเรื่องที่ค้างคา|Talk to family about unresolved things|แนวปฏิบัติ,ครอบครัว||
+ยอมรับในสิ่งที่พ่อแม่ให้ได้|Accept what your parents could give|แนวปฏิบัติ,ครอบครัว||
+หยุดพิสูจน์ตัวเองกับคนที่ไม่ฟัง|Stop proving yourself to people who won't listen|แนวปฏิบัติ,ปล่อยวาง||
+เตือนตัวเองว่าความรู้สึกไม่ถาวร|Remind yourself feelings pass|แนวปฏิบัติ,อนิจจัง||
+เขียนจดหมายถึงตัวเองในอนาคต|Write to your future self|แนวปฏิบัติ,เป้าหมาย||
+นึกถึงคนที่เคยดีกับเรา|Recall someone who was kind to you|แนวปฏิบัติ,ความอบอุ่น||
+ทำความเข้าใจที่มาของนิสัยตัวเอง|Understand where your habits come from|แนวปฏิบัติ,เข้าใจตัวเอง||
+สร้างนิสัยใหม่ทีละน้อย|Build new habits gradually|มีงานวิจัยสนับสนุน,นิสัย||
+ให้รางวัลตัวเองเมื่อทำได้|Reward yourself when you follow through|แนวปฏิบัติ,แรงจูงใจ||
+เลิกพูดว่าดวงไม่ดีกับทุกเรื่อง|Stop blaming bad luck for everything|แนวปฏิบัติ,มุมมอง||
+มองหาสิ่งที่เรียนรู้ได้จากคนที่ไม่ชอบ|Learn from people you dislike|แนวปฏิบัติ,เติบโต||
+ยิ้มให้คนแปลกหน้า|Smile at a stranger|แนวปฏิบัติ,ความเป็นมิตร||
+แต่งตัวให้ตัวเองรู้สึกดี|Dress in a way that makes you feel good|แนวปฏิบัติ,ความมั่นใจ||
+ยืนตัวตรงเมื่อรู้สึกไม่มั่นใจ|Stand tall when unsure|แนวปฏิบัติ,ความมั่นใจ||
+จัดโต๊ะทำงานให้โล่ง|Clear your desk|แนวปฏิบัติ,สมาธิ||
+ตั้งคำถามว่าอีกห้าปีเรื่องนี้ยังสำคัญไหม|Ask if this will matter in five years|แนวปฏิบัติ,มุมมอง||
+ทำสมาธิแบบสแกนร่างกาย|Body-scan meditation|มีงานวิจัยสนับสนุน,ผ่อนคลาย||
+ผ่อนคลายกล้ามเนื้อทีละส่วน|Progressive muscle relaxation|มีงานวิจัยสนับสนุน,ผ่อนคลาย||
+เปลี่ยนคำว่า ต้อง เป็น เลือก|Swap "have to" for "choose to"|แนวปฏิบัติ,มุมมอง||
+ระวังการคิดแบบหายนะ|Watch for catastrophising|มีงานวิจัยสนับสนุน,ปรับความคิด||
+ระวังการคิดแบบขาวดำ|Watch for all-or-nothing thinking|มีงานวิจัยสนับสนุน,ปรับความคิด||
+ไม่เดาใจคนอื่นแทนเขา|Don't mind-read|มีงานวิจัยสนับสนุน,ปรับความคิด||
+ทำสิ่งที่ถูกแม้ไม่มีใครเห็น|Do right when no one is watching|แนวปฏิบัติ,ความซื่อตรง||
+# ธรรมชาติบำบัดและการดูแลกายใจ
+เดินในป่าหรือสวนสาธารณะ|Walk in a forest or park|มีงานวิจัยสนับสนุน,ธรรมชาติ||
+อาบป่าแบบชินรินโยคุ|Forest bathing|มีงานวิจัยสนับสนุน,ป่า||
+เดินเท้าเปล่าบนหญ้า|Walk barefoot on grass|แนวปฏิบัติ,ผ่อนคลาย||
+นั่งริมทะเลฟังเสียงคลื่น|Sit by the sea and listen|แนวปฏิบัติ,ผ่อนคลาย||
+ดูพระอาทิตย์ขึ้น|Watch the sunrise|แนวปฏิบัติ,เริ่มวันใหม่||
+ดูพระอาทิตย์ตก|Watch the sunset|แนวปฏิบัติ,ปล่อยวาง||
+รับแดดเช้าสิบห้านาที|Fifteen minutes of morning light|มีงานวิจัยสนับสนุน,นาฬิกาชีวิต||
+ปลูกผักกินเอง|Grow your own vegetables|แนวปฏิบัติ,สวน||
+ทำสวนดอกไม้|Garden with flowers|มีงานวิจัยสนับสนุน,สวนบำบัด||
+ดูแลต้นไม้ในห้อง|Care for house plants|แนวปฏิบัติ,ต้นไม้||
+ฟังเสียงธรรมชาติก่อนนอน|Listen to nature sounds before sleep|แนวปฏิบัติ,การนอน||
+เล่นกับสัตว์เลี้ยง|Play with a pet|มีงานวิจัยสนับสนุน,สัตว์บำบัด||
+ขี่จักรยานในชนบท|Cycle in the countryside|แนวปฏิบัติ,ออกกำลัง||
+เดินขึ้นเขา|Hike a hill|แนวปฏิบัติ,ออกกำลัง||
+ว่ายน้ำ|Swim|มีงานวิจัยสนับสนุน,ออกกำลัง||
+แช่น้ำพุร้อนในแหล่งที่ได้มาตรฐาน|Soak in a regulated hot spring|แนวปฏิบัติ,ผ่อนคลาย||
+อาบน้ำอุ่นก่อนนอน|A warm bath before bed|แนวปฏิบัติ,การนอน||
+ประคบสมุนไพรไทย|Thai herbal compress|แนวปฏิบัติ,แพทย์แผนไทย||
+นวดแผนไทยกับหมอนวดที่มีใบอนุญาต|Thai massage from a licensed therapist|แนวปฏิบัติ,แพทย์แผนไทย||
+อบสมุนไพร|Herbal steam|แนวปฏิบัติ,แพทย์แผนไทย||
+ดื่มน้ำให้พอ|Drink enough water|ข้อเท็จจริง,สุขภาพ||
+กินผักผลไม้ให้หลากสี|Eat a range of fruit and vegetables|ข้อเท็จจริง,โภชนาการ||
+ลดน้ำตาลและของทอด|Cut sugar and fried food|ข้อเท็จจริง,โภชนาการ||
+งดสูบบุหรี่|Stop smoking|ข้อเท็จจริง,สุขภาพ||
+ลดแอลกอฮอล์|Drink less alcohol|ข้อเท็จจริง,สุขภาพ||
+นอนให้ได้เจ็ดถึงเก้าชั่วโมง|Sleep seven to nine hours|ข้อเท็จจริง,การนอน||
+เข้านอนเวลาเดิมทุกวัน|Go to bed at the same time daily|มีงานวิจัยสนับสนุน,การนอน||
+ออกกำลังกายสัปดาห์ละ 150 นาที|150 minutes of exercise a week|ข้อเท็จจริง,ออกกำลัง||
+ฝึกโยคะ|Practise yoga|มีงานวิจัยสนับสนุน,ยืดหยุ่น||
+รำไทเก๊ก|Tai chi|มีงานวิจัยสนับสนุน,สมดุล||
+ฝึกชี่กง|Qigong|แนวปฏิบัติ,ลมหายใจ||
+ฝึกหายใจลึกช้า|Slow deep breathing|มีงานวิจัยสนับสนุน,การหายใจ||
+หายใจแบบสี่-เจ็ด-แปด|4-7-8 breathing|แนวปฏิบัติ,การหายใจ||
+ยืดเส้นทุกชั่วโมงที่นั่งทำงาน|Stretch every hour at your desk|แนวปฏิบัติ,ร่างกาย||
+เต้นตามเพลงที่ชอบ|Dance to music you love|แนวปฏิบัติ,ความสุข||
+ร้องเพลงดังๆ|Sing out loud|แนวปฏิบัติ,ระบาย||
+ฟังดนตรีบำบัด|Music for relaxation|มีงานวิจัยสนับสนุน,ดนตรี||
+ระบายสีหรือวาดภาพ|Paint or draw|แนวปฏิบัติ,ศิลปะบำบัด||
+ปั้นดินหรืองานฝีมือ|Clay or handcraft|แนวปฏิบัติ,ศิลปะบำบัด||
+ทำอาหารกินเองอย่างตั้งใจ|Cook for yourself mindfully|แนวปฏิบัติ,สติ||
+จัดบ้านให้โล่งโปร่ง|Declutter your home|แนวปฏิบัติ,ใจโล่ง||
+เปิดหน้าต่างให้ลมผ่าน|Open windows to air the room|แนวปฏิบัติ,อากาศ||
+ใช้กลิ่นหอมจากธรรมชาติ|Natural scents|แนวปฏิบัติ,ผ่อนคลาย||
+ดื่มชาสมุนไพรอุ่นๆ|Warm herbal tea|แนวปฏิบัติ,ผ่อนคลาย||
+ปิดโทรศัพท์หนึ่งวัน (ดิจิทัลดีท็อกซ์)|A day without your phone|แนวปฏิบัติ,พักใจ||
+ไปเที่ยวที่ไม่เคยไป|Go somewhere new|แนวปฏิบัติ,มุมมองใหม่||
+ตั้งแคมป์ดูดาว|Camp and stargaze|แนวปฏิบัติ,ธรรมชาติ||
+นั่งใต้ต้นไม้ใหญ่|Sit beneath a big tree|แนวปฏิบัติ,ร่มเย็น||
+ฟังเสียงน้ำตก|Listen to a waterfall|แนวปฏิบัติ,ผ่อนคลาย||
+เก็บขยะในธรรมชาติ|Pick up litter outdoors|แนวปฏิบัติ,ธรรมชาติ||
+ปลูกต้นไม้ให้คนรุ่นหลัง|Plant a tree for the next generation|แนวปฏิบัติ,ส่งต่อ||
+ล้างหน้าด้วยน้ำเย็นเมื่อใจร้อน|Splash cold water on your face when heated|แนวปฏิบัติ,ใจเย็น||
+เดินช้าๆ รอบบ้านหลังอาหาร|Slow walk after meals|มีงานวิจัยสนับสนุน,สุขภาพ||
+ตรวจสุขภาพประจำปี|Annual health check|ข้อเท็จจริง,สุขภาพ||
+พบทันตแพทย์ทุกหกเดือน|Dentist every six months|ข้อเท็จจริง,สุขภาพ||
+กินอาหารพร้อมครอบครัว|Eat meals with family|แนวปฏิบัติ,ครอบครัว||
+พักสายตาจากจอทุกยี่สิบนาที|Rest your eyes from screens every 20 minutes|แนวปฏิบัติ,สายตา||
+นอนกลางวันสั้นๆ ไม่เกินสามสิบนาที|A nap under thirty minutes|แนวปฏิบัติ,พัก||
+เลี้ยงปลาหรือดูปลาในตู้|Keep or watch fish|แนวปฏิบัติ,ผ่อนคลาย||
+ฟังเสียงฝน|Listen to rain|แนวปฏิบัติ,ผ่อนคลาย||
+เดินชายหาดยามเช้า|Morning beach walk|แนวปฏิบัติ,ธรรมชาติ||
+พายเรือคายัค|Kayak|แนวปฏิบัติ,ธรรมชาติ||
+ทำงานอาสาฟื้นฟูป่า|Volunteer to restore forest|แนวปฏิบัติ,ธรรมชาติ||
+ไปตลาดเกษตรกร|Visit a farmers' market|แนวปฏิบัติ,ชุมชน||
+ใช้เวลาเงียบๆ คนเดียว|Quiet time alone|แนวปฏิบัติ,ความสงบ||
+ออกไปเดินเมื่อคิดไม่ออก|Go for a walk when stuck|มีงานวิจัยสนับสนุน,ความคิด||
+ปลูกสมุนไพรไทยไว้ใช้|Grow Thai herbs|แนวปฏิบัติ,สมุนไพร||
+หัวเราะกับเพื่อน|Laugh with friends|แนวปฏิบัติ,ความสุข||
+กอดคนที่รัก|Hug someone you love|แนวปฏิบัติ,ความอบอุ่น||
+เดินจงกรมในสวนยามเช้า|Morning walking meditation in a garden|แนวปฏิบัติ,สติ||
+# ความเชื่อและศาสนาอื่นทั่วโลก (สากล)
+สวดลูกประคำ (คริสต์คาทอลิก)|Pray the Rosary (Catholic)|ความเชื่อ,คริสต์||
+แก้บาปกับบาทหลวง (คริสต์คาทอลิก)|Confession (Catholic)|ความเชื่อ,คริสต์||
+จุดเทียนอธิษฐานในโบสถ์คริสต์|Light a prayer candle in a church|ความเชื่อ,คริสต์||
+ให้อภัยเจ็ดสิบครั้งคูณเจ็ด ตามคำสอนคริสต์|Forgive seventy times seven (Christian teaching)|ความเชื่อ,คริสต์||
+แสวงบุญเส้นทางกามิโน เดซานติอาโก สเปน|Camino de Santiago, Spain|ความเชื่อ,สเปน||
+แสวงบุญที่ลูร์ด ฝรั่งเศส|Pilgrimage to Lourdes, France|ความเชื่อ,ฝรั่งเศส||
+แสวงบุญที่ฟาติมา โปรตุเกส|Pilgrimage to Fátima, Portugal|ความเชื่อ,โปรตุเกส||
+เดินเขาวงกตภาวนา มหาวิหารชาทร์ ฝรั่งเศส|Walk the Chartres Cathedral labyrinth, France|ความเชื่อ,ฝรั่งเศส||
+อาบน้ำแม่น้ำคงคา พาราณสี อินเดีย (ฮินดู)|Bathe in the Ganges at Varanasi, India (Hindu)|ความเชื่อ,อินเดีย||
+ถือศีลอดวันเอกาทศี (ฮินดู)|Ekadashi fast (Hindu)|ความเชื่อ,ฮินดู||
+สวดคายตรีมนตร์ (ฮินดู)|Chant the Gayatri Mantra (Hindu)|ความเชื่อ,ฮินดู||
+สวด โอม นะมะห์ ศิวายะ (ฮินดู)|Chant Om Namah Shivaya (Hindu)|ความเชื่อ,ฮินดู||
+ทำบูชาพระพิฆเนศก่อนเริ่มงาน (ฮินดู)|Ganesha puja before new work (Hindu)|ความเชื่อ,ฮินดู||
+กรรมโยคะ ทำหน้าที่โดยไม่ยึดผล (ฮินดู ภควัทคีตา)|Karma yoga: act without clinging to results (Bhagavad Gita)|ความเชื่อ,ฮินดู||
+แสวงบุญพุทธคยา อินเดีย|Pilgrimage to Bodh Gaya, India|ความเชื่อ,อินเดีย||
+แสวงบุญลุมพินี เนปาล|Pilgrimage to Lumbini, Nepal|ความเชื่อ,เนปาล||
+เดินประทักษิณเขาไกรลาส ทิเบต|Circle Mount Kailash, Tibet|ความเชื่อ,ทิเบต||
+แขวนธงมนตร์ (ทิเบต)|Hang prayer flags (Tibetan)|ความเชื่อ,ทิเบต||
+หมุนกงล้อมนตร์ (ทิเบต)|Turn prayer wheels (Tibetan)|ความเชื่อ,ทิเบต||
+สวด โอม มณี ปัทเม หุม (ทิเบต)|Chant Om Mani Padme Hum (Tibetan)|ความเชื่อ,ทิเบต||
+กราบอัษฎางคประดิษฐ์ (ทิเบต)|Full prostrations (Tibetan)|ความเชื่อ,ทิเบต||
+ขอขมาด้วยมิจฉามิ ทุกกฎัม (เชน)|Michchhami Dukkadam forgiveness (Jain)|ความเชื่อ,เชน||
+อหิงสา ไม่เบียดเบียนสิ่งมีชีวิต (เชน)|Ahimsa, non-harm (Jain)|ความเชื่อ,เชน||
+ทำทานในโรงทานลังคาร์ วิหารทองคำ อมฤตสาร์ อินเดีย (ซิกข์)|Serve at the Golden Temple langar, Amritsar, India (Sikh)|ความเชื่อ,ซิกข์||
+เสวา รับใช้ผู้อื่นโดยไม่หวังผล (ซิกข์)|Seva, selfless service (Sikh)|ความเชื่อ,ซิกข์||
+วันยมคิปปูร์ วันสำนึกผิด (ยิว)|Yom Kippur, day of atonement (Jewish)|ความเชื่อ,ยิว||
+เทชูวา การกลับตัว (ยิว)|Teshuvah, returning to the right path (Jewish)|ความเชื่อ,ยิว||
+เซดากา การให้ทานอย่างเป็นธรรม (ยิว)|Tzedakah, righteous giving (Jewish)|ความเชื่อ,ยิว||
+เสียบกระดาษอธิษฐานที่กำแพงตะวันตก เยรูซาเลม|Leave a prayer note at the Western Wall, Jerusalem|ความเชื่อ,เยรูซาเลม||
+ความคิดดี คำพูดดี การกระทำดี (โซโรอัสเตอร์)|Good thoughts, good words, good deeds (Zoroastrian)|ความเชื่อ,โซโรอัสเตอร์||
+ไหว้บรรพบุรุษในวันเช็งเม้ง (จีน)|Qingming ancestor rites (Chinese)|ความเชื่อ,จีน||
+ปล่อยชีวิตสัตว์ (ฟ่างเซิง จีน)|Fangsheng animal release (Chinese)|ความเชื่อ,จีน||
+ไหว้ขอพรที่วัดหลงซาน ไทเป ไต้หวัน|Pray at Longshan Temple, Taipei, Taiwan|ความเชื่อ,ไต้หวัน||
+อู๋เหวย ไม่ฝืนธรรมชาติ (เต๋า)|Wu wei, not forcing (Taoist)|ความเชื่อ,เต๋า||
+กตัญญูต่อบุพการี (ขงจื๊อ)|Filial piety (Confucian)|ความเชื่อ,ขงจื๊อ||
+ชำระล้างด้วยฮาราเอะ (ชินโต ญี่ปุ่น)|Harae purification (Shinto, Japan)|ความเชื่อ,ญี่ปุ่น||
+มิโซงิ ชำระกายใต้น้ำตก (ชินโต ญี่ปุ่น)|Misogi waterfall purification (Shinto, Japan)|ความเชื่อ,ญี่ปุ่น||
+ผูกเซียมซีโอมิคุจิไว้ที่ศาลเจ้า (ญี่ปุ่น)|Tie an omikuji fortune at a shrine (Japan)|ความเชื่อ,ญี่ปุ่น||
+เขียนแผ่นไม้อธิษฐานเอมะ (ญี่ปุ่น)|Write an ema prayer plaque (Japan)|ความเชื่อ,ญี่ปุ่น||
+ไหว้ศาลเจ้าฟูชิมิอินาริ เกียวโต ญี่ปุ่น|Fushimi Inari Shrine, Kyoto, Japan|ความเชื่อ,ญี่ปุ่น||
+ไหว้ศาลเจ้าเมจิ โตเกียว ญี่ปุ่น|Meiji Shrine, Tokyo, Japan|ความเชื่อ,ญี่ปุ่น||
+โฮโอโปโนโปโน คำขอโทษและขอบคุณแบบฮาวาย|Ho'oponopono, Hawaiian reconciliation|ความเชื่อ,ฮาวาย||
+วันแห่งความตาย ระลึกถึงผู้ล่วงลับ เม็กซิโก|Día de Muertos, remembering the dead, Mexico|ความเชื่อ,เม็กซิโก||
+ทบทวนตัวเองตอนเย็นแบบสโตอิก|Stoic evening review|แนวปฏิบัติ,ปรัชญา||
+ขอบคุณอาหารก่อนกิน (หลายศาสนา)|Say grace before meals|ความเชื่อ,ขอบคุณ||
+ถือศีลอดอาหารช่วงเทศกาลมหาพรต (คริสต์)|Lenten fasting (Christian)|ความเชื่อ,คริสต์||
+อธิษฐานแบบใคร่ครวญในความเงียบ (เควกเกอร์)|Silent Quaker meeting|ความเชื่อ,คริสต์||
+ทำบุญวันวิสาขบูชาที่ศรีลังกา (เทศกาลเวสัก)|Vesak in Sri Lanka|ความเชื่อ,ศรีลังกา||
+ไหว้พระเขี้ยวแก้ว แคนดี ศรีลังกา|Temple of the Tooth, Kandy, Sri Lanka|ความเชื่อ,ศรีลังกา||
+ไหว้ชเวดากอง ย่างกุ้ง เมียนมา|Shwedagon Pagoda, Yangon, Myanmar|ความเชื่อ,เมียนมา||

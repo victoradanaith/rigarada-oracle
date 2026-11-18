@@ -1,509 +1,509 @@
-# กรรมจากอดีตชาติ
-กรรมเก่าตามมาทัน|Past Karma Catching Up|อดีตชาติ,ผลที่มาถึง||
-บุญเก่าหนุนนำ|Past Merit Lifting You|บุญเก่า,ทางสะดวก||
-เคยเป็นคู่กันในชาติก่อน|Partners in a Past Life|เนื้อคู่,ความผูกพัน||
-เคยเป็นศัตรูกันในชาติก่อน|Enemies in a Past Life|ความบาดหมาง,คลายปม||
-เคยเป็นพ่อแม่ลูกกันมา|Family in a Past Life|สายสัมพันธ์,ความห่วงใย||
-เคยเป็นครูกับศิษย์|Teacher and Student Before|การสอน,ความเคารพ||
-เคยเป็นเพื่อนร่วมทาง|Fellow Travelers Before|มิตรภาพ,การพบซ้ำ||
-เคยเป็นนักบวชในชาติก่อน|A Monk or Nun in a Past Life|ความสงบ,ศรัทธา||
-เคยเป็นนักรบในชาติก่อน|A Warrior in a Past Life|ความกล้า,บาดแผลเก่า||
-เคยเป็นเจ้านายในชาติก่อน|A Ruler in a Past Life|อำนาจ,ความรับผิดชอบ||
-เคยเป็นผู้รับใช้ในชาติก่อน|A Servant in a Past Life|ความอ่อนน้อม,การรับใช้||
-เคยเป็นหมอหรือผู้เยียวยา|A Healer in a Past Life|การรักษา,ความเมตตา||
-เคยเป็นพ่อค้าในชาติก่อน|A Merchant in a Past Life|การค้า,สัจจะ||
-เคยเป็นศิลปินในชาติก่อน|An Artist in a Past Life|ความงาม,การสร้างสรรค์||
-เคยเป็นผู้ให้ทานมาก|A Generous Giver Before|ทาน,ความมั่งคั่ง||
-เคยตระหนี่ในชาติก่อน|Stingy in a Past Life|ความขาดแคลน,การเปิดใจให้||
-เคยผิดคำสัญญาในชาติก่อน|A Broken Promise Before|คำมั่น,การแก้ไข||
-เคยทำร้ายสัตว์ในชาติก่อน|Harmed Animals Before|ชีวิต,เมตตาต่อสัตว์||
-เคยช่วยชีวิตคนในชาติก่อน|Saved a Life Before|อายุยืน,ผู้คุ้มครอง||
-เคยพรากคนรักจากกัน|Separated Lovers Before|การพลัดพราก,การให้อภัย||
-เคยถูกทรยศในชาติก่อน|Betrayed in a Past Life|ความไม่ไว้ใจ,การเยียวยา||
-เคยทรยศผู้อื่นในชาติก่อน|Betrayed Others Before|ความรู้สึกผิด,การชดใช้||
-เคยปฏิญาณร่วมกันข้ามภพ|A Vow Across Lifetimes|คำอธิษฐานร่วม,การกลับมาพบ||
-เคยสร้างวัดหรือศาสนสถาน|Built a Temple Before|บุญใหญ่,ที่พึ่งทางใจ||
-เคยบวชเรียนในชาติก่อน|Ordained in a Past Life|บุญบวช,ความสงบใจ||
-เคยเป็นผู้ปกป้องผู้อ่อนแอ|Protector of the Weak Before|ความยุติธรรม,ผู้อุปถัมภ์||
-เคยกดขี่ผู้อื่นในชาติก่อน|Oppressed Others Before|อำนาจ,การคืนความเป็นธรรม||
-เคยเป็นเหยื่อในชาติก่อน|A Victim in a Past Life|บาดแผล,การปลดปล่อย||
-ความกลัวที่ติดมาจากชาติก่อน|Fear Carried from a Past Life|ความกลัวไม่ทราบที่มา,การปล่อยวาง||
-พรสวรรค์ที่ติดมาจากชาติก่อน|Talent from a Past Life|พรสวรรค์,ความคุ้นเคย||
-นิสัยที่ติดมาข้ามภพ|A Habit Across Lifetimes|นิสัยฝังลึก,การรู้ตัว||
-สถานที่ที่รู้สึกคุ้นเคยอย่างประหลาด|A Strangely Familiar Place|เดจาวู,ความทรงจำเก่า||
-คนที่รู้สึกคุ้นเคยตั้งแต่แรกพบ|Instant Familiarity|ความผูกพันเก่า,การพบซ้ำ||
-ปานหรือรอยติดตัวจากชาติก่อน|A Birthmark from a Past Life|สัญลักษณ์,ความเชื่อพื้นบ้าน||
-หนี้กรรมยังไม่หมด|Karmic Debt Unpaid|หนี้ค้าง,การชดใช้||
-หนี้กรรมใกล้หมดแล้ว|Karmic Debt Nearly Paid|โค้งสุดท้าย,ความโล่ง||
-บุญเก่าใกล้หมด|Old Merit Running Low|สร้างบุญใหม่,ไม่ประมาท||
-วิบากกรรมจากการพูดในชาติก่อน|Karma of Past Speech|วาจา,การระวังคำพูด||
-วิบากกรรมจากการลักขโมยในชาติก่อน|Karma of Past Theft|การสูญเสีย,การให้คืน||
-วิบากกรรมจากการผิดศีลข้อสาม|Karma of Past Infidelity|ความรักไม่ราบรื่น,ความซื่อสัตย์||
-วิบากกรรมจากการเสพของมึนเมา|Karma of Past Intoxication|ความหลงลืม,สติ||
-ผลบุญจากการรักษาศีล|Merit from Keeping Precepts|ความสงบ,ความน่าเชื่อถือ||
-ผลบุญจากการภาวนา|Merit from Meditation|ปัญญา,ใจมั่นคง||
-ผลบุญจากการเลี้ยงดูพ่อแม่|Merit from Caring for Parents|ความกตัญญู,ความเจริญ||
-ผลบุญจากการถวายแสงสว่าง|Merit from Offering Light|ปัญญาสว่าง,ดวงตาดี||
-ผลบุญจากการถวายน้ำ|Merit from Offering Water|ความชุ่มเย็น,ไม่ขาดแคลน||
-ผลบุญจากการถวายดอกไม้|Merit from Offering Flowers|รูปงาม,เสน่ห์||
-ผลบุญจากการสร้างสะพานหรือทาง|Merit from Building Paths|การเดินทางราบรื่น,ผู้ช่วยเหลือ||
-ผลบุญจากการให้ความรู้|Merit from Teaching|สติปัญญา,ลูกศิษย์ดี||
-ผลบุญจากการปล่อยสัตว์|Merit from Freeing Animals|อิสรภาพ,สุขภาพ||
-ชาติก่อนเคยเกิดต่างแดน|Born Abroad in a Past Life|ความผูกพันต่างแดน,การย้ายถิ่น||
-ชาติก่อนเคยเกิดในราชสำนัก|Born in a Royal Court Before|ความสง่า,พิธีการ||
-ชาติก่อนเคยยากไร้|Poor in a Past Life|ความอดทน,คุณค่าของสิ่งเล็กๆ||
-ชาติก่อนเคยร่ำรวย|Wealthy in a Past Life|ความคุ้นเคยกับความสบาย,การแบ่งปัน||
-ชาติก่อนเคยเป็นสัตว์ใกล้ตัว|An Animal Companion Before|สัญชาตญาณ,ความผูกพัน||
-ชาติก่อนเคยเป็นเทวดา|A Celestial Being Before|ความสุขเก่า,การกลับมาเรียนรู้||
-เรื่องที่ยังค้างจากชาติก่อน|Unfinished Business from Before|ภารกิจค้าง,ทำให้จบ||
-ภารกิจที่ตั้งใจมาเกิด|A Purpose Chosen Before Birth|เป้าหมายชีวิต,การค้นหา||
-คำสาปแช่งจากชาติก่อน|A Curse from a Past Life|ความเชื่อ,การคลายปม||
-คำอวยพรจากชาติก่อน|A Blessing from a Past Life|สิริมงคล,ผู้คุ้มครองเก่า||
-ญาติที่ล่วงลับกลับมาเกิดใกล้ตัว|A Departed Relative Reborn Nearby|การกลับมา,สายใย||
-การกลับชาติมาเกิดตามความเชื่อทิเบต|Tulku Rebirth|การกลับมาตามปณิธาน,ผู้สืบทอด||
-# กรรมดีและผลบุญ
-ทำดีได้ดี|Good Deeds Bring Good|ความดี,ผลตอบแทน||
-บุญหนุนนำ|Merit Carries You|ทางสะดวก,โอกาส||
-ผู้ใหญ่เมตตา|Elders Favor You|ผู้อุปถัมภ์,การสนับสนุน||
-มีคนช่วยในยามคับขัน|Help Arrives in Hard Times|ผู้มีพระคุณ,จังหวะดี||
-แคล้วคลาดปลอดภัย|Narrowly Safe|การคุ้มครอง,โชคช่วย||
-บุญจากการให้ทาน|Merit of Giving|ความอุดม,ความใจกว้าง||
-บุญจากการรักษาศีล|Merit of Virtue|ความน่าเชื่อถือ,ความสงบ||
-บุญจากการภาวนา|Merit of Meditation|ปัญญา,ใจมั่น||
-บุญจากความกตัญญู|Merit of Gratitude|ความเจริญ,ครอบครัวอบอุ่น||
-บุญจากการให้อภัย|Merit of Forgiveness|ใจเบา,ความสัมพันธ์ดี||
-บุญจากการพูดความจริง|Merit of Truthfulness|คำพูดมีน้ำหนัก,ความเชื่อใจ||
-บุญจากการช่วยชีวิตสัตว์|Merit of Saving Animals|อายุยืน,สุขภาพ||
-บุญจากการดูแลคนป่วย|Merit of Nursing the Sick|สุขภาพ,ความเมตตา||
-บุญจากการสร้างศาสนสถาน|Merit of Building Sacred Places|ที่พึ่ง,ความมั่นคง||
-บุญจากการถวายสังฆทาน|Merit of Offerings to the Sangha|ความอุดม,ความสุข||
-บุญจากการบวช|Merit of Ordination|ความบริสุทธิ์,ส่งบุญถึงพ่อแม่||
-บุญจากการฟังธรรม|Merit of Hearing the Dharma|ปัญญา,ความเข้าใจ||
-บุญจากการอุทิศส่วนกุศล|Merit of Dedication|การแบ่งปันบุญ,ผู้ล่วงลับ||
-บุญจากการอนุโมทนา|Merit of Rejoicing|ยินดีกับผู้อื่น,ใจกว้าง||
-บุญจากการเคารพผู้ใหญ่|Merit of Respect|ความเจริญ,คนเอ็นดู||
-บุญจากการขวนขวายช่วยงาน|Merit of Service|ผู้ช่วย,มิตรภาพ||
-บุญจากการทำความเห็นให้ตรง|Merit of Right View|ทางถูก,ความชัดเจน||
-อานิสงส์ทานบารมี|Fruit of Generosity|ไม่ขาดแคลน,คนรัก||
-อานิสงส์ศีลบารมี|Fruit of Virtue|รูปงาม,ความปลอดภัย||
-อานิสงส์เนกขัมมบารมี|Fruit of Renunciation|ความสงบ,อิสรภาพ||
-อานิสงส์ปัญญาบารมี|Fruit of Wisdom|สติปัญญา,การตัดสินใจดี||
-อานิสงส์วิริยบารมี|Fruit of Effort|ความสำเร็จ,ไม่ย่อท้อ||
-อานิสงส์ขันติบารมี|Fruit of Patience|ความอดทน,ใจเย็น||
-อานิสงส์สัจจบารมี|Fruit of Truth|คำมั่นศักดิ์สิทธิ์,ความเชื่อใจ||
-อานิสงส์อธิษฐานบารมี|Fruit of Resolve|เป้าหมายชัด,ความแน่วแน่||
-อานิสงส์เมตตาบารมี|Fruit of Loving-kindness|คนรักใคร่,ภัยไม่กล้ำกราย||
-อานิสงส์อุเบกขาบารมี|Fruit of Equanimity|ใจนิ่ง,ไม่หวั่นไหว||
-โชคดีโดยไม่คาดคิด|Unexpected Good Fortune|ลาภลอย,ความประหลาดใจ||
-ได้พบกัลยาณมิตร|Meeting a True Friend|เพื่อนแท้,การชี้ทาง||
-ได้พบครูบาอาจารย์ที่ดี|Meeting a Good Teacher|การนำทาง,ปัญญา||
-เกิดในครอบครัวอบอุ่น|Born into a Loving Family|ความอบอุ่น,รากฐานดี||
-รูปงามเพราะบุญ|Beauty from Merit|เสน่ห์,ความอ่อนโยน||
-เสียงไพเราะเพราะบุญ|A Sweet Voice from Merit|วาจาดี,การสื่อสาร||
-อายุยืนเพราะบุญ|Long Life from Merit|สุขภาพ,ความไม่เบียดเบียน||
-ทรัพย์ไม่รั่วไหล|Wealth That Stays|การเก็บรักษา,ความมั่นคง||
-เป็นที่รักของผู้คน|Loved by Many|เสน่ห์,ความเมตตา||
-หน้าที่การงานรุ่งเรือง|Career Flourishing|ความก้าวหน้า,ผู้สนับสนุน||
-ความรักสมหวัง|Love Fulfilled|คู่ที่ใช่,ความสุข||
-บุตรหลานดี|Good Children|ความภูมิใจ,ผู้สืบทอด||
-คู่ครองดี|A Good Partner|การเกื้อหนุน,ความมั่นคง||
-บริวารดี|Good Followers|ทีมงาน,ความภักดี||
-หลุดพ้นจากเรื่องร้าย|Released from Trouble|จบเรื่อง,ความโล่ง||
-ผู้ร้ายกลายเป็นมิตร|An Enemy Turns Friend|คลายแค้น,ความเข้าใจ||
-คำอธิษฐานเป็นจริง|A Prayer Answered|สมหวัง,ศรัทธา||
-ฝันดีเป็นนิมิตมงคล|An Auspicious Dream|ลางดี,ความหวัง||
-เทวดาคุ้มครอง|Protected by Celestials|การปกป้อง,สิริมงคล||
-บรรพบุรุษคุ้มครอง|Protected by Ancestors|รากเหง้า,ความอบอุ่น||
-บุญส่งถึงผู้ล่วงลับ|Merit Reaching the Departed|การอุทิศ,ความผูกพัน||
-บุญส่งถึงพ่อแม่|Merit Reaching Parents|ความกตัญญู,ความสุขของครอบครัว||
-บุญหล่อเลี้ยงใจ|Merit Nourishing the Heart|ความอิ่มใจ,ความสงบ||
-บุญเล็กๆ ที่สะสม|Small Merits Adding Up|ทีละนิด,ความสม่ำเสมอ||
-บุญใหญ่ในชีวิตนี้|A Great Merit in This Life|จุดเปลี่ยน,ความภูมิใจ||
-ทำดีแล้วไม่มีใครเห็น|Unseen Good Deeds|ความดีเงียบๆ,ผลมาเอง||
-ผลบุญรอวันผลิบาน|Merit Waiting to Bloom|รอเวลา,ความเชื่อมั่น||
-บุญคุ้มกรรม|Merit Shielding from Karma|เบาลง,ผ่อนหนักเป็นเบา||
-บุญพาให้ได้พบธรรม|Merit Leading to the Dharma|ทางสว่าง,ความเข้าใจ||
-บุญนำไปสู่สุคติ|Merit Leading to a Good Rebirth|ภพภูมิดี,ความสบายใจ||
-# กรรมร้ายและวิบาก
-ทำชั่วได้ชั่ว|Bad Deeds Bring Bad|ผลตอบแทน,คำเตือน||
-วิบากกรรมตามทัน|Karmic Consequence Arrives|ผลที่หนีไม่พ้น,การยอมรับ||
-กรรมหนัก|Heavy Karma|บททดสอบใหญ่,ความอดทน||
-กรรมเบา|Light Karma|ผ่านไปได้,บทเรียนเล็ก||
-กรรมจากการเบียดเบียนชีวิต|Karma of Taking Life|สุขภาพ,อายุ||
-กรรมจากการลักขโมย|Karma of Stealing|การสูญเสีย,ความขาดแคลน||
-กรรมจากการผิดในกาม|Karma of Sexual Misconduct|ความรักร้าว,ความไม่ไว้ใจ||
-กรรมจากการพูดเท็จ|Karma of Lying|ไม่มีใครเชื่อ,การถูกเข้าใจผิด||
-กรรมจากการพูดส่อเสียด|Karma of Divisive Speech|ความแตกแยก,เพื่อนหาย||
-กรรมจากการพูดคำหยาบ|Karma of Harsh Speech|เสียงไม่น่าฟัง,ความขัดแย้ง||
-กรรมจากการพูดเพ้อเจ้อ|Karma of Idle Talk|คำพูดไร้น้ำหนัก,เสียเวลา||
-กรรมจากความโลภ|Karma of Greed|ไม่รู้จักพอ,การสูญเสีย||
-กรรมจากความพยาบาท|Karma of Ill Will|ความแค้น,ใจร้อน||
-กรรมจากความเห็นผิด|Karma of Wrong View|หลงทาง,ทบทวน||
-กรรมจากการเสพของมึนเมา|Karma of Intoxication|สติหาย,ความผิดพลาด||
-กรรมจากการพนัน|Karma of Gambling|ทรัพย์หาย,ความเสี่ยง||
-กรรมจากการเนรคุณ|Karma of Ingratitude|ผู้ใหญ่ไม่เมตตา,ความโดดเดี่ยว||
-กรรมจากการดูหมิ่นผู้อื่น|Karma of Contempt|ถูกดูแคลน,ความถ่อมตน||
-กรรมจากการริษยา|Karma of Envy|ใจไม่สงบ,เปรียบเทียบ||
-กรรมจากการตระหนี่|Karma of Stinginess|ความขาดแคลน,การเปิดมือให้||
-กรรมจากการโกงเงิน|Karma of Cheating Money|ทรัพย์รั่วไหล,ความน่าเชื่อถือ||
-กรรมจากการทำร้ายจิตใจ|Karma of Hurting Hearts|ความเหงา,การขอโทษ||
-กรรมจากการทอดทิ้งพ่อแม่|Karma of Abandoning Parents|ความว้าเหว่,ความกตัญญู||
-กรรมจากการทำแท้ง (ตามความเชื่อ)|Karma of Abortion (Belief)|ความเศร้า,การทำบุญอุทิศ||
-กรรมจากการทารุณสัตว์|Karma of Cruelty to Animals|สุขภาพ,เมตตา||
-กรรมจากการผิดสัญญา|Karma of Broken Promises|ความไม่ไว้ใจ,การรักษาคำ||
-กรรมจากการแย่งคนรัก|Karma of Stealing a Lover|รักสามเส้า,ความไม่มั่นคง||
-กรรมจากการใส่ร้าย|Karma of Slander|ถูกเข้าใจผิด,การแก้ข่าว||
-กรรมจากการใช้อำนาจในทางที่ผิด|Karma of Abusing Power|ตกต่ำ,การคืนความเป็นธรรม||
-กรรมจากการปรามาสพระรัตนตรัย|Karma of Disrespecting the Sacred|อุปสรรคทางใจ,ขอขมา||
-กรรมจากการทำลายของสงฆ์|Karma of Damaging Sacred Property|ความยากลำบาก,การชดใช้||
-กรรมจากการทำให้ผู้อื่นพลัดพราก|Karma of Separating Others|การพลัดพราก,ความเหงา||
-กรรมจากการขังสัตว์|Karma of Caging Animals|ถูกจำกัด,อิสรภาพ||
-กรรมจากการปล่อยปละละเลย|Karma of Neglect|โอกาสหลุดมือ,ความใส่ใจ||
-อุปสรรคไม่รู้สาเหตุ|Obstacles Without Clear Cause|ติดขัด,ทบทวนตัวเอง||
-ทำอะไรก็ไม่ขึ้น|Nothing Seems to Work|ติดขัด,รอจังหวะ||
-เงินไม่อยู่กับตัว|Money Won't Stay|รั่วไหล,การวางแผน||
-ความรักไม่ราบรื่น|Love Doesn't Go Smoothly|อุปสรรค,การปรับตัว||
-เจ็บป่วยเรื้อรัง (ตามความเชื่อเรื่องกรรม)|Chronic Illness (Karmic Belief)|การดูแล,ความอดทน||
-อุบัติเหตุบ่อย|Frequent Accidents|ความประมาท,ระมัดระวัง||
-ถูกคนรอบข้างเอาเปรียบ|Taken Advantage Of|ขอบเขต,การปฏิเสธ||
-ถูกหักหลัง|Stabbed in the Back|ความไม่ไว้ใจ,การเลือกคน||
-ทำดีไม่ได้ดี|Good Deeds Unrewarded|รอเวลา,ไม่ท้อ||
-คนรักจากไป|A Loved One Leaves|การพลัดพราก,การเยียวยา||
-ครอบครัวแตกแยก|A Divided Family|ความขัดแย้ง,การประสาน||
-บริวารไม่ซื่อ|Disloyal Followers|ความไม่ไว้ใจ,การคัดคน||
-คดีความ|Legal Troubles|ความยุติธรรม,ความรอบคอบ||
-ฝันร้ายบ่อย|Frequent Nightmares|ใจไม่สงบ,การผ่อนคลาย||
-ถูกคุณไสยตามความเชื่อ|Black Magic (Belief)|ความกลัว,ที่พึ่งทางใจ||
-กรรมที่ทำโดยไม่ตั้งใจ|Unintentional Karma|ไม่รู้ตัว,การขอขมา||
-กรรมที่ทำโดยเจตนา|Intentional Karma|เจตนา,ความรับผิดชอบ||
-กรรมจากความคิด|Karma of Thought|มโนกรรม,การดูใจ||
-กรรมจากคำพูด|Karma of Words|วจีกรรม,ระวังวาจา||
-กรรมจากการกระทำ|Karma of Deeds|กายกรรม,การกระทำ||
-กรรมหนักห้าประการ (อนันตริยกรรม)|The Five Heinous Acts|กรรมหนักที่สุด,ข้อห้าม||
-วิบากที่หนักเป็นเบา|Heavy Turned Light|ผ่อนคลาย,บุญช่วย||
-วิบากที่มาเป็นระลอก|Karma in Waves|ทีละเรื่อง,ความอดทน||
-วิบากที่มาพร้อมกัน|Everything at Once|มรสุม,ตั้งสติ||
-วิบากที่หมดลงแล้ว|Karma Exhausted|จบรอบ,เริ่มใหม่||
-ความหลงผิดชั่วขณะ|A Momentary Lapse|ความผิดพลาด,การเรียนรู้||
-ทางตันที่ต้องเปลี่ยนเส้นทาง|A Dead End to Turn From|เปลี่ยนทาง,การยอมรับ||
-# กรรมในชาตินี้
-กรรมติดจรวด|Instant Karma|ผลทันตา,บทเรียนเร็ว||
-ผลกรรมเห็นในชาตินี้|Karma Seen in This Life|ทิฏฐธรรมเวทนียกรรม,ผลเร็ว||
-กรรมที่ให้ผลในชาติหน้า|Karma for the Next Life|อุปปัชชเวทนียกรรม,เมล็ดพันธุ์||
-กรรมที่ให้ผลในชาติต่อๆ ไป|Karma for Later Lives|อปราปริยเวทนียกรรม,ยาวนาน||
-กรรมที่ไม่ทันให้ผล|Karma That Lapses|อโหสิกรรม,หมดฤทธิ์||
-วางแผนชีวิตใหม่|Re-planning Life|เริ่มต้นใหม่,เส้นทางใหม่||
-เลือกได้ในวันนี้|The Choice Is Today|เจตนา,อนาคตในมือ||
-นิสัยสร้างกรรม|Habits Make Karma|ความเคยชิน,การเปลี่ยนนิสัย||
-คำพูดวันนี้คือกรรมพรุ่งนี้|Today's Words, Tomorrow's Karma|วาจา,ผลตามมา||
-ความคิดเปลี่ยนชะตา|Thoughts Change Fate|มุมมอง,ความเชื่อ||
-คบคนดีพาไปดี|Good Company Leads Well|สังคม,การเลือกคบ||
-คบคนพาลพาไปหาผิด|Bad Company Leads Astray|สังคม,ถอยห่าง||
-ทำงานสุจริต|Honest Work|สัมมาอาชีวะ,ความภูมิใจ||
-อาชีพที่เบียดเบียน|Harmful Livelihood|มิจฉาอาชีวะ,การเปลี่ยนงาน||
-การดูแลร่างกายคือกรรมดี|Caring for the Body|สุขภาพ,ความรับผิดชอบ||
-การทำร้ายตัวเอง|Self-Harm as Karma|ความเจ็บปวด,ขอความช่วยเหลือ||
-การให้โอกาสตัวเอง|Giving Yourself a Chance|เริ่มใหม่,ความเมตตาต่อตัวเอง||
-กรรมร่วมของครอบครัว|Family Karma|รากเหง้า,การเยียวยาร่วมกัน||
-กรรมร่วมของคู่รัก|Couple's Karma|ความผูกพัน,การเรียนรู้ร่วม||
-กรรมร่วมขององค์กร|Collective Karma at Work|วัฒนธรรมองค์กร,ความรับผิดชอบร่วม||
-กรรมร่วมของสังคม|Collective Karma of Society|ผลร่วม,การเปลี่ยนแปลง||
-กรรมจากโลกออนไลน์|Online Karma|คำพูดในโลกออนไลน์,ร่องรอย||
-กรรมจากการนินทา|Karma of Gossip|ปากต่อปาก,ย้อนกลับ||
-กรรมจากการเพิกเฉย|Karma of Indifference|การไม่ช่วย,ความใส่ใจ||
-กรรมจากการให้โอกาสคนอื่น|Karma of Giving Others a Chance|การยกย่อง,ผลดีย้อนกลับ||
-กรรมของคนที่เป็นผู้นำ|A Leader's Karma|ความรับผิดชอบ,คนข้างหลัง||
-กรรมของคนที่เป็นพ่อแม่|A Parent's Karma|การเลี้ยงดู,ตัวอย่าง||
-กรรมของคนที่เป็นลูก|A Child's Karma|ความกตัญญู,การตอบแทน||
-กรรมของคนที่เป็นครู|A Teacher's Karma|การชี้ทาง,ความรู้||
-กรรมของคนที่เป็นหมอ|A Healer's Karma|ชีวิต,ความเมตตา||
-กรรมของคนที่ค้าขาย|A Merchant's Karma|ความซื่อตรง,กำไรพอดี||
-กรรมของคนที่มีอำนาจ|Karma of the Powerful|ความยุติธรรม,ผลกระทบกว้าง||
-ทุกข์ที่สร้างเอง|Self-Made Suffering|ความคิด,การปล่อยวาง||
-สุขที่สร้างเอง|Self-Made Happiness|การเลือก,ความพอใจ||
-ทำดีเพื่อดี ไม่ใช่เพื่อหวังผล|Good for Its Own Sake|ไม่หวังผล,ใจบริสุทธิ์||
-ทำบุญแต่ใจไม่ผ่องใส|Merit with a Clouded Heart|เจตนา,ผลไม่เต็ม||
-ทำบุญด้วยใจยินดี|Merit Given Joyfully|ใจผ่องใส,ผลเต็ม||
-ความดีที่ทำซ้ำจนเป็นนิสัย|Good Made Habit|อาจิณณกรรม,ความมั่นคง||
-ความชั่วที่ทำซ้ำจนเป็นนิสัย|Harm Made Habit|ความเคยชิน,การหยุด||
-กรรมใกล้ตาย|Karma at the Moment of Death|อาสันนกรรม,จิตสุดท้าย||
-กรรมที่หนักที่สุด|The Weightiest Karma|ครุกรรม,ส่งผลก่อน||
-กรรมที่สะสมจนนับไม่ถ้วน|Countless Accumulated Karma|กตัตตากรรม,สะสม||
-กรรมที่นำไปเกิด|Karma That Leads to Rebirth|ชนกกรรม,จุดเริ่ม||
-กรรมที่สนับสนุน|Supporting Karma|อุปัตถัมภกกรรม,ส่งเสริม||
-กรรมที่บีบคั้น|Obstructing Karma|อุปปีฬกกรรม,บั่นทอน||
-กรรมที่ตัดรอน|Destructive Karma|อุปฆาตกกรรม,ตัดขาด||
-ชีวิตนี้คือโอกาส|This Life Is a Chance|การเกิดเป็นมนุษย์,ใช้ให้คุ้ม||
-ตั้งใจใหม่ตั้งแต่วันนี้|Begin Again Today|ความตั้งใจ,ปัจจุบัน||
-ผลของความเพียร|The Fruit of Effort|ความพยายาม,ผลสำเร็จ||
-ผลของความประมาท|The Fruit of Carelessness|ความเสียหาย,สติ||
-ผลของความอดทน|The Fruit of Patience|ผ่านพ้น,ความแข็งแรงใจ||
-ผลของความโกรธ|The Fruit of Anger|ความเสียหาย,ใจเย็น||
-ผลของความเมตตา|The Fruit of Kindness|ความสัมพันธ์ดี,ความสุข||
-ผลของการไม่ให้อภัย|The Fruit of Not Forgiving|ใจหนัก,การปล่อยวาง||
-ผลของการโกหกตัวเอง|The Fruit of Self-Deception|หลงทาง,ความจริงใจ||
-ผลของความจริงใจ|The Fruit of Sincerity|ความเชื่อใจ,ความสงบ||
-เส้นทางกำลังเปลี่ยน|The Path Is Shifting|จุดเปลี่ยน,การตัดสินใจ||
-บททดสอบในชาตินี้|This Life's Test|การเรียนรู้,ความเข้มแข็ง||
-บทเรียนเดิมที่วนกลับมา|The Same Lesson Again|วงจรซ้ำ,การเปลี่ยนวิธี||
-ได้รับผลของสิ่งที่หว่าน|Reaping What You Sow|เมล็ดพันธุ์,ผลผลิต||
-กรรมยังไม่ตัดสิน|Karma Still Unfolding|ยังไม่จบ,ใจเย็น||
-# เจ้ากรรมนายเวรและกรรมสัมพันธ์
-เจ้ากรรมนายเวรตามทวง|Karmic Creditors Calling|หนี้เก่า,การอุทิศบุญ||
-เจ้ากรรมนายเวรอโหสิ|Karmic Creditors Forgive|การปลดปล่อย,ความโล่ง||
-ขออโหสิกรรม|Asking Forgiveness|การขอขมา,ใจเบา||
-อโหสิกรรมให้ผู้อื่น|Forgiving Others|การปล่อยวาง,จบเวร||
-เวรย่อมระงับด้วยการไม่จองเวร|Hatred Ends by Non-Hatred|การไม่จองเวร,สันติ||
-คู่เวรคู่กรรม|Karmic Adversaries|ความขัดแย้งซ้ำ,การจบวงจร||
-เนื้อคู่ข้ามภพ|Soulmate Across Lifetimes|ความผูกพัน,การพบซ้ำ||
-คู่บุญ|Merit Partners|ช่วยกันสร้างบุญ,ความเกื้อหนุน||
-คู่กรรม|Karmic Partners|บทเรียนร่วม,ความรักและความเจ็บ||
-คนที่มาเพื่อสอนบทเรียน|Someone Sent to Teach You|บทเรียน,การเติบโต||
-คนที่มาเพื่อใช้หนี้|Someone Repaying a Debt|การตอบแทน,ความผูกพัน||
-คนที่มาเพื่อทวงหนี้|Someone Collecting a Debt|การชดใช้,ความอดทน||
-ลูกที่มาเกิดเพื่อทวงหนี้ (ตามความเชื่อ)|A Child Who Comes to Collect (Belief)|การเลี้ยงดู,การชดใช้||
-ลูกที่มาเกิดเพื่อตอบแทนบุญคุณ|A Child Who Comes to Repay Kindness|ความกตัญญู,ความสุข||
-พ่อแม่คือพระอรหันต์ของลูก|Parents as Living Saints|ความกตัญญู,บุญใหญ่||
-พี่น้องร่วมกรรม|Siblings Bound by Karma|สายเลือด,การเรียนรู้ร่วม||
-เพื่อนที่เคยร่วมสร้างบุญ|Friends Who Made Merit Together|มิตรภาพยั่งยืน,การพบกันอีก||
-ศัตรูที่เคยเป็นคนรัก|An Enemy Who Was a Lover|ความรักกลายเป็นแค้น,การปล่อยวาง||
-สายใยที่ตัดไม่ขาด|A Bond That Won't Break|ความผูกพัน,การยอมรับ||
-ถึงเวลาตัดกรรม|Time to Cut the Karmic Tie|ตัดวงจร,ความกล้า||
-หมดเวรหมดกรรมต่อกัน|Karma Between You Is Done|จบกัน,ความสงบ||
-เวรกรรมที่ส่งต่อถึงลูกหลาน (ตามความเชื่อ)|Karma Passed to Descendants (Belief)|รุ่นสู่รุ่น,การเยียวยา||
-บุญที่ส่งต่อถึงลูกหลาน|Merit Passed to Descendants|รุ่นสู่รุ่น,รากฐานดี||
-ผู้ล่วงลับมาขอส่วนบุญ|The Departed Asking for Merit|การอุทิศ,ความห่วงใย||
-ดวงวิญญาณค้างคา|A Restless Spirit|ห่วงที่ยังไม่วาง,การส่งบุญ||
-สัตว์ที่เคยเลี้ยงกลับมาหา|A Pet Returns|ความผูกพัน,การกลับมา||
-ญาติที่ไม่ถูกกันมาตลอด|A Relative You Never Got Along With|ความขัดแย้งเก่า,ความเข้าใจ||
-การพบกันโดยบังเอิญที่ไม่บังเอิญ|A Meeting That Isn't Chance|พรหมลิขิต,ความหมาย||
-คนแปลกหน้าที่เปลี่ยนชีวิต|A Stranger Who Changes Your Life|จุดเปลี่ยน,ผู้นำสาร||
-ผู้มีพระคุณที่ยังไม่ได้ตอบแทน|A Benefactor Not Yet Repaid|บุญคุณ,การตอบแทน||
-หนี้บุญคุณ|A Debt of Gratitude|บุญคุณ,ความกตัญญู||
-หนี้แค้น|A Debt of Vengeance|ความแค้น,การปล่อยวาง||
-หนี้รัก|A Debt of Love|ความรักค้างคา,การจบอย่างงดงาม||
-หนี้เงินที่เป็นหนี้กรรม|Money Debt as Karmic Debt|การชดใช้,ความซื่อตรง||
-ด้ายแดงผูกโยง|The Red Thread|คู่ครอง,พรหมลิขิต||
-กรรมร่วมกับเพื่อนร่วมงาน|Karma with Coworkers|ความร่วมมือ,ความขัดแย้ง||
-กรรมร่วมกับเจ้านาย|Karma with a Boss|อำนาจ,บทเรียน||
-กรรมร่วมกับลูกน้อง|Karma with Staff|ความรับผิดชอบ,การดูแล||
-กรรมร่วมกับเพื่อนบ้าน|Karma with Neighbors|การอยู่ร่วม,ความเกรงใจ||
-กรรมร่วมกับบ้านหรือที่ดิน|Karma with a House or Land|เจ้าที่,การขอขมา||
-ความสัมพันธ์ที่ต้องปล่อยไป|A Relationship to Release|การปล่อยวาง,การเติบโต||
-ความสัมพันธ์ที่ต้องรักษาไว้|A Relationship to Keep|ความผูกพัน,การดูแล||
-คนที่จะกลับมาอีกครั้ง|Someone Who Will Return|การรอคอย,วาระ||
-คนที่จะไม่กลับมาอีก|Someone Who Won't Return|การยอมรับ,การเดินต่อ||
-เทวดาประจำตัว|Personal Guardian Spirit|ผู้คุ้มครอง,สิ่งศักดิ์สิทธิ์ใกล้ตัว||
-ครูบาอาจารย์ข้ามภพ|A Teacher Across Lifetimes|การนำทาง,ศรัทธา||
-กรรมที่ยังรอวันชำระ|Karma Awaiting Settlement|ยังค้าง,ความระวัง||
-แค้นที่จบลงด้วยการให้อภัย|Revenge Ended by Forgiveness|การให้อภัย,ความสงบ||
-ความรักที่ชดใช้หนี้เก่า|Love That Repays an Old Debt|ความเสียสละ,การชดใช้||
-ความเมตตาต่อผู้ที่ทำร้าย|Kindness to Those Who Hurt You|ความเมตตา,ใจเหนือกว่า||
-สายสัมพันธ์ที่นำพาบุญ|A Bond That Brings Merit|ผู้นำทาง,การเกื้อกูล||
-สายสัมพันธ์ที่นำพาทุกข์|A Bond That Brings Pain|บทเรียน,การตั้งขอบเขต||
-พรหมลิขิตกับกรรมลิขิต|Destiny or Karma|ฟ้ากำหนด,มือเราเขียน||
-แม่ซื้อผู้ดูแลเด็ก|Mae Sue (Guardian of Infants)|ความเชื่อพื้นบ้าน,ทารก||
-# กรรมตามความเชื่อทั่วโลก
-กฎแห่งกรรมในพุทธศาสนา|Karma in Buddhism|เจตนา,ผลของการกระทำ||
-กรรมในศาสนาฮินดู|Karma in Hinduism|ธรรมะ,การเกิดใหม่||
-กรรมในศาสนาเชน|Karma in Jainism|อนุภาคกรรม,การชำระวิญญาณ||
-กรรมในศาสนาซิกข์|Karma in Sikhism|พระกรุณา,การรำลึกนาม||
-สังสารวัฏ|Samsara|วงล้อแห่งการเกิด,การวนเวียน||
-นิพพาน|Nirvana|การดับทุกข์,ความหลุดพ้น||
-โมกษะ|Moksha|ความหลุดพ้น,การกลับคืนสู่หนึ่งเดียว||
-ธรรมะของแต่ละคน (สวธรรม)|Svadharma|หน้าที่ของตน,วิถีที่ใช่||
-ปรารับธกรรม|Prarabdha Karma|กรรมที่กำลังส่งผล,การยอมรับ||
-สัญจิตกรรม|Sanchita Karma|กรรมสะสมทั้งหมด,คลังเก่า||
-กริยมาณกรรม|Kriyamana Karma|กรรมที่ทำอยู่ตอนนี้,การเลือก||
-กรรมโยคะ|Karma Yoga|ทำหน้าที่โดยไม่ยึดผล,การรับใช้||
-ภพภูมิทั้งหก|The Six Realms|ภพภูมิ,ผลแห่งจิต||
-นรกในความเชื่อ|Hell (Belief)|ผลกรรมร้าย,คำเตือน||
-สวรรค์ในความเชื่อ|Heaven (Belief)|ผลบุญ,ความสุข||
-เปรตและผู้หิวโหย|Hungry Ghosts|ความอยากไม่สิ้นสุด,การอุทิศ||
-อสุรกาย|Asura|ความริษยา,การแข่งขัน||
-ภูมิสัตว์|Animal Realm|สัญชาตญาณ,ความไม่รู้||
-ภูมิมนุษย์|Human Realm|โอกาส,การเลือก||
-พระพรหมผู้ลิขิต (ความเชื่อ)|Brahma Writes Fate (Belief)|ชะตา,การยอมรับ||
-พระยมผู้พิพากษา|Yama the Judge|การพิพากษา,ความยุติธรรม||
-บัญชีความดีความชั่ว|The Ledger of Deeds|การบันทึก,การทบทวน||
-สะพานชินวัต|Chinvat Bridge|ความเชื่อโซโรอัสเตอร์,การข้ามผ่าน||
-การชั่งหัวใจกับขนนก|Weighing of the Heart|อียิปต์โบราณ,ความบริสุทธิ์ใจ||
-บาปกำเนิด|Original Sin|ความเชื่อคริสต์,พระหรรษทาน||
-การไถ่บาป|Redemption|การให้อภัย,เริ่มใหม่||
-การสารภาพบาป|Confession|การยอมรับผิด,ใจเบา||
-พระหรรษทาน|Grace|ของขวัญ,ไม่ต้องแลก||
-แดนชำระ|Purgatory|การชำระ,การรอคอย||
-หว่านอะไรก็เก็บเกี่ยวอย่างนั้น|You Reap What You Sow|คำสอนคริสต์,เหตุและผล||
-ทำต่อผู้อื่นอย่างที่อยากให้เขาทำต่อเรา|The Golden Rule|ความเห็นใจ,หลักร่วมทุกศาสนา||
-ทิกคุนโอลัม (ซ่อมแซมโลก)|Tikkun Olam|ความเชื่อยิว,การซ่อมแซม||
-เทชูวาห์ (การกลับตัว)|Teshuvah|ความเชื่อยิว,การกลับใจ||
-วันแห่งการไถ่บาป (ยมคิปปูร์)|Yom Kippur|การขออภัย,การเริ่มต้นใหม่||
-กงเต๊กส่งวิญญาณ|Kong Tek Rite|ความเชื่อจีน,การส่งผู้ล่วงลับ||
-สะเดาะเคราะห์ปีชง|Clashing-Year Remedy|ความเชื่อจีน,ไหว้แก้||
-เทศกาลสารทจีน (ผีหิว)|Hungry Ghost Festival|การอุทิศ,ความเมตตาต่อวิญญาณ||
-บุญบารมีสะสมแบบจีน (กงเต๋อ)|Gongde (Chinese Merit)|บุญกุศล,การสะสม||
-หยินหยางแห่งกรรม|Yin-Yang of Karma|สมดุล,ผลย้อนกลับ||
-กรรมในชินโต (สิ่งแปดเปื้อนและการชำระ)|Kegare and Harae|ความแปดเปื้อน,การชำระ||
-โอบ้งญี่ปุ่น|Obon|ต้อนรับวิญญาณบรรพบุรุษ,การระลึกถึง||
-ภาวะบาร์โดตามความเชื่อทิเบต|Bardo|ช่วงระหว่างภพ,การนำทางจิต||
-คัมภีร์มรณศาสตร์ทิเบต|Tibetan Book of the Dead|การตาย,การหลุดพ้น||
-การทำนายชาติก่อนแบบตะวันตก|Western Past-Life Reading|ชาติก่อน,บทเรียน||
-กรรมในโหราศาสตร์ (ราหูเกตุ)|Karma in Astrology (Rahu–Ketu)|เส้นทางกรรม,การเติบโต||
-ดาวเสาร์ผู้ทวงกรรม|Saturn the Karmic Teacher|บททดสอบ,ความอดทน||
-เลขกรรมในเลขศาสตร์|Karmic Numbers|รหัสชีวิต,บทเรียน||
-บันทึกกรรมในจักรวาล|The Cosmic Record|อาคาชิก,ทุกชาติภพ||
-กฎแห่งการตอบสนอง|What Goes Around Comes Around|ความเชื่อสากล,ผลย้อนกลับ||
-สามครั้งย้อนกลับ (กฎสามเท่า)|The Rule of Three|ความเชื่อวิกกา,ผลทวีคูณ||
-วงล้อแห่งโชคชะตา|Wheel of Fortune|ขึ้นลง,วัฏจักร||
-ด้ายชะตาของเทพสามพี่น้อง|The Three Fates|ความเชื่อกรีก,ด้ายชีวิต||
-เนเมซิส|Nemesis|ความเชื่อกรีก,การลงทัณฑ์ความหยิ่ง||
-ความเชื่อเรื่องโอริ (ชะตาแห่งศีรษะ)|Orí|ความเชื่อโยรูบา,ชะตาของตน||
-อุบุนตู|Ubuntu|ความเชื่อแอฟริกา,เราเป็นเพราะกันและกัน||
-ความเชื่อเรื่องบรรพบุรุษคุ้มครอง|Ancestral Protection|สายเลือด,การเคารพ||
-คำสาปตระกูล|A Family Curse|ความเชื่อพื้นบ้าน,การคลาย||
-ตำนานพรหมลิขิต|The Myth of Destiny|ฟ้ากำหนด,การยอมรับ||
-ทุกศาสนาสอนให้ทำดี|Every Faith Teaches Goodness|หลักร่วม,ความดีสากล||
-# การแก้กรรมและการชดใช้
-ทำบุญอุทิศส่วนกุศล|Dedicate Merit|การอุทิศ,ส่งบุญ||
-กรวดน้ำ|Pour Dedication Water|การอุทิศ,ความตั้งใจ||
-ขอขมากรรม|Ask Pardon for Karma|การขอขมา,ใจเบา||
-ปล่อยปลาปล่อยนก|Release Fish or Birds|อิสรภาพ,ความเมตตา||
-ไถ่ชีวิตโคกระบือ|Ransom Cattle from Slaughter|ชีวิต,อายุยืน||
-ถวายสังฆทาน|Offer Sangha Gifts|ทาน,ความอุดม||
-ถวายยารักษาโรค|Offer Medicine|สุขภาพ,การรักษา||
-บริจาคเลือด|Donate Blood|ชีวิต,การให้||
-บริจาคอวัยวะ|Pledge Organ Donation|การให้ยิ่งใหญ่,ชีวิตต่อ||
-บวชชีพราหมณ์|Ordain as a White-Robed Practitioner|ความสงบ,การชำระ||
-บวชพระ|Become Ordained|การชำระ,บุญใหญ่||
-ปฏิบัติธรรม|Practice Meditation Retreat|สติ,ความสงบ||
-สวดมนต์ข้ามปี|Chant Through New Year|เริ่มต้นดี,ศรัทธา||
-สวดมนต์ทุกวัน|Chant Daily|ความสม่ำเสมอ,ใจสงบ||
-รักษาศีลห้า|Keep the Five Precepts|ความปลอดภัย,ความน่าเชื่อถือ||
-รักษาศีลแปด|Keep the Eight Precepts|การขัดเกลา,ความสงบ||
-กินเจ|Vegetarian Festival Fast|ละเว้นชีวิต,การชำระ||
-ถือศีลอดตามความเชื่อของตน|Fasting by One's Faith|การควบคุมตน,ความศรัทธา||
-เดินจาริกแสวงบุญ|Go on Pilgrimage|การเดินทางทางใจ,ศรัทธา||
-เวียนเทียน|Candlelit Circumambulation|การบูชา,ความสงบ||
-ตักบาตร|Offer Alms|ทานประจำวัน,ความสุขเล็กๆ||
-ทำทานกับคนยากไร้|Give to the Poor|ความเมตตา,การแบ่งปัน||
-ทำงานจิตอาสา|Volunteer|การรับใช้,บุญจากการช่วย||
-ดูแลพ่อแม่|Care for Parents|ความกตัญญู,บุญใกล้ตัว||
-ขอโทษคนที่เคยทำร้าย|Apologize to Someone You Hurt|ความกล้า,การคืนดี||
-ชดใช้ความเสียหาย|Make Amends|ความรับผิดชอบ,การแก้ไข||
-คืนของที่ไม่ใช่ของเรา|Return What Isn't Yours|ความซื่อตรง,ใจเบา||
-เลิกพฤติกรรมเดิม|Break an Old Habit|การเปลี่ยนแปลง,ความตั้งใจ||
-เปลี่ยนอาชีพที่เบียดเบียน|Leave a Harmful Livelihood|สัมมาอาชีวะ,เริ่มใหม่||
-แผ่เมตตา|Spread Loving-kindness|เมตตา,ไม่มีเวร||
-ให้อภัยตัวเอง|Forgive Yourself|ความเมตตาต่อตัวเอง,การก้าวต่อ||
-เขียนจดหมายถึงผู้ล่วงลับ|Write to the Departed|การบอกลา,การปล่อยวาง||
-ทำพิธีสะเดาะเคราะห์ (ตามความเชื่อ)|A Misfortune-Lifting Rite (Belief)|ความเชื่อ,ความสบายใจ||
-สะเดาะกรรมด้วยการทำดี|Ease Karma by Doing Good|ความดีแทนพิธี,การกระทำ||
-ไหว้พระเก้าวัด|Visit Nine Temples|ศรัทธา,สิริมงคล||
-ถวายผ้าไตร|Offer Monastic Robes|บุญใหญ่,ความเคารพ||
-สร้างพระพุทธรูป|Commission a Buddha Image|ศรัทธา,บุญยั่งยืน||
-พิมพ์หนังสือธรรมะแจก|Print Dharma Books to Share|ธรรมทาน,ปัญญา||
-ปลูกต้นไม้|Plant a Tree|ชีวิต,ร่มเงา||
-เลี้ยงอาหารสัตว์จรจัด|Feed Stray Animals|เมตตา,ความใส่ใจ||
-อดทนต่อวิบากอย่างมีสติ|Bear Karma Mindfully|สติ,การยอมรับ||
-ยอมรับผลกรรมโดยไม่โทษใคร|Accept Without Blame|ความรับผิดชอบ,ใจสงบ||
-ตั้งสัจจะอธิษฐาน|Make a Solemn Vow|คำมั่น,ความแน่วแน่||
-งดเว้นการเบียดเบียน|Refrain from Harm|อหิงสา,ความสงบ||
-ใช้ชีวิตอย่างมีสติ|Live Mindfully|สติ,ปัจจุบัน||
-ทำความดีโดยไม่ประกาศ|Do Good Quietly|ความถ่อมตน,บุญบริสุทธิ์||
-จุดเทียนอธิษฐาน|Light a Prayer Candle|แสงสว่าง,ความหวัง||
-ไปโบสถ์สารภาพบาป|Go to Confession|การยอมรับ,การได้รับอภัย||
-สวดภาวนาให้ผู้ที่ล่วงลับ|Pray for the Departed|ความห่วงใย,การส่งผ่าน||
-ทำทานตามความเชื่อของตน|Charity by One's Faith|การให้,ศรัทธา||
-ตัดกรรมด้วยปัญญา|Cut Karma with Wisdom|ความเข้าใจ,ไม่ทำซ้ำ||
-หยุดวงจรกรรม|End the Karmic Cycle|ไม่ตอบโต้,การปล่อยวาง||
-เริ่มสร้างบุญใหม่|Start Making New Merit|เมล็ดใหม่,ความหวัง||
-กรรมดีกลบกรรมร้ายไม่ได้แต่ช่วยเบาได้|Good Can't Erase but Can Soften|ความเข้าใจ,ความหวัง||
-ชำระใจก่อนชำระกรรม|Cleanse the Heart First|ใจบริสุทธิ์,เจตนา||
-ขอพรสิ่งศักดิ์สิทธิ์ที่นับถือ|Pray to What You Revere|ศรัทธา,ที่พึ่งทางใจ||
-ปรึกษาผู้รู้ทางธรรม|Consult a Spiritual Teacher|การชี้แนะ,ความชัดเจน||
-อยู่กับปัจจุบันให้ดีที่สุด|Live This Moment Well|ปัจจุบันขณะ,การสร้างกรรมใหม่||
-# กรรมกับเงิน งาน ความรัก และสุขภาพ
-กรรมทางการเงิน|Financial Karma|ทรัพย์,การใช้จ่าย||
-เงินมาเพราะบุญ|Money Through Merit|ลาภ,การให้||
-เงินหายเพราะกรรมเก่า|Money Lost to Old Karma|การสูญเสีย,การยอมรับ||
-ทรัพย์ที่ได้มาโดยชอบ|Rightly Earned Wealth|ความสบายใจ,ความมั่นคง||
-ทรัพย์ที่ได้มาโดยมิชอบ|Wrongly Gained Wealth|ความร้อนใจ,การคืน||
-หนี้สินพอกพูน|Mounting Debt|ภาระ,การวางแผน||
-หลุดพ้นจากหนี้|Free from Debt|ความโล่ง,เริ่มใหม่||
-ธุรกิจรุ่งเพราะความซื่อตรง|Business Thrives on Honesty|ความน่าเชื่อถือ,ลูกค้าภักดี||
-ธุรกิจสะดุดเพราะเอาเปรียบ|Business Falters from Exploitation|ผลย้อน,ปรับวิธี||
-ลาภลอย|A Windfall|โชค,การแบ่งปัน||
-มรดกตกทอด|An Inheritance|บุญเก่า,ความรับผิดชอบ||
-กรรมในที่ทำงาน|Workplace Karma|เพื่อนร่วมงาน,ความรับผิดชอบ||
-งานมั่นคงเพราะความขยัน|Stable Work Through Diligence|ความเพียร,ความไว้ใจ||
-ถูกกลั่นแกล้งในที่ทำงาน|Bullied at Work|ความอดทน,ขอบเขต||
-ได้รับการเลื่อนตำแหน่ง|A Promotion|ผลของความเพียร,ความรับผิดชอบเพิ่ม||
-ตกงานกะทันหัน|Sudden Job Loss|จุดเปลี่ยน,เส้นทางใหม่||
-งานที่ใช่มาหา|The Right Work Arrives|โอกาส,ความพร้อม||
-อาชีพที่เป็นบุญ|Work That Is Merit|การรับใช้,ความหมาย||
-กรรมทางความรัก|Karma in Love|คู่ครอง,บทเรียน||
-รักแรกที่ไม่สมหวัง|An Unfulfilled First Love|ความทรงจำ,การเติบโต||
-รักที่ต้องรอข้ามเวลา|Love That Must Wait|การรอคอย,จังหวะ||
-รักต่างวัยต่างชนชั้น|Love Across Age or Class|อุปสรรค,ความกล้า||
-รักต้องห้าม|Forbidden Love|ความลับ,ผลที่ตามมา||
-ถูกนอกใจ|Being Cheated On|ความเจ็บปวด,ความเข้มแข็ง||
-เป็นฝ่ายนอกใจ|Being the One Who Cheats|ความรู้สึกผิด,การรับผิดชอบ||
-รักครั้งใหม่ที่เยียวยา|A New Love That Heals|การเริ่มต้น,ความอบอุ่น||
-ครองคู่จนแก่เฒ่า|Together Into Old Age|ความมั่นคง,คู่บุญ||
-แต่งงานแล้วแยกทาง|Married Then Parted|การเรียนรู้,การปล่อยวาง||
-อยู่คนเดียวอย่างมีความสุข|Happily Alone|อิสระ,ความพอใจ||
-มีลูกยาก (ตามความเชื่อเรื่องกรรม)|Difficulty Having Children (Belief)|ความหวัง,การดูแล||
-ได้ลูกตามที่ขอ|A Child as Prayed For|คำอธิษฐาน,ความสุข||
-กรรมกับสุขภาพ|Karma and Health|การดูแล,ความเชื่อ||
-สุขภาพดีเพราะไม่เบียดเบียน|Health from Non-Harm|อหิงสา,อายุยืน||
-เจ็บป่วยเป็นบททดสอบ|Illness as a Test|ความอดทน,ความเข้าใจ||
-หายป่วยเพราะบุญ|Healed Through Merit|ปาฏิหาริย์,ศรัทธา||
-อุบัติเหตุที่รอดมาได้|Surviving an Accident|การคุ้มครอง,โอกาสใหม่||
-กรรมของเสียงและวาจา|Karma of the Voice|เสียง,การพูด||
-กรรมของดวงตาและการมอง|Karma of the Eyes|การมอง,การเห็น||
-กรรมของมือและการกระทำ|Karma of the Hands|การกระทำ,การสร้าง||
-กรรมของการเดินทาง|Karma of Travel|ความปลอดภัย,การย้ายถิ่น||
-กรรมของบ้านที่อยู่|Karma of a Home|ความร่มเย็น,เจ้าที่||
-กรรมของชื่อเสียง|Karma of Reputation|คำชม,คำติ||
-กรรมของการเรียน|Karma of Study|สติปัญญา,ความเพียร||
-กรรมของการสอบ|Karma of Exams|การเตรียมพร้อม,โชค||
-กรรมของการตัดสินใจครั้งใหญ่|Karma of a Big Decision|ทางแยก,ผลระยะยาว||
-# สัญญาณกรรมและลางตามความเชื่อ
-ฝันเห็นผู้ล่วงลับ|Dreaming of the Departed|สาร,การอุทิศ||
-ฝันเห็นพระ|Dreaming of a Monk|สิริมงคล,คำเตือนทางธรรม||
-ฝันเห็นงู|Dreaming of a Snake|เนื้อคู่ตามความเชื่อ,การเปลี่ยนแปลง||
-ฝันว่าฟันหลุด|Dreaming of Losing Teeth|การสูญเสีย,ความกังวล||
-ฝันว่าตกจากที่สูง|Dreaming of Falling|ความไม่มั่นคง,การปล่อย||
-ฝันว่าบินได้|Dreaming of Flying|อิสรภาพ,ความหวัง||
-ฝันเห็นน้ำใส|Dreaming of Clear Water|ความบริสุทธิ์,โชค||
-ฝันเห็นไฟ|Dreaming of Fire|พลัง,การเปลี่ยนแปลง||
-เห็นรุ้งกินน้ำ|Seeing a Rainbow|ความหวัง,พร||
-ผีเสื้อบินเข้าบ้าน|A Butterfly Enters the Home|ผู้มาเยือน,การเปลี่ยนแปลง||
-นกเข้าบ้าน|A Bird Enters the Home|ข่าวสาร,ลาง||
-จิ้งจกทัก|A Gecko Chirps|ลางเตือน,ความระวัง||
-ตาเขม่น|A Twitching Eye|ลางพื้นบ้าน,การสังเกต||
-หูอื้อหูร้อน|Burning Ears|มีคนพูดถึง,การรับรู้||
-ขนลุกไม่มีสาเหตุ|Goosebumps Without Cause|สิ่งที่มองไม่เห็น,ความรู้สึก||
-ได้กลิ่นธูปโดยไม่มีที่มา|Smelling Incense from Nowhere|การเยี่ยมเยือน,ความเชื่อ||
-นาฬิกาหยุดเดิน|A Stopped Clock|เวลาหยุด,ลาง||
-ของตกแตกเอง|Something Breaks by Itself|ลางเตือน,การปล่อยวาง||
-เจอเลขซ้ำบ่อย|Seeing Repeated Numbers|สัญญาณ,ความใส่ใจ||
-เจอคนเดิมบ่อยโดยบังเอิญ|Running Into the Same Person|สาร,ความเชื่อมโยง||
-เดจาวู|Déjà Vu|ความทรงจำเก่า,จุดเชื่อม||
-ลางสังหรณ์|A Premonition|สัญชาตญาณ,ความระวัง||
-ความรู้สึกถูกเฝ้ามอง|Feeling Watched|การคุ้มครอง,ความกังวล||
-ไม่อยากไปที่ใดที่หนึ่งโดยไม่รู้สาเหตุ|An Unexplained Aversion to a Place|สัญชาตญาณ,ความระวัง||
-รู้สึกผูกพันกับวัดหรือโบสถ์บางแห่ง|Drawn to a Particular Sacred Place|ความผูกพันเก่า,ศรัทธา||
-สัตว์เข้าหาโดยไม่กลัว|Animals Approach Without Fear|เมตตา,พลังสงบ||
-เด็กเล็กร้องไห้เมื่อเห็นเรา|A Baby Cries on Seeing You|ความเชื่อพื้นบ้าน,การสังเกตตน||
-เหตุการณ์ซ้ำรอยเดิม|History Repeating|วงจรกรรม,บทเรียน||
-เคราะห์ซ้ำกรรมซัด|Misfortune Upon Misfortune|มรสุม,ตั้งสติ||
-ฟ้าหลังฝน|The Sky After Rain|ความหวัง,ผ่านพ้น||
-แสงสว่างปลายอุโมงค์|Light at the Tunnel's End|ความหวัง,ใกล้ถึง||
-ดวงตก|A Low Point in Fortune|ระวังตัว,รอจังหวะ||
-ดวงขึ้น|A Rising Fortune|โอกาส,ลงมือ||
-จังหวะชีวิตกำลังเปลี่ยน|Life's Rhythm Is Changing|จุดเปลี่ยน,ปรับตัว||
-ถึงเวลาเก็บเกี่ยว|Harvest Time|ผลของการกระทำ,ความภูมิใจ||
-ถึงเวลาหว่านเมล็ด|Time to Sow|เริ่มต้น,ความตั้งใจ||
-ถึงเวลาพักและทบทวน|Time to Rest and Reflect|หยุด,ทบทวน||
-คำตอบอยู่ในใจคุณเอง|The Answer Is Within You|ปัญญาภายใน,การฟังตัวเอง||
+# กรรมจาก…
+กรรมจากการพูดจาทำร้ายใจผู้อื่น|Karma from harsh words|คำพูด,ใจคน||
+กรรมจากการโกหกคนที่ไว้ใจ|Karma from lying to someone who trusted you|ความเชื่อใจ,ความจริง||
+กรรมจากการผิดสัญญา|Karma from broken promises|สัญญา,ความรับผิดชอบ||
+กรรมจากการนอกใจคู่ครอง|Karma from unfaithfulness|ความรัก,ความซื่อสัตย์||
+กรรมจากการทิ้งคนที่ต้องพึ่งพาเรา|Karma from abandoning someone who depended on you|การดูแล,ความผูกพัน||
+กรรมจากการเอาเปรียบคนที่อ่อนแอกว่า|Karma from taking advantage of the weak|ความยุติธรรม,เมตตา||
+กรรมจากการโกงเงินผู้อื่น|Karma from cheating people out of money|เงิน,ความสุจริต||
+กรรมจากการยืมแล้วไม่คืน|Karma from borrowing and never returning|หนี้,ความซื่อตรง||
+กรรมจากการทำร้ายสัตว์|Karma from harming animals|สัตว์,เมตตา||
+กรรมจากการฆ่าสัตว์ตัดชีวิต|Karma from taking animal life|ศีล,ชีวิต||
+กรรมจากการดูหมิ่นพ่อแม่|Karma from disrespecting parents|กตัญญู,ครอบครัว||
+กรรมจากการอกตัญญูต่อผู้มีพระคุณ|Karma from ingratitude to benefactors|กตัญญู,บุญคุณ||
+กรรมจากการนินทาว่าร้าย|Karma from gossip and slander|คำพูด,ชื่อเสียง||
+กรรมจากการใส่ร้ายผู้บริสุทธิ์|Karma from framing the innocent|ความยุติธรรม,ความจริง||
+กรรมจากการยุยงให้คนแตกแยก|Karma from stirring up division|ความสามัคคี,คำพูด||
+กรรมจากการอิจฉาริษยา|Karma from envy|ใจ,การปล่อยวาง||
+กรรมจากการขโมยของผู้อื่น|Karma from stealing|ศีล,ทรัพย์||
+กรรมจากการผิดศีลข้อกาเม|Karma from sexual misconduct|ศีล,ความสัมพันธ์||
+กรรมจากการดื่มจนขาดสติ|Karma from drinking past mindfulness|สติ,ศีล||
+กรรมจากการพนันจนครอบครัวลำบาก|Karma from gambling that hurt the family|การพนัน,ครอบครัว||
+กรรมจากการปรามาสพระรัตนตรัย|Karma from disrespecting the Triple Gem|ศรัทธา,ความเคารพ||
+กรรมจากการลบหลู่สิ่งศักดิ์สิทธิ์|Karma from mocking the sacred|ความเชื่อ,ความเคารพ||
+กรรมจากการทำลายศาสนสถาน|Karma from damaging places of worship|ศาสนสถาน,ความเคารพ||
+กรรมจากการยักยอกของวัด|Karma from taking temple property|ของสงฆ์,ความสุจริต||
+กรรมจากการขัดขวางคนทำบุญ|Karma from blocking someone's good deed|บุญ,การสนับสนุน||
+กรรมจากการกลั่นแกล้งคนอื่นจนเจ็บช้ำ|Karma from bullying|ใจคน,เมตตา||
+กรรมจากการทำแท้งตามความเชื่อบางสาย|Karma from abortion, as some traditions believe|ความเชื่อ,การให้อภัยตัวเอง||
+กรรมจากการแย่งคนรักของผู้อื่น|Karma from taking another's partner|ความรัก,บุคคลที่สาม||
+กรรมจากการทำให้คนรักเสียใจซ้ำๆ|Karma from repeatedly hurting a partner|ความรัก,การแก้ไข||
+กรรมจากการหักหลังเพื่อน|Karma from betraying a friend|มิตรภาพ,ความไว้ใจ||
+กรรมจากการใช้อำนาจข่มเหงลูกน้อง|Karma from abusing power over staff|อำนาจ,ความเป็นธรรม||
+กรรมจากการเลือกปฏิบัติ|Karma from discrimination|ความเท่าเทียม,ใจกว้าง||
+กรรมจากการไม่ช่วยเหลือทั้งที่ช่วยได้|Karma from not helping when you could|น้ำใจ,โอกาส||
+กรรมจากการตระหนี่ไม่ยอมแบ่งปัน|Karma from stinginess|การให้,ทรัพย์||
+กรรมจากการทำร้ายร่างกายผู้อื่น|Karma from physical violence|ความรุนแรง,การยับยั้ง||
+กรรมจากการกักขังสัตว์ให้ทรมาน|Karma from caging animals cruelly|สัตว์,อิสระ||
+กรรมจากการทำลายธรรมชาติ|Karma from destroying nature|ธรรมชาติ,ความรับผิดชอบ||
+กรรมจากการตัดต้นไม้ใหญ่ที่มีเจ้าที่|Karma from felling a tree believed to have a spirit|เจ้าที่,ความเชื่อ||
+กรรมจากการบนบานแล้วไม่แก้บน|Karma from unfulfilled vows to spirits|แก้บน,สัจจะ||
+กรรมจากการรับปากแล้วไม่ทำ|Karma from saying yes and never doing it|สัจจะ,ความรับผิดชอบ||
+กรรมจากการดูถูกคนยากจน|Karma from looking down on the poor|ความเท่าเทียม,ถ่อมตน||
+กรรมจากการหัวเราะเยาะความทุกข์ของคนอื่น|Karma from laughing at others' pain|เมตตา,ใจคน||
+กรรมจากการทอดทิ้งพ่อแม่ยามแก่|Karma from neglecting ageing parents|กตัญญู,การดูแล||
+กรรมจากการทำให้เด็กหวาดกลัว|Karma from frightening children|เด็ก,ความปลอดภัย||
+กรรมจากการเป็นหนี้แล้วหนี|Karma from running from debts|หนี้,ความรับผิดชอบ||
+กรรมจากการเอาเครดิตงานคนอื่น|Karma from taking credit for others' work|การงาน,ความซื่อตรง||
+กรรมจากการปิดบังความผิดของตัวเองให้คนอื่นรับแทน|Karma from letting others take your blame|ความรับผิดชอบ,ความจริง||
+กรรมจากการพูดเท็จในชั้นศาล|Karma from false testimony|ความจริง,ความยุติธรรม||
+กรรมจากการขายของปลอม|Karma from selling fakes|ค้าขาย,ความสุจริต||
+กรรมจากการคดโกงตาชั่ง|Karma from cheating on weights|ค้าขาย,ความซื่อตรง||
+กรรมจากการทำให้คนอื่นหมดกำลังใจ|Karma from crushing someone's hope|กำลังใจ,คำพูด||
+กรรมจากการเก็บความแค้นไว้นาน|Karma from holding a grudge|อภัย,ปล่อยวาง||
+กรรมจากการสาปแช่งผู้อื่น|Karma from cursing others|คำพูด,พลังลบ||
+กรรมจากการผูกใจเจ็บข้ามชาติ|Karma from a grudge carried across lives|เจ้ากรรมนายเวร,อภัย||
+กรรมจากการทำของใส่ผู้อื่นตามความเชื่อ|Karma from using black magic on others, as believed|ไสยศาสตร์,ความเชื่อ||
+กรรมจากการหลอกให้คนหลงรัก|Karma from deceiving someone into love|ความรัก,ความจริงใจ||
+กรรมจากการเหยียบย่ำคนอื่นเพื่อขึ้นสูง|Karma from climbing over others|ความสำเร็จ,ความเป็นธรรม||
+กรรมจากการใช้ชีวิตประมาท|Karma from careless living|สติ,ความไม่ประมาท||
+กรรมจากการปล่อยให้ความโกรธครอบงำ|Karma from letting anger rule|โกรธ,สติ||
+กรรมจากการไม่ให้อภัยตัวเอง|Karma from never forgiving yourself|อภัย,เยียวยา||
+# ผลบุญจาก…
+ผลบุญจากการใส่บาตรทุกเช้า|Merit from giving alms each morning|ใส่บาตร,ความสม่ำเสมอ||
+ผลบุญจากการดูแลพ่อแม่ด้วยความรัก|Merit from caring for parents|กตัญญู,ครอบครัว||
+ผลบุญจากการให้อภัยคนที่ทำร้ายเรา|Merit from forgiving someone who hurt you|อภัย,ใจเบา||
+ผลบุญจากการบริจาคโลหิต|Merit from donating blood|ชีวิต,การให้||
+ผลบุญจากการบริจาคอวัยวะ|Merit from organ donation|ชีวิต,การให้||
+ผลบุญจากการสร้างพระพุทธรูปถวายวัด|Merit from offering a Buddha image|พระพุทธรูป,ศรัทธา||
+ผลบุญจากการปล่อยสัตว์คืนสู่ธรรมชาติ|Merit from releasing animals|ชีวิต,อิสระ||
+ผลบุญจากการไถ่ชีวิตโคกระบือ|Merit from redeeming cattle from slaughter|ชีวิต,เมตตา||
+ผลบุญจากการสวดมนต์ไหว้พระเป็นประจำ|Merit from regular chanting|สวดมนต์,สมาธิ||
+ผลบุญจากการนั่งสมาธิ|Merit from meditation|สมาธิ,ใจสงบ||
+ผลบุญจากการรักษาศีลห้า|Merit from keeping the Five Precepts|ศีล,ความสงบ||
+ผลบุญจากการบวชในอดีตชาติ|Merit from ordaining in a past life|บวช,บุญเก่า||
+ผลบุญจากการบวชให้พ่อแม่ในชาตินี้|Merit from ordaining for your parents|บวช,กตัญญู||
+ผลบุญจากการให้ทุนการศึกษา|Merit from funding someone's studies|การศึกษา,การให้||
+ผลบุญจากการสอนหนังสือให้เด็ก|Merit from teaching children|ความรู้,การให้||
+ผลบุญจากการให้ธรรมะเป็นทาน|Merit from sharing the Dhamma|ธรรมทาน,ปัญญา||
+ผลบุญจากการพิมพ์หนังสือธรรมะแจก|Merit from printing Dhamma books|ธรรมทาน,ปัญญา||
+ผลบุญจากการสร้างศาลาพักร้อน|Merit from building a rest pavilion|สาธารณประโยชน์,ร่มเย็น||
+ผลบุญจากการสร้างสะพานหรือทางเดิน|Merit from building bridges or paths|สาธารณประโยชน์,เส้นทาง||
+ผลบุญจากการขุดบ่อน้ำให้ชุมชน|Merit from digging a well|น้ำ,ชุมชน||
+ผลบุญจากการปลูกต้นไม้|Merit from planting trees|ธรรมชาติ,ร่มเงา||
+ผลบุญจากการให้อาหารสัตว์จรจัด|Merit from feeding strays|สัตว์,เมตตา||
+ผลบุญจากการรับเลี้ยงสัตว์ที่ถูกทิ้ง|Merit from adopting an abandoned animal|สัตว์,การดูแล||
+ผลบุญจากการช่วยคนป่วยโดยไม่หวังผล|Merit from helping the sick selflessly|สุขภาพ,เมตตา||
+ผลบุญจากการถวายยารักษาโรคแด่พระ|Merit from offering medicine to monks|สุขภาพ,ถวาย||
+ผลบุญจากการถวายสังฆทาน|Merit from offering sangha dana|สังฆทาน,บุญ||
+ผลบุญจากการทอดกฐิน|Merit from kathina robe offering|กฐิน,ร่วมบุญ||
+ผลบุญจากการทอดผ้าป่า|Merit from pha pa offering|ผ้าป่า,ร่วมบุญ||
+ผลบุญจากการถวายแสงสว่างแด่พระพุทธ|Merit from offering light to the Buddha|แสงสว่าง,ปัญญา||
+ผลบุญจากการถวายดอกไม้บูชาพระ|Merit from offering flowers|ดอกไม้,ความงาม||
+ผลบุญจากการปิดทองหลังพระ|Merit from good done quietly|ไม่หวังผล,ความดี||
+ผลบุญจากการช่วยงานวัดด้วยแรงกาย|Merit from volunteering at a temple|แรงกาย,ร่วมบุญ||
+ผลบุญจากการกวาดลานวัด|Merit from sweeping the temple grounds|ความสะอาด,ใจเบา||
+ผลบุญจากการรักษาความสัตย์|Merit from keeping your word|สัจจะ,ความน่าเชื่อถือ||
+ผลบุญจากการพูดแต่คำจริงและอ่อนโยน|Merit from truthful, gentle speech|วาจา,ความจริง||
+ผลบุญจากการไม่ซ้ำเติมคนล้ม|Merit from not kicking someone when down|เมตตา,ใจกว้าง||
+ผลบุญจากการยกย่องความดีของผู้อื่น|Merit from praising others' good|มุทิตา,ใจกว้าง||
+ผลบุญจากการยินดีเมื่อคนอื่นได้ดี|Merit from rejoicing in others' success|มุทิตา,ไม่อิจฉา||
+ผลบุญจากการอุทิศส่วนกุศลให้เจ้ากรรมนายเวร|Merit from dedicating merit to karmic creditors|กรวดน้ำ,คลายกรรม||
+ผลบุญจากการกรวดน้ำให้บรรพบุรุษ|Merit from dedicating merit to ancestors|บรรพบุรุษ,กรวดน้ำ||
+ผลบุญจากการเลี้ยงดูลูกด้วยความรัก|Merit from raising children with love|ครอบครัว,ความรัก||
+ผลบุญจากการดูแลผู้ป่วยติดเตียง|Merit from caring for the bedridden|การดูแล,ความอดทน||
+ผลบุญจากการช่วยผู้ประสบภัย|Merit from helping disaster victims|ช่วยเหลือ,เมตตา||
+ผลบุญจากการเป็นอาสาสมัคร|Merit from volunteering|อาสา,การให้||
+ผลบุญจากการให้ที่พักแก่ผู้ไร้บ้าน|Merit from sheltering the homeless|ที่พัก,เมตตา||
+ผลบุญจากการให้งานทำแก่ผู้ลำบาก|Merit from giving work to those in need|งาน,โอกาส||
+ผลบุญจากการจ่ายค่าแรงอย่างเป็นธรรม|Merit from paying fair wages|เป็นธรรม,การงาน||
+ผลบุญจากการคืนของที่เก็บได้|Merit from returning lost property|ความสุจริต,ซื่อตรง||
+ผลบุญจากการไม่เบียดเบียนใคร|Merit from harming no one|ศีล,สงบ||
+ผลบุญจากการฟังพ่อแม่ด้วยความเคารพ|Merit from listening to parents with respect|กตัญญู,เคารพ||
+ผลบุญจากการไหว้ขอขมาผู้ใหญ่|Merit from asking elders' forgiveness|ขอขมา,ถ่อมตน||
+ผลบุญจากการช่วยให้คนคืนดีกัน|Merit from reconciling people|สามัคคี,สันติ||
+ผลบุญจากการปลอบใจคนที่ทุกข์|Merit from comforting the grieving|เมตตา,ใจคน||
+ผลบุญจากการสร้างโรงเรียนหรือห้องสมุด|Merit from building a school or library|การศึกษา,ปัญญา||
+ผลบุญจากการบริจาคให้โรงพยาบาล|Merit from donating to hospitals|สุขภาพ,การให้||
+ผลบุญจากการเลี้ยงพระในวันเกิด|Merit from feeding monks on your birthday|วันเกิด,ทำบุญ||
+ผลบุญจากการถือศีลแปดในวันพระ|Merit from keeping eight precepts on holy days|ศีลแปด,วันพระ||
+ผลบุญจากการปฏิบัติธรรมต่อเนื่อง|Merit from steady practice|ปฏิบัติธรรม,ความเพียร||
+ผลบุญจากการเป็นที่พึ่งให้คนอื่นได้|Merit from being someone others can lean on|ที่พึ่ง,ความน่าเชื่อถือ||
+ผลบุญจากการช่วยคนให้พ้นอันตราย|Merit from saving someone from danger|ความกล้า,ชีวิต||
+# อดีตเคยเป็น…
+อดีตเคยเป็นพระภิกษุผู้ปฏิบัติดี|In a past life you were a devoted monk|บวช,ศีล||
+อดีตเคยเป็นแม่ชีผู้บำเพ็ญภาวนา|In a past life you were a meditating nun|ภาวนา,ความสงบ||
+อดีตเคยเป็นนักบวชในวิหารโบราณ|In a past life you were a priest in an ancient temple|พิธีกรรม,ศรัทธา||
+อดีตเคยเป็นกษัตริย์ผู้ปกครองเมือง|In a past life you were a ruler|อำนาจ,ความรับผิดชอบ||
+อดีตเคยเป็นราชินีในวังหลวง|In a past life you were a queen|บารมี,ความสง่า||
+อดีตเคยเป็นขุนนางในราชสำนัก|In a past life you were a court noble|ยศ,การเมือง||
+อดีตเคยเป็นทหารในสนามรบ|In a past life you were a soldier|ความกล้า,การสูญเสีย||
+อดีตเคยเป็นแม่ทัพผู้นำทัพ|In a past life you were a general|ผู้นำ,การตัดสินใจ||
+อดีตเคยเป็นนักรบที่สละชีวิตเพื่อผู้อื่น|In a past life you were a warrior who died for others|เสียสละ,ความกล้า||
+อดีตเคยเป็นหมอยาสมุนไพร|In a past life you were an herbal healer|สมุนไพร,การรักษา||
+อดีตเคยเป็นหมอตำแย|In a past life you were a village midwife|การเกิด,การดูแล||
+อดีตเคยเป็นครูสอนหนังสือ|In a past life you were a teacher|ความรู้,การให้||
+อดีตเคยเป็นพ่อค้าเดินเรือ|In a past life you were a seafaring merchant|การค้า,การเดินทาง||
+อดีตเคยเป็นพ่อค้าวาณิชผู้มั่งคั่ง|In a past life you were a wealthy trader|ทรัพย์,การค้า||
+อดีตเคยเป็นชาวนาผู้ขยัน|In a past life you were a hardworking farmer|ความขยัน,แผ่นดิน||
+อดีตเคยเป็นช่างฝีมือสร้างวัด|In a past life you were a temple craftsman|ฝีมือ,ศรัทธา||
+อดีตเคยเป็นช่างทอผ้า|In a past life you were a weaver|ฝีมือ,ความอดทน||
+อดีตเคยเป็นศิลปินวาดภาพ|In a past life you were a painter|ศิลปะ,ความงาม||
+อดีตเคยเป็นนักดนตรีในราชสำนัก|In a past life you were a court musician|ดนตรี,ความรื่นรมย์||
+อดีตเคยเป็นนางรำ|In a past life you were a dancer|การแสดง,ความงาม||
+อดีตเคยเป็นนักเล่านิทาน|In a past life you were a storyteller|คำพูด,จินตนาการ||
+อดีตเคยเป็นทาสที่ถูกกดขี่|In a past life you were someone enslaved|ความทุกข์,อิสรภาพ||
+อดีตเคยเป็นคนรับใช้ผู้ซื่อสัตย์|In a past life you were a loyal servant|ความภักดี,การรับใช้||
+อดีตเคยเป็นขอทานผู้มีน้ำใจ|In a past life you were a kind beggar|น้ำใจ,ความถ่อมตน||
+อดีตเคยเป็นโจรที่กลับใจ|In a past life you were a reformed thief|กลับใจ,โอกาสใหม่||
+อดีตเคยเป็นพรานป่า|In a past life you were a hunter|ชีวิตสัตว์,การเปลี่ยนแปลง||
+อดีตเคยเป็นชาวประมง|In a past life you were a fisher|ทะเล,ชีวิตสัตว์||
+อดีตเคยเป็นคนเลี้ยงช้าง|In a past life you were an elephant keeper|ช้าง,ความผูกพัน||
+อดีตเคยเป็นคนเฝ้าวัด|In a past life you were a temple caretaker|วัด,การดูแล||
+อดีตเคยเป็นผู้เฝ้าประตูเมือง|In a past life you were a city gatekeeper|การปกป้อง,หน้าที่||
+อดีตเคยเป็นนักพรตในถ้ำ|In a past life you were a cave hermit|ความวิเวก,ภาวนา||
+อดีตเคยเป็นโยคีในป่าหิมพานต์|In a past life you were a forest yogi|ฌาน,ธรรมชาติ||
+อดีตเคยเป็นหมอดูประจำหมู่บ้าน|In a past life you were a village fortune-teller|การทำนาย,ความเชื่อ||
+อดีตเคยเป็นร่างทรงของเทพ|In a past life you were a spirit medium|การสื่อสาร,ความเชื่อ||
+อดีตเคยเป็นพ่อแม่ของคนที่อยู่ใกล้คุณตอนนี้|In a past life you were the parent of someone close to you now|ความผูกพัน,สายสัมพันธ์||
+อดีตเคยเป็นลูกของคนที่ดูแลคุณตอนนี้|In a past life you were the child of someone caring for you now|สายสัมพันธ์,บุญคุณ||
+อดีตเคยเป็นคู่รักของคนที่เพิ่งเข้ามาในชีวิต|In a past life you were the partner of someone new in your life|เนื้อคู่,ความผูกพัน||
+อดีตเคยเป็นศัตรูของคนที่ขัดแย้งกับคุณตอนนี้|In a past life you were the enemy of someone you clash with now|เจ้ากรรมนายเวร,คลายปม||
+อดีตเคยเป็นพี่น้องร่วมสายเลือดของเพื่อนสนิท|In a past life you were a sibling of your close friend|มิตรภาพ,ความผูกพัน||
+อดีตเคยเป็นครูของคนที่คุณสอนอยู่|In a past life you were the teacher of someone you now teach|ความรู้,การส่งต่อ||
+อดีตเคยเป็นคนที่เคยทำร้ายคนที่คุณรัก|In a past life you were someone who once hurt a person you love|การแก้ไข,อภัย||
+อดีตเคยเป็นคนที่เคยช่วยชีวิตคนอื่นไว้|In a past life you were someone who saved a life|บุญคุณ,ความกล้า||
+อดีตเคยเป็นเด็กที่จากไปก่อนวัย|In a past life you were a child who died young|ชีวิตสั้น,การกลับมา||
+อดีตเคยเป็นคนที่ตายด้วยความอาลัย|In a past life you were someone who died with longing|ความผูกพัน,ค้างคา||
+อดีตเคยเป็นคนที่ตายก่อนได้ทำตามสัญญา|In a past life you were someone who died before keeping a promise|สัญญา,ค้างคา||
+อดีตเคยเป็นคนต่างแดนที่ไกลบ้าน|In a past life you were a foreigner far from home|ต่างแดน,คิดถึงบ้าน||
+อดีตเคยเป็นชาวเขาบนดอยสูง|In a past life you were a mountain villager|ธรรมชาติ,ความเรียบง่าย||
+อดีตเคยเป็นนักเดินทางแสวงบุญ|In a past life you were a pilgrim|การเดินทาง,ศรัทธา||
+อดีตเคยเป็นนักปราชญ์ผู้ให้คำปรึกษา|In a past life you were a counsellor-sage|ปัญญา,คำแนะนำ||
+อดีตเคยเป็นผู้พิพากษา|In a past life you were a judge|ความยุติธรรม,การตัดสิน||
+อดีตเคยเป็นคนที่ร่ำรวยแต่ตระหนี่|In a past life you were someone rich but stingy|ทรัพย์,การให้||
+อดีตเคยเป็นคนจนที่ใจบุญ|In a past life you were someone poor but generous|ใจบุญ,การให้||
+อดีตเคยเป็นสัตว์เลี้ยงของคนที่รักคุณตอนนี้|In a past life you were the pet of someone who loves you now|ความภักดี,ความผูกพัน||
+อดีตเคยเป็นนกที่บินอิสระ|In a past life you were a free-flying bird|อิสระ,การเดินทาง||
+อดีตเคยเป็นพญานาคผู้พิทักษ์|In a past life you were a guardian naga, in folk belief|พญานาค,การปกป้อง||
+# อดีตเคยทำ…
+อดีตเคยทำบุญใหญ่ร่วมกับคนในบ้านนี้|In a past life you made great merit with this household|ร่วมบุญ,ครอบครัว||
+อดีตเคยทำบุญร่วมกับเนื้อคู่|In a past life you made merit with your soulmate|เนื้อคู่,ร่วมบุญ||
+อดีตเคยทำบุญร่วมกับเพื่อนสนิทคนนี้|In a past life you made merit with this close friend|มิตรภาพ,ร่วมบุญ||
+อดีตเคยทำบุญร่วมกับเจ้านายคนนี้|In a past life you made merit with this boss|การงาน,ผู้ใหญ่อุปถัมภ์||
+อดีตเคยทำทานกับคนที่ตอนนี้กลับมาช่วยคุณ|In a past life you gave to someone who now helps you|ทาน,ผลตอบแทน||
+อดีตเคยทำผิดต่อคนที่ตอนนี้ทำให้คุณลำบาก|In a past life you wronged someone who now makes life hard|เจ้ากรรมนายเวร,ชดใช้||
+อดีตเคยทำร้ายต่อคนรักในชาติก่อน|In a past life you hurt a partner in a past life|ความรัก,ชดใช้||
+อดีตเคยทำสัญญาว่าจะกลับมาเจอกันอีก|In a past life you promised to meet again|สัญญา,พรหมลิขิต||
+อดีตเคยทำคำอธิษฐานขอเกิดมาคู่กัน|In a past life you prayed to be reborn together|อธิษฐาน,เนื้อคู่||
+อดีตเคยทำคำสาบานที่ยังผูกมัดอยู่|In a past life you made a vow that still binds|คำสาบาน,ปลดปล่อย||
+อดีตเคยทำงานรับใช้ศาสนาอย่างเต็มกำลัง|In a past life you served a faith with all your strength|ศรัทธา,การรับใช้||
+อดีตเคยทำงานรักษาคนป่วยมามาก|In a past life you healed many|การรักษา,บารมี||
+อดีตเคยทำงานสอนคนจำนวนมาก|In a past life you taught many|ความรู้,บารมี||
+อดีตเคยทำงานสร้างวัดหรือเจดีย์|In a past life you built a temple or stupa|ศาสนสถาน,บุญใหญ่||
+อดีตเคยทำงานค้าขายด้วยความซื่อตรง|In a past life you traded honestly|การค้า,ซื่อตรง||
+อดีตเคยทำงานค้าขายแบบเอาเปรียบ|In a past life you traded unfairly|การค้า,ชดใช้||
+อดีตเคยทำสงครามและฆ่าฟัน|In a past life you fought and killed in war|สงคราม,การให้อภัย||
+อดีตเคยทำการล่าสัตว์เป็นอาชีพ|In a past life you hunted for a living|ชีวิตสัตว์,ชดใช้||
+อดีตเคยทำการยึดที่ดินผู้อื่น|In a past life you seized others' land|ที่ดิน,ความยุติธรรม||
+อดีตเคยทำการตัดสินคดีไม่เป็นธรรม|In a past life you judged unfairly|ความยุติธรรม,แก้ไข||
+อดีตเคยทำการทิ้งครอบครัวไปบวช|In a past life you left your family to ordain|บวช,ความผูกพัน||
+อดีตเคยทำการทิ้งลูกไว้ข้างหลัง|In a past life you left a child behind|ครอบครัว,ค้างคา||
+อดีตเคยทำการหนีความรับผิดชอบ|In a past life you ran from responsibility|ความรับผิดชอบ,บทเรียน||
+อดีตเคยทำการเสียสละชีวิตให้ผู้อื่น|In a past life you gave your life for others|เสียสละ,บุญใหญ่||
+อดีตเคยทำการไถ่ทาสให้เป็นอิสระ|In a past life you freed people from bondage|อิสระ,เมตตา||
+อดีตเคยทำการให้ที่พักแก่ผู้ลี้ภัย|In a past life you sheltered refugees|ที่พัก,เมตตา||
+อดีตเคยทำการเลี้ยงดูเด็กกำพร้า|In a past life you raised orphans|เด็ก,การดูแล||
+อดีตเคยทำการรักษาคำมั่นแม้ต้องลำบาก|In a past life you kept your word at great cost|สัจจะ,บารมี||
+อดีตเคยทำการใช้ไสยศาสตร์ทำร้ายคน|In a past life you used black magic to harm, as believed|ไสยศาสตร์,ชดใช้||
+อดีตเคยทำการใช้คาถาช่วยคน|In a past life you used blessings to help people, as believed|คาถา,เมตตา||
+อดีตเคยทำการเป็นเจ้ามือการพนัน|In a past life you ran gambling games|การพนัน,บทเรียน||
+อดีตเคยทำการโกงมรดกพี่น้อง|In a past life you cheated siblings of inheritance|มรดก,ครอบครัว||
+อดีตเคยทำการแย่งคนรักจากเพื่อน|In a past life you took a friend's partner|บุคคลที่สาม,มิตรภาพ||
+อดีตเคยทำการปกป้องคนอ่อนแอ|In a past life you protected the weak|การปกป้อง,ความกล้า||
+อดีตเคยทำการเปิดโรงทานเลี้ยงคน|In a past life you ran a free kitchen|ทาน,อาหาร||
+อดีตเคยทำการถวายที่ดินสร้างวัด|In a past life you gave land for a temple|ที่ดิน,บุญใหญ่||
+อดีตเคยทำการจุดประทีปบูชาพระ|In a past life you lit lamps before the Buddha|แสงสว่าง,ปัญญา||
+อดีตเคยทำการบวชแล้วสึกกลางทาง|In a past life you ordained and left early|บวช,ความตั้งใจ||
+อดีตเคยทำการปฏิบัติธรรมจนใจสงบ|In a past life you practised until your mind was still|สมาธิ,ใจสงบ||
+อดีตเคยทำการรักษาป่าและแหล่งน้ำ|In a past life you protected forests and water|ธรรมชาติ,การปกป้อง||
+อดีตเคยทำการดูแลช้างและม้าศึก|In a past life you cared for war elephants and horses|สัตว์,ความผูกพัน||
+อดีตเคยทำการเขียนตำราความรู้|In a past life you wrote books of knowledge|ปัญญา,การส่งต่อ||
+อดีตเคยทำการทำนายให้คนหลงผิด|In a past life you misled people with prophecies|การทำนาย,ความจริง||
+อดีตเคยทำการสร้างความแตกแยกในหมู่ญาติ|In a past life you divided your relatives|ครอบครัว,สามัคคี||
+อดีตเคยทำการกักขังคนอื่น|In a past life you held someone captive|อิสระ,ชดใช้||
+อดีตเคยทำการช่วยคนข้ามแม่น้ำ|In a past life you ferried people across a river|การช่วยเหลือ,เส้นทาง||
+อดีตเคยทำการหลอกคนที่รักเรา|In a past life you deceived someone who loved you|ความรัก,ความจริงใจ||
+อดีตเคยทำการดูแลพ่อแม่จนวาระสุดท้าย|In a past life you cared for parents to the end|กตัญญู,บุญใหญ่||
+อดีตเคยทำการผิดคำสาบานต่อเทพ|In a past life you broke a vow to a deity, as believed|คำสาบาน,ขอขมา||
+อดีตเคยทำการรับบุญคุณแล้วไม่ตอบแทน|In a past life you took kindness and never repaid it|บุญคุณ,ตอบแทน||
+อดีตเคยทำการให้ยืมเงินโดยไม่ทวง|In a past life you lent money and never asked for it back|การให้,ใจกว้าง||
+อดีตเคยทำการช่วยหญิงคลอดลูก|In a past life you helped a woman give birth|การเกิด,การดูแล||
+อดีตเคยทำการสร้างบ่อน้ำกลางทะเลทราย|In a past life you dug a well in a dry land|น้ำ,สาธารณประโยชน์||
+อดีตเคยทำการปล่อยปลาปล่อยนก|In a past life you released fish and birds|ชีวิต,อิสระ||
+อดีตเคยทำการนินทาจนคนเสียชื่อ|In a past life you gossiped until someone was ruined|คำพูด,ชดใช้||
+อดีตเคยทำการไม่ยอมให้อภัยจนวันตาย|In a past life you refused to forgive until death|อภัย,ค้างคา||
+# สร้างบุญโดย…
+สร้างบุญโดยใส่บาตรพระตอนเช้า|Make merit by giving morning alms|ใส่บาตร,เริ่มวันดี||
+สร้างบุญโดยถวายสังฆทานแก่พระสงฆ์|Make merit by offering sangha dana|สังฆทาน,ร่วมบุญ||
+สร้างบุญโดยถวายยารักษาโรคแด่วัด|Make merit by offering medicine to a temple|สุขภาพ,ถวาย||
+สร้างบุญโดยบริจาคโลหิตตามรอบ|Make merit by giving blood regularly|ชีวิต,การให้||
+สร้างบุญโดยร่วมทอดผ้าป่าสามัคคี|Make merit by joining a pha pa offering|ผ้าป่า,สามัคคี||
+สร้างบุญโดยร่วมทอดกฐิน|Make merit by joining a kathina offering|กฐิน,ปีละครั้ง||
+สร้างบุญโดยปล่อยปลาในแหล่งน้ำที่เหมาะสม|Make merit by releasing fish into suitable water|ปล่อยสัตว์,ชีวิต||
+สร้างบุญโดยไถ่ชีวิตโคกระบือ|Make merit by redeeming cattle|ชีวิต,เมตตา||
+สร้างบุญโดยให้อาหารสัตว์จรจัดอย่างรับผิดชอบ|Make merit by feeding strays responsibly|สัตว์,เมตตา||
+สร้างบุญโดยบริจาคให้มูลนิธิช่วยสัตว์|Make merit by giving to an animal charity|สัตว์,การให้||
+สร้างบุญโดยบริจาคเงินให้โรงพยาบาลรัฐ|Make merit by giving to a public hospital|สุขภาพ,สาธารณะ||
+สร้างบุญโดยบริจาคเครื่องมือแพทย์|Make merit by donating medical equipment|การรักษา,การให้||
+สร้างบุญโดยบริจาคหนังสือให้ห้องสมุด|Make merit by donating books|ความรู้,ปัญญา||
+สร้างบุญโดยบริจาคทุนการศึกษา|Make merit by giving a scholarship|การศึกษา,อนาคต||
+สร้างบุญโดยสอนหนังสือเด็กฟรี|Make merit by teaching children for free|ความรู้,อาสา||
+สร้างบุญโดยเลี้ยงอาหารเด็กกำพร้า|Make merit by feeding orphans|เด็ก,ทาน||
+สร้างบุญโดยเลี้ยงอาหารผู้สูงอายุในบ้านพักคนชรา|Make merit by feeding elders in a care home|ผู้สูงอายุ,ทาน||
+สร้างบุญโดยช่วยงานบุญที่วัดใกล้บ้าน|Make merit by helping at a local temple|วัด,แรงกาย||
+สร้างบุญโดยทำความสะอาดศาสนสถาน|Make merit by cleaning a place of worship|ความสะอาด,ใจเบา||
+สร้างบุญโดยปลูกต้นไม้ในที่สาธารณะ|Make merit by planting trees in public places|ธรรมชาติ,ร่มเงา||
+สร้างบุญโดยเก็บขยะริมทะเลหรือแม่น้ำ|Make merit by picking up litter by water|ธรรมชาติ,สาธารณะ||
+สร้างบุญโดยสวดมนต์ไหว้พระก่อนนอน|Make merit by chanting before sleep|สวดมนต์,ใจสงบ||
+สร้างบุญโดยนั่งสมาธิวันละสิบห้านาที|Make merit by meditating fifteen minutes a day|สมาธิ,สม่ำเสมอ||
+สร้างบุญโดยถือศีลแปดในวันพระ|Make merit by keeping eight precepts on holy days|ศีลแปด,วันพระ||
+สร้างบุญโดยเวียนเทียนในวันสำคัญทางศาสนา|Make merit by walking the candle procession|เวียนเทียน,ศรัทธา||
+สร้างบุญโดยบวชเนกขัมมะระยะสั้น|Make merit by a short lay retreat|ปฏิบัติธรรม,เว้นวรรค||
+สร้างบุญโดยบวชพระให้พ่อแม่|Make merit by ordaining for your parents|บวช,กตัญญู||
+สร้างบุญโดยกรวดน้ำอุทิศส่วนกุศล|Make merit by pouring water to share merit|กรวดน้ำ,อุทิศ||
+สร้างบุญโดยแผ่เมตตาให้คนที่ไม่ชอบเรา|Make merit by sending kindness to those who dislike you|เมตตา,คลายปม||
+สร้างบุญโดยขอขมาคนที่เคยล่วงเกิน|Make merit by apologising to someone you wronged|ขอขมา,แก้ไข||
+สร้างบุญโดยให้อภัยคนที่เคยทำร้ายเรา|Make merit by forgiving someone who hurt you|อภัย,ใจเบา||
+สร้างบุญโดยพูดจาไพเราะกับทุกคน|Make merit by speaking kindly to everyone|วาจา,เมตตา||
+สร้างบุญโดยช่วยเหลือคนแปลกหน้าโดยไม่หวังผล|Make merit by helping a stranger|น้ำใจ,ไม่หวังผล||
+สร้างบุญโดยให้ที่นั่งแก่ผู้สูงอายุ|Make merit by giving up your seat|น้ำใจ,ผู้สูงอายุ||
+สร้างบุญโดยคืนของที่เก็บได้ให้เจ้าของ|Make merit by returning lost things|ซื่อตรง,สุจริต||
+สร้างบุญโดยจ่ายหนี้ให้ครบตามสัญญา|Make merit by repaying debts in full|หนี้,สัจจะ||
+สร้างบุญโดยดูแลพ่อแม่ด้วยตัวเอง|Make merit by caring for your parents yourself|กตัญญู,ครอบครัว||
+สร้างบุญโดยพาพ่อแม่ไปทำบุญ|Make merit by taking your parents to make merit|กตัญญู,ร่วมบุญ||
+สร้างบุญโดยไปเยี่ยมคนป่วย|Make merit by visiting the sick|เมตตา,กำลังใจ||
+สร้างบุญโดยเป็นอาสาสมัครช่วยภัยพิบัติ|Make merit by volunteering in disasters|อาสา,ช่วยเหลือ||
+สร้างบุญโดยแบ่งปันความรู้ทางออนไลน์ฟรี|Make merit by sharing knowledge free online|ความรู้,ธรรมทาน||
+สร้างบุญโดยแจกหนังสือธรรมะ|Make merit by giving away Dhamma books|ธรรมทาน,ปัญญา||
+สร้างบุญโดยถวายหลอดไฟหรือแสงสว่างแก่วัด|Make merit by giving lighting to a temple|แสงสว่าง,ปัญญา||
+สร้างบุญโดยถวายน้ำดื่มแก่พระและผู้มาวัด|Make merit by offering drinking water|น้ำ,ความชุ่มเย็น||
+สร้างบุญโดยร่วมสร้างพระพุทธรูป|Make merit by helping fund a Buddha image|พระพุทธรูป,ศรัทธา||
+สร้างบุญโดยร่วมบูรณะโบสถ์วิหาร|Make merit by helping restore a temple hall|บูรณะ,ศาสนสถาน||
+สร้างบุญโดยซื้อของจากคนตัวเล็กในชุมชน|Make merit by buying from small local sellers|ชุมชน,แบ่งปัน||
+สร้างบุญโดยจ้างงานคนที่กำลังลำบาก|Make merit by hiring someone who is struggling|งาน,โอกาส||
+สร้างบุญโดยให้กำลังใจคนที่ท้อ|Make merit by encouraging someone who's given up|กำลังใจ,ใจคน||
+สร้างบุญโดยยินดีเมื่อคนอื่นได้ดี|Make merit by rejoicing in others' good fortune|มุทิตา,ใจกว้าง||
+สร้างบุญโดยงดเนื้อสัตว์ในวันพระ|Make merit by skipping meat on holy days|ศีล,เมตตา||
+สร้างบุญโดยกินเจตามเทศกาล|Make merit by keeping the vegetarian festival|กินเจ,ล้างท้อง||
+สร้างบุญโดยไหว้ขอบคุณเจ้าที่เจ้าทาง|Make merit by thanking the guardian spirits|เจ้าที่,ความเคารพ||
+สร้างบุญโดยช่วยค่ารักษาให้คนป่วยที่ขาดเงิน|Make merit by paying a poor patient's bills|สุขภาพ,การให้||
+สร้างบุญโดยเลี้ยงข้าวคนที่ทำงานหนักรอบตัว|Make merit by buying a meal for hard workers around you|น้ำใจ,แบ่งปัน||
+# ถ้า…จะเพิ่มกรรมเรื่อง…
+ถ้าโกหกคนในบ้าน จะเพิ่มกรรมเรื่องความไว้ใจ|If you lie at home, it adds karma about trust|ความไว้ใจ,ครอบครัว||
+ถ้านอกใจคนรัก จะเพิ่มกรรมเรื่องความรัก|If you cheat, it adds karma in love|ความรัก,ความซื่อสัตย์||
+ถ้ายืมเงินแล้วไม่คืน จะเพิ่มกรรมเรื่องการเงิน|If you don't repay, it adds money karma|หนี้,การเงิน||
+ถ้าพูดจาทำร้ายพ่อแม่ จะเพิ่มกรรมเรื่องครอบครัว|If you wound your parents with words, it adds family karma|กตัญญู,คำพูด||
+ถ้านินทาเพื่อนร่วมงาน จะเพิ่มกรรมเรื่องการงาน|If you gossip at work, it adds work karma|การงาน,คำพูด||
+ถ้าเอาเครดิตงานคนอื่น จะเพิ่มกรรมเรื่องชื่อเสียง|If you take credit, it adds karma about reputation|ชื่อเสียง,ความซื่อตรง||
+ถ้าทำร้ายสัตว์ จะเพิ่มกรรมเรื่องสุขภาพ|If you hurt animals, it adds karma about health, as believed|สัตว์,สุขภาพ||
+ถ้าตัดต้นไม้ใหญ่โดยไม่ขอขมา จะเพิ่มกรรมเรื่องเจ้าที่|If you fell a great tree without asking, it adds karma with land spirits|เจ้าที่,ขอขมา||
+ถ้าบนแล้วไม่แก้ จะเพิ่มกรรมเรื่องคำสัญญา|If you don't fulfil a vow, it adds karma about promises|แก้บน,สัจจะ||
+ถ้าแย่งคนรักของผู้อื่น จะเพิ่มกรรมเรื่องบุคคลที่สาม|If you take someone's partner, it adds third-party karma|บุคคลที่สาม,ความรัก||
+ถ้าทอดทิ้งพ่อแม่ยามแก่ จะเพิ่มกรรมเรื่องบั้นปลายชีวิต|If you neglect ageing parents, it adds karma for your old age|กตัญญู,บั้นปลาย||
+ถ้าเอาเปรียบลูกค้า จะเพิ่มกรรมเรื่องการค้าขาย|If you cheat customers, it adds trade karma|ค้าขาย,ความสุจริต||
+ถ้าโกงค่าแรงลูกน้อง จะเพิ่มกรรมเรื่องบริวาร|If you underpay staff, it adds karma with followers|บริวาร,เป็นธรรม||
+ถ้าดูถูกคนจน จะเพิ่มกรรมเรื่องฐานะ|If you look down on the poor, it adds karma about status|ฐานะ,ถ่อมตน||
+ถ้าเล่นการพนันจนเป็นหนี้ จะเพิ่มกรรมเรื่องทรัพย์สิน|If you gamble into debt, it adds property karma|การพนัน,ทรัพย์||
+ถ้าดื่มจนขาดสติ จะเพิ่มกรรมเรื่องอุบัติเหตุ|If you drink past mindfulness, it adds accident karma|สติ,อุบัติเหตุ||
+ถ้าขับรถประมาท จะเพิ่มกรรมเรื่องความปลอดภัย|If you drive carelessly, it adds safety karma|ความปลอดภัย,สติ||
+ถ้าลบหลู่สิ่งศักดิ์สิทธิ์ จะเพิ่มกรรมเรื่องโชคลาภ|If you mock the sacred, it adds luck karma|ความเคารพ,โชคลาภ||
+ถ้าผิดคำพูดกับเด็ก จะเพิ่มกรรมเรื่องความเชื่อใจ|If you break your word to a child, it adds trust karma|เด็ก,สัจจะ||
+ถ้าแกล้งคนที่อ่อนแอกว่า จะเพิ่มกรรมเรื่องศัตรู|If you bully the weak, it adds karma about enemies|ศัตรู,เมตตา||
+ถ้าเก็บความแค้นไว้ จะเพิ่มกรรมเรื่องเจ้ากรรมนายเวร|If you hold a grudge, it adds karma with karmic creditors|เจ้ากรรมนายเวร,อภัย||
+ถ้าสาปแช่งคนอื่น จะเพิ่มกรรมเรื่องคำพูด|If you curse others, it adds speech karma|คำพูด,พลังลบ||
+ถ้าหลอกให้คนรัก จะเพิ่มกรรมเรื่องเนื้อคู่|If you trick someone into love, it adds soulmate karma|เนื้อคู่,ความจริงใจ||
+ถ้าทิ้งสัตว์เลี้ยง จะเพิ่มกรรมเรื่องความพลัดพราก|If you abandon a pet, it adds karma of separation|สัตว์เลี้ยง,พลัดพราก||
+ถ้าทำลายของสาธารณะ จะเพิ่มกรรมเรื่องที่อยู่อาศัย|If you damage public property, it adds home karma|สาธารณะ,บ้าน||
+ถ้าทิ้งขยะลงแม่น้ำ จะเพิ่มกรรมเรื่องธรรมชาติ|If you dump waste in rivers, it adds nature karma|ธรรมชาติ,น้ำ||
+ถ้าขโมยของวัด จะเพิ่มกรรมหนักเรื่องทรัพย์|If you steal from a temple, it adds heavy property karma|ของสงฆ์,ทรัพย์||
+ถ้าพูดเท็จเพื่อเอาตัวรอด จะเพิ่มกรรมเรื่องคดีความ|If you lie to save yourself, it adds legal karma|คดีความ,ความจริง||
+ถ้าปลอมเอกสาร จะเพิ่มกรรมเรื่องกฎหมาย|If you forge papers, it adds legal karma|กฎหมาย,ความสุจริต||
+ถ้าทำให้คนอื่นอับอายต่อหน้าคน จะเพิ่มกรรมเรื่องชื่อเสียง|If you shame someone publicly, it adds reputation karma|ชื่อเสียง,ใจคน||
+ถ้าอิจฉาจนคิดร้าย จะเพิ่มกรรมเรื่องความสงบใจ|If envy turns to ill will, it adds karma about peace of mind|อิจฉา,ใจสงบ||
+ถ้าเหยียดคนต่างเชื้อชาติ จะเพิ่มกรรมเรื่องการอยู่ต่างแดน|If you look down on other races, it adds karma for life abroad|ต่างแดน,ความเท่าเทียม||
+ถ้าโกหกเจ้าหน้าที่ จะเพิ่มกรรมเรื่องเอกสาร|If you lie to officials, it adds paperwork karma|เอกสาร,ความจริง||
+ถ้าทำร้ายร่างกายคนอื่น จะเพิ่มกรรมเรื่องสุขภาพ|If you hurt someone physically, it adds health karma|ความรุนแรง,สุขภาพ||
+ถ้าตัดสินคนอื่นไม่เป็นธรรม จะเพิ่มกรรมเรื่องความยุติธรรม|If you judge unfairly, it adds justice karma|ความยุติธรรม,ใจกว้าง||
+ถ้ายุยงให้พี่น้องทะเลาะกัน จะเพิ่มกรรมเรื่องมรดก|If you set siblings against each other, it adds inheritance karma|มรดก,ครอบครัว||
+ถ้าเอาเปรียบผู้เช่าหรือเจ้าของบ้าน จะเพิ่มกรรมเรื่องที่อยู่อาศัย|If you cheat a tenant or landlord, it adds housing karma|ที่อยู่อาศัย,ความเป็นธรรม||
+ถ้าลอกงานคนอื่น จะเพิ่มกรรมเรื่องการเรียน|If you copy others' work, it adds study karma|การเรียน,ความซื่อตรง||
+ถ้าทิ้งงานกลางคัน จะเพิ่มกรรมเรื่องความก้าวหน้า|If you abandon work halfway, it adds karma for progress|การงาน,ความรับผิดชอบ||
+ถ้าใช้คนอื่นเป็นเครื่องมือ จะเพิ่มกรรมเรื่องมิตรภาพ|If you use people, it adds friendship karma|มิตรภาพ,ความจริงใจ||
+ถ้าไม่ให้อภัยตัวเอง จะเพิ่มกรรมเรื่องใจที่หนักอึ้ง|If you never forgive yourself, it weighs on your heart|อภัย,เยียวยา||
+ถ้าปล่อยให้ความโกรธพาไป จะเพิ่มกรรมเรื่องความสัมพันธ์|If anger takes over, it adds relationship karma|โกรธ,ความสัมพันธ์||
+ถ้าเห็นคนลำบากแล้วเมิน จะเพิ่มกรรมเรื่องผู้อุปถัมภ์|If you ignore someone in need, it adds karma about helpers|ผู้อุปถัมภ์,น้ำใจ||
+ถ้าตระหนี่กับคนในบ้าน จะเพิ่มกรรมเรื่องความอบอุ่น|If you're stingy at home, it adds karma about warmth|ครอบครัว,การให้||
+ถ้าทำให้คนรักร้องไห้ซ้ำๆ จะเพิ่มกรรมเรื่องความเหงา|If you keep making a partner cry, it adds karma of loneliness|ความรัก,ความเหงา||
+ถ้าใช้ไสยศาสตร์ทำร้ายคน จะเพิ่มกรรมเรื่องของสะท้อนกลับ|If you use black magic to harm, it adds rebound karma, as believed|ไสยศาสตร์,สะท้อนกลับ||
+ถ้าพูดเรื่องลับของคนอื่น จะเพิ่มกรรมเรื่องคนรอบตัว|If you spill others' secrets, it adds karma with people around you|ความลับ,คนรอบตัว||
+ถ้าผิดนัดซ้ำๆ จะเพิ่มกรรมเรื่องโอกาส|If you keep missing appointments, it adds karma about chances|โอกาส,สัจจะ||
+ถ้าขายของปลอม จะเพิ่มกรรมเรื่องลูกค้า|If you sell fakes, it adds customer karma|ลูกค้า,สุจริต||
+ถ้าทำร้ายจิตใจเด็ก จะเพิ่มกรรมเรื่องลูกหลาน|If you hurt a child's heart, it adds karma with descendants|ลูกหลาน,เด็ก||
+ถ้ารังแกคนแก่ จะเพิ่มกรรมเรื่องวัยชรา|If you mistreat the elderly, it adds karma for old age|ผู้สูงอายุ,บั้นปลาย||
+ถ้าประมาทในการใช้เงิน จะเพิ่มกรรมเรื่องหนี้สิน|If you're careless with money, it adds debt karma|หนี้,สติ||
+ถ้าหลอกลวงทางออนไลน์ จะเพิ่มกรรมเรื่องคดีความ|If you scam online, it adds legal karma|ออนไลน์,คดีความ||
+ถ้าสัญญากับพระแล้วไม่ทำ จะเพิ่มกรรมเรื่องสัจจะ|If you break a promise made before the Buddha, it adds karma about truth|สัจจะ,ศรัทธา||
+ถ้าทิ้งเพื่อนในยามลำบาก จะเพิ่มกรรมเรื่องคนช่วยเหลือ|If you abandon a friend in need, it adds karma about who will help you|มิตรภาพ,ผู้ช่วยเหลือ||
+# อนาคตจะเป็น…
+อนาคตจะเป็นที่พึ่งของคนในครอบครัว|In the future you will be the one the family relies on|ครอบครัว,ความรับผิดชอบ||
+อนาคตจะเป็นผู้ใหญ่ที่คนเคารพ|In the future you will be a respected elder|ความเคารพ,บารมี||
+อนาคตจะเป็นคนที่มีชื่อเสียงในสายงาน|In the future you will be well known in your field|ชื่อเสียง,การงาน||
+อนาคตจะเป็นเจ้าของกิจการ|In the future you will be a business owner|ธุรกิจ,อิสระ||
+อนาคตจะเป็นหัวหน้าที่ลูกน้องรัก|In the future you will be a boss your team loves|ผู้นำ,บริวาร||
+อนาคตจะเป็นครูหรือผู้ถ่ายทอดความรู้|In the future you will be a teacher|ความรู้,การส่งต่อ||
+อนาคตจะเป็นผู้เยียวยาจิตใจคน|In the future you will be a healer of hearts|เยียวยา,เมตตา||
+อนาคตจะเป็นคนที่ได้อยู่ต่างแดนอย่างมั่นคง|In the future you will be settled securely abroad|ต่างแดน,ความมั่นคง||
+อนาคตจะเป็นคนที่ได้กลับบ้านเกิด|In the future you will be someone who returns home|บ้านเกิด,รากเหง้า||
+อนาคตจะเป็นคนที่หลุดพ้นจากหนี้|In the future you will be free of debt|หนี้,อิสระ||
+อนาคตจะเป็นคนที่ร่ำรวยจากความซื่อสัตย์|In the future you will be wealthy through honesty|ทรัพย์,ซื่อสัตย์||
+อนาคตจะเป็นคนที่มีคู่ครองที่ดี|In the future you will be someone with a good partner|คู่ครอง,ความรัก||
+อนาคตจะเป็นพ่อแม่ที่ลูกภูมิใจ|In the future you will be a parent your children are proud of|ครอบครัว,ความภูมิใจ||
+อนาคตจะเป็นคนที่ได้บวชหรือปฏิบัติธรรม|In the future you will be someone who ordains or practises|บวช,ปฏิบัติธรรม||
+อนาคตจะเป็นคนที่ได้ช่วยเหลือสังคม|In the future you will be someone who serves society|สังคม,การให้||
+อนาคตจะเป็นคนที่ผ่านพ้นวิบากหนัก|In the future you will be someone through a heavy karmic patch|ผ่านพ้น,ความอดทน||
+อนาคตจะเป็นคนที่ชีวิตสงบเรียบง่าย|In the future you will be someone with a calm, simple life|ความสงบ,เรียบง่าย||
+อนาคตจะเป็นคนที่คนอื่นขอคำปรึกษา|In the future you will be someone people come to for advice|คำแนะนำ,ปัญญา||
+อนาคตจะเป็นศิลปินที่มีผลงาน|In the future you will be an artist with a body of work|ศิลปะ,ผลงาน||
+อนาคตจะเป็นคนที่ได้ทำงานที่รัก|In the future you will be someone doing work they love|การงาน,ความสุข||
+อนาคตจะเป็นผู้อุปถัมภ์ของคนรุ่นหลัง|In the future you will be a patron to the next generation|อุปถัมภ์,คนรุ่นใหม่||
+อนาคตจะเป็นคนที่มีบ้านเป็นของตัวเอง|In the future you will be a homeowner|บ้าน,ความมั่นคง||
+อนาคตจะเป็นคนที่สุขภาพดีขึ้นกว่าเดิม|In the future you will be healthier than before|สุขภาพ,ฟื้นตัว||
+อนาคตจะเป็นคนที่ให้อภัยได้หมดใจ|In the future you will be someone who has fully forgiven|อภัย,ใจเบา||
+อนาคตจะเป็นคนที่มีเพื่อนแท้|In the future you will be someone with true friends|มิตรภาพ,ความจริงใจ||
+อนาคตจะเป็นเจ้าของที่ดิน|In the future you will be a landowner|ที่ดิน,มรดก||
+อนาคตจะเป็นผู้ดูแลวัดหรือศาสนสถาน|In the future you will be a caretaker of a temple|ศาสนสถาน,การรับใช้||
+อนาคตจะเป็นคนที่เดินทางรอบโลก|In the future you will be a world traveller|การเดินทาง,ประสบการณ์||
+อนาคตจะเป็นคนที่มีเมตตาต่อสัตว์|In the future you will be kind to animals|สัตว์,เมตตา||
+อนาคตจะเป็นคนที่สร้างตัวได้ด้วยตัวเอง|In the future you will be self-made|สร้างตัว,ความเพียร||
+อนาคตจะเป็นคนที่ชดใช้กรรมเก่าหมดแล้ว|In the future you will be someone whose old karma is paid off|ชดใช้,เริ่มใหม่||
+อนาคตจะเป็นผู้นำชุมชน|In the future you will be a community leader|ชุมชน,ผู้นำ||
+อนาคตจะเป็นคนที่ได้รับมรดกทางปัญญา|In the future you will be heir to a body of wisdom|ปัญญา,มรดก||
+อนาคตจะเป็นคนที่ได้อยู่กับคนรักจนแก่เฒ่า|In the future you will be growing old with your love|คู่ครอง,บั้นปลาย||
+อนาคตจะเป็นคนที่ไม่ยึดติดกับอดีต|In the future you will be someone free of the past|ปล่อยวาง,ปัจจุบัน||
+อนาคตจะเป็นคนที่มีชื่อเสียงดี|In the future you will be someone with a good name|ชื่อเสียง,ความดี||
+อนาคตจะเป็นนักธุรกิจระหว่างประเทศ|In the future you will be an international businessperson|ธุรกิจ,ต่างประเทศ||
+อนาคตจะเป็นผู้ปกป้องคนอ่อนแอ|In the future you will be a protector of the vulnerable|การปกป้อง,ความกล้า||
+อนาคตจะเป็นคนที่ได้รับการยอมรับในครอบครัวคนรัก|In the future you will be accepted by your partner's family|ครอบครัว,การยอมรับ||
+อนาคตจะเป็นคนที่เปลี่ยนชีวิตได้ในวัยกลางคน|In the future you will be someone who changes life in mid-age|เปลี่ยนแปลง,โอกาสใหม่||
+อนาคตจะเป็นคนที่มีบริวารคอยช่วย|In the future you will be someone with helpers around them|บริวาร,การสนับสนุน||
+อนาคตจะเป็นคนที่มีความรู้ด้านศาสนา|In the future you will be learned in religion|ศาสนา,ความรู้||
+อนาคตจะเป็นคนที่ใช้ชีวิตอิสระทางการเงิน|In the future you will be financially free|การเงิน,อิสระ||
+อนาคตจะเป็นคนที่สอนลูกหลานให้เป็นคนดี|In the future you will be someone who raises good descendants|ลูกหลาน,การสั่งสอน||
+อนาคตจะเป็นคนที่ได้เกิดใหม่ในภพที่ดีตามความเชื่อ|In the future you will be reborn into a good life, as believed|เกิดใหม่,ความเชื่อ||
+อนาคตจะเป็นคนที่มีความสุขกับสิ่งที่มี|In the future you will be content with what you have|พอเพียง,ความสุข||
+อนาคตจะเป็นคนที่กล้าเริ่มใหม่|In the future you will be someone brave enough to begin again|เริ่มใหม่,ความกล้า||
+อนาคตจะเป็นคนที่ฟื้นจากความผิดหวัง|In the future you will be someone who recovers from disappointment|ฟื้นตัว,ความรัก||
+อนาคตจะเป็นคนที่ได้ทำบุญใหญ่ในชีวิต|In the future you will be someone who makes a great merit|บุญใหญ่,ศรัทธา||
+อนาคตจะเป็นคนที่ใจเย็นกว่าวันนี้|In the future you will be calmer than you are today|ใจเย็น,เติบโต||
+# อนาคตจะมี…
+อนาคตจะมีคู่ครองที่ซื่อสัตย์|In the future you will have a faithful partner|คู่ครอง,ความซื่อสัตย์||
+อนาคตจะมีลูกที่กตัญญู|In the future you will have grateful children|ลูก,กตัญญู||
+อนาคตจะมีบ้านที่อบอุ่น|In the future you will have a warm home|บ้าน,ความอบอุ่น||
+อนาคตจะมีผู้ใหญ่คอยอุปถัมภ์|In the future you will have elders who back you|ผู้อุปถัมภ์,โอกาส||
+อนาคตจะมีเพื่อนแท้ข้างกาย|In the future you will have a true friend beside you|มิตรภาพ,ที่พึ่ง||
+อนาคตจะมีเงินเก็บพอใช้ยามแก่|In the future you will have savings for old age|เงินเก็บ,บั้นปลาย||
+อนาคตจะมีโชคจากการเสี่ยงที่รอบคอบ|In the future you will have luck from a careful risk|โชคลาภ,รอบคอบ||
+อนาคตจะมีมรดกจากญาติผู้ใหญ่|In the future you will have an inheritance|มรดก,ครอบครัว||
+อนาคตจะมีงานที่มั่นคง|In the future you will have steady work|การงาน,ความมั่นคง||
+อนาคตจะมีตำแหน่งที่สูงขึ้น|In the future you will have a higher position|เลื่อนขั้น,ความก้าวหน้า||
+อนาคตจะมีธุรกิจของตัวเอง|In the future you will have your own business|ธุรกิจ,อิสระ||
+อนาคตจะมีที่ดินเป็นของตัวเอง|In the future you will have land of your own|ที่ดิน,ความมั่นคง||
+อนาคตจะมีโอกาสไปต่างประเทศ|In the future you will have a chance to go abroad|ต่างประเทศ,โอกาส||
+อนาคตจะมีเอกสารที่ผ่านราบรื่น|In the future you will have papers that go through smoothly|เอกสาร,ราบรื่น||
+อนาคตจะมีศัตรูกลายเป็นมิตร|In the future you will have an enemy turned friend|คลายปม,มิตรภาพ||
+อนาคตจะมีคนเก่ากลับมาขอโทษ|In the future you will have someone from the past returning to apologise|ขอโทษ,คลายปม||
+อนาคตจะมีเนื้อคู่จากชาติก่อน|In the future you will have a soulmate from a past life|เนื้อคู่,พรหมลิขิต||
+อนาคตจะมีความรักครั้งใหม่ที่ดีกว่า|In the future you will have a better new love|ความรัก,เริ่มใหม่||
+อนาคตจะมีลูกศิษย์ที่ดี|In the future you will have good students|ลูกศิษย์,ความรู้||
+อนาคตจะมีบริวารที่ซื่อสัตย์|In the future you will have loyal people working with you|บริวาร,ความภักดี||
+อนาคตจะมีสุขภาพที่ฟื้นตัว|In the future you will have recovering health|สุขภาพ,ฟื้นตัว||
+อนาคตจะมีอายุยืนตามบุญที่สร้าง|In the future you will have long life from your merit, as believed|อายุยืน,บุญ||
+อนาคตจะมีชื่อเสียงจากผลงาน|In the future you will have a name from your work|ชื่อเสียง,ผลงาน||
+อนาคตจะมีรายได้หลายทาง|In the future you will have several streams of income|รายได้,ความมั่นคง||
+อนาคตจะมีหนี้ที่ค่อยๆ หมดไป|In the future you will have debts slowly clearing|หนี้,ความอดทน||
+อนาคตจะมีการคืนดีกับครอบครัว|In the future you will have reconciliation with family|ครอบครัว,คืนดี||
+อนาคตจะมีความสงบในใจ|In the future you will have peace of mind|ใจสงบ,ปล่อยวาง||
+อนาคตจะมีเวลาให้ตัวเองมากขึ้น|In the future you will have more time for yourself|เวลา,สมดุล||
+อนาคตจะมีสัตว์เลี้ยงที่ผูกพันกันมาแต่ชาติก่อน|In the future you will have a pet bound to you from a past life|สัตว์เลี้ยง,ความผูกพัน||
+อนาคตจะมีครูบาอาจารย์ชี้ทาง|In the future you will have a teacher to guide you|ครูบาอาจารย์,ทางสว่าง||
+อนาคตจะมีโอกาสได้บวชหรือปฏิบัติธรรม|In the future you will have a chance to ordain or practise|บวช,ปฏิบัติธรรม||
+อนาคตจะมีงานบุญใหญ่ให้ร่วม|In the future you will have a great merit-making to join|ร่วมบุญ,ศรัทธา||
+อนาคตจะมีคดีความที่คลี่คลาย|In the future you will have a legal matter resolved|คดีความ,คลี่คลาย||
+อนาคตจะมีบ้านใหม่ที่ถูกโฉลก|In the future you will have a new home that suits you|บ้านใหม่,ถูกโฉลก||
+อนาคตจะมีการเดินทางที่ปลอดภัย|In the future you will have safe journeys|การเดินทาง,ปลอดภัย||
+อนาคตจะมีความสำเร็จช้าแต่มั่นคง|In the future you will have slow but solid success|ความสำเร็จ,มั่นคง||
+อนาคตจะมีคนช่วยในวันที่ลำบาก|In the future you will have help on a hard day|ผู้ช่วยเหลือ,ที่พึ่ง||
+อนาคตจะมีลาภลอยที่ไม่คาดคิด|In the future you will have an unexpected windfall|ลาภลอย,โชค||
+อนาคตจะมีบททดสอบเรื่องความอดทน|In the future you will have a test of patience|ความอดทน,บทเรียน||
+อนาคตจะมีการพลัดพรากที่สอนให้โต|In the future you will have a parting that helps you grow|พลัดพราก,เติบโต||
+อนาคตจะมีความเข้าใจจากคนที่เคยไม่เข้าใจ|In the future you will have understanding from someone who didn't|ความเข้าใจ,คลายปม||
+อนาคตจะมีชีวิตคู่ที่มั่นคงขึ้น|In the future you will have a steadier relationship|ชีวิตคู่,ความมั่นคง||
+อนาคตจะมีทายาทสืบต่อกิจการ|In the future you will have an heir for your work|ทายาท,สืบทอด||
+อนาคตจะมีบารมีที่คนยอมรับ|In the future you will have standing others recognise|บารมี,การยอมรับ||
+อนาคตจะมีความรู้ใหม่ที่เปลี่ยนชีวิต|In the future you will have knowledge that changes your life|ความรู้,เปลี่ยนแปลง||
+อนาคตจะมีโอกาสแก้ตัว|In the future you will have a second chance|แก้ตัว,โอกาสใหม่||
+อนาคตจะมีพรจากพ่อแม่|In the future you will have your parents' blessing|พรพ่อแม่,กตัญญู||
+อนาคตจะมีมิตรต่างชาติที่ช่วยเหลือ|In the future you will have a foreign friend who helps|ต่างชาติ,มิตรภาพ||
+อนาคตจะมีความสุขแบบเรียบง่าย|In the future you will have simple happiness|ความสุข,เรียบง่าย||
+อนาคตจะมีที่ปรึกษาที่ไว้ใจได้|In the future you will have an adviser you can trust|ที่ปรึกษา,ความไว้ใจ||
+# เป็นคนมีพลังพิเศษในเรื่อง…
+เป็นคนมีพลังพิเศษในเรื่องการรักษาเยียวยา|You have a special gift for healing|เยียวยา,พลังมือ||
+เป็นคนมีพลังพิเศษในเรื่องการสัมผัสพลังงานของสถานที่|You have a special gift for sensing the energy of places|สัมผัสที่หก,สถานที่||
+เป็นคนมีพลังพิเศษในเรื่องความฝันที่บอกเหตุ|You have a special gift for dreams that foretell|ความฝัน,ลางสังหรณ์||
+เป็นคนมีพลังพิเศษในเรื่องลางสังหรณ์แม่นยำ|You have a special gift for accurate hunches|ลางสังหรณ์,สัญชาตญาณ||
+เป็นคนมีพลังพิเศษในเรื่องการอ่านใจคน|You have a special gift for reading people|ใจคน,สัญชาตญาณ||
+เป็นคนมีพลังพิเศษในเรื่องการพูดให้คนเชื่อ|You have a special gift for persuasion|คำพูด,โน้มน้าว||
+เป็นคนมีพลังพิเศษในเรื่องการพูดแล้วเป็นจริง|You have a special gift for words that come true, as believed|วาจาสิทธิ์,ความเชื่อ||
+เป็นคนมีพลังพิเศษในเรื่องการสื่อสารกับสัตว์|You have a special gift for connecting with animals|สัตว์,ความผูกพัน||
+เป็นคนมีพลังพิเศษในเรื่องการปลูกพืชให้งอกงาม|You have a special gift for making plants thrive|ต้นไม้,มือเย็น||
+เป็นคนมีพลังพิเศษในเรื่องการทำอาหารให้คนติดใจ|You have a special gift for cooking people love|อาหาร,ฝีมือ||
+เป็นคนมีพลังพิเศษในเรื่องการทำเงินจากสิ่งเล็กๆ|You have a special gift for making money from small things|เงิน,ไหวพริบ||
+เป็นคนมีพลังพิเศษในเรื่องการหาของหายเจอ|You have a special gift for finding lost things|ของหาย,สัญชาตญาณ||
+เป็นคนมีพลังพิเศษในเรื่องการคลายทุกข์ให้คนอื่น|You have a special gift for easing others' suffering|ปลอบใจ,เมตตา||
+เป็นคนมีพลังพิเศษในเรื่องการทำให้เด็กสงบ|You have a special gift for calming children|เด็ก,ความอ่อนโยน||
+เป็นคนมีพลังพิเศษในเรื่องการรู้ว่าใครจริงใจ|You have a special gift for knowing who is sincere|ความจริงใจ,ใจคน||
+เป็นคนมีพลังพิเศษในเรื่องการสวดมนต์แล้วใจนิ่ง|You have a special gift for chanting into stillness|สวดมนต์,สมาธิ||
+เป็นคนมีพลังพิเศษในเรื่องสมาธิที่ลึก|You have a special gift for deep concentration|สมาธิ,ฌาน||
+เป็นคนมีพลังพิเศษในเรื่องการสัมผัสวิญญาณตามความเชื่อ|You have a special gift for sensing spirits, as believed|วิญญาณ,สัมผัสที่หก||
+เป็นคนมีพลังพิเศษในเรื่องการเข้าถึงสิ่งศักดิ์สิทธิ์|You have a special gift for closeness to the sacred|สิ่งศักดิ์สิทธิ์,ศรัทธา||
+เป็นคนมีพลังพิเศษในเรื่องการดูฤกษ์ยาม|You have a special gift for reading auspicious times|ฤกษ์ยาม,โหราศาสตร์||
+เป็นคนมีพลังพิเศษในเรื่องการดูดวงและไพ่|You have a special gift for reading fortunes and cards|ดูดวง,ไพ่||
+เป็นคนมีพลังพิเศษในเรื่องการตีความสัญลักษณ์|You have a special gift for interpreting signs|สัญลักษณ์,ปัญญา||
+เป็นคนมีพลังพิเศษในเรื่องการจำหน้าและชื่อคน|You have a special gift for remembering faces and names|ความจำ,ใจใส่||
+เป็นคนมีพลังพิเศษในเรื่องการเรียนภาษา|You have a special gift for learning languages|ภาษา,การสื่อสาร||
+เป็นคนมีพลังพิเศษในเรื่องดนตรีและเสียง|You have a special gift for music and sound|ดนตรี,ความรู้สึก||
+เป็นคนมีพลังพิเศษในเรื่องศิลปะและความงาม|You have a special gift for art and beauty|ศิลปะ,สุนทรียะ||
+เป็นคนมีพลังพิเศษในเรื่องการเขียนที่จับใจ|You have a special gift for moving writing|การเขียน,ความรู้สึก||
+เป็นคนมีพลังพิเศษในเรื่องการสอนให้คนเข้าใจง่าย|You have a special gift for explaining things simply|การสอน,ความเข้าใจ||
+เป็นคนมีพลังพิเศษในเรื่องการเจรจาไกล่เกลี่ย|You have a special gift for mediating|เจรจา,สันติ||
+เป็นคนมีพลังพิเศษในเรื่องการนำทีม|You have a special gift for leading a team|ผู้นำ,ทีม||
+เป็นคนมีพลังพิเศษในเรื่องการมองเห็นโอกาสก่อนคนอื่น|You have a special gift for spotting chances first|โอกาส,วิสัยทัศน์||
+เป็นคนมีพลังพิเศษในเรื่องการรู้ทิศทางและที่ทาง|You have a special gift for a sense of direction|ทิศทาง,การเดินทาง||
+เป็นคนมีพลังพิเศษในเรื่องการดูทำเลที่ดี|You have a special gift for choosing good locations|ทำเล,ฮวงจุ้ย||
+เป็นคนมีพลังพิเศษในเรื่องการแต่งบ้านให้ร่มเย็น|You have a special gift for making a home feel calm|บ้าน,ฮวงจุ้ย||
+เป็นคนมีพลังพิเศษในเรื่องการดึงดูดผู้คน|You have a special gift for drawing people in|เสน่ห์,ผู้คน||
+เป็นคนมีพลังพิเศษในเรื่องเสน่ห์ที่คนรัก|You have a special gift for a charm people love|เสน่ห์,ความรัก||
+เป็นคนมีพลังพิเศษในเรื่องการจับคู่คนให้รักกัน|You have a special gift for matchmaking|แม่สื่อ,ความรัก||
+เป็นคนมีพลังพิเศษในเรื่องการฟังอย่างเข้าใจ|You have a special gift for deep listening|การฟัง,เมตตา||
+เป็นคนมีพลังพิเศษในเรื่องการให้อภัยได้เร็ว|You have a special gift for forgiving quickly|อภัย,ใจกว้าง||
+เป็นคนมีพลังพิเศษในเรื่องการฟื้นตัวจากความล้มเหลว|You have a special gift for bouncing back|ฟื้นตัว,ความอดทน||
+เป็นคนมีพลังพิเศษในเรื่องความอดทนเหนือคนทั่วไป|You have a special gift for unusual endurance|ความอดทน,พลังใจ||
+เป็นคนมีพลังพิเศษในเรื่องความกล้าในยามคับขัน|You have a special gift for courage in a crisis|ความกล้า,สติ||
+เป็นคนมีพลังพิเศษในเรื่องการปกป้องคนที่รัก|You have a special gift for protecting those you love|การปกป้อง,ความรัก||
+เป็นคนมีพลังพิเศษในเรื่องการทำให้คนหายโกรธ|You have a special gift for cooling someone's anger|ใจเย็น,คำพูด||
+เป็นคนมีพลังพิเศษในเรื่องการรักษาความลับ|You have a special gift for keeping secrets|ความลับ,ความไว้ใจ||
+เป็นคนมีพลังพิเศษในเรื่องการรู้เวลาที่ควรถอย|You have a special gift for knowing when to step back|จังหวะ,ปัญญา||
+เป็นคนมีพลังพิเศษในเรื่องการเลือกคนเก่งมาทำงาน|You have a special gift for choosing capable people|คน,การบริหาร||
+เป็นคนมีพลังพิเศษในเรื่องการจัดการเงิน|You have a special gift for managing money|การเงิน,วินัย||
+เป็นคนมีพลังพิเศษในเรื่องการค้าขาย|You have a special gift for trading|การค้า,ไหวพริบ||
+เป็นคนมีพลังพิเศษในเรื่องการรักษาสุขภาพตัวเอง|You have a special gift for caring for your own health|สุขภาพ,วินัย||
+เป็นคนมีพลังพิเศษในเรื่องการเข้ากับคนต่างวัฒนธรรม|You have a special gift for getting on across cultures|ต่างวัฒนธรรม,การปรับตัว||
+เป็นคนมีพลังพิเศษในเรื่องการปรับตัวในที่ใหม่|You have a special gift for settling into new places|การปรับตัว,ที่ใหม่||
+เป็นคนมีพลังพิเศษในเรื่องการทำให้งานเลี้ยงมีชีวิตชีวา|You have a special gift for bringing a gathering to life|ความสนุก,ผู้คน||
+เป็นคนมีพลังพิเศษในเรื่องการจัดพิธีกรรม|You have a special gift for leading ceremonies|พิธีกรรม,ความศรัทธา||
+เป็นคนมีพลังพิเศษในเรื่องการอธิษฐานแล้วสมหวัง|You have a special gift for prayers that come true, as believed|อธิษฐาน,สมหวัง||
+เป็นคนมีพลังพิเศษในเรื่องการเป็นสะพานระหว่างคนสองฝ่าย|You have a special gift for bridging two sides|สะพาน,สามัคคี||
+เป็นคนมีพลังพิเศษในเรื่องการแผ่เมตตา|You have a special gift for radiating kindness|เมตตา,พลังบวก||
+เป็นคนมีพลังพิเศษในเรื่องการเปลี่ยนเรื่องร้ายเป็นบทเรียน|You have a special gift for turning bad into lessons|บทเรียน,ปัญญา||
+เป็นคนมีพลังพิเศษในเรื่องการมองโลกในแง่ดี|You have a special gift for optimism|มองบวก,พลังใจ||

@@ -1,0 +1,514 @@
+# สมัครงานและหางาน
+กำลังหางานใหม่|Looking for a new job|หางาน,เริ่มต้น||
+ส่งใบสมัครหลายที่|Applying widely|สมัครงาน,โอกาส||
+สมัครงานที่ใฝ่ฝัน|Applying for a dream job|งานในฝัน,กล้า||
+สมัครงานตรงสาย|Applying in your field|ตรงสาย,ความถนัด||
+สมัครงานข้ามสาย|Applying outside your field|ข้ามสาย,เรียนรู้||
+สมัครงานบริษัทใหญ่|Applying to a big company|บริษัทใหญ่,แข่งขัน||
+สมัครงานสตาร์ทอัพ|Applying to a startup|สตาร์ทอัพ,ยืดหยุ่น||
+สมัครงานราชการ|Applying for government work|ราชการ,มั่นคง||
+สอบเข้ารับราชการ|Civil service exam|สอบราชการ,เตรียมตัว||
+สมัครงานรัฐวิสาหกิจ|Applying to a state enterprise|รัฐวิสาหกิจ,มั่นคง||
+สมัครงานต่างประเทศ|Applying abroad|ต่างประเทศ,เอกสาร||
+สมัครงานบริษัทต่างชาติในไทย|A foreign company in Thailand|บริษัทต่างชาติ,ภาษา||
+สมัครงานออนไลน์|Applying online|ออนไลน์,ตรวจสอบ||
+ฝากประวัติผ่านคนรู้จัก|Applying through a contact|คอนเนกชัน,แนะนำ||
+มีคนแนะนำงานให้|Someone refers you|แนะนำ,โอกาส||
+บริษัทจัดหางานติดต่อมา|A recruiter reaches out|จัดหางาน,ตรวจสอบ||
+เฮดฮันเตอร์ทาบทาม|A headhunter approaches|ทาบทาม,ต่อรอง||
+เขียนเรซูเม่ใหม่|Rewriting your CV|เรซูเม่,นำเสนอ||
+ปรับโปรไฟล์ออนไลน์|Updating your online profile|โปรไฟล์,ภาพลักษณ์||
+ทำพอร์ตโฟลิโอ|Building a portfolio|พอร์ต,ผลงาน||
+เขียนจดหมายสมัครงาน|Writing a cover letter|จดหมาย,ตั้งใจ||
+ไปงานมหกรรมหางาน|Attending a job fair|มหกรรม,พบปะ||
+สมัครงานแล้วเงียบ|Applied and heard nothing|รอ,ติดตาม||
+ถูกเรียกทำแบบทดสอบ|Asked to take a test|แบบทดสอบ,ทักษะ||
+ส่งงานทดลองก่อนรับเข้า|A trial assignment|งานทดลอง,พิสูจน์||
+ตรวจสอบประวัติก่อนรับเข้า|Background check|ตรวจประวัติ,โปร่งใส||
+ขอใบรับรองจากที่เก่า|Getting a reference|ใบรับรอง,ความสัมพันธ์||
+หางานหลังเรียนจบ|Job hunting after graduation|เด็กจบใหม่,เริ่มต้น||
+หางานหลังตกงาน|Job hunting after losing work|ตกงาน,ลุกขึ้น||
+หางานหลังพักยาว|Returning after a long gap|ช่องว่าง,อธิบาย||
+หางานในวัยกลางคน|Job hunting in midlife|วัย,ประสบการณ์||
+หางานพาร์ทไทม์|Looking for part-time work|พาร์ทไทม์,เสริม||
+หางานทำที่บ้าน|Looking for remote work|ทำที่บ้าน,ยืดหยุ่น||
+หางานเสริมรายได้|A side job for income|งานเสริม,รายได้||
+ระวังงานหลอกลวง|Beware job scams|มิจฉาชีพ,ตรวจสอบ||
+ระวังงานที่ให้จ่ายเงินก่อน|Beware jobs asking you to pay first|มิจฉาชีพ,ระวัง||
+ได้ข้อเสนองานหลายที่|Several offers at once|ข้อเสนอ,เลือก||
+ต่อรองเงินเดือนก่อนรับ|Negotiating salary before accepting|ต่อรอง,มั่นใจ||
+ปฏิเสธข้อเสนองาน|Turning down an offer|ปฏิเสธ,ชัดเจน||
+ตอบรับข้อเสนองาน|Accepting an offer|ตอบรับ,เริ่มใหม่||
+ได้งานจากเพื่อนเก่า|A job through an old friend|เพื่อนเก่า,คอนเนกชัน||
+หางานตามความชอบ|Following your passion|ความชอบ,ความสุข||
+หางานตามเงิน|Following the money|เงิน,เป้าหมาย||
+หางานใกล้บ้าน|Looking near home|ใกล้บ้าน,สมดุล||
+หางานที่มีวีซ่าทำงานให้|Looking for visa sponsorship|วีซ่าทำงาน,ต่างประเทศ||
+# สัมภาษณ์งาน
+ได้เรียกสัมภาษณ์|Called for interview|สัมภาษณ์,โอกาส||
+สัมภาษณ์ทางโทรศัพท์|Phone interview|โทรศัพท์,น้ำเสียง||
+สัมภาษณ์ทางวิดีโอ|Video interview|วิดีโอ,เตรียมพร้อม||
+สัมภาษณ์ตัวต่อตัว|In-person interview|ตัวต่อตัว,บุคลิก||
+สัมภาษณ์กลุ่ม|Group interview|กลุ่ม,โดดเด่น||
+สัมภาษณ์หลายรอบ|Several interview rounds|หลายรอบ,อดทน||
+สัมภาษณ์เป็นภาษาอังกฤษ|Interview in English|ภาษาอังกฤษ,ฝึก||
+สัมภาษณ์กับผู้บริหารระดับสูง|Interview with senior leaders|ผู้บริหาร,มั่นใจ||
+สัมภาษณ์กับหัวหน้าในอนาคต|Interview with your future boss|หัวหน้า,เข้าขา||
+ผู้สัมภาษณ์ใจดี|A kind interviewer|ใจดี,ผ่อนคลาย||
+ผู้สัมภาษณ์ดุ|A tough interviewer|ดุ,ตั้งสติ||
+คำถามยากที่ไม่คาดคิด|An unexpected hard question|คำถามยาก,ไหวพริบ||
+ถูกถามเรื่องเงินเดือนที่คาดหวัง|Asked about salary expectations|เงินเดือน,เตรียมตัว||
+ถูกถามว่าทำไมออกจากที่เก่า|Asked why you left|เหตุผล,สุภาพ||
+ถูกถามจุดอ่อน|Asked about weaknesses|จุดอ่อน,ซื่อสัตย์||
+ตอบได้ดีเกินคาด|Answering better than expected|ตอบดี,มั่นใจ||
+ตื่นเต้นจนพูดไม่ออก|Too nervous to speak|ตื่นเต้น,หายใจ||
+ไปสัมภาษณ์สาย|Late for the interview|สาย,เผื่อเวลา||
+แต่งตัวเหมาะกับองค์กร|Dressed right for the company|แต่งตัว,ภาพลักษณ์||
+เตรียมคำถามถามกลับ|Questions ready to ask back|ถามกลับ,สนใจ||
+ศึกษาบริษัทก่อนไป|Researched the company|เตรียมตัว,ข้อมูล||
+นำเสนอผลงานในการสัมภาษณ์|Presenting work at interview|นำเสนอ,ผลงาน||
+ทดสอบทักษะหน้างาน|An on-the-spot skills test|ทดสอบ,ทักษะ||
+สัมภาษณ์แล้วรู้สึกเข้ากันดี|Felt a good fit|เข้ากัน,สัญญาณดี||
+สัมภาษณ์แล้วรู้สึกไม่ใช่|Felt it wasn't right|ไม่ใช่,ฟังใจ||
+ถูกถามเรื่องส่วนตัวเกินไป|Asked overly personal questions|ส่วนตัว,ขอบเขต||
+ถูกถามเรื่องแผนมีครอบครัว|Asked about family plans|ส่วนตัว,สิทธิ||
+สัมภาษณ์งานต่างประเทศ|Interviewing for a job abroad|ต่างประเทศ,เขตเวลา||
+ส่งอีเมลขอบคุณหลังสัมภาษณ์|Thank-you email after interview|ขอบคุณ,มารยาท||
+รอผลสัมภาษณ์นาน|A long wait for results|รอ,อดทน||
+สัมภาษณ์ภายในเพื่อเลื่อนตำแหน่ง|Internal interview for promotion|ภายใน,เลื่อนขั้น||
+สัมภาษณ์งานที่ปรึกษา|Consulting interview|ที่ปรึกษา,คิดวิเคราะห์||
+สัมภาษณ์โดยใช้กรณีศึกษา|Case interview|กรณีศึกษา,คิดเป็นระบบ||
+สัมภาษณ์แบบไม่มีโครงสร้าง|Unstructured interview|คุยสบาย,ตัวตน||
+สัมภาษณ์ที่มีการทดสอบบุคลิกภาพ|Interview with a personality test|บุคลิกภาพ,จริงใจ||
+ลองซ้อมสัมภาษณ์กับเพื่อน|Mock interview with a friend|ซ้อม,เตรียมตัว||
+สัมภาษณ์ช่วงที่ดวงดี (ความเชื่อ)|Interviewing in a lucky period (belief)|ดวงดี,ความเชื่อ||
+พูดถึงที่ทำงานเก่าในแง่ดี|Speaking well of past employers|มารยาท,มืออาชีพ||
+อธิบายช่องว่างในเรซูเม่|Explaining a CV gap|ช่องว่าง,ซื่อสัตย์||
+ภาษากายมั่นใจ|Confident body language|ภาษากาย,มั่นใจ||
+ถูกถามเรื่องสถานะวีซ่า|Asked about your visa status|วีซ่า,ซื่อสัตย์||
+นั่งรอสัมภาษณ์นาน|A long wait before the interview|รอ,ใจเย็น||
+สัมภาษณ์ในวันที่ไม่สบาย|Interviewing while unwell|สุขภาพ,ขอเลื่อน||
+ขอเลื่อนวันสัมภาษณ์|Rescheduling an interview|เลื่อน,สุภาพ||
+สัมภาษณ์กับคนที่รู้จักกันมาก่อน|Interviewed by someone you know|คนรู้จัก,มืออาชีพ||
+# ผลการสมัครและสัมภาษณ์
+ผ่านการสัมภาษณ์|Passed the interview|ผ่าน,ยินดี||
+ไม่ผ่านการสัมภาษณ์|Didn't pass|ไม่ผ่าน,เรียนรู้||
+ติดรายชื่อสำรอง|On the waiting list|สำรอง,รอ||
+ได้งานทันที|Hired on the spot|ได้งาน,ทันที||
+ได้งานแต่เงินน้อยกว่าที่หวัง|Hired, but for less than hoped|ได้งาน,ต่อรอง||
+ได้งานในตำแหน่งที่ต่างจากที่สมัคร|Hired for a different role|ตำแหน่งใหม่,ยืดหยุ่น||
+ถูกปฏิเสธแต่ได้คำแนะนำดี|Rejected with good feedback|คำแนะนำ,พัฒนา||
+ถูกปฏิเสธโดยไม่บอกเหตุผล|Rejected without reason|ปฏิเสธ,ปล่อย||
+บริษัทเงียบหายไป|The company went silent|เงียบ,ไปต่อ||
+ถูกเรียกกลับมาภายหลัง|Called back later|เรียกกลับ,โอกาส||
+ผ่านทดลองงาน|Passed probation|ผ่านโปร,มั่นคง||
+ไม่ผ่านทดลองงาน|Didn't pass probation|ไม่ผ่านโปร,ทบทวน||
+ขยายเวลาทดลองงาน|Probation extended|ขยายโปร,พิสูจน์||
+ข้อเสนอถูกยกเลิก|An offer withdrawn|ยกเลิก,ไปต่อ||
+ได้งานในที่ที่ไม่คาดคิด|A job where you least expected|ไม่คาดคิด,โชค||
+สอบราชการผ่าน|Passed the civil service exam|สอบผ่าน,ราชการ||
+สอบราชการไม่ผ่าน|Failed the civil service exam|สอบไม่ผ่าน,ลองใหม่||
+ได้วีซ่าทำงาน|Work visa granted|วีซ่าทำงาน,ต่างประเทศ||
+วีซ่าทำงานไม่ผ่าน|Work visa refused|วีซ่าทำงาน,ทางเลือก||
+ได้งานแต่ต้องย้ายเมือง|Hired, but must relocate|ย้ายเมือง,ตัดสินใจ||
+ได้งานแต่ต้องเริ่มทันที|Hired, start immediately|เริ่มทันที,พร้อม||
+ได้สัญญาจ้างระยะสั้น|A short-term contract|สัญญาสั้น,พิสูจน์||
+ได้สัญญาจ้างประจำ|A permanent contract|ประจำ,มั่นคง||
+ได้งานจากผลงานที่เคยทำ|Hired on past work|ผลงาน,ชื่อเสียง||
+ได้งานเพราะคอนเนกชัน|Hired through connections|คอนเนกชัน,พิสูจน์||
+ไม่ได้งานเพราะคุณสมบัติเกิน|Overqualified|คุณสมบัติเกิน,ทางอื่น||
+ไม่ได้งานเพราะขาดประสบการณ์|Not enough experience|ประสบการณ์,สะสม||
+ได้งานเสริมจากการสัมภาษณ์ที่ไม่ผ่าน|Side work from a failed interview|โอกาสแฝง,คอนเนกชัน||
+ได้งานที่ทำให้มีความสุข|A job that makes you happy|ความสุข,ใช่||
+ได้งานที่ท้าทายเกินตัว|A job beyond your current skill|ท้าทาย,เติบโต||
+ได้งานพร้อมตำแหน่งสูงกว่าที่สมัคร|Hired above the level you applied for|ตำแหน่งสูง,โอกาส||
+ผลออกช้ากว่าที่บอก|Results later than promised|รอ,ติดตาม||
+ได้งานแต่ต้องตรวจสุขภาพก่อน|Hired pending a health check|ตรวจสุขภาพ,เตรียมตัว||
+ได้งานแต่เอกสารยังไม่ครบ|Hired, documents still pending|เอกสาร,เร่ง||
+ถูกขอให้มาสัมภาษณ์ใหม่อีกครั้ง|Asked back for another interview|รอบใหม่,โอกาส||
+# รูปแบบและสถานะการทำงาน
+พนักงานประจำ|Permanent staff|ประจำ,มั่นคง||
+พนักงานสัญญาจ้าง|Contract staff|สัญญาจ้าง,ระยะเวลา||
+พนักงานชั่วคราว|Temporary staff|ชั่วคราว,ยืดหยุ่น||
+พนักงานพาร์ทไทม์|Part-time|พาร์ทไทม์,เวลา||
+ฟรีแลนซ์|Freelance|ฟรีแลนซ์,อิสระ||
+ทำงานที่บ้าน|Working from home|ทำงานที่บ้าน,วินัย||
+ทำงานแบบผสม|Hybrid work|ไฮบริด,สมดุล||
+ทำงานเป็นกะ|Shift work|กะ,สุขภาพ||
+ทำงานกลางคืน|Night work|กลางคืน,พักผ่อน||
+ทำงานสองงาน|Two jobs|สองงาน,เหนื่อย||
+นักศึกษาฝึกงาน|Intern|ฝึกงาน,เรียนรู้||
+พนักงานใหม่|New hire|พนักงานใหม่,ปรับตัว||
+พนักงานอาวุโส|Senior staff|อาวุโส,ประสบการณ์||
+หัวหน้าทีม|Team lead|หัวหน้าทีม,รับผิดชอบ||
+ผู้จัดการ|Manager|ผู้จัดการ,บริหาร||
+ผู้บริหาร|Executive|ผู้บริหาร,วิสัยทัศน์||
+เจ้าของกิจการ|Business owner|เจ้าของ,อิสระ||
+หุ้นส่วน|Partner|หุ้นส่วน,ไว้ใจ||
+ข้าราชการ|Civil servant|ข้าราชการ,มั่นคง||
+ลูกจ้างรัฐ|Government employee|ลูกจ้างรัฐ,ระเบียบ||
+พนักงานบริษัทต่างชาติ|At a foreign company|ต่างชาติ,ภาษา||
+แรงงานไทยในต่างประเทศ|A Thai worker abroad|ต่างประเทศ,เอกสาร||
+ทำงานในโรงงาน|Factory work|โรงงาน,ความปลอดภัย||
+ทำงานบริการ|Service work|บริการ,ใจเย็น||
+ทำงานขาย|Sales|ขาย,เป้า||
+ทำงานออฟฟิศ|Office work|ออฟฟิศ,ระบบ||
+ทำงานภาคสนาม|Field work|ภาคสนาม,เดินทาง||
+ทำงานสร้างสรรค์|Creative work|สร้างสรรค์,ไอเดีย||
+ทำงานด้านเทคโนโลยี|Tech work|เทคโนโลยี,เรียนรู้||
+ทำงานด้านสุขภาพ|Healthcare work|สุขภาพ,ดูแล||
+ทำงานด้านการศึกษา|Education work|การศึกษา,ส่งต่อ||
+ทำงานธุรกิจครอบครัว|Family business|ธุรกิจครอบครัว,ขอบเขต||
+รับจ้างอิสระผ่านแอป|App-based gig work|แอป,รายได้||
+ว่างงานชั่วคราว|Between jobs|ว่างงาน,พัก||
+ใกล้เกษียณ|Near retirement|เกษียณ,วางแผน||
+# หัวหน้าและผู้บริหาร
+หัวหน้าใจดี|A kind boss|หัวหน้า,ใจดี||
+หัวหน้าดุ|A strict boss|หัวหน้า,ดุ||
+หัวหน้าเก่งจริง|A truly capable boss|หัวหน้า,เก่ง||
+หัวหน้าไม่เก่งแต่มีอำนาจ|A weak boss with power|หัวหน้า,อดทน||
+หัวหน้าลำเอียง|A biased boss|ลำเอียง,ผลงาน||
+หัวหน้าสนับสนุน|A supportive boss|สนับสนุน,เติบโต||
+หัวหน้าขโมยผลงาน|A boss who steals credit|ผลงาน,บันทึก||
+หัวหน้าไม่ชัดเจน|An unclear boss|ไม่ชัดเจน,ถาม||
+หัวหน้าจู้จี้|A micromanager|จู้จี้,ไว้ใจ||
+หัวหน้าปล่อยอิสระ|A hands-off boss|อิสระ,รับผิดชอบ||
+หัวหน้าเปลี่ยนใหม่|A new boss|เปลี่ยนหัวหน้า,ปรับตัว||
+หัวหน้าลาออก|Your boss resigns|ลาออก,โอกาส||
+หัวหน้าเป็นต่างชาติ|A foreign boss|ต่างชาติ,วัฒนธรรม||
+หัวหน้าอายุน้อยกว่า|A younger boss|อายุ,เคารพ||
+หัวหน้าเป็นเพื่อนเก่า|An old friend as boss|เพื่อน,ขอบเขต||
+ผู้บริหารเห็นผลงาน|Leadership notices your work|เห็นผลงาน,โอกาส||
+ผู้บริหารเปลี่ยนนโยบาย|Leadership changes policy|นโยบาย,ปรับตัว||
+ผู้ใหญ่ในองค์กรอุปถัมภ์|A senior patron|อุปถัมภ์,โอกาส||
+หัวหน้าโกรธ|The boss is angry|โกรธ,ตั้งสติ||
+หัวหน้าชม|The boss praises you|ชม,กำลังใจ||
+หัวหน้าให้โอกาส|The boss gives you a chance|โอกาส,พิสูจน์||
+หัวหน้าไม่ไว้ใจ|The boss doesn't trust you|ไว้ใจ,สร้างใหม่||
+หัวหน้าให้งานเกินหน้าที่|Work beyond your role|เกินหน้าที่,ขอบเขต||
+หัวหน้าโทรนอกเวลางาน|Calls after hours|นอกเวลา,ขอบเขต||
+หัวหน้าเป็นที่ปรึกษาได้|A boss you can confide in|ที่ปรึกษา,ไว้ใจ||
+หัวหน้าละเมิดหรือคุกคาม|A boss who harasses|คุกคาม,ร้องเรียน||
+คุยกับหัวหน้าเรื่องเงินเดือน|Talking pay with your boss|เงินเดือน,ต่อรอง||
+คุยกับหัวหน้าเรื่องภาระงาน|Talking workload with your boss|ภาระงาน,สื่อสาร||
+ขอคำแนะนำจากหัวหน้า|Asking your boss for advice|คำแนะนำ,เรียนรู้||
+หัวหน้าส่งต่อโปรเจกต์ใหญ่|Your boss hands you a big project|โปรเจกต์,โอกาส||
+หัวหน้าเปรียบเทียบกับคนอื่น|Your boss compares you|เปรียบเทียบ,ผลงาน||
+หัวหน้าลงโทษ|Disciplined by your boss|ลงโทษ,แก้ไข||
+หัวหน้าปกป้องทีม|A boss who protects the team|ปกป้อง,ภักดี||
+หัวหน้ามีลูกรัก|A boss with favourites|ลูกรัก,ยุติธรรม||
+หัวหน้าย้ายไปที่อื่นแล้วชวนไปด้วย|Your old boss invites you to follow|ชวน,ตัดสินใจ||
+# เพื่อนร่วมงานและลูกน้อง
+เพื่อนร่วมงานดี|Good colleagues|เพื่อนร่วมงาน,ดี||
+เพื่อนร่วมงานไม่ดี|Difficult colleagues|เพื่อนร่วมงาน,ระวัง||
+เพื่อนร่วมงานนินทา|Gossiping colleagues|นินทา,วางตัว||
+เพื่อนร่วมงานอิจฉา|Envious colleagues|อิจฉา,ถ่อมตน||
+เพื่อนร่วมงานช่วยเหลือ|Helpful colleagues|ช่วยเหลือ,ทีม||
+เพื่อนร่วมงานเอาเปรียบ|Colleagues who take advantage|เอาเปรียบ,ขอบเขต||
+เพื่อนร่วมงานกลายเป็นเพื่อนสนิท|A colleague becomes a close friend|มิตรภาพ,ไว้ใจ||
+เพื่อนร่วมงานลาออก|A colleague leaves|ลาออก,ภาระ||
+คู่แข่งในทีม|A rival on the team|คู่แข่ง,ผลงาน||
+ทีมเข้าขากัน|A team that clicks|ทีม,ลงตัว||
+ทีมแตกแยก|A divided team|ทีม,ประสาน||
+ทีมต่างวัย|A mixed-age team|ต่างวัย,เข้าใจ||
+ทีมต่างชาติ|An international team|ต่างชาติ,สื่อสาร||
+ลูกน้องดี|Good staff|ลูกน้อง,ไว้ใจ||
+ลูกน้องไม่ดี|Difficult staff|ลูกน้อง,ชัดเจน||
+ลูกน้องลาออก|A team member quits|ลาออก,ทบทวน||
+ลูกน้องเก่งกว่า|Staff more skilled than you|เก่งกว่า,ใจกว้าง||
+ลูกน้องอายุมากกว่า|Older staff|อายุ,ให้เกียรติ||
+ต้องสอนงานคนใหม่|Training a newcomer|สอนงาน,อดทน||
+มีคนใหม่มาแทนที่|Someone new replaces you|แทนที่,ปรับตัว||
+มีพี่เลี้ยงในที่ทำงาน|A mentor at work|พี่เลี้ยง,เติบโต||
+เป็นพี่เลี้ยงให้คนอื่น|Mentoring someone|พี่เลี้ยง,ส่งต่อ||
+ขัดแย้งกับเพื่อนร่วมงาน|Conflict with a colleague|ขัดแย้ง,คุยตรง||
+ถูกใส่ร้ายในที่ทำงาน|Slandered at work|ใส่ร้าย,หลักฐาน||
+ถูกกลั่นแกล้งในที่ทำงาน|Bullied at work|กลั่นแกล้ง,ร้องเรียน||
+รักในที่ทำงาน|Romance at work|ความรัก,ขอบเขต||
+งานเลี้ยงบริษัท|The company party|งานเลี้ยง,วางตัว||
+กินข้าวกลางวันกับทีม|Lunch with the team|ทีม,ใกล้ชิด||
+กลุ่มแชทในที่ทำงาน|The work group chat|แชท,ระวังคำพูด||
+ข่าวลือในบริษัท|Office rumours|ข่าวลือ,ไม่ตาม||
+เพื่อนร่วมงานได้เลื่อนขั้นก่อน|A colleague promoted first|เลื่อนขั้น,มุทิตา||
+เพื่อนร่วมงานยืมเงิน|A colleague borrows money|ยืมเงิน,ขอบเขต||
+ลูกค้าดี|Good clients|ลูกค้า,ราบรื่น||
+ลูกค้ายาก|Difficult clients|ลูกค้า,อดทน||
+ลูกค้าประจำ|Loyal clients|ลูกค้าประจำ,ไว้ใจ||
+ลูกค้าต่างชาติ|Foreign clients|ต่างชาติ,ภาษา||
+พาร์ทเนอร์ธุรกิจ|A business partner|พาร์ทเนอร์,สัญญา||
+คู่แข่งธุรกิจ|A business competitor|คู่แข่ง,พัฒนา||
+ซัพพลายเออร์ไม่ส่งตามนัด|A late supplier|ซัพพลายเออร์,สำรอง||
+คนในองค์กรที่ช่วยอยู่เบื้องหลัง|Someone helping behind the scenes|ผู้อุปถัมภ์,ขอบคุณ||
+# บรรยากาศและวัฒนธรรมองค์กร
+บรรยากาศดี|A good atmosphere|บรรยากาศ,สบายใจ||
+บรรยากาศตึงเครียด|A tense atmosphere|ตึงเครียด,ดูแลใจ||
+องค์กรแข่งขันสูง|Highly competitive|แข่งขัน,กดดัน||
+องค์กรเป็นกันเอง|Friendly culture|เป็นกันเอง,สบาย||
+องค์กรมีระบบ|Well-organised|ระบบ,ชัดเจน||
+องค์กรวุ่นวาย|Chaotic|วุ่นวาย,ยืดหยุ่น||
+องค์กรกำลังโต|A growing organisation|เติบโต,โอกาส||
+องค์กรกำลังลดขนาด|A shrinking organisation|ลดขนาด,สำรองแผน||
+องค์กรเปลี่ยนเจ้าของ|A change of ownership|เปลี่ยนเจ้าของ,ปรับตัว||
+องค์กรควบรวมกิจการ|A merger|ควบรวม,ไม่แน่นอน||
+องค์กรใส่ใจพนักงาน|Cares for staff|ใส่ใจ,สวัสดิการ||
+องค์กรเน้นผลงาน|Results-driven|ผลงาน,ตัวเลข||
+องค์กรเน้นระบบอาวุโส|Seniority-based|อาวุโส,รอ||
+องค์กรเปิดรับความเห็น|Open to ideas|ความเห็น,มีส่วนร่วม||
+องค์กรการเมืองภายในเยอะ|Heavy office politics|การเมือง,วางตัว||
+ออฟฟิศสวย|A beautiful office|ออฟฟิศ,พลังบวก||
+ออฟฟิศไกลบ้าน|An office far from home|เดินทาง,เวลา||
+ที่นั่งไม่ถูกทิศ (ความเชื่อ)|A desk facing an unlucky direction (belief)|ทิศ,ความเชื่อ||
+มีพระพุทธรูปหรือศาลในบริษัท|A shrine at the company|ศาล,ความเชื่อ||
+มีพิธีทำบุญบริษัทประจำปี|An annual company merit-making|ทำบุญ,มงคล||
+องค์กรเปิดกว้างความหลากหลาย|Welcomes diversity|หลากหลาย,ยอมรับ||
+องค์กรยืดหยุ่นเรื่องเวลา|Flexible hours|ยืดหยุ่น,สมดุล||
+องค์กรเข้มงวดเรื่องเวลา|Strict about time|เข้มงวด,วินัย||
+องค์กรมีโอกาสไปต่างประเทศ|Chances to go abroad|ต่างประเทศ,โอกาส||
+งานมีความหมายต่อสังคม|Meaningful work|ความหมาย,แรงบันดาลใจ||
+งานน่าเบื่อ|Boring work|น่าเบื่อ,หาความท้าทาย||
+งานท้าทาย|Challenging work|ท้าทาย,เติบโต||
+งานมั่นคง|Stable work|มั่นคง,วางใจ||
+งานไม่มั่นคง|Unstable work|ไม่มั่นคง,สำรอง||
+ทำงานล่วงเวลาบ่อย|Frequent overtime|ล่วงเวลา,สุขภาพ||
+# ภาระงานและผลงาน
+งานล้นมือ|Overloaded|งานล้น,จัดลำดับ||
+งานน้อยจนว่าง|Too little work|ว่าง,หางานเพิ่ม||
+เส้นตายกระชั้น|Tight deadlines|เส้นตาย,วางแผน||
+งานด่วนเข้ามาไม่หยุด|Endless urgent tasks|งานด่วน,ปฏิเสธบ้าง||
+โปรเจกต์ใหญ่สำเร็จ|A big project succeeds|สำเร็จ,ภูมิใจ||
+โปรเจกต์ล่ม|A project collapses|ล้มเหลว,บทเรียน||
+ทำงานผิดพลาด|A mistake at work|ผิดพลาด,แก้ไข||
+ผลงานได้รับคำชม|Your work is praised|คำชม,กำลังใจ||
+ผลงานถูกวิจารณ์|Your work is criticised|วิจารณ์,พัฒนา||
+ผลงานไม่มีใครเห็น|Work no one notices|ไม่มีใครเห็น,นำเสนอ||
+ประเมินผลงานดี|A good review|ประเมิน,ดี||
+ประเมินผลงานไม่ดี|A poor review|ประเมิน,ปรับปรุง||
+ได้รับมอบหมายงานสำคัญ|Given an important task|งานสำคัญ,ไว้ใจ||
+ต้องเรียนรู้ระบบใหม่|Learning a new system|ระบบใหม่,เรียนรู้||
+งานไม่ตรงกับความถนัด|Work outside your strengths|ไม่ถนัด,ฝึก||
+งานตรงกับความถนัด|Work that fits your strengths|ถนัด,รุ่ง||
+งานที่ต้องเดินทางบ่อย|Frequent travel|เดินทาง,สมดุล||
+งานที่ต้องนำเสนอ|Presenting|นำเสนอ,มั่นใจ||
+งานที่ต้องเจรจา|Negotiating|เจรจา,ไหวพริบ||
+งานเอกสารเยอะ|Heavy paperwork|เอกสาร,ระเบียบ||
+งานที่ใช้ภาษาต่างประเทศ|Foreign-language work|ภาษา,ทักษะ||
+งานที่ใช้แรงกาย|Physical work|แรงกาย,สุขภาพ||
+งานที่ใช้ความคิดสร้างสรรค์|Creative tasks|สร้างสรรค์,อิสระ||
+งานที่ต้องรับผิดชอบเงิน|Handling money|เงิน,ซื่อสัตย์||
+งานที่มีความเสี่ยงทางกฎหมาย|Legally risky work|กฎหมาย,ระวัง||
+ได้ไอเดียที่บริษัทนำไปใช้|An idea adopted by the company|ไอเดีย,ได้รับการยอมรับ||
+ทำงานเกินเวลาโดยไม่ได้ค่าตอบแทน|Unpaid overtime|ล่วงเวลา,สิทธิ||
+หมดไฟในการทำงาน|Burnout|หมดไฟ,พัก||
+มีไฟในการทำงาน|Motivated|มีไฟ,พลัง||
+ทำงานตามเป้าได้|Hitting targets|เป้า,สำเร็จ||
+ทำงานไม่ถึงเป้า|Missing targets|เป้า,วางแผนใหม่||
+ได้รับรางวัลพนักงานดีเด่น|An employee award|รางวัล,ภูมิใจ||
+ถูกตักเตือน|A warning|ตักเตือน,ปรับตัว||
+ถูกตรวจสอบ|Under investigation|ตรวจสอบ,โปร่งใส||
+งานเป็นทีมได้ดี|Strong teamwork|ทีม,ร่วมมือ||
+ทำงานคนเดียวได้ดีกว่า|Better working alone|เดี่ยว,อิสระ||
+ต้องรับงานแทนคนอื่น|Covering for others|รับแทน,ขอบเขต||
+สมดุลงานกับชีวิตดี|Good work-life balance|สมดุล,ความสุข||
+งานกินเวลาครอบครัว|Work eats family time|ครอบครัว,ตั้งขอบเขต||
+ทำงานเสริมจนเหนื่อย|Exhausted from side gigs|งานเสริม,พัก||
+# เงินเดือนและสวัสดิการ
+เงินเดือนขึ้น|A raise|เงินเดือนขึ้น,ยินดี||
+เงินเดือนไม่ขึ้น|No raise|เงินเดือน,ต่อรอง||
+ได้โบนัส|A bonus|โบนัส,รางวัล||
+ไม่ได้โบนัส|No bonus|โบนัส,วางแผน||
+เงินเดือนออกช้า|Late pay|เงินเดือน,ติดตาม||
+ถูกลดเงินเดือน|A pay cut|ลดเงินเดือน,ปรับตัว||
+ได้ค่าคอมมิชชั่น|Commission|คอมมิชชั่น,ยอดขาย||
+ได้ค่าล่วงเวลา|Overtime pay|ค่าล่วงเวลา,สิทธิ||
+ได้สวัสดิการดี|Good benefits|สวัสดิการ,มั่นคง||
+ได้ประกันสุขภาพ|Health insurance|ประกัน,สุขภาพ||
+ได้หุ้นพนักงาน|Employee shares|หุ้น,อนาคต||
+ได้ทุนอบรม|Training funded|อบรม,พัฒนา||
+ได้วันลาเพิ่ม|More leave|วันลา,พักผ่อน||
+ขอลาพักร้อน|Requesting holiday|ลาพักร้อน,เติมพลัง||
+ลาป่วยบ่อย|Frequent sick leave|ลาป่วย,ดูแลตัว||
+ลาคลอดหรือลาเลี้ยงลูก|Parental leave|ลาคลอด,สิทธิ||
+ต่อรองเงินเดือนสำเร็จ|Salary negotiation succeeds|ต่อรอง,มั่นใจ||
+รู้ว่าคนอื่นได้มากกว่า|Learning others earn more|เปรียบเทียบ,ต่อรอง||
+เงินเดือนพอใช้|Pay is enough|พอใช้,พอเพียง||
+เงินเดือนไม่พอใช้|Pay isn't enough|ไม่พอ,วางแผน||
+ได้ค่าเดินทางหรือที่พัก|Travel or housing allowance|เบี้ยเลี้ยง,สวัสดิการ||
+ได้ค่าตอบแทนเป็นเงินตราต่างประเทศ|Paid in foreign currency|ค่าเงิน,ต่างประเทศ||
+รายได้ฟรีแลนซ์ไม่แน่นอน|Uneven freelance income|ฟรีแลนซ์,สำรอง||
+เรียกเก็บเงินลูกค้าไม่ได้|Unpaid invoices|ทวงเงิน,สัญญา||
+ได้รับเงินชดเชย|Severance pay|เงินชดเชย,สิทธิ||
+กองทุนสำรองเลี้ยงชีพ|Provident fund|กองทุน,เกษียณ||
+ประกันสังคม|Social security|ประกันสังคม,สิทธิ||
+ภาษีเงินได้|Income tax|ภาษี,วางแผน||
+ได้เงินพิเศษจากงานเสริม|Extra money from a side job|งานเสริม,รายได้||
+ได้ขึ้นเงินเดือนหลังย้ายงาน|A higher salary after switching|ย้ายงาน,เพิ่มรายได้||
+# ความก้าวหน้าและการเลื่อนตำแหน่ง
+ได้เลื่อนตำแหน่ง|Promoted|เลื่อนตำแหน่ง,ยินดี||
+ไม่ได้เลื่อนตำแหน่ง|Passed over|ไม่ได้เลื่อน,ทบทวน||
+ถูกทาบทามเป็นหัวหน้า|Asked to lead|หัวหน้า,รับผิดชอบ||
+ได้รักษาการแทน|Acting in a higher role|รักษาการ,พิสูจน์||
+ได้ไปอบรมต่างประเทศ|Training abroad|อบรม,ต่างประเทศ||
+ได้ทุนเรียนต่อจากองค์กร|Company-funded study|ทุน,เรียนต่อ||
+ได้ใบรับรองวิชาชีพ|A professional certificate|ใบรับรอง,ความน่าเชื่อถือ||
+มีชื่อเสียงในสายงาน|Known in your field|ชื่อเสียง,เครือข่าย||
+ได้เป็นวิทยากร|Asked to speak|วิทยากร,ถ่ายทอด||
+ได้เขียนบทความหรือผลงานวิชาการ|Publishing your work|ผลงาน,ชื่อเสียง||
+ได้ทำงานกับคนเก่ง|Working with talented people|คนเก่ง,เรียนรู้||
+ตันในตำแหน่งเดิม|Stuck in the same role|ตัน,เปลี่ยน||
+เติบโตช้าแต่มั่นคง|Slow but steady growth|ช้า,มั่นคง||
+เติบโตเร็ว|Fast growth|เร็ว,ระวังสะดุด||
+ได้ดูแลทีมใหญ่ขึ้น|Leading a bigger team|ทีมใหญ่,บริหาร||
+ได้เปลี่ยนสายงานภายใน|An internal career change|เปลี่ยนสาย,เรียนรู้||
+ได้โอกาสจากความบังเอิญ|A chance by coincidence|บังเอิญ,คว้า||
+ถูกมองข้าม|Overlooked|มองข้าม,นำเสนอ||
+ผลงานเก่าส่งผลดีภายหลัง|Past work pays off later|ผลงานเก่า,ผลตอบแทน||
+ได้เป็นตัวแทนองค์กร|Representing the company|ตัวแทน,ภาพลักษณ์||
+ได้รางวัลในวงการ|An industry award|รางวัล,ยอมรับ||
+ได้เข้าร่วมโครงการสำคัญ|Joining a key programme|โครงการ,โอกาส||
+เริ่มธุรกิจส่วนตัวควบคู่|Starting a business on the side|ธุรกิจ,ทดลอง||
+ออกมาเป็นเจ้าของกิจการ|Going independent|เจ้าของ,เสี่ยง||
+ได้เป็นหุ้นส่วน|Made a partner|หุ้นส่วน,ไว้ใจ||
+ก้าวหน้าเพราะทักษะภาษา|Advancing through language skills|ภาษา,ก้าวหน้า||
+ก้าวหน้าเพราะคนแนะนำ|Advancing through a sponsor|ผู้แนะนำ,โอกาส||
+ต้องเลือกระหว่างตำแหน่งกับชีวิตส่วนตัว|Choosing between position and personal life|เลือก,สมดุล||
+ได้ทำงานที่รักเป็นอาชีพ|Your passion becomes your job|ความชอบ,อาชีพ||
+วางแผนอาชีพห้าปี|A five-year career plan|แผน,เป้าหมาย||
+# โยกย้าย เปลี่ยนงาน และลาออก
+ถูกย้ายแผนก|Moved to another department|ย้ายแผนก,ปรับตัว||
+ขอย้ายแผนก|Requesting a transfer|ขอย้าย,เลือก||
+ถูกย้ายสาขา|Moved to another branch|ย้ายสาขา,ที่ใหม่||
+ย้ายไปต่างจังหวัด|Posted upcountry|ต่างจังหวัด,ปรับตัว||
+ย้ายไปต่างประเทศกับบริษัท|Posted abroad by the company|ต่างประเทศ,โอกาส||
+ย้ายกลับบ้านเกิด|Moving back home|บ้านเกิด,ครอบครัว||
+เปลี่ยนงานใหม่|Changing jobs|เปลี่ยนงาน,เริ่มใหม่||
+เปลี่ยนสายอาชีพ|Changing careers|เปลี่ยนสาย,กล้า||
+ลาออกเพื่อเรียนต่อ|Quitting to study|เรียนต่อ,ลงทุนตัวเอง||
+ลาออกเพื่อดูแลครอบครัว|Quitting to care for family|ครอบครัว,เสียสละ||
+ลาออกเพื่อพักใจ|Quitting to rest|พักใจ,สุขภาพ||
+ลาออกเพราะหัวหน้า|Quitting because of the boss|หัวหน้า,ตัดสินใจ||
+ลาออกเพราะเงิน|Quitting over pay|เงิน,ต่อรอง||
+ลาออกแบบมีแผนสำรอง|Quitting with a plan B|แผนสำรอง,มั่นใจ||
+ลาออกแบบไม่มีงานรอ|Quitting with nothing lined up|เสี่ยง,เงินสำรอง||
+ยื่นใบลาออกแล้วถูกรั้ง|Resigning and being asked to stay|ถูกรั้ง,ต่อรอง||
+ถูกเลิกจ้าง|Laid off|เลิกจ้าง,สิทธิ||
+ถูกให้ออก|Fired|ให้ออก,บทเรียน||
+บริษัทปิดตัว|The company closes|ปิดกิจการ,เริ่มใหม่||
+สัญญาจ้างไม่ต่อ|Contract not renewed|ไม่ต่อสัญญา,หางาน||
+กลับไปทำที่เก่า|Returning to a former employer|ที่เก่า,คุ้นเคย||
+ย้ายตามหัวหน้าเก่า|Following an old boss|หัวหน้าเก่า,ไว้ใจ||
+ย้ายเพราะคู่ครอง|Moving for a partner|คู่ครอง,ตัดสินใจ||
+ย้ายเพื่อลูก|Moving for your children|ลูก,อนาคต||
+ย้ายงานบ่อยเกินไป|Changing jobs too often|ย้ายบ่อย,ทบทวน||
+อยู่ที่เดิมนานเกินไป|Staying too long|อยู่นาน,ก้าวต่อ||
+เกษียณก่อนกำหนด|Early retirement|เกษียณ,วางแผน||
+เกษียณตามกำหนด|Retiring on schedule|เกษียณ,พักผ่อน||
+ทำงานต่อหลังเกษียณ|Working after retirement|หลังเกษียณ,ประสบการณ์||
+พักงานชั่วคราว (Sabbatical)|A sabbatical|พักงาน,เติมพลัง||
+ส่งมอบงานก่อนออกให้เรียบร้อย|A clean handover|ส่งมอบ,มืออาชีพ||
+จากกันด้วยดีกับที่เก่า|Leaving on good terms|ด้วยดี,คอนเนกชัน||
+จากกันแบบมีปัญหา|Leaving on bad terms|ปัญหา,ระวัง||
+ฤกษ์ดีในการเริ่มงานใหม่ (ความเชื่อ)|An auspicious start date (belief)|ฤกษ์,ความเชื่อ||
+ช่วงดวงย้ายงาน (ความเชื่อ)|A period that favours moving jobs (belief)|ดวงย้าย,ความเชื่อ||
+# ปัญหาและความเสี่ยงในที่ทำงาน
+ถูกคุกคามทางเพศ|Sexual harassment|คุกคาม,ร้องเรียน||
+ถูกเลือกปฏิบัติ|Discrimination|เลือกปฏิบัติ,สิทธิ||
+ถูกใช้แรงงานเกินกฎหมาย|Labour rights violated|สิทธิแรงงาน,กฎหมาย||
+อุบัติเหตุจากการทำงาน|A workplace accident|อุบัติเหตุ,ความปลอดภัย||
+สุขภาพเสียจากงาน|Health damaged by work|สุขภาพ,ดูแล||
+เครียดจากงานจนนอนไม่หลับ|Work stress keeping you awake|เครียด,พัก||
+ถูกโกงเงินเดือน|Wage theft|โกง,ร้องเรียน||
+ถูกฟ้องร้อง|Sued|คดี,ปรึกษากฎหมาย||
+ข้อมูลรั่วไหล|A data leak|ข้อมูล,ระวัง||
+ทำผิดระเบียบโดยไม่ตั้งใจ|Breaking rules by accident|ระเบียบ,แก้ไข||
+ถูกขอให้ทำสิ่งผิดจริยธรรม|Asked to do something unethical|จริยธรรม,ปฏิเสธ||
+ผลประโยชน์ทับซ้อน|A conflict of interest|ผลประโยชน์,โปร่งใส||
+การทุจริตในองค์กร|Corruption in the organisation|ทุจริต,ระวัง||
+ถูกจับผิด|Being nitpicked|จับผิด,บันทึก||
+ถูกโยนความผิด|Being scapegoated|โยนความผิด,หลักฐาน||
+งานไม่ปลอดภัยต่อสุขภาพจิต|A job harmful to mental health|สุขภาพจิต,ทางออก||
+ใบอนุญาตทำงานใกล้หมดอายุ|A work permit about to expire|ใบอนุญาต,ต่ออายุ||
+นายจ้างยึดเอกสารประจำตัว|An employer holding your documents|เอกสาร,สิทธิ||
+ทำงานผิดกฎหมายตรวจคนเข้าเมือง|Working outside your visa rules|วีซ่า,ความเสี่ยง||
+ถูกหลอกไปทำงานต่างประเทศ|Tricked into work abroad|หลอกลวง,ขอความช่วยเหลือ||
+ความลับทางการค้าถูกขโมย|Trade secrets stolen|ความลับ,สัญญา||
+เทคโนโลยีมาแทนที่งาน|Technology replacing your job|เทคโนโลยี,ปรับทักษะ||
+เศรษฐกิจซบเซากระทบงาน|A downturn hits your work|เศรษฐกิจ,สำรองแผน||
+งานตามฤดูกาล|Seasonal work|ตามฤดู,วางแผน||
+ทะเลาะกับลูกค้ารุนแรง|A serious clash with a client|ลูกค้า,ใจเย็น||
+รีวิวไม่ดีทางออนไลน์|A bad online review|รีวิว,ตอบอย่างมืออาชีพ||
+โดนดราม่าในโซเชียลเพราะงาน|A social media drama from work|ดราม่า,ภาพลักษณ์||
+เพื่อนร่วมงานป่วยติดต่อ|A contagious colleague|สุขภาพ,ป้องกัน||
+หนี้จากการลงทุนธุรกิจ|Debt from a business venture|หนี้,วางแผน||
+หุ้นส่วนโกง|A cheating partner in business|หุ้นส่วน,สัญญา||
+# วิธีเสริมดวงการงาน (ความเชื่อ)
+ไหว้พระพิฆเนศก่อนเริ่มงานใหม่|Pray to Ganesha before new work|ความเชื่อ,เริ่มต้น||
+ไหว้พระพรหมเอราวัณ|Pray at the Erawan Shrine|ความเชื่อ,สำเร็จ||
+ไหว้ท้าวเวสสุวรรณ|Pray to Vessavana|ความเชื่อ,คุ้มครอง||
+ไหว้ไอ้ไข่ วัดเจดีย์ นครศรีธรรมราช|Ai Khai, Wat Chedi, Nakhon Si Thammarat|ความเชื่อ,โชคลาภ||
+บูชาพระสีวลี|Honour Phra Sivali|ความเชื่อ,ลาภ||
+ใส่บาตรวันแรกของการทำงาน|Give alms on your first day|ความเชื่อ,วันแรก||
+ทำบุญวันเกิดให้ดวงการงาน|Birthday merit for career luck|ความเชื่อ,วันเกิด||
+สวดพาหุงก่อนสัมภาษณ์|Chant Bahum before an interview|ความเชื่อ,ชัยชนะ||
+สวดคาถาชินบัญชร|Chant Chinabanchon|ความเชื่อ,คุ้มครอง||
+ใส่สีมงคลวันสัมภาษณ์|Lucky colour on interview day|ความเชื่อ,สีมงคล||
+ใส่สีเสริมอำนาจวันประชุมสำคัญ|A power colour for a big meeting|ความเชื่อ,สีมงคล||
+พกพระประจำวันเกิดไปทำงาน|Carry your birth-day Buddha|ความเชื่อ,พระประจำวันเกิด||
+จัดโต๊ะทำงานหันทิศมงคล|Face your desk an auspicious way|ความเชื่อ,ทิศ||
+วางต้นไม้มงคลบนโต๊ะ|An auspicious plant on your desk|ความเชื่อ,ไม้มงคล||
+วางของมงคลช่วยเรื่องเงิน|A money charm on your desk|ความเชื่อ,ของมงคล||
+เลือกฤกษ์ยื่นใบสมัคร|Apply at an auspicious time|ความเชื่อ,ฤกษ์||
+เลือกฤกษ์เซ็นสัญญา|Sign at an auspicious time|ความเชื่อ,ฤกษ์||
+เปลี่ยนลายเซ็นตามหลักมงคล|Change your signature for luck|ความเชื่อ,ลายเซ็น||
+ใช้เบอร์โทรศัพท์มงคล|Use an auspicious phone number|ความเชื่อ,เลขมงคล||
+ทำบุญให้เจ้าที่ของบริษัท|Offerings to the company's land spirit|ความเชื่อ,เจ้าที่||
+ไหว้ศาลพระภูมิหน้าบริษัท|Pay respects at the office spirit house|ความเชื่อ,ศาลพระภูมิ||
+ทำบุญเปิดร้านหรือเปิดสำนักงาน|Merit for opening a shop or office|ความเชื่อ,เปิดกิจการ||
+พัฒนาทักษะที่ตลาดต้องการ|Build skills the market needs|แนวปฏิบัติ,ทักษะ||
+สร้างเครือข่ายคนในวงการ|Build an industry network|แนวปฏิบัติ,เครือข่าย||
+ตรงต่อเวลาเสมอ|Always be on time|แนวปฏิบัติ,น่าเชื่อถือ||
+ช่วยเพื่อนร่วมงานโดยไม่หวังผล|Help colleagues freely|แนวปฏิบัติ,น้ำใจ||
+ขอบคุณทีมต่อหน้าคนอื่น|Thank your team publicly|แนวปฏิบัติ,ให้เกียรติ||
+บันทึกผลงานไว้ทุกเดือน|Log your achievements monthly|แนวปฏิบัติ,หลักฐาน||
+อธิษฐานก่อนเริ่มงานทุกเช้า|A short prayer before work|ความเชื่อ,ตั้งใจ||
+ทำบุญด้วยเงินเดือนแรก|Give from your first salary|ความเชื่อ,เงินเดือนแรก||
+ไหว้หลวงพ่อโสธร ฉะเชิงเทรา|Luang Pho Sothon, Chachoengsao|ความเชื่อ,ความสำเร็จ||
+ไหว้พระที่วัดชนะสงคราม กรุงเทพฯ|Wat Chana Songkhram, Bangkok|ความเชื่อ,ชนะอุปสรรค||
+ถวายเทียนเพื่อความสว่างในหน้าที่|Offer candles for clarity at work|ความเชื่อ,แสงสว่าง||
+ไหว้ครูก่อนเริ่มงานวิชาชีพ|Wai Khru before professional work|ความเชื่อ,ไหว้ครู||
+เขียนเป้าหมายแล้วอธิษฐานต่อหน้าพระ|Write your goal and pray before the Buddha|ความเชื่อ,เป้าหมาย||
+# วิธีแก้เคล็ดการงาน (ความเชื่อ)
+แก้ปีชงเรื่องงาน|Address a clash year at work|ความเชื่อ,ปีชง||
+สะเดาะเคราะห์ก่อนเปลี่ยนงาน|Ease misfortune before switching jobs|ความเชื่อ,สะเดาะเคราะห์||
+เลื่อนวันเริ่มงานให้ตรงฤกษ์|Shift the start date to a good one|ความเชื่อ,ฤกษ์||
+ย้ายโต๊ะไม่ให้หันหลังให้ประตู|Don't sit with your back to the door|ความเชื่อ,ฮวงจุ้ย||
+เอาของแตกหักออกจากโต๊ะ|Remove broken things from your desk|ความเชื่อ,ฮวงจุ้ย||
+ไม่วางกระบองเพชรหน้าโต๊ะ|No cactus in front of your desk|ความเชื่อ,ฮวงจุ้ย||
+ทิ้งเอกสารเก่าที่ค้าง|Clear old paperwork|ความเชื่อ,โล่ง||
+ล้างโต๊ะทำงานวันจันทร์|Clean your desk on Monday|ความเชื่อ,เริ่มใหม่||
+ไม่ใส่สีกาลกิณีวันสำคัญ|Avoid your unlucky colour on big days|ความเชื่อ,สีกาลกิณี||
+ไม่เซ็นสัญญาวันที่ดวงไม่ดี|Don't sign on an unlucky day|ความเชื่อ,วันห้าม||
+ขอขมาคนที่เคยทำร้ายในที่ทำงาน|Make peace with someone you wronged at work|ความเชื่อ,ขอขมา||
+ทำบุญให้เจ้ากรรมนายเวรด้านการงาน|Merit for karmic creditors in work|ความเชื่อ,คลายกรรม||
+คืนของบริษัทที่ติดตัวมา|Return company property|ความเชื่อ,ซื่อตรง||
+ไม่พูดเรื่องงานใหม่ก่อนเซ็นสัญญา|Don't announce a job before signing|ความเชื่อ,เงียบไว้||
+ไม่ลาออกในวันที่อารมณ์เสีย|Never resign in anger|แนวปฏิบัติ,ใจเย็น||
+เปลี่ยนรูปโปรไฟล์ให้ดูสดใส|A brighter profile photo|ความเชื่อ,ภาพลักษณ์||
+เปลี่ยนรหัสผ่านที่ผูกกับเรื่องร้าย|Change passwords tied to bad memories|ความเชื่อ,เริ่มใหม่||
+ปรับทางเดินเข้าออฟฟิศให้โล่ง|Clear the path to your workspace|ความเชื่อ,ฮวงจุ้ย||
+ปรึกษาฝ่ายบุคคลแทนการพึ่งเคล็ดอย่างเดียว|Talk to HR, not only rituals|ข้อเท็จจริง,ช่องทางจริง||
+ปรึกษาหน่วยงานคุ้มครองแรงงานเมื่อถูกเอาเปรียบ|Contact labour protection when exploited|ข้อเท็จจริง,สิทธิ||
+ไม่จ่ายเงินแก้เคล็ดจนเดือดร้อน|Never overspend on remedies|ข้อเท็จจริง,ระวังมิจฉาชีพ||
+ตัดเล็บตัดผมตามวันมงคลก่อนเริ่มงาน|Haircut on a lucky day before starting|ความเชื่อ,วันมงคล||
+ไม่เหยียบธรณีประตูวันแรก|Don't step on the threshold on day one|ความเชื่อ,ธรรมเนียม||
+ไหว้ขอเจ้าที่ก่อนเข้าทำงานที่ใหม่|Ask the land spirit's leave at a new workplace|ความเชื่อ,เจ้าที่||
+แขวนพระไว้ในรถที่ใช้ทำงาน|An amulet in your work vehicle|ความเชื่อ,แคล้วคลาด||
+ไม่วางกระเป๋าเงินไว้บนพื้น|Never put your wallet on the floor|ความเชื่อ,เงิน||
+เคลียร์หนี้เพื่อนร่วมงานให้หมด|Settle debts with colleagues|ความเชื่อ,เคลียร์||
+ทำบุญด้วยของที่เกี่ยวกับอาชีพตัวเอง|Give something tied to your trade|ความเชื่อ,อาชีพ||
+ปล่อยปลาก่อนเริ่มโปรเจกต์ใหญ่|Release fish before a big project|ความเชื่อ,ปล่อยสัตว์||
+ทำความสะอาดศาลพระภูมิในบริษัท|Clean the company spirit house|ความเชื่อ,ศาลพระภูมิ||
+ไม่ซื้อรองเท้าใหม่ใส่วันสัมภาษณ์ที่ไม่เคยลอง|Don't wear untested new shoes to an interview|แนวปฏิบัติ,เตรียมตัว||
+ไม่ทิ้งงานค้างก่อนลาพัก|Don't leave work hanging before leave|แนวปฏิบัติ,ความรับผิดชอบ||
+ปิดบัญชีหนี้ร้านค้าก่อนสิ้นเดือน|Settle shop debts before month-end|ความเชื่อ,เคลียร์||
+จุดธูปบอกกล่าวก่อนย้ายโต๊ะ|Light incense before moving your desk|ความเชื่อ,บอกกล่าว||
+เลี่ยงการกู้ยืมช่วงดวงตก|Avoid borrowing in a low-luck period|ความเชื่อ,ระวัง||

@@ -1,4 +1,4 @@
-"""Build index.html from data/ (12 decks) and tools/template.html.
+"""Build index.html from data/ (18 decks) and tools/template.html.
 
 Usage: python3 tools/build.py   (run from the repo root)
 """
@@ -26,10 +26,16 @@ DECKS = [
     ("Sacred World", "SACR", "สิ่งศักดิ์สิทธิ์ทั่วโลก", "Sacred Figures & Places of the World", "sacred-world-draft01.txt", False),
     ("Karma", "KARM", "วิบากกรรม", "Karma Across Lifetimes", "karma-draft01.txt", False),
     ("Sacred Thailand", "THSC", "สิ่งศักดิ์สิทธิ์ในไทย", "Sacred Figures & Places of Thailand", "sacred-thailand-draft01.txt", False),
+    ("Karma Remedy", "REME", "วิธีแก้กรรม", "Ways to Ease Karma", "karma-remedy-draft01.txt", False),
+    ("Love", "LOVE", "ความรักและความสัมพันธ์", "Love & Relationships", "love-draft01.txt", False),
+    ("Workplace", "JOBS", "เรื่องในที่ทำงาน", "Work & Career", "workplace-draft01.txt", False),
+    ("Visa & Abroad", "VISA", "สัญชาติ วีซ่า และต่างประเทศ", "Visas, Status & Life Abroad", "visa-abroad-draft01.txt", False),
+    ("Housing", "HOME", "ที่อยู่อาศัย", "Home & Housing", "housing-draft01.txt", False),
+    ("Study", "STDY", "การเรียน", "Study & Education", "study-draft01.txt", False),
 ]
 
 # decks that get a category dropdown (every card, or one category at a time)
-CAT_PICK = {"USTH", "SACR", "KARM", "THSC"}
+CAT_PICK = {"USTH", "SACR", "KARM", "THSC", "REME", "LOVE", "JOBS", "VISA", "HOME", "STDY"}
 
 
 def load_txt(path, prefix):

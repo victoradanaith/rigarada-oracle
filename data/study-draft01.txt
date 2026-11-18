@@ -1,0 +1,514 @@
+# ระดับการศึกษา
+อนุบาล|Kindergarten|อนุบาล,เริ่มต้น||
+ประถมศึกษา|Primary school|ประถม,พื้นฐาน||
+มัธยมต้น|Lower secondary|มัธยมต้น,ค้นหาตัวเอง||
+มัธยมปลาย|Upper secondary|มัธยมปลาย,เตรียมสอบ||
+สายสามัญ|Academic track|สายสามัญ,วิชาการ||
+สายอาชีพ ปวช.|Vocational certificate|ปวช.,ทักษะ||
+ปวส.|Higher vocational diploma|ปวส.,ทักษะ||
+อนุปริญญา|Associate degree|อนุปริญญา,ต่อยอด||
+ปริญญาตรี|Bachelor's degree|ปริญญาตรี,ก้าวสำคัญ||
+ปริญญาตรีใบที่สอง|A second bachelor's|ใบที่สอง,เปลี่ยนสาย||
+ปริญญาโท|Master's degree|ปริญญาโท,เชี่ยวชาญ||
+ปริญญาโทควบเอก|Integrated master's-PhD|ควบเอก,ยาว||
+ปริญญาเอก|PhD|ปริญญาเอก,วิจัย||
+หลังปริญญาเอก (โพสต์ดอก)|Postdoctoral research|โพสต์ดอก,วิจัย||
+ประกาศนียบัตรบัณฑิต|Graduate diploma|ประกาศนียบัตร,ต่อยอด||
+หลักสูตรนานาชาติ|International programme|นานาชาติ,ภาษา||
+หลักสูตรภาคพิเศษ|Weekend or evening programme|ภาคพิเศษ,ทำงานไปด้วย||
+เรียนออนไลน์ทั้งหลักสูตร|Fully online programme|ออนไลน์,วินัย||
+การศึกษานอกระบบ (กศน.)|Non-formal education|กศน.,โอกาส||
+โฮมสคูล|Homeschool|โฮมสคูล,ยืดหยุ่น||
+โรงเรียนนานาชาติ|International school|นานาชาติ,หลากหลาย||
+โรงเรียนสองภาษา|Bilingual school|สองภาษา,ภาษา||
+โรงเรียนประจำ|Boarding school|โรงเรียนประจำ,อิสระ||
+โรงเรียนรัฐ|Public school|โรงเรียนรัฐ,ประหยัด||
+โรงเรียนเอกชน|Private school|เอกชน,ค่าใช้จ่าย||
+มหาวิทยาลัยรัฐ|Public university|มหาลัยรัฐ,แข่งขัน||
+มหาวิทยาลัยเอกชน|Private university|มหาลัยเอกชน,ค่าเทอม||
+มหาวิทยาลัยเปิด|Open university|มหาลัยเปิด,วินัย||
+วิทยาลัยชุมชน|Community college|วิทยาลัยชุมชน,ต่อยอด||
+คอมมิวนิตีคอลเลจในอเมริกา|A US community college|อเมริกา,โอนหน่วยกิต||
+โรงเรียนสอนภาษา|Language school|ภาษา,ปูพื้น||
+คอร์สระยะสั้น|Short course|ระยะสั้น,ทักษะ||
+บูทแคมป์ทักษะ|Skills bootcamp|บูทแคมป์,เข้มข้น||
+เรียนผู้ใหญ่|Adult education|ผู้ใหญ่,ไม่สาย||
+เรียนเทียบโอน|Credit transfer|เทียบโอน,ประหยัดเวลา||
+เรียนข้ามชั้น|Skipping a grade|ข้ามชั้น,เร็ว||
+ซ้ำชั้น|Repeating a year|ซ้ำชั้น,เริ่มใหม่||
+ย้ายโรงเรียน|Changing schools|ย้ายโรงเรียน,ปรับตัว||
+ย้ายมหาวิทยาลัย|Changing universities|ย้ายมหาลัย,โอนหน่วยกิต||
+เปลี่ยนคณะ|Changing faculty|เปลี่ยนคณะ,ค้นหา||
+# การสมัครเรียนและสอบเข้า
+สมัครเรียนผ่าน|Application accepted|สมัครผ่าน,ยินดี||
+สมัครเรียนไม่ผ่าน|Application rejected|ไม่ผ่าน,ลองใหม่||
+ติดอันดับสำรอง|Waitlisted|สำรอง,รอ||
+ได้ที่เรียนที่ใฝ่ฝัน|A place at your dream school|ที่ใฝ่ฝัน,สมหวัง||
+ได้ที่เรียนอันดับรอง|Your second choice|อันดับรอง,ดีเหมือนกัน||
+สมัครหลายที่|Applying widely|หลายที่,โอกาส||
+สมัครที่เดียว|Applying to one place|ที่เดียว,เสี่ยง||
+ระบบรับตรง|Direct admission|รับตรง,เตรียมพอร์ต||
+ระบบแอดมิชชัน|Central admissions|แอดมิชชัน,คะแนน||
+ยื่นพอร์ตโฟลิโอ|Submitting a portfolio|พอร์ต,ผลงาน||
+เขียนเรียงความสมัครเรียน|Writing a personal statement|เรียงความ,ตัวตน||
+จดหมายแนะนำจากอาจารย์|A teacher's recommendation|จดหมายแนะนำ,ความสัมพันธ์||
+คะแนนภาษาไม่ถึง|Language score short|คะแนนภาษา,สอบใหม่||
+คะแนนภาษาผ่านเกณฑ์|Language score met|คะแนนภาษา,ผ่าน||
+เกรดเฉลี่ยไม่ถึง|GPA short|เกรด,จุดแข็งอื่น||
+เกรดเฉลี่ยดี|A strong GPA|เกรด,ได้เปรียบ||
+เอกสารสมัครไม่ครบ|An incomplete application|เอกสาร,ตรวจ||
+สมัครทันเส้นตาย|Applied in time|ทันเวลา,โล่ง||
+สมัครไม่ทัน|Missed the deadline|ไม่ทัน,รอบหน้า||
+ค่าสมัครหลายที่สูง|High application fees|ค่าสมัคร,เลือก||
+สมัครเรียนโดยไม่มีคนแนะนำ|Applying with no guidance|ไม่มีคนแนะนำ,หาข้อมูล||
+มีพี่แนะแนวช่วยดี|A good mentor guides you|แนะแนว,ช่วยเหลือ||
+ติวเข้มก่อนสอบเข้า|Intensive tutoring|ติว,เข้มข้น||
+อ่านหนังสือเองจนสอบติด|Self-study success|อ่านเอง,วินัย||
+สมัครเรียนต่อหลังทำงาน|Returning to study after work|กลับมาเรียน,ประสบการณ์||
+สมัครเรียนในวัยเกษียณ|Studying in retirement|วัยเกษียณ,ใฝ่รู้||
+ได้ข้อเสนอจากหลายที่|Offers from several places|หลายข้อเสนอ,เลือก||
+ปฏิเสธที่เรียน|Declining a place|ปฏิเสธ,ชัดเจน||
+ยืนยันสิทธิ์เข้าเรียน|Confirming your place|ยืนยันสิทธิ์,พร้อม||
+สละสิทธิ์เพื่อที่อื่น|Giving up a place for another|สละสิทธิ์,เลือก||
+สมัครผ่านแต่ติดขัดเรื่องเอกสาร|Admitted but stuck on paperwork|เอกสาร,ติดขัด||
+สมัครผ่านฉลุย|Admitted with ease|ผ่านฉลุย,ราบรื่น||
+สมัครแล้วเงียบ|Applied and heard nothing|รอ,ติดตาม||
+ได้รับเชิญให้สมัคร|Invited to apply|ได้รับเชิญ,โอกาส||
+สมัครตามเพื่อน|Applying because friends did|ตามเพื่อน,ทบทวน||
+สมัครตามที่พ่อแม่อยากให้เรียน|Applying where your parents want|พ่อแม่,ฟังใจตัวเอง||
+สมัครตามความชอบตัวเอง|Applying for what you love|ความชอบ,มีไฟ||
+เลือกสาขาตามตลาดงาน|Choosing by job market|ตลาดงาน,มั่นคง||
+เลือกสาขาตามความถนัด|Choosing by aptitude|ถนัด,รุ่ง||
+ลังเลเลือกสาขา|Torn over which major|ลังเล,หาข้อมูล||
+# การสอบ
+สอบง่าย|An easy exam|สอบง่าย,ผ่าน||
+สอบยาก|A hard exam|สอบยาก,ตั้งสติ||
+สอบผ่าน|Passed|ผ่าน,ยินดี||
+สอบไม่ผ่าน|Failed|ไม่ผ่าน,แก้ตัว||
+สอบซ่อม|A resit|สอบซ่อม,โอกาส||
+สอบได้คะแนนเต็ม|Full marks|คะแนนเต็ม,ภูมิใจ||
+สอบได้ที่หนึ่ง|Top of the class|ที่หนึ่ง,ภูมิใจ||
+สอบเกือบผ่าน|Just missed|เกือบ,พยายามอีกนิด||
+สอบกลางภาค|Midterms|กลางภาค,ทบทวน||
+สอบปลายภาค|Finals|ปลายภาค,เต็มที่||
+สอบปากเปล่า|An oral exam|ปากเปล่า,มั่นใจ||
+สอบปฏิบัติ|A practical exam|ปฏิบัติ,ทักษะ||
+สอบออนไลน์|An online exam|ออนไลน์,ระบบ||
+สอบวัดระดับภาษา|A language proficiency test|วัดระดับ,ภาษา||
+สอบใบประกอบวิชาชีพ|A licensing exam|ใบประกอบ,วิชาชีพ||
+สอบเข้ามหาวิทยาลัย|University entrance exam|สอบเข้า,แข่งขัน||
+สอบชิงทุน|A scholarship exam|ชิงทุน,แข่งขัน||
+สอบป้องกันวิทยานิพนธ์|A thesis defence|วิทยานิพนธ์,นำเสนอ||
+สอบวัดคุณสมบัติปริญญาเอก|PhD qualifying exam|วัดคุณสมบัติ,ด่านสำคัญ||
+อ่านหนังสือไม่ทัน|Not enough time to revise|ไม่ทัน,จัดเวลา||
+อ่านหนังสือทันพอดี|Revised just in time|ทันพอดี,โล่ง||
+ตื่นเต้นจนลืม|Blanking from nerves|ตื่นเต้น,หายใจ||
+นอนไม่พอก่อนสอบ|No sleep before the exam|นอนไม่พอ,ระวัง||
+ป่วยวันสอบ|Ill on exam day|ป่วย,ขอสอบใหม่||
+มาสอบสาย|Late for the exam|สาย,เผื่อเวลา||
+ลืมบัตรสอบ|Forgot your exam card|ลืม,ตรวจก่อน||
+ข้อสอบออกตรงที่อ่าน|Questions on what you revised|ตรงที่อ่าน,โชค||
+ข้อสอบออกนอกที่อ่าน|Questions you didn't expect|นอกที่อ่าน,ไหวพริบ||
+ติวกับเพื่อนก่อนสอบ|Group revision|ติวเพื่อน,ช่วยกัน||
+ทำข้อสอบเก่า|Past papers|ข้อสอบเก่า,ฝึก||
+ลอกข้อสอบ|Cheating|ทุจริต,ผลเสีย||
+ถูกจับทุจริตสอบ|Caught cheating|ทุจริต,บทเรียน||
+สอบได้ด้วยความซื่อสัตย์|Passing honestly|ซื่อสัตย์,ภูมิใจ||
+ผลสอบออกช้า|Slow results|ผลสอบ,รอ||
+ผลสอบดีเกินคาด|Better results than expected|ผลดี,ไม่คาดคิด||
+ผลสอบแย่กว่าที่คิด|Worse than expected|ผลแย่,ทบทวน||
+ขอทบทวนผลสอบ|Requesting a re-mark|ทบทวน,สิทธิ||
+สอบหลายวิชาติดกัน|Back-to-back exams|ติดกัน,จัดแรง||
+สอบผ่านด้วยการเตรียมตัวดี|Passing through good preparation|เตรียมตัว,ผล||
+สอบครั้งที่สองแล้วผ่าน|Passing the second time|ครั้งที่สอง,ผ่าน||
+# การสัมภาษณ์เข้าเรียนและทุน
+ได้สัมภาษณ์ที่ไทย|Interviewed in Thailand|สัมภาษณ์,ไทย||
+ได้สัมภาษณ์ต่างประเทศ|Interviewed abroad|สัมภาษณ์,ต่างประเทศ||
+สัมภาษณ์ออนไลน์|An online interview|ออนไลน์,เตรียมพร้อม||
+สัมภาษณ์กับอาจารย์ที่ปรึกษาในอนาคต|With a future supervisor|อาจารย์,เข้าขา||
+สัมภาษณ์กับกรรมการหลายคน|Before a panel|กรรมการ,มั่นใจ||
+สัมภาษณ์ทุน|A scholarship interview|ทุน,เป้าหมาย||
+สัมภาษณ์ง่าย|An easy interview|ง่าย,ผ่อนคลาย||
+สัมภาษณ์ยาก|A hard interview|ยาก,ตั้งสติ||
+ถูกถามเรื่องแผนหลังเรียนจบ|Asked about plans after graduation|แผน,ชัดเจน||
+ถูกถามว่าทำไมเลือกสาขานี้|Asked why this subject|เหตุผล,ความตั้งใจ||
+ถูกถามเรื่องงานวิจัยที่อยากทำ|Asked about your research idea|วิจัย,ความคิด||
+ถูกถามเรื่องกิจกรรมที่เคยทำ|Asked about activities|กิจกรรม,ประสบการณ์||
+ถูกถามเป็นภาษาอังกฤษ|Asked in English|ภาษาอังกฤษ,ฝึก||
+นำเสนอผลงานตอนสัมภาษณ์|Presenting work at interview|นำเสนอ,ผลงาน||
+ตอบได้ดีเกินคาด|Answering better than expected|ตอบดี,มั่นใจ||
+ตื่นเต้นจนตอบไม่ได้|Too nervous to answer|ตื่นเต้น,ซ้อม||
+กรรมการใจดี|Kind interviewers|ใจดี,ผ่อนคลาย||
+กรรมการดุ|Stern interviewers|ดุ,ตั้งสติ||
+ผ่านการสัมภาษณ์|Passed the interview|ผ่าน,ยินดี||
+ไม่ผ่านการสัมภาษณ์|Didn't pass|ไม่ผ่าน,ลองใหม่||
+สัมภาษณ์วีซ่านักเรียน|A student visa interview|วีซ่า,เอกสาร||
+แต่งกายเหมาะสมวันสัมภาษณ์|Dressing well|แต่งกาย,ภาพลักษณ์||
+ซ้อมสัมภาษณ์กับรุ่นพี่|Practising with seniors|ซ้อม,รุ่นพี่||
+ศึกษาข้อมูลสถาบันก่อนไป|Researching the institution|ข้อมูล,เตรียมตัว||
+สัมภาษณ์แล้วรู้สึกเข้ากันดี|It felt like a fit|เข้ากัน,สัญญาณดี||
+สัมภาษณ์แล้วรู้สึกไม่ใช่|It didn't feel right|ไม่ใช่,ฟังใจ||
+ถูกเรียกสัมภาษณ์รอบสอง|Called back for round two|รอบสอง,เตรียมเพิ่ม||
+สัมภาษณ์พร้อมผู้ปกครอง|Interviewed with a parent|ผู้ปกครอง,ร่วมมือ||
+สัมภาษณ์เด็กเข้าโรงเรียน|A child's school interview|เด็ก,ผ่อนคลาย||
+ส่งอีเมลขอบคุณหลังสัมภาษณ์|A thank-you email afterwards|ขอบคุณ,มารยาท||
+ถูกถามเรื่องความยากลำบากที่เคยผ่าน|Asked about hardships you've overcome|ความยากลำบาก,เติบโต||
+ถูกถามว่าจะตอบแทนสังคมอย่างไร|Asked how you'll give back|ตอบแทนสังคม,เป้าหมาย||
+# เรียนที่ไทยหรือต่างประเทศ
+ควรเรียนที่ไทย|Study in Thailand|เรียนไทย,ใกล้บ้าน||
+ควรเรียนต่างประเทศ|Study abroad|ต่างประเทศ,ประสบการณ์||
+เรียนที่อเมริกา|Studying in the US|อเมริกา,หลากหลาย||
+เรียนที่อังกฤษ|Studying in the UK|อังกฤษ,หลักสูตรกระชับ||
+เรียนที่ออสเตรเลีย|Studying in Australia|ออสเตรเลีย,ใช้ชีวิต||
+เรียนที่ญี่ปุ่น|Studying in Japan|ญี่ปุ่น,วินัย||
+เรียนที่จีน|Studying in China|จีน,ภาษา||
+เรียนที่ยุโรป|Studying in Europe|ยุโรป,ค่าเทอม||
+เรียนที่สิงคโปร์|Studying in Singapore|สิงคโปร์,แข่งขัน||
+เรียนแลกเปลี่ยน|An exchange semester|แลกเปลี่ยน,เปิดโลก||
+เรียนซัมเมอร์ต่างประเทศ|A summer abroad|ซัมเมอร์,ประสบการณ์||
+เรียนออนไลน์กับสถาบันต่างประเทศ|Online with a foreign school|ออนไลน์,ประหยัด||
+หลักสูตรสองปริญญา|A dual-degree programme|สองปริญญา,โอกาส||
+เรียนภาษาก่อนเข้าหลักสูตร|A language year first|ภาษา,ปูพื้น||
+คิดถึงบ้านระหว่างเรียน|Homesick while studying|คิดถึงบ้าน,ปรับตัว||
+ปรับตัวกับวัฒนธรรมใหม่|Adjusting to a new culture|วัฒนธรรม,เรียนรู้||
+ได้เพื่อนต่างชาติ|Making foreign friends|เพื่อนต่างชาติ,เครือข่าย||
+ทำงานพาร์ทไทม์ระหว่างเรียนตามเงื่อนไขวีซ่า|Part-time work within visa rules|พาร์ทไทม์,ตรวจเงื่อนไข||
+เรียนจบแล้วอยู่ทำงานต่อ|Staying on to work after graduation|ทำงานต่อ,วีซ่า||
+เรียนจบแล้วกลับไทย|Returning to Thailand after graduation|กลับไทย,ใช้ความรู้||
+ใบปริญญาต่างประเทศเทียบวุฒิในไทย|Recognising a foreign degree in Thailand|เทียบวุฒิ,เอกสาร||
+ภาษาเป็นอุปสรรคในห้องเรียน|Language holding you back in class|ภาษา,ฝึก||
+ภาษาดีขึ้นมากหลังเรียน|Language greatly improved|ภาษา,ก้าวหน้า||
+เรียนไกลบ้านแต่ใกล้ครอบครัวในใจ|Far from home, close to family at heart|ครอบครัว,กำลังใจ||
+ทุนไปต่างประเทศ|A scholarship to go abroad|ทุน,ต่างประเทศ||
+เรียนต่างจังหวัด|Studying in another province|ต่างจังหวัด,อิสระ||
+เรียนในกรุงเทพฯ|Studying in Bangkok|กรุงเทพฯ,โอกาส||
+เรียนใกล้บ้าน|Studying near home|ใกล้บ้าน,ประหยัด||
+ย้ายไปเรียนที่ใหม่กลางทาง|Moving schools mid-course|ย้าย,เริ่มใหม่||
+เรียนต่างประเทศแล้วอยากกลับ|Abroad and wanting to come home|อยากกลับ,ทบทวน||
+เรียนต่างประเทศแล้วไม่อยากกลับ|Abroad and not wanting to return|ไม่อยากกลับ,วางแผน||
+ความปลอดภัยในเมืองที่ไปเรียน|Safety where you study|ความปลอดภัย,ระวัง||
+ที่พักนักศึกษาต่างชาติ|International student housing|หอพัก,เพื่อน||
+ประกันสุขภาพนักศึกษา|Student health insurance|ประกัน,สุขภาพ||
+ค่าครองชีพเมืองที่ไปเรียน|Cost of living where you study|ค่าครองชีพ,งบ||
+# ทุนการศึกษา
+ได้ทุน|Scholarship awarded|ได้ทุน,ยินดี||
+ไม่ได้ทุน|No scholarship|ไม่ได้ทุน,หาทางอื่น||
+ได้ทุนเต็มจำนวน|A full scholarship|ทุนเต็ม,โชคดี||
+ได้ทุนบางส่วน|A partial scholarship|ทุนบางส่วน,เติมเงิน||
+ทุนรัฐบาลไทย|A Thai government scholarship|ทุนรัฐบาล,ชดใช้ทุน||
+ทุนรัฐบาลต่างประเทศ|A foreign government scholarship|ทุนต่างประเทศ,แข่งขัน||
+ทุนมหาวิทยาลัย|A university scholarship|ทุนมหาลัย,ผลการเรียน||
+ทุนบริษัทเอกชน|A corporate scholarship|ทุนเอกชน,ทำงานใช้ทุน||
+ทุนเรียนดี|A merit scholarship|เรียนดี,ภูมิใจ||
+ทุนขาดแคลนทุนทรัพย์|A need-based grant|ขาดแคลน,โอกาส||
+ทุนกีฬา|A sports scholarship|กีฬา,ความสามารถ||
+ทุนศิลปะหรือดนตรี|An arts or music scholarship|ศิลปะ,ความสามารถ||
+ทุนวิจัย|A research grant|ทุนวิจัย,วิจัย||
+ทุนผู้ช่วยสอน|A teaching assistantship|ผู้ช่วยสอน,ประสบการณ์||
+ทุนผู้ช่วยวิจัย|A research assistantship|ผู้ช่วยวิจัย,ทักษะ||
+ทุนแลกเปลี่ยน|An exchange grant|แลกเปลี่ยน,เปิดโลก||
+ทุนที่ต้องกลับมาใช้ทุน|A scholarship with a service bond|ใช้ทุน,ผูกพัน||
+ทุนที่ไม่มีข้อผูกมัด|A scholarship with no bond|ไม่ผูกมัด,อิสระ||
+ทุนต่อเนื่องหลายปี|A multi-year scholarship|ต่อเนื่อง,มั่นคง||
+ทุนถูกตัดเพราะเกรดตก|Scholarship cut for low grades|เกรดตก,ระวัง||
+ต่อทุนผ่าน|Scholarship renewed|ต่อทุน,ผ่าน||
+ทุนเกี่ยวกับวิทยาศาสตร์และเทคโนโลยี|A science and tech scholarship|วิทยาศาสตร์,เทคโนโลยี||
+ทุนเกี่ยวกับการแพทย์|A medical scholarship|แพทย์,เสียสละ||
+ทุนเกี่ยวกับสังคมและการพัฒนา|A social development scholarship|สังคม,พัฒนา||
+ทุนเกี่ยวกับภาษาและวัฒนธรรม|A language and culture scholarship|ภาษา,วัฒนธรรม||
+ทุนเกี่ยวกับธุรกิจ|A business scholarship|ธุรกิจ,ผู้นำ||
+ทุนเกี่ยวกับสิ่งแวดล้อม|An environmental scholarship|สิ่งแวดล้อม,อนาคต||
+สมัครทุนหลายแหล่ง|Applying to many funders|หลายแหล่ง,โอกาส||
+ได้ทุนจากคนที่ไม่คาดคิด|Funding from an unexpected source|ไม่คาดคิด,ผู้อุปถัมภ์||
+ทุนช่วยค่าครองชีพ|A living-cost stipend|ค่าครองชีพ,ช่วยเหลือ||
+ทุนช่วยค่าหนังสือและอุปกรณ์|Help with books and equipment|อุปกรณ์,ช่วยเหลือ||
+ระวังทุนปลอมเรียกเก็บเงิน|Beware fake scholarships charging fees|ทุนปลอม,ระวัง||
+เขียนข้อเสนอขอทุนดี|A strong funding proposal|ข้อเสนอ,ชัดเจน||
+ทุนกู้ยืมเพื่อการศึกษา (กยศ.)|A student loan (Thai Student Loan Fund)|กยศ.,ชำระคืน||
+ได้ทุนทำให้ครอบครัวสบายใจ|A scholarship that eases the family|ครอบครัว,โล่งใจ||
+# วิจัยและสาขาวิชา
+ได้ทำวิจัย|Doing research|วิจัย,ค้นคว้า||
+ไม่ได้ทำวิจัย|No research this time|ไม่ได้ทำวิจัย,เรียนรายวิชา||
+วิจัยเกี่ยวกับวิทยาศาสตร์|Science research|วิทยาศาสตร์,ทดลอง||
+วิจัยเกี่ยวกับการแพทย์และสุขภาพ|Medical and health research|การแพทย์,สุขภาพ||
+วิจัยเกี่ยวกับเทคโนโลยีและ AI|Tech and AI research|เทคโนโลยี,AI||
+วิจัยเกี่ยวกับสังคม|Social research|สังคม,ผู้คน||
+วิจัยเกี่ยวกับการศึกษา|Education research|การศึกษา,ผู้เรียน||
+วิจัยเกี่ยวกับธุรกิจและเศรษฐกิจ|Business and economics research|ธุรกิจ,เศรษฐกิจ||
+วิจัยเกี่ยวกับศิลปะและวัฒนธรรม|Arts and culture research|ศิลปะ,วัฒนธรรม||
+วิจัยเกี่ยวกับสิ่งแวดล้อม|Environmental research|สิ่งแวดล้อม,ธรรมชาติ||
+วิจัยเกี่ยวกับภาษา|Linguistics research|ภาษา,การสื่อสาร||
+วิจัยเกี่ยวกับจิตวิทยา|Psychology research|จิตวิทยา,พฤติกรรม||
+วิจัยเกี่ยวกับกฎหมาย|Legal research|กฎหมาย,ความยุติธรรม||
+วิจัยเกี่ยวกับการเกษตร|Agricultural research|การเกษตร,อาหาร||
+วิจัยเกี่ยวกับศาสนาและความเชื่อ|Religion and belief research|ศาสนา,ความเชื่อ||
+วิจัยภาคสนาม|Fieldwork|ภาคสนาม,เดินทาง||
+วิจัยในห้องแล็บ|Lab work|ห้องแล็บ,ทดลอง||
+ได้ตีพิมพ์งานวิจัย|Publishing your research|ตีพิมพ์,ผลงาน||
+งานวิจัยถูกปฏิเสธ|Research rejected|ถูกปฏิเสธ,ปรับแก้||
+ได้นำเสนอในงานประชุมวิชาการ|Presenting at a conference|ประชุมวิชาการ,เครือข่าย||
+หัวข้อวิจัยเปลี่ยนกลางทาง|Changing topic midway|เปลี่ยนหัวข้อ,ยืดหยุ่น||
+ข้อมูลวิจัยไม่พอ|Not enough data|ข้อมูล,หาเพิ่ม||
+ผลการทดลองไม่เป็นไปตามคาด|Unexpected results|ผลไม่คาด,ค้นพบ||
+ได้ค้นพบสิ่งใหม่|A new finding|ค้นพบ,ภูมิใจ||
+ทำวิทยานิพนธ์|Writing a thesis|วิทยานิพนธ์,อดทน||
+ทำสารนิพนธ์หรือโปรเจกต์จบ|A final project|โปรเจกต์จบ,ลงมือ||
+อาจารย์ที่ปรึกษาวิจัยดี|A good research supervisor|อาจารย์ที่ปรึกษา,ไว้ใจ||
+อาจารย์ที่ปรึกษาไม่ค่อยว่าง|A busy supervisor|ไม่ว่าง,นัดล่วงหน้า||
+จริยธรรมการวิจัย|Research ethics|จริยธรรม,ถูกต้อง||
+ระวังการลอกงาน|Avoid plagiarism|ลอกงาน,อ้างอิง||
+สาขาวิทยาศาสตร์|Sciences|วิทยาศาสตร์,สาขา||
+สาขาวิศวกรรม|Engineering|วิศวกรรม,สาขา||
+สาขาแพทย์และพยาบาล|Medicine and nursing|แพทย์,สาขา||
+สาขาบริหารธุรกิจ|Business administration|บริหาร,สาขา||
+สาขามนุษยศาสตร์|Humanities|มนุษยศาสตร์,สาขา||
+สาขาสังคมศาสตร์|Social sciences|สังคมศาสตร์,สาขา||
+สาขาศิลปะและการออกแบบ|Art and design|ศิลปะ,สาขา||
+สาขาครุศาสตร์|Education|ครุศาสตร์,สาขา||
+สาขากฎหมาย|Law|นิติศาสตร์,สาขา||
+สาขาคอมพิวเตอร์|Computer science|คอมพิวเตอร์,สาขา||
+# ค่าเรียนและผู้สนับสนุน
+ได้งบพิเศษ|Extra funding|งบพิเศษ,โชค||
+มีคนจ่ายค่าเรียนให้|Someone pays your fees|ผู้สนับสนุน,บุญคุณ||
+พ่อแม่จ่ายค่าเรียน|Parents pay|พ่อแม่,บุญคุณ||
+ญาติช่วยค่าเรียน|Relatives help|ญาติ,ช่วยเหลือ||
+คู่ช่วยค่าเรียน|A partner helps|คู่,ร่วมมือ||
+นายจ้างจ่ายค่าเรียน|An employer pays|นายจ้าง,ใช้ทุน||
+หาค่าเรียนจ่ายเอง|Paying your own way|จ่ายเอง,ภูมิใจ||
+กู้เงินเรียน|Borrowing to study|กู้,วางแผนคืน||
+ค่าเทอมขึ้น|Fees rising|ค่าเทอม,วางแผน||
+ค่าเทอมเกินงบ|Fees over budget|เกินงบ,หาทุน||
+ผ่อนค่าเทอม|Paying fees in instalments|ผ่อน,ยืดหยุ่น||
+ค่าหอพักสูง|High dorm costs|หอพัก,ประหยัด||
+ค่าตำราแพง|Expensive textbooks|ตำรา,หาทางเลือก||
+ค่าอุปกรณ์การเรียนสูง|Costly equipment|อุปกรณ์,วางแผน||
+ค่าเดินทางไปเรียน|Commuting costs|เดินทาง,งบ||
+ทำงานพาร์ทไทม์หาค่าเรียน|Part-time work for fees|พาร์ทไทม์,ขยัน||
+ขายของออนไลน์หาค่าเรียน|Selling online to pay fees|ขายของ,หัวการค้า||
+ประหยัดเพื่อเก็บค่าเรียน|Saving for fees|ประหยัด,เป้าหมาย||
+ได้ส่วนลดค่าเทอม|A fee discount|ส่วนลด,โชค||
+ค้างค่าเทอม|Behind on fees|ค้าง,ติดต่อ||
+ค่าเรียนคุ้มค่า|Fees well spent|คุ้มค่า,ลงทุน||
+ค่าเรียนไม่คุ้ม|Fees not worth it|ไม่คุ้ม,ทบทวน||
+มีคนส่งกำลังใจแทนเงิน|Support in spirit, not money|กำลังใจ,อบอุ่น||
+พ่อแม่ลำบากเพื่อส่งเรียน|Parents sacrificing for your study|เสียสละ,กตัญญู||
+ส่งน้องเรียน|Paying for a sibling's study|พี่น้อง,เสียสละ||
+ส่งลูกเรียน|Paying for your child's study|ลูก,ลงทุน||
+ได้เงินรางวัลจากการแข่งขัน|Prize money from a competition|รางวัล,ความสามารถ||
+ได้ทำงานแลกค่าเรียน|Work in exchange for fees|แลกเปลี่ยน,ขยัน||
+ใช้เงินเก็บทั้งหมดเพื่อเรียน|Spending all your savings on study|ลงทุนตัวเอง,เสี่ยง||
+เรียนฟรีจากแหล่งออนไลน์|Learning free online|ฟรี,ใฝ่รู้||
+# การเรียนและภาระงาน
+เรียนหนัก|A heavy workload|เรียนหนัก,อดทน||
+เรียนแบบไม่เครียดมาก|A manageable load|ไม่เครียด,สมดุล||
+การบ้านเยอะ|Lots of homework|การบ้านเยอะ,จัดเวลา||
+การบ้านน้อย|Little homework|การบ้านน้อย,เวลาว่าง||
+งานกลุ่มเยอะ|Many group projects|งานกลุ่ม,ร่วมมือ||
+งานกลุ่มมีคนไม่ช่วย|A teammate who won't help|งานกลุ่ม,ตกลง||
+รายงานส่งไม่ทัน|A late report|ส่งไม่ทัน,ขอขยาย||
+ส่งงานครบตรงเวลา|Everything in on time|ตรงเวลา,วินัย||
+เรียนไปทำงานไป|Studying while working|ทำงานไปด้วย,จัดเวลา||
+เรียนอย่างเดียวไม่ต้องทำงาน|Study only, no job|เรียนเต็มที่,โฟกัส||
+เรียนไปเลี้ยงลูกไป|Studying while parenting|เลี้ยงลูก,เข้มแข็ง||
+เรียนหลายอย่างพร้อมกัน|Too many courses at once|หลายอย่าง,จัดลำดับ||
+ฝึกงาน|An internship|ฝึกงาน,ประสบการณ์||
+ฝึกงานที่ดี|A good internship|ฝึกงาน,เรียนรู้||
+ฝึกงานที่ไม่ได้อะไร|An internship that teaches little|ฝึกงาน,หาเพิ่ม||
+เรียนออนไลน์ไม่มีสมาธิ|Distracted online|ออนไลน์,สมาธิ||
+เรียนในห้องเข้าใจดีกว่า|Learning better in person|ในห้อง,เข้าใจ||
+จดเลกเชอร์ดี|Good notes|จดโน้ต,ทบทวน||
+ทบทวนสม่ำเสมอ|Regular review|ทบทวน,สม่ำเสมอ||
+อ่านหนังสือแบบโต้รุ่ง|All-nighters|โต้รุ่ง,สุขภาพ||
+เข้าเรียนครบ|Full attendance|เข้าเรียน,วินัย||
+โดดเรียนบ่อย|Skipping class|โดดเรียน,ระวัง||
+ทำกิจกรรมนอกห้องเรียน|Extracurricular activities|กิจกรรม,เครือข่าย||
+ทำกิจกรรมมากจนเรียนตก|So many activities grades slip|กิจกรรม,สมดุล||
+ใช้ AI ช่วยเรียนอย่างถูกวิธี|Using AI to study responsibly|AI,ซื่อสัตย์||
+พักผ่อนไม่พอเพราะเรียน|Short on rest from study|พักผ่อน,สมดุล||
+เรียนหนักจนหมดไฟ|Burnt out from study|หมดไฟ,พัก||
+กลับมามีไฟในการเรียน|Motivation returns|มีไฟ,ฟื้น||
+ได้วิชาเลือกที่ชอบ|An elective you love|วิชาเลือก,สนุก||
+ลงทะเบียนเรียนไม่ทัน|Missed course registration|ลงทะเบียน,ติดตาม||
+ได้ตารางเรียนดี|A good timetable|ตารางเรียน,ลงตัว||
+ตารางเรียนชนกัน|Clashing classes|ตารางชน,ปรับ||
+ห้องเรียนออนไลน์มีปัญหาเทคนิค|Tech trouble in online class|เทคนิค,สำรอง||
+เรียนพิเศษเพิ่ม|Extra tutoring|เรียนพิเศษ,เสริม||
+สอนพิเศษให้คนอื่น|Tutoring others|สอนพิเศษ,ทบทวน||
+เรียนด้วยตัวเอง|Self-study|เรียนเอง,วินัย||
+ทำโปรเจกต์กับภาคธุรกิจ|An industry project|ภาคธุรกิจ,ประสบการณ์||
+ทำงานวิจัยกับอาจารย์|Research with a lecturer|วิจัย,โอกาส||
+ได้รับมอบหมายงานยาก|A tough assignment|งานยาก,ท้าทาย||
+ได้คะแนนงานดี|A high mark on an assignment|คะแนนดี,กำลังใจ||
+# ความสามารถ นิสัย และการปรับตัว
+หัวดี|Quick to learn|หัวดี,เรียนเร็ว||
+หัวไม่ดีแต่ขยัน|Not a natural, but hardworking|ขยัน,สม่ำเสมอ||
+ความจำดี|Good memory|ความจำ,ได้เปรียบ||
+เข้าใจช้าแต่ลึก|Slow but deep understanding|ลึกซึ้ง,อดทน||
+ถนัดคำนวณ|Good with numbers|คำนวณ,ถนัด||
+ถนัดภาษา|Good with languages|ภาษา,ถนัด||
+ถนัดงานศิลปะ|Artistic|ศิลปะ,ถนัด||
+ถนัดงานปฏิบัติ|Hands-on|ปฏิบัติ,ถนัด||
+ถนัดการพูดนำเสนอ|A good presenter|นำเสนอ,ถนัด||
+ถนัดการเขียน|A good writer|การเขียน,ถนัด||
+สมาธิสั้น|Short attention span|สมาธิ,เทคนิค||
+ผัดวันประกันพรุ่ง|Procrastinating|ผัดวัน,เริ่มเลย||
+มีวินัยสูง|Highly disciplined|วินัย,ผลดี||
+ขี้เกียจเป็นช่วงๆ|Lazy spells|ขี้เกียจ,หาแรงจูงใจ||
+เครียดง่าย|Easily stressed|เครียด,ผ่อนคลาย||
+ใจเย็นตอนสอบ|Calm in exams|ใจเย็น,ได้เปรียบ||
+ปรับตัวง่าย|Adapts easily|ปรับตัวง่าย,ยืดหยุ่น||
+ปรับตัวยาก|Slow to adapt|ปรับตัวยาก,ให้เวลา||
+ชอบเรียนคนเดียว|Prefers studying alone|เรียนคนเดียว,โฟกัส||
+ชอบเรียนเป็นกลุ่ม|Prefers group study|เรียนกลุ่ม,แลกเปลี่ยน||
+ช่างสงสัยชอบถาม|Curious and asks questions|ช่างสงสัย,เรียนรู้||
+ไม่กล้าถามในห้อง|Afraid to ask in class|ไม่กล้าถาม,ถามหลังเลิก||
+มีความคิดสร้างสรรค์|Creative|สร้างสรรค์,ไอเดีย||
+คิดวิเคราะห์เก่ง|Analytical|วิเคราะห์,ถนัด||
+เป็นผู้นำในกลุ่ม|A group leader|ผู้นำ,รับผิดชอบ||
+เป็นผู้ตามที่ดี|A good team player|ผู้ตาม,ร่วมมือ||
+นิสัยเรา|Your own habits|นิสัยเรา,เข้าใจตัวเอง||
+มีภาวะการเรียนรู้ที่ต่างจากคนอื่น|A different way of learning|การเรียนรู้,ขอความช่วยเหลือ||
+เรียนรู้ผ่านการมองเห็น|Visual learner|มองเห็น,แผนภาพ||
+เรียนรู้ผ่านการฟัง|Auditory learner|ฟัง,บันทึกเสียง||
+เรียนรู้ผ่านการลงมือ|Learning by doing|ลงมือ,ปฏิบัติ||
+ความมั่นใจในการเรียนเพิ่มขึ้น|Growing confidence|มั่นใจ,เติบโต||
+เปรียบเทียบตัวเองกับเพื่อน|Comparing yourself to classmates|เปรียบเทียบ,ทางของตัวเอง||
+ค้นพบสิ่งที่ชอบจริงๆ|Finding what you truly love|ค้นพบ,ใช่||
+เรียนแล้วเจอตัวเองมากขึ้น|Knowing yourself better through study|ตัวตน,เติบโต||
+# เพื่อน อาจารย์ และสถานศึกษา
+เพื่อนดี|Good friends|เพื่อนดี,สนับสนุน||
+เพื่อนไม่ดี|Bad company|เพื่อนไม่ดี,ระวัง||
+เพื่อนร่วมชั้นแข่งขันสูง|Competitive classmates|แข่งขัน,ทางของตัวเอง||
+เพื่อนร่วมชั้นช่วยเหลือกัน|Classmates who help each other|ช่วยกัน,อบอุ่น||
+นิสัยเพื่อนร่วมชั้น|Your classmates' ways|นิสัยเพื่อน,เข้าใจ||
+ได้เพื่อนสนิทตลอดชีวิต|A lifelong friend|เพื่อนสนิท,มิตรภาพ||
+ถูกกลั่นแกล้งในโรงเรียน|Bullied at school|กลั่นแกล้ง,ขอความช่วยเหลือ||
+ถูกกีดกันจากกลุ่ม|Left out of the group|กีดกัน,หาเพื่อนใหม่||
+รุ่นพี่ดูแลดี|Caring seniors|รุ่นพี่,แนะนำ||
+รุ่นน้องนับถือ|Respected by juniors|รุ่นน้อง,แบบอย่าง||
+ความรักในวัยเรียน|Love while studying|ความรัก,สมดุล||
+อาจารย์ใจดี|A kind teacher|อาจารย์,ใจดี||
+อาจารย์ดุ|A strict teacher|อาจารย์,ดุ||
+อาจารย์สอนเข้าใจง่าย|A teacher who explains well|สอนดี,เข้าใจ||
+อาจารย์สอนไม่รู้เรื่อง|A teacher hard to follow|สอนไม่รู้เรื่อง,หาเพิ่ม||
+อาจารย์ลำเอียง|A biased teacher|ลำเอียง,ผลงาน||
+อาจารย์เป็นแรงบันดาลใจ|An inspiring teacher|แรงบันดาลใจ,ศรัทธา||
+นิสัยอาจารย์|Your teacher's ways|นิสัยอาจารย์,ปรับตัว||
+อาจารย์เห็นศักยภาพ|A teacher sees your potential|ศักยภาพ,โอกาส||
+อาจารย์ที่ปรึกษาช่วยเหลือดี|A helpful adviser|ที่ปรึกษา,ไว้ใจ||
+ขัดแย้งกับอาจารย์|Conflict with a teacher|ขัดแย้ง,คุยกัน||
+ได้รับคำแนะนำอาชีพจากอาจารย์|Career advice from a teacher|คำแนะนำ,อาชีพ||
+สถานศึกษามีชื่อเสียง|A prestigious institution|ชื่อเสียง,โอกาส||
+สถานศึกษาเล็กแต่ดูแลทั่วถึง|A small, attentive school|ดูแล,ใกล้ชิด||
+สถานศึกษาระเบียบเข้ม|A strict school|ระเบียบ,วินัย||
+สถานศึกษาเปิดกว้าง|An open-minded school|เปิดกว้าง,สร้างสรรค์||
+ความสัมพันธ์ดีกับสถานศึกษา|A good bond with your school|ผูกพัน,ภาคภูมิ||
+มีปัญหากับฝ่ายทะเบียน|Trouble with the registrar|ทะเบียน,เอกสาร||
+ได้รับรางวัลจากสถานศึกษา|An award from your school|รางวัล,ภูมิใจ||
+ถูกลงโทษทางวินัย|Disciplinary action|วินัย,บทเรียน||
+ศิษย์เก่าช่วยเหลือ|Alumni help|ศิษย์เก่า,เครือข่าย||
+ผู้ปกครองมีส่วนร่วม|Involved parents|ผู้ปกครอง,สนับสนุน||
+ผู้ปกครองกดดันเรื่องเรียน|Parents pressuring over grades|กดดัน,คุยกัน||
+ทำงานร่วมกับเพื่อนต่างชาติ|Working with international classmates|ต่างชาติ,เรียนรู้||
+ชมรมที่ชอบ|A club you love|ชมรม,ความสุข||
+ครูแนะแนวช่วยได้มาก|A helpful guidance counsellor|แนะแนว,ทาง||
+เพื่อนพาไปในทางไม่ดี|Friends leading you astray|ทางผิด,ห่างไกล||
+เพื่อนพาไปในทางดี|Friends lifting you up|ทางดี,ขอบคุณ||
+เพื่อนร่วมห้องหอพัก|A dorm roommate|รูมเมท,ปรับตัว||
+คนรอบตัวเชื่อในตัวเรา|People who believe in you|เชื่อมั่น,กำลังใจ||
+# บรรยากาศและทำเลสถานที่เรียน
+บรรยากาศการเรียนดี|A good learning atmosphere|บรรยากาศ,สนับสนุน||
+บรรยากาศกดดัน|A pressured atmosphere|กดดัน,ดูแลใจ||
+บรรยากาศสบายๆ|A relaxed atmosphere|สบาย,ผ่อนคลาย||
+ห้องเรียนแออัด|Crowded classrooms|แออัด,สมาธิ||
+ห้องสมุดดี|A good library|ห้องสมุด,ค้นคว้า||
+อุปกรณ์การเรียนครบ|Well-equipped|อุปกรณ์,พร้อม||
+อุปกรณ์ไม่พอ|Under-equipped|ขาดอุปกรณ์,หาทาง||
+ทำเลสถานที่เรียนใกล้บ้าน|A school close to home|ใกล้บ้าน,สะดวก||
+ทำเลไกลต้องเดินทางนาน|A long commute to school|ไกล,จัดเวลา||
+อยู่หอในมหาวิทยาลัย|Living on campus|หอใน,ชีวิตนักศึกษา||
+อยู่หอนอก|Living off campus|หอนอก,อิสระ||
+ในเมืองใหญ่|In a big city|เมืองใหญ่,โอกาส||
+ในเมืองเล็กเงียบสงบ|In a quiet town|เมืองเล็ก,โฟกัส||
+แคมปัสร่มรื่น|A green campus|ร่มรื่น,ผ่อนคลาย||
+แคมปัสใหญ่เดินไกล|A huge campus|แคมปัสใหญ่,เดินทาง||
+อากาศไม่ถูกกับตัว|A climate that doesn't suit you|อากาศ,ปรับตัว||
+มีร้านอาหารราคานักศึกษา|Student-priced food|อาหาร,ประหยัด||
+อินเทอร์เน็ตช้า|Slow internet|อินเทอร์เน็ต,วางแผน||
+มีมุมอ่านหนังสือเงียบ|A quiet study corner|มุมอ่าน,สมาธิ||
+มีบริการสุขภาพจิตในสถานศึกษา|Campus mental health support|สุขภาพจิต,ช่วยเหลือ||
+ความปลอดภัยรอบสถานศึกษา|Safety around campus|ความปลอดภัย,ระวัง||
+บรรยากาศหลากหลายวัฒนธรรม|A multicultural atmosphere|หลากหลาย,เปิดโลก||
+สภาพแวดล้อมกระตุ้นให้อยากเรียน|An environment that makes you want to learn|แรงบันดาลใจ,บรรยากาศ||
+เรียนที่บ้านมีสิ่งรบกวน|Distractions studying at home|สิ่งรบกวน,จัดพื้นที่||
+ร้านกาแฟเป็นที่อ่านหนังสือประจำ|A café as your study spot|ร้านกาแฟ,โฟกัส||
+ห้องแล็บทันสมัย|A modern lab|แล็บ,ทดลอง||
+สถานศึกษาใกล้แหล่งงาน|A school near job opportunities|ใกล้แหล่งงาน,โอกาส||
+ช่วงเปิดเทอมคึกคัก|A lively start of term|เปิดเทอม,พลัง||
+# ผลลัพธ์และการจบการศึกษา
+ราบรื่น|Smooth going|ราบรื่น,ดี||
+ไม่ราบรื่น|Rocky going|ไม่ราบรื่น,อดทน||
+ผ่านฉลุย|Sailing through|ผ่านฉลุย,ยินดี||
+ติดขัด|Stuck|ติดขัด,หาทาง||
+อุปสรรคในการเรียน|Obstacles to study|อุปสรรค,ฝ่าฟัน||
+ข้อดีในการเรียน|Advantages in study|ข้อดี,ใช้ให้เต็ม||
+อุปสรรคในการสมัคร|Obstacles to applying|อุปสรรค,เตรียมใหม่||
+ข้อดีในการสมัคร|Advantages in applying|ข้อดี,จุดแข็ง||
+เรียนจบสมบูรณ์|Graduating fully|จบสมบูรณ์,ภูมิใจ||
+จบช้ากว่ากำหนด|Graduating late|จบช้า,ไม่เป็นไร||
+จบเร็วกว่ากำหนด|Graduating early|จบเร็ว,เก่ง||
+จบตามกำหนด|Graduating on time|ตามกำหนด,ดี||
+ได้เกียรตินิยม|Graduating with honours|เกียรตินิยม,ภูมิใจ||
+เกรดดีขึ้น|Grades improving|เกรดขึ้น,ก้าวหน้า||
+เกรดตก|Grades slipping|เกรดตก,ปรับ||
+พ้นสภาพนักศึกษา|Dismissed from the programme|พ้นสภาพ,เริ่มใหม่||
+ลาพักการเรียน|A leave of absence|ลาพัก,ทบทวน||
+ดรอปเรียน|Dropping a course|ดรอป,จัดลำดับ||
+ลาออกกลางคัน|Dropping out|ลาออก,ทางใหม่||
+กลับมาเรียนต่อหลังหยุด|Returning after a break|กลับมา,ไม่สาย||
+รับปริญญา|Graduation ceremony|รับปริญญา,ภูมิใจ||
+ครอบครัวมาร่วมยินดีวันรับปริญญา|Family celebrates your graduation|ครอบครัว,ยินดี||
+ได้งานก่อนเรียนจบ|A job before graduating|ได้งาน,พร้อม||
+เรียนจบแล้วยังไม่มีงาน|Graduated with no job yet|หางาน,อดทน||
+เรียนจบแล้วเรียนต่อ|Studying further after graduation|เรียนต่อ,ต่อยอด||
+เรียนจบแล้วทำงานไม่ตรงสาย|Working outside your field|ไม่ตรงสาย,ยืดหยุ่น||
+เรียนจบแล้วทำงานตรงสาย|Working in your field|ตรงสาย,ใช้ความรู้||
+ความรู้ที่เรียนได้ใช้จริง|Knowledge put to real use|ใช้จริง,คุ้มค่า||
+เรียนจบแล้วกลับไปช่วยครอบครัว|Returning to help family after study|ครอบครัว,ตอบแทน||
+ใบปริญญาเปิดประตูโอกาส|A degree opening doors|ปริญญา,โอกาส||
+ความสำเร็จช้าแต่มั่นคง|Slow but solid success|ช้า,มั่นคง||
+ความพยายามได้ผลตอบแทน|Effort pays off|พยายาม,ผล||
+พ่อแม่ภูมิใจ|Parents are proud|พ่อแม่,ภูมิใจ||
+ภูมิใจในตัวเอง|Proud of yourself|ภูมิใจ,ตัวเอง||
+การเรียนเปลี่ยนชีวิต|Study that changes your life|เปลี่ยนชีวิต,ก้าวใหม่||
+# ใบประกาศ ประกาศนียบัตร และการเรียนเสริม
+ใบประกาศเรียนดี|A certificate of academic merit|ใบประกาศ,เรียนดี||
+ใบประกาศกิจกรรม|An activity certificate|กิจกรรม,พอร์ต||
+ใบประกาศจิตอาสา|A volunteering certificate|จิตอาสา,น้ำใจ||
+ใบประกาศแข่งขันวิชาการ|An academic competition certificate|แข่งขัน,ความสามารถ||
+ใบประกาศกีฬา|A sports certificate|กีฬา,ทีม||
+ใบประกาศศิลปะและดนตรี|An arts or music certificate|ศิลปะ,ดนตรี||
+ประกาศนียบัตรภาษา|A language certificate|ภาษา,คะแนน||
+ประกาศนียบัตรคอมพิวเตอร์|A computer certificate|คอมพิวเตอร์,ทักษะ||
+ประกาศนียบัตรวิชาชีพ|A professional certificate|วิชาชีพ,น่าเชื่อถือ||
+ประกาศนียบัตรออนไลน์|An online course certificate|ออนไลน์,สะสม||
+คอร์สทำอาหาร|A cooking course|ทำอาหาร,ทักษะ||
+คอร์สภาษาที่สาม|A third language|ภาษาที่สาม,เปิดโลก||
+คอร์สการเงินส่วนบุคคล|A personal finance course|การเงิน,ชีวิต||
+คอร์สพัฒนาบุคลิกภาพ|A personal development course|บุคลิกภาพ,มั่นใจ||
+คอร์สการพูดในที่สาธารณะ|A public speaking course|การพูด,มั่นใจ||
+คอร์สธุรกิจออนไลน์|An online business course|ธุรกิจ,ออนไลน์||
+คอร์สถ่ายภาพ|A photography course|ถ่ายภาพ,ศิลปะ||
+คอร์สดนตรี|Music lessons|ดนตรี,ผ่อนคลาย||
+คอร์สกีฬาหรือป้องกันตัว|Sport or self-defence classes|กีฬา,ป้องกันตัว||
+คอร์สปฐมพยาบาล|A first-aid course|ปฐมพยาบาล,ช่วยชีวิต||
+คอร์สนวดหรือสปา|A massage or spa course|นวด,อาชีพ||
+คอร์สช่างฝีมือ|A trade skills course|ช่าง,อาชีพ||
+ค่ายวิชาการ|An academic camp|ค่าย,เพื่อนใหม่||
+ค่ายภาษาต่างประเทศ|A language camp abroad|ค่ายภาษา,เปิดโลก||
+อบรมสั้นจากที่ทำงาน|Short training at work|อบรม,พัฒนา||
+เรียนเพื่อสอบใบอนุญาต|Studying for a licence|ใบอนุญาต,อาชีพ||
+เรียนเพื่อเปลี่ยนสายงาน|Studying to change careers|เปลี่ยนสาย,ใหม่||
+เรียนเพื่อความสุขของตัวเอง|Learning for joy|ความสุข,ใฝ่รู้||
+ใบประกาศช่วยให้ได้ทุน|A certificate that wins a scholarship|ใบประกาศ,ทุน||
+เก็บใบประกาศทำพอร์ตโฟลิโอ|Building a certificate portfolio|พอร์ต,สะสม||

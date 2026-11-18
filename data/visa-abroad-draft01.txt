@@ -1,0 +1,513 @@
+# ประเภทวีซ่าและสถานะการอยู่
+วีซ่าท่องเที่ยว|Tourist visa|ท่องเที่ยว,ระยะสั้น||
+วีซ่าธุรกิจระยะสั้น|Short business visa|ธุรกิจ,ระยะสั้น||
+วีซ่าท่องเที่ยวและธุรกิจของอเมริกา (B1/B2)|US B1/B2 visitor visa|อเมริกา,B1/B2||
+วีซ่านักเรียน|Student visa|นักเรียน,การศึกษา||
+วีซ่านักเรียนอเมริกา (F-1)|US F-1 student visa|อเมริกา,F-1||
+วีซ่าแลกเปลี่ยน (J-1)|J-1 exchange visa|แลกเปลี่ยน,J-1||
+วีซ่าทำงาน|Work visa|ทำงาน,นายจ้าง||
+วีซ่าทำงานทักษะสูง (H-1B)|H-1B specialty work visa|อเมริกา,H-1B||
+วีซ่าโยกย้ายภายในบริษัท (L-1)|L-1 intracompany transfer|อเมริกา,L-1||
+วีซ่าความสามารถพิเศษ (O-1)|O-1 extraordinary ability|อเมริกา,O-1||
+วีซ่าคู่หมั้น (K-1)|K-1 fiancé(e) visa|อเมริกา,K-1||
+วีซ่าคู่สมรส|Spouse visa|คู่สมรส,ครอบครัว||
+วีซ่าผู้ติดตาม|Dependant visa|ผู้ติดตาม,ครอบครัว||
+วีซ่าลงทุน|Investor visa|ลงทุน,ทุน||
+วีซ่าเกษียณ|Retirement visa|เกษียณ,บั้นปลาย||
+วีซ่าทำงานและท่องเที่ยว (Work and Holiday)|Working holiday visa|ทำงานเที่ยว,ประสบการณ์||
+วีซ่าเวิร์กแอนด์ทราเวลภาคฤดูร้อน|Summer Work and Travel|นักศึกษา,ฤดูร้อน||
+วีซ่าทำงานตามฤดูกาล|Seasonal work visa|ตามฤดู,ชั่วคราว||
+วีซ่าผ่านแดน|Transit visa|ผ่านแดน,ต่อเครื่อง||
+วีซ่าพยาบาลหรือผู้ดูแล|Care worker visa|ผู้ดูแล,ทักษะ||
+วีซ่ารักษาพยาบาล|Medical treatment visa|รักษาตัว,ชั่วคราว||
+วีซ่าทางศาสนา|Religious worker visa|ศาสนา,ภารกิจ||
+วีซ่านักข่าวหรือสื่อ|Media visa|สื่อ,ภารกิจ||
+วีซ่านักกีฬาหรือศิลปิน|Athlete or artist visa|นักกีฬา,ศิลปิน||
+วีซ่าดิจิทัลโนแมด|Digital nomad visa|ทำงานออนไลน์,ยืดหยุ่น||
+วีซ่าลอตเตอรี (DV)|Diversity Visa lottery|ลอตเตอรี,โชค||
+ขอลี้ภัย|Seeking asylum|ลี้ภัย,คุ้มครอง||
+สถานะคุ้มครองชั่วคราว|Temporary protected status|คุ้มครอง,ชั่วคราว||
+ผู้มีถิ่นที่อยู่ถาวร|Permanent resident|ถิ่นที่อยู่ถาวร,มั่นคง||
+พลเมือง|Citizen|พลเมือง,สิทธิ||
+ถือสองสัญชาติ|Dual citizenship|สองสัญชาติ,สิทธิ||
+วีซ่าเข้าออกหลายครั้ง|Multiple-entry visa|หลายครั้ง,สะดวก||
+วีซ่าเข้าครั้งเดียว|Single-entry visa|ครั้งเดียว,วางแผน||
+ฟรีวีซ่าหรือยกเว้นวีซ่า|Visa-free entry|ยกเว้นวีซ่า,ตรวจเงื่อนไข||
+ระบบอนุญาตเดินทางล่วงหน้าออนไลน์ (ESTA/ETA)|Online travel authorisation|ออนไลน์,ล่วงหน้า||
+วีซ่าเชงเก้น|Schengen visa|ยุโรป,เชงเก้น||
+วีซ่าญี่ปุ่น|Japan visa|ญี่ปุ่น,เอกสาร||
+วีซ่าเกาหลี|Korea visa|เกาหลี,เอกสาร||
+วีซ่าออสเตรเลีย|Australia visa|ออสเตรเลีย,เอกสาร||
+วีซ่าอังกฤษ|UK visa|อังกฤษ,เอกสาร||
+วีซ่าแคนาดา|Canada visa|แคนาดา,เอกสาร||
+วีซ่านิวซีแลนด์|New Zealand visa|นิวซีแลนด์,เอกสาร||
+วีซ่าไทยสำหรับคู่สมรสต่างชาติ (Non-O)|Thai Non-O for a foreign spouse|ไทย,Non-O||
+วีซ่าทำงานในไทย (Non-B)|Thai Non-B work visa|ไทย,Non-B||
+วีซ่าการศึกษาในไทย (ED)|Thai ED education visa|ไทย,ED||
+วีซ่าพำนักระยะยาวไทย (LTR)|Thai Long-Term Resident visa|ไทย,LTR||
+วีซ่าเดสติเนชันไทยแลนด์ (DTV)|Destination Thailand Visa|ไทย,DTV||
+วีซ่าเกษียณในไทย|Thai retirement visa|ไทย,เกษียณ||
+ต่อวีซ่า|Extending a visa|ต่อวีซ่า,กำหนดเวลา||
+เปลี่ยนประเภทวีซ่า|Changing visa type|เปลี่ยนสถานะ,เงื่อนไข||
+สถานะรอพิจารณา|Pending status|รอพิจารณา,อดทน||
+อยู่เกินกำหนด|Overstay|อยู่เกิน,ความเสี่ยง||
+สถานะหมดอายุโดยไม่รู้ตัว|Status lapsed unnoticed|หมดอายุ,ตรวจวันที่||
+แจ้งที่อยู่ 90 วัน (ไทย)|Thailand's 90-day report|ไทย,90วัน||
+ขอใบอนุญาตทำงานแยกจากวีซ่า|A separate work permit|ใบอนุญาตทำงาน,ทำงาน||
+# การเตรียมและยื่นเอกสาร
+กรอกแบบฟอร์มออนไลน์|Filling in online forms|แบบฟอร์ม,ละเอียด||
+ทำหนังสือเดินทางใหม่|A new passport|พาสปอร์ต,วันหมดอายุ||
+พาสปอร์ตใกล้หมดอายุ|Passport about to expire|พาสปอร์ต,ต่ออายุ||
+หลักฐานการเงิน|Proof of funds|การเงิน,หลักฐาน||
+หนังสือรับรองการทำงาน|Employment letter|การงาน,หลักฐาน||
+หลักฐานความผูกพันกับประเทศไทย|Ties to Thailand|ความผูกพัน,กลับแน่นอน||
+จดหมายเชิญ|An invitation letter|จดหมายเชิญ,ผู้รับรอง||
+ผู้สนับสนุนทางการเงิน|A financial sponsor|ผู้สนับสนุน,หลักฐาน||
+แปลเอกสารและรับรอง|Certified translations|แปลเอกสาร,รับรอง||
+ประทับรับรองเอกสาร (Apostille/Legalisation)|Apostille or legalisation|รับรอง,ทางการ||
+ใบรับรองความประพฤติ|Police clearance|ประวัติ,สะอาด||
+ตรวจสุขภาพก่อนยื่น|Medical exam before filing|ตรวจสุขภาพ,เงื่อนไข||
+ประวัติการฉีดวัคซีน|Vaccination record|วัคซีน,เอกสาร||
+รูปถ่ายตามข้อกำหนด|Photos to specification|รูปถ่าย,ข้อกำหนด||
+ประกันการเดินทาง|Travel insurance|ประกัน,ข้อกำหนด||
+จองตั๋วและที่พักเป็นหลักฐาน|Bookings as evidence|การจอง,แผน||
+แผนการเดินทางชัดเจน|A clear itinerary|แผนเดินทาง,ชัดเจน||
+ยื่นเอกสารครบ|A complete application|ครบถ้วน,ราบรื่น||
+เอกสารขาดหนึ่งชิ้น|One document missing|ขาดเอกสาร,ตรวจซ้ำ||
+ข้อมูลในเอกสารไม่ตรงกัน|Mismatched details|ไม่ตรงกัน,แก้ไข||
+สะกดชื่อผิด|A misspelled name|สะกดผิด,แก้ไข||
+ถูกขอเอกสารเพิ่ม|Asked for more documents|ขอเพิ่ม,ส่งตามกำหนด||
+จ่ายค่าธรรมเนียมแล้ว|Fees paid|ค่าธรรมเนียม,ใบเสร็จ||
+จองคิวยื่นเอกสาร|Booking an appointment|นัดหมาย,ล่วงหน้า||
+คิวยื่นเต็มนาน|No appointments for months|คิวเต็ม,วางแผน||
+ใช้บริการเอเจนซีที่ถูกกฎหมาย|A licensed agency|เอเจนซี,ตรวจใบอนุญาต||
+ปรึกษาทนายด้านตรวจคนเข้าเมือง|An immigration lawyer|ทนาย,ถูกต้อง||
+ตรวจข้อมูลจากเว็บไซต์ทางการก่อนยื่น|Check the official website first|ข้อมูลทางการ,อัปเดต||
+กฎเปลี่ยนระหว่างยื่น|Rules change mid-application|กฎเปลี่ยน,ปรับตัว||
+เอกสารหายระหว่างทาง|Documents lost in transit|เอกสารหาย,สำรอง||
+ติดตามสถานะออนไลน์|Tracking status online|ติดตาม,อดทน||
+ใช้ชื่อหลังแต่งงานไม่ตรงกับเอกสารเก่า|Married name vs old documents|ชื่อ,เอกสาร||
+ทำสำเนาเอกสารสำคัญเก็บไว้|Keep copies of key documents|สำรอง,ปลอดภัย||
+เอกสารจริงครบถ้วนตรวจสอบได้|Genuine, verifiable documents|เอกสารจริง,น่าเชื่อถือ||
+ประวัติการเดินทางดี|A good travel history|ประวัติเดินทาง,น่าเชื่อถือ||
+ประวัติการเดินทางน้อย|Little travel history|ประวัติเดินทาง,เตรียมหลักฐาน||
+ทะเบียนบ้านและบัตรประชาชนตรงกัน|House registration matching your ID|ทะเบียนบ้าน,ตรงกัน||
+สูติบัตรฉบับแปล|A translated birth certificate|สูติบัตร,แปล||
+ใบสำคัญการสมรสหรือหย่า|Marriage or divorce certificate|ทะเบียนสมรส,หลักฐาน||
+หนังสือยินยอมให้เด็กเดินทาง|Consent for a child to travel|เด็ก,ยินยอม||
+# การสัมภาษณ์
+นัดสัมภาษณ์ที่สถานทูตในไทย|Interview at an embassy in Thailand|สถานทูต,ไทย||
+สัมภาษณ์ที่ต่างประเทศ|Interviewing abroad|ต่างประเทศ,สัมภาษณ์||
+ต้องกลับไปสัมภาษณ์ที่ไทย|Must return to Thailand to interview|กลับไทย,วางแผน||
+สัมภาษณ์ที่สำนักงานตรวจคนเข้าเมือง|Interview at an immigration office|ตรวจคนเข้าเมือง,สัมภาษณ์||
+สัมภาษณ์ง่าย|An easy interview|ง่าย,ราบรื่น||
+สัมภาษณ์ยาก|A hard interview|ยาก,ตั้งสติ||
+สัมภาษณ์สั้นมาก|A very short interview|สั้น,ชัดเจน||
+สัมภาษณ์ยาวหลายคำถาม|A long, detailed interview|ยาว,ละเอียด||
+เจ้าหน้าที่ใจดี|A kind officer|เจ้าหน้าที่,ใจดี||
+เจ้าหน้าที่ดุ|A stern officer|เจ้าหน้าที่,ดุ||
+เจ้าหน้าที่สงสัย|A suspicious officer|สงสัย,ตอบตรง||
+เจ้าหน้าที่ยิ้มให้|An officer smiles|ยิ้ม,สัญญาณดี||
+ตอบคำถามตรงไปตรงมา|Answering plainly|ตอบตรง,ซื่อสัตย์||
+ตอบไม่ตรงกับเอกสาร|Answers don't match documents|ไม่ตรงกัน,ระวัง||
+ตื่นเต้นจนตอบติดขัด|Too nervous to answer smoothly|ตื่นเต้น,ซ้อม||
+ใช้ล่ามในการสัมภาษณ์|Using an interpreter|ล่าม,สื่อสาร||
+สัมภาษณ์เป็นภาษาอังกฤษ|Interview in English|ภาษาอังกฤษ,ฝึก||
+ถูกถามเรื่องการเงิน|Asked about money|การเงิน,หลักฐาน||
+ถูกถามเรื่องงาน|Asked about work|งาน,หลักฐาน||
+ถูกถามเรื่องครอบครัว|Asked about family|ครอบครัว,ตอบตรง||
+ถูกถามว่าจะกลับเมื่อไร|Asked when you'll return|กำหนดกลับ,ชัดเจน||
+ถูกถามเรื่องประวัติการเดินทาง|Asked about past travel|ประวัติ,ตอบตรง||
+ถูกขอดูโซเชียลมีเดีย|Asked about social media|โซเชียล,โปร่งใส||
+สัมภาษณ์คู่รักแยกห้อง|Couple interviewed separately|คู่รัก,ตรงกัน||
+ถูกถามรายละเอียดชีวิตคู่|Asked details of your relationship|ชีวิตคู่,ความจริง||
+ถูกถามเรื่องที่พักระหว่างอยู่|Asked where you'll stay|ที่พัก,หลักฐาน||
+ถูกถามเรื่องการเรียน|Asked about study plans|การเรียน,เป้าหมาย||
+สัมภาษณ์ผ่านวิดีโอ|A video interview|วิดีโอ,สัญญาณ||
+ไปสัมภาษณ์สาย|Late for the interview|สาย,เผื่อเวลา||
+แต่งตัวเรียบร้อยไปสัมภาษณ์|Dressing neatly|แต่งตัว,ภาพลักษณ์||
+เตรียมเอกสารเรียงครบ|Documents in order|เตรียมตัว,พร้อม||
+ซ้อมสัมภาษณ์ล่วงหน้า|A practice interview|ซ้อม,มั่นใจ||
+รอสัมภาษณ์นานหลายชั่วโมง|Hours of waiting|รอ,อดทน||
+สัมภาษณ์ช่วงที่คนยื่นเยอะ|Interviewing in a busy season|ช่วงคนเยอะ,อดทน||
+ถูกเรียกสัมภาษณ์รอบสอง|Called for a second interview|รอบสอง,เตรียมเพิ่ม||
+ถูกถามคำถามที่ไม่คาดคิด|An unexpected question|ไม่คาดคิด,ตั้งสติ||
+บรรยากาศสัมภาษณ์ผ่อนคลาย|A relaxed interview|ผ่อนคลาย,ดี||
+บรรยากาศสัมภาษณ์กดดัน|A tense interview|กดดัน,ตั้งสติ||
+สัมภาษณ์พร้อมลูก|Interviewing with children|ลูก,เตรียมตัว||
+สัมภาษณ์เพื่อขอสัญชาติ|Citizenship interview|สัญชาติ,ทดสอบ||
+สอบความรู้พลเมือง|Civics test|ความรู้พลเมือง,ท่องจำ||
+สอบภาษาเพื่อวีซ่า|Language test for a visa|สอบภาษา,คะแนน||
+ได้ยินข่าวลือเรื่องคำถามสัมภาษณ์|Rumours about interview questions|ข่าวลือ,ข้อมูลจริง||
+สัมภาษณ์ผ่านทั้งที่คิดว่าไม่ผ่าน|Passed when you thought you'd failed|ผ่าน,ไม่คาดคิด||
+สัมภาษณ์ไม่ผ่านทั้งที่เตรียมดี|Refused despite good preparation|ไม่ผ่าน,ลองใหม่||
+ถูกถามว่าเคยถูกปฏิเสธวีซ่าไหม|Asked about past refusals|ประวัติ,ซื่อสัตย์||
+สัมภาษณ์ที่ด่านทันทีที่ถึง|Questioned on arrival|ด่าน,ตอบตรง||
+# ผลการพิจารณา
+วีซ่าผ่าน|Visa approved|ผ่าน,ยินดี||
+วีซ่าไม่ผ่าน|Visa refused|ไม่ผ่าน,ทบทวน||
+รอพิจารณาเพิ่มเติม|Under further review|รอพิจารณา,อดทน||
+ได้วีซ่าระยะยาวกว่าที่ขอ|A longer visa than requested|ระยะยาว,โชคดี||
+ได้วีซ่าระยะสั้นกว่าที่ขอ|A shorter visa than requested|ระยะสั้น,วางแผน||
+ถูกปฏิเสธแต่ยื่นใหม่ได้|Refused, but can reapply|ยื่นใหม่,แก้จุดอ่อน||
+ถูกปฏิเสธพร้อมเหตุผล|Refused with reasons|เหตุผล,แก้ไข||
+ผลออกเร็ว|A fast decision|เร็ว,ราบรื่น||
+ผลออกช้ามาก|A very slow decision|ช้า,อดทน||
+ได้รับอนุมัติแบบมีเงื่อนไข|Conditionally approved|เงื่อนไข,ปฏิบัติตาม||
+อุทธรณ์คำตัดสิน|Appealing a decision|อุทธรณ์,หลักฐาน||
+อุทธรณ์สำเร็จ|Appeal succeeds|อุทธรณ์,ผ่าน||
+อุทธรณ์ไม่สำเร็จ|Appeal fails|อุทธรณ์,ทางอื่น||
+ได้ใบเขียว|Green card granted|ใบเขียว,มั่นคง||
+ได้สัญชาติ|Citizenship granted|สัญชาติ,ภูมิใจ||
+ได้ถิ่นที่อยู่ถาวร|Permanent residency granted|ถิ่นที่อยู่ถาวร,มั่นคง||
+ได้ใบอนุญาตทำงาน|Work permit granted|ใบอนุญาต,เริ่มงาน||
+ต่อวีซ่าผ่าน|Extension approved|ต่อวีซ่า,ราบรื่น||
+ต่อวีซ่าไม่ผ่าน|Extension refused|ต่อวีซ่า,วางแผนกลับ||
+เปลี่ยนสถานะผ่าน|Status change approved|เปลี่ยนสถานะ,ผ่าน||
+เปลี่ยนสถานะไม่ผ่าน|Status change refused|เปลี่ยนสถานะ,ทางเลือก||
+ถูกขอข้อมูลเพิ่มก่อนตัดสิน|Asked for more evidence first|ขอหลักฐาน,ส่งตามกำหนด||
+ผ่านแบบไม่คาดคิด|Unexpectedly approved|ไม่คาดคิด,โชค||
+ไม่ผ่านแบบไม่คาดคิด|Unexpectedly refused|ไม่คาดคิด,ตั้งหลัก||
+ถูกห้ามเข้าประเทศชั่วคราว|A temporary entry ban|ห้ามเข้า,รอ||
+ถูกห้ามเข้าประเทศถาวร|A permanent entry ban|ห้ามเข้า,ทางอื่น||
+ถูกยกเลิกวีซ่า|Visa cancelled|ยกเลิก,ปรึกษาทนาย||
+ได้รับวีซ่าตามเวลาที่ต้องเดินทางพอดี|Visa arrives just in time|ทันเวลา,โล่งใจ||
+ผลออกหลังวันเดินทาง|Visa arrives too late|ไม่ทัน,เลื่อน||
+ผ่านแต่ต้องตรวจสุขภาพเพิ่ม|Approved pending a health check|ตรวจสุขภาพ,เงื่อนไข||
+ได้วีซ่าผู้ติดตามสำหรับครอบครัว|Visas for the whole family|ครอบครัว,ผู้ติดตาม||
+ลูกได้วีซ่าแต่พ่อแม่ไม่ได้|Children approved, parents not|ครอบครัว,แยกกัน||
+ได้วีซ่าแต่เข้าประเทศไม่ได้|Visa granted but entry denied|เข้าเมือง,ดุลยพินิจ||
+ยื่นครั้งที่สองแล้วผ่าน|Approved on a second try|ครั้งที่สอง,ผ่าน||
+ยื่นหลายครั้งยังไม่ผ่าน|Refused several times|หลายครั้ง,ทบทวน||
+ได้รับการคุ้มครองตามคำร้องลี้ภัย|Asylum protection granted|ลี้ภัย,คุ้มครอง||
+คำร้องลี้ภัยไม่ผ่าน|Asylum claim refused|ลี้ภัย,ทนาย||
+ได้รับสิทธิ์ทำงานระหว่างรอ|Work rights while waiting|รอ,สิทธิ||
+ได้หมายเลขประกันสังคมหรือเลขภาษี|A social security or tax number|เลขทางการ,เริ่มต้น||
+ผลออกในวันมงคลพอดี (ความเชื่อ)|A decision on an auspicious day (belief)|วันมงคล,ความเชื่อ||
+# ใบเขียวและสัญชาติ
+ยื่นขอใบเขียวผ่านคู่สมรส|Green card through a spouse|ใบเขียว,คู่สมรส||
+ยื่นขอใบเขียวผ่านนายจ้าง|Green card through an employer|ใบเขียว,นายจ้าง||
+ยื่นขอใบเขียวผ่านครอบครัว|Green card through family|ใบเขียว,ครอบครัว||
+ยื่นขอใบเขียวผ่านการลงทุน|Green card through investment|ใบเขียว,ลงทุน||
+ใบเขียวแบบมีเงื่อนไขสองปี|A two-year conditional green card|มีเงื่อนไข,ยื่นถอด||
+ยื่นถอดเงื่อนไขใบเขียว|Removing green card conditions|ถอดเงื่อนไข,หลักฐาน||
+ต่ออายุใบเขียว|Renewing a green card|ต่ออายุ,กำหนดเวลา||
+ใบเขียวหาย|A lost green card|หาย,ทำใหม่||
+รอวันลำดับคิว (Priority Date)|Waiting for your priority date|คิว,อดทน||
+สัมภาษณ์ใบเขียว|Green card interview|สัมภาษณ์,ใบเขียว||
+ยื่นขอสัญชาติ|Applying for citizenship|สัญชาติ,ยื่น||
+สอบพลเมืองผ่าน|Passing the citizenship test|สอบ,ผ่าน||
+พิธีสาบานตนรับสัญชาติ|The oath ceremony|สาบานตน,ภูมิใจ||
+ได้พาสปอร์ตประเทศใหม่|A new country's passport|พาสปอร์ต,ใหม่||
+ต้องเลือกระหว่างสองสัญชาติ|Choosing between nationalities|สัญชาติ,ตัดสินใจ||
+ถือสัญชาติไทยต่อได้|Keeping Thai nationality|สัญชาติไทย,ตรวจกฎ||
+ลูกได้สัญชาติโดยกำเนิด|A child's citizenship by birth|ลูก,สัญชาติ||
+พาพ่อแม่มาอยู่ด้วย|Sponsoring your parents|พ่อแม่,สปอนเซอร์||
+พาพี่น้องมาอยู่ด้วย|Sponsoring siblings|พี่น้อง,รอนาน||
+อยู่ต่างประเทศนานจนสถานะเสี่ยง|Long absence risks status|อยู่นอกประเทศ,ระวัง||
+ขอเอกสารอนุญาตกลับเข้าประเทศ (Re-entry Permit)|A re-entry permit|อนุญาตกลับ,วางแผน||
+ขอเปลี่ยนที่อยู่กับหน่วยงาน|Reporting a change of address|ที่อยู่,แจ้ง||
+ภาษีในฐานะผู้มีถิ่นที่อยู่|Taxes as a resident|ภาษี,หน้าที่||
+สิทธิการเลือกตั้งหลังได้สัญชาติ|Voting after naturalising|เลือกตั้ง,สิทธิ||
+ได้สิทธิประโยชน์แบบพลเมือง|Citizen benefits|สิทธิประโยชน์,มั่นคง||
+ใบเขียวช่วยเรื่องงาน|A green card opens jobs|ใบเขียว,งาน||
+ใบเขียวที่ได้จากลอตเตอรี|A green card through the lottery|ลอตเตอรี,โชค||
+สถานะติดค้างเพราะงานเอกสารล่าช้า|Stuck in a paperwork backlog|ล่าช้า,อดทน||
+ได้สถานะแล้วรู้สึกโล่ง|Relief at gaining status|โล่ง,มั่นคง||
+ได้สัญชาติแต่ยังคิดถึงบ้าน|A new citizen still homesick|คิดถึงบ้าน,สองโลก||
+ตัวตนสองวัฒนธรรมหลังได้สัญชาติ|Two cultures after naturalising|ตัวตน,สองวัฒนธรรม||
+ใบเขียวที่ได้จากการทำงานหนัก|A green card earned through hard work|ทำงานหนัก,ผลตอบแทน||
+ได้ใบเขียวแต่คู่ยังรอ|Your card arrives, your partner's doesn't|คู่,รอ||
+ประวัติอาชญากรรมกระทบการขอสัญชาติ|A record affects naturalisation|ประวัติ,ทนาย||
+สละสัญชาติเดิม|Renouncing a nationality|สละ,ตัดสินใจ||
+ทำบัตรประชาชนไทยใหม่หลังกลับ|Renewing a Thai ID on return|บัตรประชาชน,กลับไทย||
+ได้สถานะถาวรในประเทศที่สาม|Permanent status in a third country|ประเทศที่สาม,มั่นคง||
+ได้สัญชาติผ่านบรรพบุรุษ|Citizenship by descent|บรรพบุรุษ,สิทธิ||
+รอสัญชาติให้ลูกที่เกิดต่างแดน|Registering a child born abroad|ลูก,จดทะเบียน||
+ได้สิทธิ์ทำงานทุกประเภท|Unrestricted work rights|ทำงาน,อิสระ||
+ได้ใบเขียวหลังรอนานหลายปี|A green card after years of waiting|รอนาน,สำเร็จ||
+# วีซ่าคู่รักและการแต่งงาน
+วีซ่าคู่รักผ่าน|A partner visa approved|คู่รัก,ผ่าน||
+วีซ่าคู่รักไม่ผ่าน|A partner visa refused|คู่รัก,ทบทวน||
+แต่งจริงรักจริง|A real marriage, real love|แต่งจริง,ความจริง||
+แต่งปลอม|A sham marriage|แต่งปลอม,ผิดกฎหมาย||
+จ้างแต่งงานเพื่อเอกสาร|Paid marriage for papers|จ้างแต่ง,ผิดกฎหมาย||
+ถูกชวนให้จ้างแต่ง|Approached to marry for pay|ถูกชวน,ปฏิเสธ||
+หลักฐานความสัมพันธ์ครบ|Strong relationship evidence|หลักฐาน,ความจริง||
+หลักฐานความสัมพันธ์น้อย|Thin relationship evidence|หลักฐาน,เพิ่ม||
+รูปคู่และข้อความเป็นหลักฐาน|Photos and messages as evidence|หลักฐาน,เรื่องจริง||
+บัญชีร่วมเป็นหลักฐาน|A joint account as evidence|บัญชีร่วม,หลักฐาน||
+อยู่ด้วยกันจริง|Genuinely living together|อยู่ด้วยกัน,ความจริง||
+อายุต่างกันมากถูกตั้งคำถาม|A big age gap questioned|อายุ,อธิบาย||
+ภาษาสื่อสารไม่ตรงกันถูกตั้งคำถาม|A language gap questioned|ภาษา,อธิบาย||
+คบกันระยะสั้นแล้วแต่ง|Married after a short courtship|ระยะสั้น,หลักฐาน||
+ครอบครัวทั้งสองฝ่ายรู้จักกัน|Both families know each other|ครอบครัว,หลักฐาน||
+งานแต่งที่มีแขกเป็นพยาน|A wedding with witnesses|พยาน,หลักฐาน||
+จดทะเบียนสมรสที่ไทย|Registering marriage in Thailand|จดทะเบียน,ไทย||
+จดทะเบียนสมรสที่ต่างประเทศ|Registering marriage abroad|จดทะเบียน,ต่างประเทศ||
+แต่งงานแล้วต้องรอห่างกัน|Married but apart while waiting|รอ,ระยะทาง||
+คู่ถูกสัมภาษณ์แยก|Partners interviewed apart|แยกสัมภาษณ์,ตรงกัน||
+คำตอบคู่ไม่ตรงกัน|Partners' answers differ|ไม่ตรงกัน,ระวัง||
+ถูกสงสัยว่าแต่งเพื่อเอกสาร|Suspected of marrying for papers|สงสัย,ความจริง||
+ถูกเจ้าหน้าที่มาตรวจที่บ้าน|A home visit by officials|ตรวจบ้าน,ความจริง||
+หย่าระหว่างรอเอกสาร|Divorce while papers are pending|หย่า,สถานะ||
+คู่สมรสเสียชีวิตระหว่างรอ|A spouse dies while waiting|สูญเสีย,สิทธิ||
+คู่สมรสเพศเดียวกันยื่นวีซ่า|A same-sex spouse visa|เท่าเทียม,สิทธิ||
+คู่หมั้นได้วีซ่าแล้วต้องแต่งภายในกำหนด|A fiancé(e) visa with a marriage deadline|กำหนดเวลา,แต่งงาน||
+ลูกติดยื่นวีซ่าพร้อมคู่|Stepchildren applying with you|ลูกติด,ผู้ติดตาม||
+ความรุนแรงในครอบครัวกับสถานะวีซ่า|Domestic abuse and visa status|ความรุนแรง,ขอความช่วยเหลือ||
+แต่งงานแล้วเปลี่ยนนามสกุล|Changing surname after marriage|นามสกุล,เอกสาร||
+ถูกหลอกแต่งงานเพื่อเงิน|Deceived into marriage for money|ถูกหลอก,ระวัง||
+แต่งงานกับคนที่มีสถานะไม่ชัดเจน|Marrying someone with unclear status|สถานะ,ตรวจสอบ||
+สปอนเซอร์ต้องมีรายได้ตามเกณฑ์|A sponsor's income requirement|รายได้,เกณฑ์||
+สปอนเซอร์ร่วม|A joint sponsor|สปอนเซอร์ร่วม,ช่วยเหลือ||
+ชีวิตคู่หลังได้วีซ่า|Married life after the visa|ชีวิตคู่,ปรับตัว||
+วีซ่าคู่รักทำให้ความสัมพันธ์มั่นคง|A partner visa steadies the relationship|มั่นคง,อนาคต||
+ความรักชนะระยะทางและเอกสาร|Love beats distance and paperwork|ความรัก,อดทน||
+รักแท้ไม่ต้องพิสูจน์ด้วยการโกหก|True love needs no lies|ความจริง,ซื่อสัตย์||
+เคยแต่งปลอมแล้วถูกตรวจย้อนหลัง|A past sham marriage reviewed|ตรวจย้อนหลัง,ผิดกฎหมาย||
+ยื่นวีซ่าคู่รักโดยไม่แต่งงาน (คู่ชีวิตตามกฎหมายบางประเทศ)|A de facto partner visa (some countries)|คู่ชีวิต,ตรวจกฎ||
+# ด่านตรวจคนเข้าเมืองและการเดินทาง
+ผ่านตม.ราบรื่น|Through immigration smoothly|ผ่านตม.,ราบรื่น||
+ติดตม.|Held at immigration|ติดตม.,ตั้งสติ||
+ไม่ผ่านตม.|Refused entry|ไม่ผ่านตม.,กลับ||
+ถูกเรียกเข้าห้องสัมภาษณ์รอง|Sent to secondary inspection|ห้องรอง,ตอบตรง||
+ถูกเรียกสัมภาษณ์แต่ผ่าน|Questioned but admitted|สัมภาษณ์,ผ่าน||
+ถูกตรวจกระเป๋าละเอียด|A detailed bag search|ตรวจกระเป๋า,โปร่งใส||
+ถูกตรวจโทรศัพท์|Phone inspected|ตรวจโทรศัพท์,ความเป็นส่วนตัว||
+ถูกถามจุดประสงค์การเดินทาง|Asked your purpose of travel|จุดประสงค์,ชัดเจน||
+ถูกถามเงินติดตัว|Asked how much money you carry|เงินติดตัว,หลักฐาน||
+ได้ระยะเวลาอยู่น้อยกว่าที่คิด|Admitted for less time than expected|ระยะเวลา,ตรวจตรา||
+เจ้าหน้าที่ตม.ใจดี|A kind border officer|ใจดี,ผ่าน||
+เจ้าหน้าที่ตม.ดุ|A stern border officer|ดุ,ใจเย็น||
+ต่อเครื่องไม่ทัน|A missed connection|ต่อเครื่อง,สำรอง||
+เที่ยวบินล่าช้า|A delayed flight|ล่าช้า,อดทน||
+เที่ยวบินยกเลิก|A cancelled flight|ยกเลิก,สิทธิผู้โดยสาร||
+กระเป๋าหาย|Lost luggage|กระเป๋าหาย,แจ้ง||
+ลืมเอกสารสำคัญ|Forgot an important document|ลืม,ตรวจซ้ำ||
+พาสปอร์ตหายในต่างประเทศ|A lost passport abroad|พาสปอร์ตหาย,สถานทูต||
+ติดต่อสถานทูตไทยขอความช่วยเหลือ|Contacting the Thai embassy for help|สถานทูต,ช่วยเหลือ||
+เดินทางคนเดียวครั้งแรก|First solo trip|คนเดียว,กล้า||
+เดินทางพร้อมครอบครัว|Travelling with family|ครอบครัว,วางแผน||
+เดินทางพร้อมเด็กเล็ก|Travelling with young children|เด็ก,เอกสาร||
+พาสัตว์เลี้ยงข้ามประเทศ|Taking a pet across borders|สัตว์เลี้ยง,กักกัน||
+ขนของต้องห้ามโดยไม่รู้|Carrying a prohibited item unawares|ของต้องห้าม,ตรวจก่อน||
+สำแดงสิ่งของที่ด่านศุลกากร|Declaring goods at customs|ศุลกากร,สำแดง||
+ฝากของให้คนแปลกหน้าไม่ได้|Never carry a stranger's bag|ระวัง,ปลอดภัย||
+ข้ามแดนทางบก|A land border crossing|ทางบก,เอกสาร||
+เดินทางทางเรือ|Travelling by sea|ทางเรือ,ตรวจเงื่อนไข||
+ระบบผ่านด่านอัตโนมัติ|An automated gate|ด่านอัตโนมัติ,สะดวก||
+กลับเข้าไทยราบรื่น|A smooth return to Thailand|กลับไทย,ราบรื่น||
+กลับไทยแล้วกลับออกไปไม่ได้|Back in Thailand but can't leave again|ติด,วางแผน||
+กลับไปเปลี่ยนวีซ่าที่ไทย|Returning to Thailand to change visa|เปลี่ยนวีซ่า,กลับไทย||
+ทำวีซ่ารันหรือออกนอกประเทศเพื่อกลับเข้าใหม่|A border run|ออกนอก,ตรวจกฎ||
+เดินทางช่วงเทศกาลคนเยอะ|Travelling at peak season|ช่วงคนเยอะ,เผื่อเวลา||
+ได้อัปเกรดที่นั่ง|A seat upgrade|อัปเกรด,โชค||
+เจอคนดีระหว่างเดินทาง|Meeting kind people en route|คนดี,โชค||
+เจอมิจฉาชีพระหว่างเดินทาง|Meeting a scammer en route|มิจฉาชีพ,ระวัง||
+ป่วยระหว่างเดินทาง|Falling ill while travelling|ป่วย,ประกัน||
+ใช้บริการรับส่งที่ไม่ปลอดภัย|An unsafe ride|ไม่ปลอดภัย,ระวัง||
+ได้กลับบ้านทันงานสำคัญ|Home in time for a big event|ทันเวลา,ครอบครัว||
+ได้รับการปฏิบัติอย่างสุภาพที่ด่าน|Treated courteously at the border|สุภาพ,ราบรื่น||
+ถูกขอดูตั๋วขากลับ|Asked for a return ticket|ตั๋วขากลับ,หลักฐาน||
+ผ่านด่านพร้อมคู่รักต่างชาติ|Crossing with a foreign partner|คู่รัก,เอกสาร||
+# ความเสี่ยง การผิดกฎหมาย และการถูกส่งกลับ
+อยู่ถูกกฎหมาย|Living legally|ถูกกฎหมาย,มั่นคง||
+อยู่ผิดกฎหมายชั่วคราว|Out of status for a while|ผิดกฎหมาย,แก้ไข||
+อยู่ผิดกฎหมายระยะยาว|Long-term undocumented|ผิดกฎหมาย,เสี่ยง||
+โดนจับ|Detained|ถูกจับ,ทนาย||
+โดนส่งกลับประเทศ|Deported|ส่งกลับ,เริ่มใหม่||
+ถูกกักตัวรอส่งกลับ|Held pending removal|กักตัว,สิทธิ||
+ถูกเจ้าหน้าที่จับตาดู|Under watch by officials|จับตา,โปร่งใส||
+ถูกตม.เรียกตรวจขณะเดินทาง|Stopped for checks while travelling|ตรวจ,เอกสาร||
+ถูกจับขณะเดินทาง|Arrested while travelling|ถูกจับ,ช่วยเหลือ||
+วีซ่าจริง|A genuine visa|วีซ่าจริง,ถูกต้อง||
+วีซ่าปลอม|A fake visa|วีซ่าปลอม,ผิดกฎหมาย||
+เอกสารจริง|Genuine documents|เอกสารจริง,ถูกต้อง||
+เอกสารปลอม|Forged documents|เอกสารปลอม,ผิดกฎหมาย||
+ถูกหลอกขายวีซ่าปลอม|Sold a fake visa|ถูกหลอก,แจ้งความ||
+ถูกนายหน้าเถื่อนหลอก|Cheated by an unlicensed agent|นายหน้าเถื่อน,ระวัง||
+เรื่องที่ปิดไว้ถูกเปิดเผย|A hidden matter comes to light|ถูกเปิดเผย,ความจริง||
+ไม่เนียนถูกจับได้|Caught out|ถูกจับได้,บทเรียน||
+เรื่องที่ซ่อนอยู่ยังไม่มีใครรู้ แต่ความเสี่ยงยังอยู่|Still hidden, but the risk remains|ความเสี่ยง,ทบทวน||
+ข้อมูลเท็จในแบบฟอร์มถูกตรวจพบ|False information detected|ข้อมูลเท็จ,ผลตามมา||
+ทำงานผิดเงื่อนไขวีซ่า|Working outside visa terms|ผิดเงื่อนไข,ความเสี่ยง||
+ถูกนายจ้างเอาเปรียบเพราะไม่มีเอกสาร|Exploited for lacking papers|เอาเปรียบ,ขอความช่วยเหลือ||
+ปรึกษาทนายเรื่องสถานะ|Seeing a lawyer about status|ทนาย,ทางออกถูกกฎหมาย||
+ขอปรับสถานะให้ถูกต้อง|Regularising your status|ปรับสถานะ,ถูกต้อง||
+มีโอกาสนิรโทษกรรมตามนโยบาย|A possible amnesty (if offered)|นิรโทษ,ตรวจข้อมูล||
+ต้องย้ายไปประเทศอื่นที่ไม่ใช่ไทย|Moving to a third country|ประเทศที่สาม,ทางเลือก||
+ถูกห้ามกลับเข้าหลายปี|Barred from returning for years|ห้ามเข้า,รอ||
+ประวัติอยู่เกินกำหนดตามมา|An overstay record follows you|ประวัติ,ผลตามมา||
+เพื่อนถูกส่งกลับ|A friend is deported|เพื่อน,ระวัง||
+ครอบครัวถูกแยกเพราะสถานะ|Family separated by status|ครอบครัว,ช่วยเหลือ||
+แจ้งความเมื่อถูกหลอกเงินเรื่องวีซ่า|Reporting a visa scam|แจ้งความ,สิทธิ||
+ระวังข่าวปลอมเรื่องกฎตม.|Beware fake news about immigration rules|ข่าวปลอม,ตรวจแหล่ง||
+ตรวจข้อมูลกับหน่วยงานทางการเท่านั้น|Verify only with official sources|ทางการ,ถูกต้อง||
+ถูกขู่กรรโชกเรื่องสถานะ|Blackmailed over status|ขู่,แจ้งความ||
+หน่วยงานช่วยเหลือแรงงานไทยในต่างแดน|Help for Thai workers abroad|ช่วยเหลือ,แรงงานไทย||
+คดีอาญากระทบวีซ่า|A criminal case affects your visa|คดี,ทนาย||
+ใบสั่งจราจรกระทบการต่อวีซ่า|Traffic tickets affecting renewal|ใบสั่ง,ระวัง||
+ทำผิดเล็กน้อยแต่ผลใหญ่|A small offence, big consequences|ผลตามมา,ระวัง||
+ได้รับโอกาสแก้ไขสถานะ|A chance to fix your status|โอกาส,ถูกต้อง||
+ออกจากประเทศเองก่อนถูกส่งกลับ|Leaving voluntarily before removal|ออกเอง,ทางเลือก||
+เลือกทางที่ถูกกฎหมายแม้ช้ากว่า|Choosing the legal path, even if slower|ถูกกฎหมาย,มั่นคง||
+# การใช้ชีวิตระยะยาว ไทยและต่างประเทศ
+อยู่ต่างประเทศถาวร|Living abroad permanently|ต่างประเทศ,ถาวร||
+อยู่ต่างประเทศชั่วคราว|Living abroad temporarily|ต่างประเทศ,ชั่วคราว||
+อยู่ไทยถาวร|Staying in Thailand for good|ไทย,ถาวร||
+อยู่ไทยชั่วคราว|In Thailand for now|ไทย,ชั่วคราว||
+ชีวิตบั้นปลายอยู่ต่างประเทศ|Retiring abroad|บั้นปลาย,ต่างประเทศ||
+ชีวิตบั้นปลายอยู่ไทย|Retiring in Thailand|บั้นปลาย,ไทย||
+ไปๆ มาๆ สองประเทศ|Living between two countries|สองประเทศ,ยืดหยุ่น||
+ย้ายไปประเทศที่สาม|Moving to a third country|ประเทศที่สาม,เริ่มใหม่||
+กลับไทยเพราะพ่อแม่|Returning for your parents|พ่อแม่,กลับไทย||
+กลับไทยเพราะสุขภาพ|Returning for your health|สุขภาพ,กลับไทย||
+อยู่ต่อเพราะลูก|Staying for your children|ลูก,อยู่ต่อ||
+คิดถึงบ้านจนอยากกลับ|So homesick you want to return|คิดถึงบ้าน,ทบทวน||
+ปรับตัวกับต่างแดนได้ดี|Settling in well abroad|ปรับตัว,ดี||
+ปรับตัวกับต่างแดนยาก|Struggling to settle abroad|ปรับตัว,ยาก||
+ภาษาท้องถิ่นดีขึ้น|Local language improving|ภาษา,เติบโต||
+มีชุมชนคนไทยช่วยเหลือ|A Thai community helps|ชุมชนไทย,ที่พึ่ง||
+โดดเดี่ยวในต่างแดน|Isolated abroad|โดดเดี่ยว,หาเพื่อน||
+ส่งเงินกลับบ้าน|Sending money home|ส่งเงิน,ครอบครัว||
+ซื้อบ้านในต่างประเทศ|Buying a home abroad|บ้าน,ต่างประเทศ||
+เก็บบ้านที่ไทยไว้|Keeping a home in Thailand|บ้าน,ไทย||
+ประกันสุขภาพในต่างประเทศ|Health insurance abroad|ประกัน,สุขภาพ||
+สิทธิรักษาพยาบาลที่ไทย|Healthcare rights in Thailand|สิทธิรักษา,ไทย||
+บำนาญจากต่างประเทศ|A foreign pension|บำนาญ,เกษียณ||
+ภาษีสองประเทศ|Tax in two countries|ภาษี,ปรึกษา||
+ใบขับขี่ต่างประเทศ|A foreign driving licence|ใบขับขี่,เอกสาร||
+ลูกเรียนสองระบบ|Children in two school systems|ลูก,การศึกษา||
+ญาติมาเยี่ยมต่างแดน|Relatives visit you abroad|ญาติ,วีซ่าเยี่ยม||
+พาคู่ต่างชาติมาอยู่ไทย|Bringing a foreign partner to Thailand|คู่ต่างชาติ,วีซ่าไทย||
+ทำงานทางไกลจากไทย|Working remotely from Thailand|ทำงานทางไกล,ตรวจกฎ||
+เปิดธุรกิจในต่างประเทศ|Opening a business abroad|ธุรกิจ,ใบอนุญาต||
+ชีวิตใหม่ที่มั่นคงขึ้น|A steadier new life|ชีวิตใหม่,มั่นคง||
+ชีวิตใหม่ที่เหนื่อยกว่าที่คิด|A new life harder than expected|เหนื่อย,อดทน||
+กลับไทยแล้วรู้สึกแปลกที่|Reverse culture shock at home|กลับบ้าน,ปรับตัว||
+มีบ้านสองที่ในใจ|Two homes in your heart|สองบ้าน,ผูกพัน||
+วางแผนอนาคตตามสถานะที่ได้|Planning around your status|วางแผน,สถานะ||
+อยู่ต่างประเทศจนลูกโต|Abroad until the children grow up|ลูก,ระยะยาว||
+กลับไทยหลังเกษียณ|Returning to Thailand after retiring|เกษียณ,กลับบ้าน||
+เลี้ยงพ่อแม่ทางไกล|Caring for parents from afar|พ่อแม่,ทางไกล||
+มีที่ดินที่ไทยรอวันกลับ|Land in Thailand waiting for you|ที่ดิน,กลับบ้าน||
+ใช้ชีวิตแบบชาวต่างชาติในไทย|Living as a foreigner in Thailand|ชาวต่างชาติ,ปรับตัว||
+# นโยบาย การเมือง และประสบการณ์ช่วงเปลี่ยนนโยบาย
+นโยบายตรวจคนเข้าเมืองเข้มงวดขึ้น|Tighter immigration policy|นโยบาย,เข้มงวด||
+นโยบายผ่อนคลายลง|Looser policy|นโยบาย,ผ่อนคลาย||
+ประสบการณ์สัมภาษณ์ช่วงรัฐบาลทรัมป์|Interview experiences in the Trump era|ทรัมป์,ประสบการณ์||
+ข่าวนโยบายช่วงทรัมป์ทำให้กังวล|Worry from Trump-era policy news|ทรัมป์,กังวล||
+การตรวจสอบประวัติละเอียดขึ้น|More thorough vetting|ตรวจสอบ,โปร่งใส||
+คำถามสัมภาษณ์เข้มขึ้นกว่าเดิม|Tougher interview questions than before|เข้มขึ้น,เตรียมตัว||
+ถูกขอข้อมูลโซเชียลมีเดียในแบบฟอร์ม|Social media asked on the form|โซเชียล,ซื่อสัตย์||
+ระยะเวลาพิจารณานานขึ้น|Longer processing times|ล่าช้า,อดทน||
+ค่าธรรมเนียมเปลี่ยน (ตรวจตัวเลขล่าสุดทางการ)|Fees changing (check official figures)|ค่าธรรมเนียม,ตรวจ||
+คำสั่งห้ามเดินทางบางประเทศ|Travel bans on some countries|ห้ามเดินทาง,ตรวจ||
+โควตาวีซ่าเปลี่ยน|Visa quotas change|โควตา,วางแผน||
+ข่าวลือเรื่องกฎใหม่|Rumours of new rules|ข่าวลือ,ตรวจแหล่ง||
+กฎใหม่มีผลย้อนหลัง|New rules affecting pending cases|กฎใหม่,ทนาย||
+การเลือกตั้งเปลี่ยนทิศทางนโยบาย|An election shifts policy|เลือกตั้ง,รอดู||
+บรรยากาศต่อต้านผู้อพยพ|Anti-immigrant sentiment|บรรยากาศ,ดูแลใจ||
+บรรยากาศต้อนรับผู้มาใหม่|A welcoming climate|ต้อนรับ,โอกาส||
+ชุมชนรวมตัวช่วยเหลือกัน|Communities rallying together|ชุมชน,ช่วยเหลือ||
+องค์กรช่วยเหลือด้านกฎหมายฟรี|Free legal aid groups|ช่วยเหลือ,กฎหมาย||
+ข่าวการจับกุมทำให้ไม่กล้าออกจากบ้าน|Arrest news keeping people home|ข่าว,กังวล||
+สิทธิขั้นพื้นฐานแม้ไม่มีเอกสาร|Basic rights even without papers|สิทธิ,ข้อมูลทางการ||
+นโยบายของไทยต่อชาวต่างชาติเปลี่ยน|Thailand changes rules for foreigners|นโยบายไทย,ตรวจ||
+นโยบายดึงดูดคนเก่งของประเทศปลายทาง|Talent-attraction policies abroad|ดึงคนเก่ง,โอกาส||
+ความสัมพันธ์ระหว่างประเทศกระทบวีซ่า|Diplomatic relations affect visas|การทูต,ผลกระทบ||
+ประกาศใหม่จากสถานทูต|A new embassy announcement|ประกาศ,ติดตาม||
+ตามข่าวจากแหล่งทางการเท่านั้น|Follow official sources only|แหล่งทางการ,ถูกต้อง||
+เจ้าหน้าที่ถามเรื่องความเห็นทางการเมือง|Asked about political views|การเมือง,ตอบระวัง||
+คนรู้จักเล่าว่าสัมภาษณ์ยากขึ้น|Friends say interviews got harder|ประสบการณ์,เตรียมตัว||
+คนรู้จักเล่าว่ายังผ่านได้ตามปกติ|Friends say approvals continue as usual|ประสบการณ์,มีหวัง||
+นโยบายใหม่เปิดโอกาสบางกลุ่ม|A new policy opens doors for some|โอกาส,ตรวจคุณสมบัติ||
+นโยบายใหม่ปิดทางบางกลุ่ม|A new policy closes doors for some|ปิดทาง,ทางเลือก||
+# ข้อควรระวังในการเดินทางท่องเที่ยว
+ตรวจวันหมดอายุพาสปอร์ตก่อนจอง|Check passport expiry before booking|พาสปอร์ต,ตรวจ||
+ตรวจเงื่อนไขวีซ่าปลายทางล่าสุด|Check the destination's latest entry rules|เงื่อนไข,ทางการ||
+ซื้อประกันการเดินทาง|Buy travel insurance|ประกัน,ปลอดภัย||
+แจ้งญาติเรื่องแผนเดินทาง|Share your plans with family|แจ้งญาติ,ปลอดภัย||
+ลงทะเบียนกับสถานทูตเมื่ออยู่นาน|Register with the embassy on long stays|สถานทูต,ปลอดภัย||
+เก็บสำเนาเอกสารในคลาวด์|Keep document copies in the cloud|สำเนา,สำรอง||
+ระวังกระเป๋าในที่คนเยอะ|Watch your bag in crowds|กระเป๋า,ระวัง||
+ระวังแท็กซี่เถื่อน|Beware unlicensed taxis|แท็กซี่,ระวัง||
+แลกเงินที่ร้านที่เชื่อถือได้|Exchange money at reputable places|แลกเงิน,ปลอดภัย||
+ระวังการหลอกขายทัวร์|Beware tour scams|ทัวร์,ระวัง||
+เคารพกฎหมายท้องถิ่น|Respect local laws|กฎหมาย,เคารพ||
+เคารพวัฒนธรรมท้องถิ่น|Respect local customs|วัฒนธรรม,เคารพ||
+ระวังอาหารและน้ำดื่ม|Care with food and water|อาหาร,สุขภาพ||
+ระวังสภาพอากาศสุดขั้ว|Mind extreme weather|อากาศ,เตรียม||
+ไม่ฝากของให้คนแปลกหน้า|Never carry for strangers|ฝากของ,ระวัง||
+ไม่พกยาที่ผิดกฎหมายปลายทาง|No medicine illegal at your destination|ยา,ตรวจกฎ||
+ระวังเว็บจองปลอม|Beware fake booking sites|เว็บปลอม,ตรวจ||
+มีเงินสำรองฉุกเฉิน|Emergency cash|เงินสำรอง,พร้อม||
+ใช้ซิมหรืออินเทอร์เน็ตท้องถิ่น|A local SIM or data|อินเทอร์เน็ต,ติดต่อ||
+จดเบอร์ฉุกเฉินปลายทาง|Note local emergency numbers|เบอร์ฉุกเฉิน,พร้อม||
+เดินทางคนเดียวต้องระวังมากขึ้น|Extra care travelling solo|คนเดียว,ระวัง||
+แต่งตัวเหมาะกับสถานที่ศักดิ์สิทธิ์|Dress right at sacred sites|แต่งตัว,เคารพ||
+ไม่ถ่ายรูปในที่ห้ามถ่าย|No photos where banned|ห้ามถ่าย,เคารพ||
+ระวังการพูดเล่นเรื่องระเบิดหรืออาวุธที่สนามบิน|Never joke about weapons at airports|สนามบิน,ระวัง||
+ไปสนามบินก่อนเวลา|Arrive at the airport early|เผื่อเวลา,สบายใจ||
+ทริปราบรื่นเกินคาด|A trip smoother than expected|ราบรื่น,โชค||
+ทริปมีปัญหาแต่ได้ประสบการณ์|A rough trip that teaches you|ประสบการณ์,บทเรียน||
+ไปเที่ยวแล้วอยากย้ายไปอยู่|A trip that makes you want to move|ย้าย,แรงบันดาลใจ||
+ได้เพื่อนใหม่ต่างชาติ|A new foreign friend|เพื่อนใหม่,ต่างชาติ||
+กลับมาพร้อมมุมมองใหม่|Home with a new outlook|มุมมอง,เติบโต||
+ระวังการเช่ารถโดยไม่มีใบขับขี่สากล|Renting a car without an international licence|ใบขับขี่,ระวัง||
+ระวังคนแปลกหน้าชวนคุยที่สนามบิน|Strangers striking up talk at airports|คนแปลกหน้า,ระวัง||
+ศึกษาเส้นทางก่อนออกเดินทาง|Study your route in advance|เส้นทาง,เตรียมตัว||
+ระวังของปลอมเป็นของฝาก|Beware counterfeit souvenirs|ของปลอม,ศุลกากร||
+พักในที่พักที่ได้รับอนุญาต|Stay at licensed accommodation|ที่พัก,ปลอดภัย||
+# เสริมดวงเรื่องเอกสารและการเดินทาง (ความเชื่อ)
+ไหว้พระก่อนยื่นเอกสาร|Pray before submitting|ความเชื่อ,ยื่นเอกสาร||
+ใส่บาตรเช้าวันสัมภาษณ์|Give alms on interview morning|ความเชื่อ,สัมภาษณ์||
+สวดบทพาหุงก่อนสัมภาษณ์|Chant Bahum before the interview|ความเชื่อ,ชัยชนะ||
+สวดคาถาชินบัญชรก่อนเดินทาง|Chant Chinabanchon before travel|ความเชื่อ,คุ้มครอง||
+พกพระประจำวันเกิดติดตัวเดินทาง|Carry your birth-day Buddha|ความเชื่อ,คุ้มครอง||
+ใส่สีมงคลวันสัมภาษณ์|Wear a lucky colour to the interview|ความเชื่อ,สีมงคล||
+เลือกฤกษ์ยื่นเอกสาร|Submit at an auspicious time|ความเชื่อ,ฤกษ์||
+เลือกฤกษ์ออกเดินทาง|Depart at an auspicious time|ความเชื่อ,ฤกษ์||
+ไหว้พระพิฆเนศขอให้อุปสรรคหมดไป|Pray to Ganesha to clear obstacles|ความเชื่อ,ขจัดอุปสรรค||
+ไหว้หลวงพ่อโสธรขอให้สำเร็จ|Pray to Luang Pho Sothon for success|ความเชื่อ,สำเร็จ||
+บนบานเรื่องวีซ่าแล้วแก้บนให้ครบ|Make a visa vow and fulfil it|ความเชื่อ,แก้บน||
+ทำบุญให้คนที่กำลังเดินทาง|Make merit for travellers|ความเชื่อ,เดินทาง||
+ไหว้ศาลหลักเมืองก่อนย้ายไปต่างแดน|City Pillar Shrine before moving abroad|ความเชื่อ,หลักเมือง||
+ขอพรพ่อแม่ก่อนเดินทางไกล|Parents' blessing before a long journey|ความเชื่อ,พรพ่อแม่||
+ผูกสายสิญจน์ก่อนเดินทาง|A sacred thread before travel|ความเชื่อ,สายสิญจน์||
+เก็บเอกสารในแฟ้มสีมงคล|Keep papers in a lucky-coloured folder|ความเชื่อ,สีมงคล||
+ใช้ปากกามงคลกรอกแบบฟอร์ม|Fill forms with a "lucky" pen|ความเชื่อ,ของมงคล||
+ทำบุญด้วยการบริจาคค่าเดินทางให้คนอื่น|Fund someone else's journey|ความเชื่อ,ทาน||
+ไหว้เจ้าที่ที่พักใหม่ต่างแดน|Greet the spirits of your new home abroad|ความเชื่อ,เจ้าที่||
+เตรียมตัวให้ดีที่สุดคือเสริมดวงที่ได้ผลที่สุด|Good preparation is the best luck|แนวปฏิบัติ,เตรียมตัว||
+ไหว้พระพรหมเอราวัณก่อนเดินทางไกล|Erawan Shrine before a long journey|ความเชื่อ,พระพรหม||
+ทำบุญถวายสังฆทานก่อนย้ายประเทศ|Sangha dana before emigrating|ความเชื่อ,สังฆทาน||
+ปล่อยปลาก่อนวันยื่นเอกสาร|Release fish before filing|ความเชื่อ,ปล่อยสัตว์||
+ทำบุญวันเกิดในต่างแดนที่วัดไทย|Birthday merit at a Thai temple abroad|ความเชื่อ,วัดไทยต่างแดน||
+ไหว้ขอพรที่วัดไทยในประเทศปลายทาง|Pray at a Thai temple in your new country|ความเชื่อ,วัดไทยต่างแดน||
+# แก้เคล็ดให้สัมภาษณ์และเอกสารผ่าน (ความเชื่อ)
+แก้เคล็ดหลังวีซ่าไม่ผ่านด้วยการทำบุญ|Merit-making after a refusal|ความเชื่อ,ทำบุญ||
+เปลี่ยนวันยื่นจากวันที่ดวงไม่ดี|Move submission from an unlucky day|ความเชื่อ,วันดี||
+ไม่ใส่สีกาลกิณีวันสัมภาษณ์|Avoid your unlucky colour at interview|ความเชื่อ,สีกาลกิณี||
+สะเดาะเคราะห์ก่อนยื่นใหม่|Ease misfortune before reapplying|ความเชื่อ,สะเดาะเคราะห์||
+แก้ปีชงก่อนย้ายประเทศ|Address a clash year before moving|ความเชื่อ,ปีชง||
+ไม่บอกใครก่อนผลออก|Tell no one before the result|ความเชื่อ,เงียบไว้||
+ไม่ตัดผมวันก่อนสัมภาษณ์ถ้าเป็นวันห้าม|No haircut on a forbidden day before interview|ความเชื่อ,วันห้าม||
+ขอขมาเจ้ากรรมนายเวรเรื่องการเดินทาง|Ask karmic creditors' pardon for journeys|ความเชื่อ,ขอขมา||
+ทำบุญให้คนที่เคยช่วยเรื่องเอกสาร|Merit for those who helped with papers|ความเชื่อ,ขอบคุณ||
+แก้เคล็ดที่ดีที่สุดคือแก้จุดอ่อนในเอกสาร|The best remedy is fixing weak points in your file|แนวปฏิบัติ,แก้ไข||
+ปรึกษาทนายแทนการพึ่งเคล็ดอย่างเดียว|See a lawyer, not only rituals|ข้อเท็จจริง,ผู้เชี่ยวชาญ||
+ไม่จ่ายเงินให้คนที่อ้างว่าเส้นใหญ่|Never pay someone claiming special access|ข้อเท็จจริง,มิจฉาชีพ||
+ปล่อยนกปล่อยปลาเพื่อการเดินทางอิสระ|Release animals for free passage (belief)|ความเชื่อ,ปล่อยสัตว์||
+ไหว้พระประจำวันเกิดของวันสัมภาษณ์|Pray to the Buddha of the interview day|ความเชื่อ,วันเกิด||
+ทิ้งเอกสารเก่าที่ไม่ผ่านอย่างเคารพ|Discard refused paperwork respectfully|ความเชื่อ,ปล่อยวาง||
+ห่อพาสปอร์ตด้วยผ้าสะอาดสีมงคล|Wrap your passport in clean lucky cloth|ความเชื่อ,ของมงคล||
+จุดธูปบอกบรรพบุรุษก่อนเดินทาง|Light incense to tell your ancestors|ความเชื่อ,บรรพบุรุษ||
+นั่งสมาธิก่อนเข้าห้องสัมภาษณ์|Meditate before the interview room|แนวปฏิบัติ,ตั้งสติ||
+หายใจลึกก่อนตอบคำถาม|Breathe before answering|แนวปฏิบัติ,ตั้งสติ||
+เลี่ยงยื่นเอกสารในวันที่จิตใจไม่นิ่ง|Don't file on a day your mind is unsettled|แนวปฏิบัติ,ตั้งสติ||
+ไม่ถือของจากคนอื่นเข้าห้องสัมภาษณ์|Bring nothing of others' into the interview|ความเชื่อ,ระวัง||
+เปลี่ยนกระเป๋าใส่เอกสารใบใหม่หลังไม่ผ่าน|A new document bag after a refusal|ความเชื่อ,เริ่มใหม่||
+ทำบุญอุทิศให้เจ้าที่สถานที่ยื่น|Merit for the spirits of the filing place|ความเชื่อ,เจ้าที่||
+สวดมนต์คืนก่อนสัมภาษณ์แล้วนอนให้พอ|Chant the night before and sleep well|แนวปฏิบัติ,พักผ่อน||
