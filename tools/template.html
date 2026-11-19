@@ -11,13 +11,13 @@
 :root{
   --bg:#f4f1ea;--surface:#fffdf8;--ink:#1f1d24;--muted:#5f5a68;--line:#d6cfc2;
   --accent:#5143a8;--accent-ink:#fff;--accent-soft:rgba(81,67,168,.16);
-  --back1:#2b2838;--back2:#36324a;--back-line:#c9b98a;--ok:#2a7f5f;--focus:#c98a00;
+  --back1:#2b2838;--back2:#36324a;--back-line:#c9b98a;--ok:#2a7f5f;--focus:#c98a00;--do:#1d7a3e;--dont:#b8261b;
   --ar:0.6;--rad:10px;
 }
 @media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
   --bg:#14131a;--surface:#1f1d28;--ink:#ece8f2;--muted:#a9a4b6;--line:#3a3646;
-  --accent:#a394ff;--accent-ink:#14131a;--accent-soft:rgba(163,148,255,.18);--ok:#4cc298;--focus:#ffcc4d;}}
-:root[data-theme="dark"]{--bg:#14131a;--surface:#1f1d28;--ink:#ece8f2;--muted:#a9a4b6;--line:#3a3646;--accent:#a394ff;--accent-ink:#14131a;--accent-soft:rgba(163,148,255,.18);--ok:#4cc298;--focus:#ffcc4d;}
+  --accent:#a394ff;--accent-ink:#14131a;--accent-soft:rgba(163,148,255,.18);--ok:#4cc298;--focus:#ffcc4d;--do:#5fd38a;--dont:#ff7b6e;}}
+:root[data-theme="dark"]{--bg:#14131a;--surface:#1f1d28;--ink:#ece8f2;--muted:#a9a4b6;--line:#3a3646;--accent:#a394ff;--accent-ink:#14131a;--accent-soft:rgba(163,148,255,.18);--ok:#4cc298;--focus:#ffcc4d;--do:#5fd38a;--dont:#ff7b6e;}
 *{box-sizing:border-box}
 html,body{margin:0}
 body{background:var(--bg);color:var(--ink);font:16px/1.4 system-ui,-apple-system,"Segoe UI","Sukhumvit Set","Noto Sans Thai",sans-serif;-webkit-tap-highlight-color:transparent;overflow-x:hidden}
@@ -159,7 +159,8 @@ body{background:var(--bg);color:var(--ink);font:16px/1.4 system-ui,-apple-system
 .w{white-space:nowrap}
 .tray.big.n4 .cardname,.tray.big.n6 .cardname,.tray.big.n9 .cardname,.tray.big.n10 .cardname{display:block;margin-left:-5px;margin-right:-5px}
 .cardname,.face b,.face small{text-wrap:balance}
-.lead{color:var(--accent);font-weight:500}
+.lead{color:var(--do);font-weight:500}
+.lead.no{color:var(--dont)}
 .pred{color:var(--ink)}
 .brk,.brk .w{overflow-wrap:anywhere;white-space:normal}
 
@@ -551,12 +552,12 @@ function renderFace(li,id){
   nameRO.observe(li);requestAnimationFrame(()=>fitNames(li));
 }
 const SEG=window.Intl&&Intl.Segmenter?new Intl.Segmenter('th',{granularity:'word'}):null;
-// decks with leadCat: the category (minus its trailing …) opens every card name and is shown in another colour
+// decks with leadCat: the category (minus its trailing …) opens every card name; it is green for doing, red for not doing (ห้ามทำ / ไม่ทำ)
 const leadOf=card=>{if(!DECKS[deckIdx].leadCat||!card.category)return '';const l=card.category.replace(/…$/,'');return card.name_th.startsWith(l)&&card.name_th.length>l.length?l:''};
 function setWords(el,text,lead){
   if(lead){
     el.replaceChildren();const a=document.createElement('span'),b=document.createElement('span');
-    a.className='lead';b.className='pred';setWords(a,lead);setWords(b,text.slice(lead.length));
+    a.className=/ห้ามทำ|ไม่ทำ/.test(lead)?'lead no':'lead';b.className='pred';setWords(a,lead);setWords(b,text.slice(lead.length));
     el.append(a,document.createElement('wbr'),b);return;
   }
   el.replaceChildren();
