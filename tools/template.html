@@ -159,6 +159,8 @@ body{background:var(--bg);color:var(--ink);font:16px/1.4 system-ui,-apple-system
 .w{white-space:nowrap}
 .tray.big.n4 .cardname,.tray.big.n6 .cardname,.tray.big.n9 .cardname,.tray.big.n10 .cardname{display:block;margin-left:-5px;margin-right:-5px}
 .cardname,.face b,.face small{text-wrap:balance}
+.lead{color:var(--accent);font-weight:500}
+.pred{color:var(--ink)}
 .brk,.brk .w{overflow-wrap:anywhere;white-space:normal}
 
 .x{position:absolute;top:-8px;right:-8px;width:26px;height:26px;border-radius:50%;background:var(--ink);color:var(--bg);display:grid;place-items:center;font-size:.75rem;font-weight:800;box-shadow:0 0 0 2px var(--bg)}
@@ -539,17 +541,24 @@ function reveal(){
 function renderFace(li,id){
   const card=DECK[id],face=li.querySelector('.face');
   face.replaceChildren();face.dataset.cardId=card.id;
-  const th=document.createElement('b');setWords(th,card.name_th);
+  const th=document.createElement('b');setWords(th,card.name_th,leadOf(card));
   face.append(th);
   if(card.name_en){const en=document.createElement('i');en.textContent=card.name_en;face.append(en)}
   if(DECKS[deckIdx].showCat){const c=document.createElement('small');setWords(c,card.category);face.append(c)}
   if(DECKS[deckIdx].showDesc&&card.meaning){const d=document.createElement('em');d.textContent=card.meaning;face.append(d)}
-  const label=document.createElement('span');label.className='cardname';setWords(label,card.name_th);
+  const label=document.createElement('span');label.className='cardname';setWords(label,card.name_th,leadOf(card));
   li.querySelector('.slotbtn').append(label);
   nameRO.observe(li);requestAnimationFrame(()=>fitNames(li));
 }
 const SEG=window.Intl&&Intl.Segmenter?new Intl.Segmenter('th',{granularity:'word'}):null;
-function setWords(el,text){
+// decks with leadCat: the category (minus its trailing …) opens every card name and is shown in another colour
+const leadOf=card=>{if(!DECKS[deckIdx].leadCat||!card.category)return '';const l=card.category.replace(/…$/,'');return card.name_th.startsWith(l)&&card.name_th.length>l.length?l:''};
+function setWords(el,text,lead){
+  if(lead){
+    el.replaceChildren();const a=document.createElement('span'),b=document.createElement('span');
+    a.className='lead';b.className='pred';setWords(a,lead);setWords(b,text.slice(lead.length));
+    el.append(a,document.createElement('wbr'),b);return;
+  }
   el.replaceChildren();
   if(!SEG){el.textContent=text;return}
   // words become unbreakable chunks; brackets and punctuation stick to the word next to them
@@ -608,7 +617,7 @@ function inspectCard(i){
   inspectIndex=i;const card=DECK[S.slots[i]];
   $('#inspectTitle').textContent=positionLabel(i);
   $('#inspectMeaning').textContent=S.count===10?CONTEXT[i]:'';$('#inspectMeaning').hidden=S.count!==10;
-  $('#inspectId').textContent=card.id;$('#inspectTh').textContent=card.name_th;
+  $('#inspectId').textContent=card.id;setWords($('#inspectTh'),card.name_th,leadOf(card));
   $('#inspectEn').textContent=card.name_en;$('#inspectEn').hidden=!card.name_en;
   $('#inspectName').textContent=faceLabel(S.slots[i]);
   const kw=$('#inspectKw');kw.replaceChildren(...card.keywords.map(k=>{const s=document.createElement('span');s.textContent=k;return s}));

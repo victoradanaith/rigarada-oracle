@@ -43,6 +43,8 @@ DECKS = [
 CAT_PICK = {"USTH", "SACR", "KARM", "THSC", "REME", "LOVE", "JOBS", "VISA", "HOME", "STDY", "LOOK", "MIND", "GUID", "TIME", "NUMB", "ZODI", "DALY"}
 # decks whose one-line description (the meaning field) is printed on the card face
 SHOW_DESC = {"SACR"}
+# decks whose category is the opening phrase of every card name; the page colours that phrase differently
+LEAD_CAT = {"GUID"}
 
 
 def load_txt(path, prefix):
@@ -79,6 +81,8 @@ for label, prefix, th, en, src, show_cat in DECKS:
         deck["catPick"] = True
     if prefix in SHOW_DESC:
         deck["showDesc"] = True
+    if prefix in LEAD_CAT:
+        deck["leadCat"] = True
     decks.append(deck)
     print(f"{label}: {len(cards)} cards, {len({c['category'] for c in cards})} categories")
 
