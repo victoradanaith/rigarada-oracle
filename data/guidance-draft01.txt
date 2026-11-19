@@ -1,0 +1,507 @@
+# ต้องทำสิ่งนี้เพราะ…
+ต้องทำสิ่งนี้เพราะโอกาสแบบนี้ไม่ได้มาบ่อย|Do it because chances like this are rare|โอกาส,จังหวะ||
+ต้องทำสิ่งนี้เพราะใจคุณรู้อยู่แล้วว่าใช่|Do it because your heart already knows|ใจรู้,มั่นใจ||
+ต้องทำสิ่งนี้เพราะมันคือสิ่งที่ถูกต้อง|Do it because it is the right thing|ถูกต้อง,คุณธรรม||
+ต้องทำสิ่งนี้เพราะถ้าไม่ทำจะค้างคาใจไปนาน|Do it because it will weigh on you if you don't|ค้างคา,ปล่อยวาง||
+ต้องทำสิ่งนี้เพราะมีคนรอความช่วยเหลือจากคุณ|Do it because someone is waiting for your help|ช่วยเหลือ,น้ำใจ||
+ต้องทำสิ่งนี้เพราะเป็นก้าวแรกของสิ่งที่ใหญ่กว่า|Do it because it is the first step to something bigger|ก้าวแรก,เติบโต||
+ต้องทำสิ่งนี้เพราะคุณเตรียมตัวมาพอแล้ว|Do it because you have prepared enough|พร้อม,ลงมือ||
+ต้องทำสิ่งนี้เพราะมันจะทำให้คุณเติบโต|Do it because it will help you grow|เติบโต,บทเรียน||
+ต้องทำสิ่งนี้เพราะเวลากำลังจะหมด|Do it because time is running out|เวลา,เร่ง||
+ต้องทำสิ่งนี้เพราะเป็นหน้าที่ที่รับปากไว้|Do it because you promised|สัญญา,รับผิดชอบ||
+ต้องทำสิ่งนี้เพราะสุขภาพต้องมาก่อน|Do it because your health comes first|สุขภาพ,ดูแล||
+ต้องทำสิ่งนี้เพราะครอบครัวต้องการคุณตอนนี้|Do it because your family needs you now|ครอบครัว,อยู่ข้างกัน||
+ต้องทำสิ่งนี้เพราะช่วยให้การเงินมั่นคงขึ้น|Do it because it steadies your finances|การเงิน,มั่นคง||
+ต้องทำสิ่งนี้เพราะจะเปิดประตูสู่คนใหม่ๆ|Do it because it opens doors to new people|เครือข่าย,คนใหม่||
+ต้องทำสิ่งนี้เพราะเป็นการปิดเรื่องเก่าให้จบ|Do it because it closes an old chapter|ปิดฉาก,เริ่มใหม่||
+ต้องทำสิ่งนี้เพราะคุณจะภูมิใจในตัวเองภายหลัง|Do it because you will be proud later|ภูมิใจ,ตัวเอง||
+ต้องทำสิ่งนี้เพราะไม่มีใครทำแทนคุณได้|Do it because no one else can do it for you|ลงมือเอง,ความรับผิดชอบ||
+ต้องทำสิ่งนี้เพราะความกลัวไม่ได้แปลว่าห้าม|Do it because fear is not a stop sign|กล้า,ก้าวข้าม||
+ต้องทำสิ่งนี้เพราะจะลดภาระในวันข้างหน้า|Do it because it lightens tomorrow's load|ลดภาระ,วางแผน||
+ต้องทำสิ่งนี้เพราะเป็นการให้อภัยตัวเอง|Do it because it is a way of forgiving yourself|ให้อภัย,เยียวยา||
+ต้องทำสิ่งนี้เพราะถึงเวลาพูดความจริงแล้ว|Do it because it is time to tell the truth|ความจริง,ซื่อสัตย์||
+ต้องทำสิ่งนี้เพราะช่วยให้ความสัมพันธ์ดีขึ้น|Do it because it mends a relationship|ความสัมพันธ์,คืนดี||
+ต้องทำสิ่งนี้เพราะเป็นการลงทุนกับตัวเอง|Do it because it is an investment in yourself|ลงทุนตัวเอง,พัฒนา||
+ต้องทำสิ่งนี้เพราะฟ้ากำลังเปิดทางให้|Do it because the way is opening|จังหวะดี,ไหลลื่น||
+ต้องทำสิ่งนี้เพราะผลดีจะตกถึงคนรอบตัว|Do it because the good spreads to those around you|ส่วนรวม,แบ่งปัน||
+ต้องทำสิ่งนี้เพราะคุณสัญญากับตัวเองไว้แล้ว|Do it because you promised yourself|สัญญากับตัวเอง,วินัย||
+ต้องทำสิ่งนี้เพราะถ้ารอต่อ ต้นทุนจะสูงขึ้น|Do it because waiting will cost more|ต้นทุน,ทันเวลา||
+ต้องทำสิ่งนี้เพราะร่างกายส่งสัญญาณเตือนแล้ว|Do it because your body has given a warning|สัญญาณเตือน,ดูแลตัวเอง||
+ต้องทำสิ่งนี้เพราะเป็นการตอบแทนบุญคุณ|Do it because it repays a kindness|กตัญญู,ตอบแทน||
+ต้องทำสิ่งนี้เพราะจะช่วยให้นอนหลับสบายขึ้น|Do it because you will sleep better|สบายใจ,ปลดล็อก||
+ต้องทำสิ่งนี้เพราะจะได้รู้คำตอบที่ค้างอยู่|Do it because you will finally have the answer|คำตอบ,ชัดเจน||
+ต้องทำสิ่งนี้เพราะเป็นทางเดียวที่จะไปต่อได้|Do it because it is the only way forward|ทางเดียว,ไปต่อ||
+ต้องทำสิ่งนี้เพราะมีคนเชื่อมั่นในตัวคุณ|Do it because someone believes in you|ความเชื่อมั่น,กำลังใจ||
+ต้องทำสิ่งนี้เพราะคุณมีทักษะนี้อยู่แล้ว|Do it because you already have the skill|ทักษะ,ถนัด||
+ต้องทำสิ่งนี้เพราะจะช่วยปกป้องสิ่งที่รัก|Do it because it protects what you love|ปกป้อง,รัก||
+ต้องทำสิ่งนี้เพราะเป็นเรื่องเล็กที่สร้างผลใหญ่|Do it because a small act brings a big result|เรื่องเล็ก,ผลใหญ่||
+ต้องทำสิ่งนี้เพราะเป็นการวางรากฐานระยะยาว|Do it because it lays long-term foundations|รากฐาน,ระยะยาว||
+ต้องทำสิ่งนี้เพราะจะทำให้ความฝันใกล้ขึ้น|Do it because it brings your dream closer|ความฝัน,เป้าหมาย||
+ต้องทำสิ่งนี้เพราะถึงเวลาเริ่มต้นใหม่|Do it because it is time for a fresh start|เริ่มใหม่,เปลี่ยน||
+ต้องทำสิ่งนี้เพราะคุณเรียนรู้จากครั้งก่อนแล้ว|Do it because you have learned from last time|บทเรียน,พร้อม||
+ต้องทำสิ่งนี้เพราะช่วยให้คุณมีอิสระมากขึ้น|Do it because it gives you more freedom|อิสระ,เลือกเอง||
+ต้องทำสิ่งนี้เพราะจะช่วยยุติความขัดแย้ง|Do it because it can end a conflict|ยุติ,สงบ||
+ต้องทำสิ่งนี้เพราะเป็นการรักษาคำพูดของคุณ|Do it because it keeps your word|รักษาคำพูด,น่าเชื่อถือ||
+ต้องทำสิ่งนี้เพราะทุกอย่างพร้อมแล้ว ขาดแค่คุณ|Do it because everything is ready but you|พร้อม,ตัดสินใจ||
+ต้องทำสิ่งนี้เพราะเป็นการดูแลใจตัวเอง|Do it because it takes care of your heart|ดูแลใจ,เมตตาตัวเอง||
+ต้องทำสิ่งนี้เพราะจะได้ความรู้ที่ใช้ได้ตลอดชีวิต|Do it because you will gain lifelong knowledge|ความรู้,ใช้ได้นาน||
+ต้องทำสิ่งนี้เพราะความเงียบจะยิ่งทำให้แย่ลง|Do it because silence will make it worse|พูดออกไป,สื่อสาร||
+ต้องทำสิ่งนี้เพราะมันคือบุญที่ทำได้ตอนนี้|Do it because it is merit you can make now|บุญ,ทำดี||
+ต้องทำสิ่งนี้เพราะเป็นการตั้งขอบเขตที่จำเป็น|Do it because it sets a needed boundary|ขอบเขต,ปกป้องตัวเอง||
+ต้องทำสิ่งนี้เพราะจะคืนพลังให้ชีวิต|Do it because it restores your energy|พลัง,ฟื้นตัว||
+ต้องทำสิ่งนี้เพราะช่วยให้มองเห็นตัวเองชัดขึ้น|Do it because you will see yourself more clearly|รู้จักตัวเอง,ชัดเจน||
+ต้องทำสิ่งนี้เพราะคนที่รักคุณอยากเห็น|Do it because the people who love you want to see it|คนที่รัก,สนับสนุน||
+ต้องทำสิ่งนี้เพราะจะทำให้คุณกล้ามากขึ้นครั้งหน้า|Do it because it builds courage for next time|ความกล้า,สะสม||
+ต้องทำสิ่งนี้เพราะมีคนเปิดประตูรอไว้แล้ว|Do it because someone has left the door open|ประตูเปิด,โอกาส||
+ต้องทำสิ่งนี้เพราะจะช่วยให้งานเดินหน้า|Do it because it moves the work forward|งาน,เดินหน้า||
+ต้องทำสิ่งนี้เพราะจังหวะดาวและเวลาเหมาะ (ความเชื่อ)|Do it because the stars and timing align (belief)|ฤกษ์ดี,ความเชื่อ||
+ต้องทำสิ่งนี้เพราะเป็นความฝันตั้งแต่เด็ก|Do it because it is a childhood dream|ความฝันวัยเด็ก,ใจรัก||
+ต้องทำสิ่งนี้เพราะจะเป็นแบบอย่างให้คนรุ่นหลัง|Do it because it sets an example for others|แบบอย่าง,รุ่นหลัง||
+ต้องทำสิ่งนี้เพราะเป็นทางออกที่ง่ายกว่าที่คิด|Do it because it is simpler than you think|ง่าย,ทางออก||
+ต้องทำสิ่งนี้เพราะช่วยให้คุณหลุดจากวงจรเดิม|Do it because it breaks an old cycle|วงจร,หลุดพ้น||
+ต้องทำสิ่งนี้เพราะคุณได้รับสัญญาณซ้ำหลายครั้ง|Do it because the sign has come more than once|สัญญาณ,ซ้ำ||
+ต้องทำสิ่งนี้เพราะผลของมันจะอยู่ได้นาน|Do it because its results will last|ยั่งยืน,ผลระยะยาว||
+ต้องทำสิ่งนี้เพราะคุณสมควรได้รับสิ่งดี|Do it because you deserve good things|คุณค่า,สมควร||
+ต้องทำสิ่งนี้เพราะเป็นการเคารพความรู้สึกตัวเอง|Do it because it honours your feelings|ความรู้สึก,เคารพตัวเอง||
+ต้องทำสิ่งนี้เพราะไม่ทำวันนี้ พรุ่งนี้จะยากขึ้น|Do it because tomorrow will be harder|วันนี้,ไม่ผัด||
+ต้องทำสิ่งนี้เพราะจะช่วยให้คุณยืนได้ด้วยตัวเอง|Do it because it helps you stand on your own|พึ่งตัวเอง,อิสระ||
+ต้องทำสิ่งนี้เพราะเป็นการแสดงความรักที่ชัดเจน|Do it because it shows your love clearly|แสดงความรัก,ชัดเจน||
+ต้องทำสิ่งนี้เพราะคำแนะนำดีๆ ชี้มาทางนี้|Do it because good advice points this way|คำแนะนำ,ทางที่ดี||
+ต้องทำสิ่งนี้เพราะชีวิตกำลังขอให้คุณขยับ|Do it because life is asking you to move|ขยับ,เปลี่ยนแปลง||
+ต้องทำสิ่งนี้เพราะเป็นสิ่งที่คุณถนัดและมีความสุข|Do it because it is what you do well and enjoy|ถนัด,มีความสุข||
+# ห้ามทำสิ่งนี้เพราะ…
+ห้ามทำสิ่งนี้เพราะอารมณ์ยังร้อนอยู่|Don't do it because your emotions are still running hot|อารมณ์,ใจเย็น||
+ห้ามทำสิ่งนี้เพราะข้อมูลยังไม่ครบ|Don't do it because you don't have all the facts|ข้อมูล,รอ||
+ห้ามทำสิ่งนี้เพราะจะทำร้ายคนที่ไม่รู้เรื่อง|Don't do it because it would hurt someone innocent|ผู้บริสุทธิ์,เมตตา||
+ห้ามทำสิ่งนี้เพราะขัดกับคุณค่าที่คุณยึดถือ|Don't do it because it goes against your values|คุณค่า,หลักการ||
+ห้ามทำสิ่งนี้เพราะมีคนกำลังหลอกใช้คุณ|Don't do it because someone is using you|หลอกใช้,ระวัง||
+ห้ามทำสิ่งนี้เพราะเงินไม่พอรองรับ|Don't do it because the money isn't there|การเงิน,งบ||
+ห้ามทำสิ่งนี้เพราะร่างกายยังไม่พร้อม|Don't do it because your body isn't ready|สุขภาพ,พักก่อน||
+ห้ามทำสิ่งนี้เพราะเป็นการหนีปัญหา ไม่ใช่แก้|Don't do it because it runs from the problem|หนีปัญหา,เผชิญ||
+ห้ามทำสิ่งนี้เพราะจะผิดกฎหมายหรือกฎระเบียบ|Don't do it because it breaks a law or rule|กฎหมาย,ถูกต้อง||
+ห้ามทำสิ่งนี้เพราะทำเพราะอยากเอาชนะเท่านั้น|Don't do it because it is only about winning|เอาชนะ,อัตตา||
+ห้ามทำสิ่งนี้เพราะจะเสียความไว้ใจที่สร้างมา|Don't do it because it would break hard-won trust|ความไว้ใจ,รักษา||
+ห้ามทำสิ่งนี้เพราะคนที่ชวนไม่ได้หวังดี|Don't do it because the person urging you means no good|คนชวน,ระวัง||
+ห้ามทำสิ่งนี้เพราะยังไม่ถึงเวลา|Don't do it because the time isn't right|จังหวะ,รอ||
+ห้ามทำสิ่งนี้เพราะจะทิ้งปัญหาไว้ให้คนอื่น|Don't do it because it leaves a mess for others|ภาระ,รับผิดชอบ||
+ห้ามทำสิ่งนี้เพราะคุณกำลังเหนื่อยเกินไป|Don't do it because you are too tired|เหนื่อย,พัก||
+ห้ามทำสิ่งนี้เพราะจะทำลายสิ่งที่สร้างมานาน|Don't do it because it would undo years of work|สร้างมานาน,รักษา||
+ห้ามทำสิ่งนี้เพราะเป็นการตามใจคนอื่นจนลืมตัวเอง|Don't do it because it pleases others at your own cost|ตามใจ,ตัวเอง||
+ห้ามทำสิ่งนี้เพราะสัญญาณเตือนดังชัดเจน|Don't do it because the warning signs are clear|สัญญาณ,หยุด||
+ห้ามทำสิ่งนี้เพราะเป็นการพนันที่เสี่ยงเกินไป|Don't do it because it is too big a gamble|เสี่ยง,พนัน||
+ห้ามทำสิ่งนี้เพราะจะทำให้ครอบครัวลำบาก|Don't do it because it would strain your family|ครอบครัว,ลำบาก||
+ห้ามทำสิ่งนี้เพราะเป็นการแก้แค้น|Don't do it because it is revenge|แก้แค้น,ปล่อยวาง||
+ห้ามทำสิ่งนี้เพราะใจคุณยังลังเลมาก|Don't do it because your heart is still very unsure|ลังเล,ไม่ใช่ตอนนี้||
+ห้ามทำสิ่งนี้เพราะคำพูดนั้นถอนคืนไม่ได้|Don't do it because those words can't be taken back|คำพูด,ระวังปาก||
+ห้ามทำสิ่งนี้เพราะจะสร้างหนี้ที่ไม่จำเป็น|Don't do it because it creates needless debt|หนี้,ประหยัด||
+ห้ามทำสิ่งนี้เพราะเป็นการโกหกเพื่อปกปิด|Don't do it because it means lying to cover up|โกหก,ความจริง||
+ห้ามทำสิ่งนี้เพราะมีทางที่ดีกว่ารออยู่|Don't do it because a better way is waiting|ทางเลือก,ดีกว่า||
+ห้ามทำสิ่งนี้เพราะคุณยังไม่ได้ถามคนที่เกี่ยวข้อง|Don't do it because you haven't asked those involved|ปรึกษา,ร่วมกัน||
+ห้ามทำสิ่งนี้เพราะจะดึงคุณกลับไปสู่นิสัยเดิม|Don't do it because it pulls you back into old habits|นิสัยเดิม,ก้าวหน้า||
+ห้ามทำสิ่งนี้เพราะจะทำให้สุขภาพแย่ลง|Don't do it because it would harm your health|สุขภาพ,ดูแล||
+ห้ามทำสิ่งนี้เพราะเป็นการอวดเพื่อให้คนยอมรับ|Don't do it because it is just to impress people|อวด,คุณค่าภายใน||
+ห้ามทำสิ่งนี้เพราะจะเอาเปรียบคนที่อ่อนแอกว่า|Don't do it because it takes advantage of the weak|เอาเปรียบ,ยุติธรรม||
+ห้ามทำสิ่งนี้เพราะเอกสารและสัญญายังไม่ชัด|Don't do it because the paperwork isn't clear|เอกสาร,ตรวจสอบ||
+ห้ามทำสิ่งนี้เพราะคุณกำลังตัดสินใจเพราะกลัว|Don't do it because you are deciding out of fear|ความกลัว,ตั้งสติ||
+ห้ามทำสิ่งนี้เพราะเป็นการเข้าไปยุ่งเรื่องคนอื่น|Don't do it because it is someone else's business|ยุ่งเรื่องคนอื่น,ขอบเขต||
+ห้ามทำสิ่งนี้เพราะจะทำให้ความลับรั่วไหล|Don't do it because it would expose a secret|ความลับ,รักษา||
+ห้ามทำสิ่งนี้เพราะคำสัญญานั้นเป็นไปไม่ได้|Don't do it because the promise can't be kept|สัญญา,ตามจริง||
+ห้ามทำสิ่งนี้เพราะจะทำให้คุณเสียเวลาไปมาก|Don't do it because it would waste a lot of time|เวลา,คุ้มค่า||
+ห้ามทำสิ่งนี้เพราะมันไม่ใช่ความฝันของคุณจริงๆ|Don't do it because it isn't really your dream|ความฝัน,ของตัวเอง||
+ห้ามทำสิ่งนี้เพราะผู้ใหญ่ที่หวังดีเตือนแล้ว|Don't do it because someone wise has warned you|คำเตือน,ผู้ใหญ่||
+ห้ามทำสิ่งนี้เพราะเป็นการตัดสินคนจากภายนอก|Don't do it because it judges by appearances|ตัดสิน,มองลึก||
+ห้ามทำสิ่งนี้เพราะจะทำลายความสงบในบ้าน|Don't do it because it would break the peace at home|บ้าน,สงบ||
+ห้ามทำสิ่งนี้เพราะยังมีภาระเก่าที่ต้องจบก่อน|Don't do it because old commitments come first|ภาระเก่า,จบก่อน||
+ห้ามทำสิ่งนี้เพราะคุณกำลังเปรียบเทียบกับคนอื่น|Don't do it because you are comparing yourself to others|เปรียบเทียบ,ทางของตัวเอง||
+ห้ามทำสิ่งนี้เพราะเป็นการทำร้ายตัวเอง|Don't do it because it would hurt you|ทำร้ายตัวเอง,เมตตาตัวเอง||
+ห้ามทำสิ่งนี้เพราะจะเป็นบาปติดตัว (ความเชื่อ)|Don't do it because it adds to your karma (belief)|บาป,ความเชื่อ||
+ห้ามทำสิ่งนี้เพราะคนที่เกี่ยวข้องยังไม่ยินยอม|Don't do it because those involved haven't agreed|ยินยอม,เคารพ||
+ห้ามทำสิ่งนี้เพราะเป็นทางลัดที่ไม่ยั่งยืน|Don't do it because it is an unsustainable shortcut|ทางลัด,ยั่งยืน||
+ห้ามทำสิ่งนี้เพราะจะทำให้ความสัมพันธ์ถอยหลัง|Don't do it because it would set a relationship back|ความสัมพันธ์,ถอยหลัง||
+ห้ามทำสิ่งนี้เพราะคุณกำลังทำเพราะเหงา|Don't do it because you are doing it out of loneliness|เหงา,ดูแลใจ||
+ห้ามทำสิ่งนี้เพราะมีแรงกดดันจากภายนอกมากเกินไป|Don't do it because the outside pressure is too strong|แรงกดดัน,ตัดสินเอง||
+ห้ามทำสิ่งนี้เพราะจะเสียโอกาสที่ดีกว่า|Don't do it because you would miss a better chance|โอกาส,รอ||
+ห้ามทำสิ่งนี้เพราะเป็นการเสี่ยงความปลอดภัย|Don't do it because it risks your safety|ความปลอดภัย,ระวัง||
+ห้ามทำสิ่งนี้เพราะจะทำให้คุณเป็นหนี้บุญคุณคนผิด|Don't do it because it puts you in the wrong person's debt|บุญคุณ,ระวัง||
+ห้ามทำสิ่งนี้เพราะคุณยังไม่ได้นอนคิดอีกคืน|Don't do it because you haven't slept on it|นอนคิด,ไม่รีบ||
+ห้ามทำสิ่งนี้เพราะฤกษ์ยังไม่ดี (ความเชื่อ)|Don't do it because the timing is inauspicious (belief)|ฤกษ์,ความเชื่อ||
+ห้ามทำสิ่งนี้เพราะเป็นการเล่นกับใจคนอื่น|Don't do it because it plays with someone's feelings|ใจคน,จริงใจ||
+ห้ามทำสิ่งนี้เพราะจะทำให้คุณผิดสัญญากับตัวเอง|Don't do it because it breaks a promise to yourself|สัญญากับตัวเอง,มั่นคง||
+ห้ามทำสิ่งนี้เพราะราคาที่ต้องจ่ายแพงเกินผลที่ได้|Don't do it because the cost outweighs the gain|ต้นทุน,คุ้มค่า||
+ห้ามทำสิ่งนี้เพราะคุณยังไม่รู้จักคนนี้ดีพอ|Don't do it because you don't know this person well enough|รู้จัก,ใช้เวลา||
+ห้ามทำสิ่งนี้เพราะเป็นการเดินตามกระแสโดยไม่คิด|Don't do it because it follows the crowd without thinking|กระแส,คิดเอง||
+ห้ามทำสิ่งนี้เพราะจะเปิดแผลเก่าให้เจ็บอีก|Don't do it because it would reopen an old wound|แผลเก่า,เยียวยา||
+ห้ามทำสิ่งนี้เพราะคุณกำลังเมา ง่วง หรือหิว|Don't do it because you are drunk, sleepy or hungry|สติ,พักก่อน||
+ห้ามทำสิ่งนี้เพราะจะทำให้งานหลักเสีย|Don't do it because it would derail your main work|งานหลัก,โฟกัส||
+ห้ามทำสิ่งนี้เพราะเป็นการให้เกินกำลังตัวเอง|Don't do it because you would give more than you have|ให้เกินตัว,พอดี||
+ห้ามทำสิ่งนี้เพราะมีคนแอบฟังอยู่|Don't do it because someone is listening|ระวังคำพูด,ที่ลับ||
+ห้ามทำสิ่งนี้เพราะจะทำให้คุณต้องปิดบังคนที่รัก|Don't do it because you'd have to hide it from loved ones|ปิดบัง,จริงใจ||
+ห้ามทำสิ่งนี้เพราะไม่มีแผนสำรองเลย|Don't do it because there is no plan B|แผนสำรอง,เตรียม||
+# ถ้าทำสิ่งนี้แล้วจะดีเพราะ…
+ถ้าทำสิ่งนี้แล้วจะดีเพราะคนรอบตัวพร้อมสนับสนุน|It will go well because the people around you will back you|สนับสนุน,ทีม||
+ถ้าทำสิ่งนี้แล้วจะดีเพราะจังหวะเวลาเหมาะพอดี|It will go well because the timing is just right|จังหวะ,พอดี||
+ถ้าทำสิ่งนี้แล้วจะดีเพราะคุณมีประสบการณ์ที่ใช้ได้|It will go well because your experience fits|ประสบการณ์,ใช้ได้||
+ถ้าทำสิ่งนี้แล้วจะดีเพราะใจคุณทำเพราะรัก|It will go well because you do it out of love|ความรัก,ใจจริง||
+ถ้าทำสิ่งนี้แล้วจะดีเพราะจะได้เรียนรู้สิ่งใหม่|It will go well because you will learn something new|เรียนรู้,ใหม่||
+ถ้าทำสิ่งนี้แล้วจะดีเพราะจะมีคนเห็นคุณค่าในตัวคุณ|It will go well because someone will see your worth|คุณค่า,ได้รับการยอมรับ||
+ถ้าทำสิ่งนี้แล้วจะดีเพราะผลลัพธ์จะเกินคาด|It will go well because the result will exceed expectations|เกินคาด,ผลดี||
+ถ้าทำสิ่งนี้แล้วจะดีเพราะเงินจะเริ่มไหลเข้า|It will go well because money will start to flow in|เงิน,รายได้||
+ถ้าทำสิ่งนี้แล้วจะดีเพราะจะได้เพื่อนใหม่ที่จริงใจ|It will go well because you will make a sincere new friend|เพื่อนใหม่,จริงใจ||
+ถ้าทำสิ่งนี้แล้วจะดีเพราะคุณจะรู้สึกเบาขึ้นทันที|It will go well because you will feel lighter at once|โล่งใจ,เบา||
+ถ้าทำสิ่งนี้แล้วจะดีเพราะจะเป็นการเริ่มต้นนิสัยที่ดี|It will go well because it starts a good habit|นิสัยดี,เริ่มต้น||
+ถ้าทำสิ่งนี้แล้วจะดีเพราะผู้ใหญ่จะเมตตา|It will go well because elders will look kindly on you|ผู้ใหญ่,เมตตา||
+ถ้าทำสิ่งนี้แล้วจะดีเพราะจะได้ความไว้ใจกลับคืน|It will go well because you will regain trust|ความไว้ใจ,คืนมา||
+ถ้าทำสิ่งนี้แล้วจะดีเพราะสุขภาพจะดีขึ้นอย่างเห็นได้ชัด|It will go well because your health will clearly improve|สุขภาพ,ดีขึ้น||
+ถ้าทำสิ่งนี้แล้วจะดีเพราะครอบครัวจะใกล้ชิดกันขึ้น|It will go well because the family will grow closer|ครอบครัว,ใกล้ชิด||
+ถ้าทำสิ่งนี้แล้วจะดีเพราะคุณจะเห็นทางที่มองไม่เห็นมาก่อน|It will go well because you will see a path you missed|ทางใหม่,มองเห็น||
+ถ้าทำสิ่งนี้แล้วจะดีเพราะประตูบานใหม่จะเปิด|It will go well because a new door will open|ประตูใหม่,โอกาส||
+ถ้าทำสิ่งนี้แล้วจะดีเพราะงานจะเสร็จเร็วกว่าที่คิด|It will go well because the work will finish sooner|เสร็จเร็ว,ราบรื่น||
+ถ้าทำสิ่งนี้แล้วจะดีเพราะจะได้รับคำชมจากคนสำคัญ|It will go well because someone important will praise you|คำชม,คนสำคัญ||
+ถ้าทำสิ่งนี้แล้วจะดีเพราะความขัดแย้งจะคลี่คลาย|It will go well because the conflict will ease|คลี่คลาย,สงบ||
+ถ้าทำสิ่งนี้แล้วจะดีเพราะจะเป็นที่จดจำในทางที่ดี|It will go well because you will be remembered well|ชื่อเสียงดี,จดจำ||
+ถ้าทำสิ่งนี้แล้วจะดีเพราะคุณจะมีเวลาให้ตัวเองมากขึ้น|It will go well because you will have more time for yourself|เวลาส่วนตัว,สมดุล||
+ถ้าทำสิ่งนี้แล้วจะดีเพราะความกล้าจะเพิ่มขึ้น|It will go well because your courage will grow|ความกล้า,มั่นใจ||
+ถ้าทำสิ่งนี้แล้วจะดีเพราะบุญจะส่งผลเร็ว (ความเชื่อ)|It will go well because the merit will bear fruit quickly (belief)|บุญ,ความเชื่อ||
+ถ้าทำสิ่งนี้แล้วจะดีเพราะจะช่วยให้ใจสงบ|It will go well because it will calm your mind|ใจสงบ,สมาธิ||
+ถ้าทำสิ่งนี้แล้วจะดีเพราะคนที่เคยห่างจะกลับมา|It will go well because someone distant will return|กลับมา,คืนดี||
+ถ้าทำสิ่งนี้แล้วจะดีเพราะคุณจะได้ทำสิ่งที่ถนัด|It will go well because you get to do what you're good at|ถนัด,สนุก||
+ถ้าทำสิ่งนี้แล้วจะดีเพราะจะลดความเครียดได้มาก|It will go well because it will cut your stress a lot|ลดเครียด,ผ่อนคลาย||
+ถ้าทำสิ่งนี้แล้วจะดีเพราะจะได้คำตอบที่รอมานาน|It will go well because the long-awaited answer will come|คำตอบ,รอคอย||
+ถ้าทำสิ่งนี้แล้วจะดีเพราะงบประมาณจะพอดี|It will go well because the budget will work out|งบ,พอดี||
+ถ้าทำสิ่งนี้แล้วจะดีเพราะจะได้ความรู้ที่ต่อยอดได้|It will go well because you will gain knowledge to build on|ต่อยอด,ความรู้||
+ถ้าทำสิ่งนี้แล้วจะดีเพราะคนรักจะเข้าใจมากขึ้น|It will go well because your partner will understand you better|คนรัก,เข้าใจ||
+ถ้าทำสิ่งนี้แล้วจะดีเพราะจะเป็นแรงบันดาลใจให้คนอื่น|It will go well because it will inspire others|แรงบันดาลใจ,แบบอย่าง||
+ถ้าทำสิ่งนี้แล้วจะดีเพราะจะได้ผู้ช่วยที่ไม่คาดคิด|It will go well because unexpected help will come|ผู้ช่วย,ไม่คาดคิด||
+ถ้าทำสิ่งนี้แล้วจะดีเพราะปัญหาเก่าจะหมดไป|It will go well because an old problem will go away|ปัญหาเก่า,จบ||
+ถ้าทำสิ่งนี้แล้วจะดีเพราะจะได้ที่ยืนที่มั่นคงขึ้น|It will go well because you will stand on firmer ground|มั่นคง,ที่ยืน||
+ถ้าทำสิ่งนี้แล้วจะดีเพราะเอกสารจะผ่านราบรื่น|It will go well because the paperwork will go smoothly|เอกสาร,ราบรื่น||
+ถ้าทำสิ่งนี้แล้วจะดีเพราะจะได้เดินทางไปที่ใหม่|It will go well because you will travel somewhere new|เดินทาง,ที่ใหม่||
+ถ้าทำสิ่งนี้แล้วจะดีเพราะคุณจะนอนหลับสบาย|It will go well because you will sleep well|หลับสบาย,ไม่ค้างคา||
+ถ้าทำสิ่งนี้แล้วจะดีเพราะคนจะเห็นความตั้งใจของคุณ|It will go well because people will see your effort|ความตั้งใจ,ได้รับการมองเห็น||
+ถ้าทำสิ่งนี้แล้วจะดีเพราะจะได้เงินเก็บเพิ่ม|It will go well because your savings will grow|เงินเก็บ,มั่งคั่ง||
+ถ้าทำสิ่งนี้แล้วจะดีเพราะการสื่อสารจะชัดขึ้น|It will go well because communication will become clearer|สื่อสาร,ชัดเจน||
+ถ้าทำสิ่งนี้แล้วจะดีเพราะจะช่วยคนที่ต้องการได้จริง|It will go well because you will truly help someone in need|ช่วยเหลือ,ได้ผล||
+ถ้าทำสิ่งนี้แล้วจะดีเพราะคุณจะรักตัวเองมากขึ้น|It will go well because you will love yourself more|รักตัวเอง,เติบโต||
+ถ้าทำสิ่งนี้แล้วจะดีเพราะจะได้พักใจจากเรื่องหนัก|It will go well because you get a break from heavy things|พักใจ,ผ่อน||
+ถ้าทำสิ่งนี้แล้วจะดีเพราะจะได้ทีมที่ไปทางเดียวกัน|It will go well because you will find a team going your way|ทีม,ทางเดียวกัน||
+ถ้าทำสิ่งนี้แล้วจะดีเพราะสิ่งศักดิ์สิทธิ์จะคุ้มครอง (ความเชื่อ)|It will go well because the sacred will protect you (belief)|คุ้มครอง,ความเชื่อ||
+ถ้าทำสิ่งนี้แล้วจะดีเพราะจะได้ความสนุกกลับมา|It will go well because the fun will come back|สนุก,ชีวิตชีวา||
+ถ้าทำสิ่งนี้แล้วจะดีเพราะคุณจะได้เห็นผลจากความอดทน|It will go well because you will see your patience pay off|อดทน,ผลตอบแทน||
+ถ้าทำสิ่งนี้แล้วจะดีเพราะจะทำให้เป้าหมายชัดเจนขึ้น|It will go well because your goal will become clearer|เป้าหมาย,ชัดเจน||
+ถ้าทำสิ่งนี้แล้วจะดีเพราะจะได้รับโอกาสครั้งที่สอง|It will go well because you will get a second chance|โอกาสที่สอง,แก้ตัว||
+ถ้าทำสิ่งนี้แล้วจะดีเพราะความรักจะงอกงาม|It will go well because love will flourish|ความรัก,งอกงาม||
+ถ้าทำสิ่งนี้แล้วจะดีเพราะจะได้ความสงบในบ้าน|It will go well because there will be peace at home|บ้าน,สงบ||
+ถ้าทำสิ่งนี้แล้วจะดีเพราะจะรู้จักตัวเองลึกขึ้น|It will go well because you will know yourself more deeply|รู้จักตัวเอง,ลึกซึ้ง||
+ถ้าทำสิ่งนี้แล้วจะดีเพราะคุณจะได้ทิ้งสิ่งที่ถ่วงไว้|It will go well because you can let go of what holds you back|ปล่อย,เบาตัว||
+ถ้าทำสิ่งนี้แล้วจะดีเพราะจะได้รับความยุติธรรม|It will go well because you will get fairness|ยุติธรรม,ได้รับ||
+ถ้าทำสิ่งนี้แล้วจะดีเพราะจะเป็นจุดเปลี่ยนของชีวิต|It will go well because it will be a turning point|จุดเปลี่ยน,ชีวิตใหม่||
+ถ้าทำสิ่งนี้แล้วจะดีเพราะจะได้แรงสนับสนุนจากคนแปลกหน้า|It will go well because strangers will support you|คนแปลกหน้า,น้ำใจ||
+ถ้าทำสิ่งนี้แล้วจะดีเพราะงานที่ค้างจะเดินต่อได้|It will go well because stalled work will move again|งานค้าง,เดินหน้า||
+ถ้าทำสิ่งนี้แล้วจะดีเพราะจะได้ทักษะที่ใช้หาเลี้ยงชีพ|It will go well because you will gain a skill to earn with|ทักษะ,อาชีพ||
+ถ้าทำสิ่งนี้แล้วจะดีเพราะคุณจะผ่านพ้นความกลัวเดิม|It will go well because you will get past an old fear|ความกลัว,ก้าวข้าม||
+ถ้าทำสิ่งนี้แล้วจะดีเพราะจะได้คำขอโทษที่รอคอย|It will go well because you will receive an overdue apology|ขอโทษ,คลี่คลาย||
+ถ้าทำสิ่งนี้แล้วจะดีเพราะจะมีเรื่องดีตามมาเป็นชุด|It will go well because good things will follow one another|เรื่องดี,ต่อเนื่อง||
+ถ้าทำสิ่งนี้แล้วจะดีเพราะใจที่ให้จะกลับมาหาคุณ|It will go well because kindness will come back to you|ให้,ได้คืน||
+ถ้าทำสิ่งนี้แล้วจะดีเพราะจะได้ความเคารพจากคนรอบข้าง|It will go well because you will earn respect|ความเคารพ,ยอมรับ||
+ถ้าทำสิ่งนี้แล้วจะดีเพราะคุณจะมีพลังทำต่อ|It will go well because you will have the energy to keep going|พลัง,ต่อเนื่อง||
+ถ้าทำสิ่งนี้แล้วจะดีเพราะจะทำให้วันพรุ่งนี้ง่ายขึ้น|It will go well because tomorrow will be easier|พรุ่งนี้,ง่าย||
+ถ้าทำสิ่งนี้แล้วจะดีเพราะคนที่ใช่จะเข้ามา|It will go well because the right person will arrive|คนที่ใช่,เข้ามา||
+ถ้าทำสิ่งนี้แล้วจะดีเพราะจะได้ทำตามสัญญาที่ให้ไว้|It will go well because you will keep a promise|รักษาสัญญา,ภูมิใจ||
+# ถ้าทำสิ่งนี้แล้วจะแย่เพราะ…
+ถ้าทำสิ่งนี้แล้วจะแย่เพราะคนที่เกี่ยวข้องยังไม่พร้อม|It will go badly because the others aren't ready|ไม่พร้อม,รอ||
+ถ้าทำสิ่งนี้แล้วจะแย่เพราะจะเกิดความเข้าใจผิด|It will go badly because it will cause a misunderstanding|เข้าใจผิด,อธิบาย||
+ถ้าทำสิ่งนี้แล้วจะแย่เพราะเงินจะรั่วไหลมากกว่าที่คิด|It will go badly because it will cost more than you think|เงินรั่ว,งบ||
+ถ้าทำสิ่งนี้แล้วจะแย่เพราะจะมีคนอิจฉาและขัดขวาง|It will go badly because someone will envy and block you|อิจฉา,ระวัง||
+ถ้าทำสิ่งนี้แล้วจะแย่เพราะร่างกายจะทรุดลง|It will go badly because your body will run down|สุขภาพ,พัก||
+ถ้าทำสิ่งนี้แล้วจะแย่เพราะแผนยังมีช่องโหว่|It will go badly because the plan has holes|ช่องโหว่,แก้ไข||
+ถ้าทำสิ่งนี้แล้วจะแย่เพราะคุณจะต้องรับผิดชอบคนเดียว|It will go badly because you will carry it alone|รับคนเดียว,ขอความช่วยเหลือ||
+ถ้าทำสิ่งนี้แล้วจะแย่เพราะความสัมพันธ์จะตึงเครียด|It will go badly because relationships will be strained|ตึงเครียด,สื่อสาร||
+ถ้าทำสิ่งนี้แล้วจะแย่เพราะจะเสียเวลาไปกับเรื่องไม่จำเป็น|It will go badly because time will go to needless things|เสียเวลา,โฟกัส||
+ถ้าทำสิ่งนี้แล้วจะแย่เพราะผลจะออกมาช้ากว่าที่หวัง|It will go badly because results will be slower than you hope|ช้า,อดทน||
+ถ้าทำสิ่งนี้แล้วจะแย่เพราะคนอื่นจะได้ประโยชน์มากกว่าคุณ|It will go badly because others will gain more than you|เสียเปรียบ,ต่อรอง||
+ถ้าทำสิ่งนี้แล้วจะแย่เพราะอารมณ์จะพาไปไกลเกิน|It will go badly because emotions will carry you too far|อารมณ์,สติ||
+ถ้าทำสิ่งนี้แล้วจะแย่เพราะข่าวลือจะแพร่ออกไป|It will go badly because rumours will spread|ข่าวลือ,ระวังคำพูด||
+ถ้าทำสิ่งนี้แล้วจะแย่เพราะเอกสารจะติดขัด|It will go badly because the paperwork will stall|เอกสาร,ติดขัด||
+ถ้าทำสิ่งนี้แล้วจะแย่เพราะคุณจะรู้สึกผิดภายหลัง|It will go badly because you will feel guilty later|รู้สึกผิด,ทบทวน||
+ถ้าทำสิ่งนี้แล้วจะแย่เพราะจะต้องเริ่มใหม่ตั้งแต่ต้น|It will go badly because you will have to start over|เริ่มใหม่,เสียแรง||
+ถ้าทำสิ่งนี้แล้วจะแย่เพราะคนในบ้านจะไม่พอใจ|It will go badly because people at home will be unhappy|บ้าน,ไม่พอใจ||
+ถ้าทำสิ่งนี้แล้วจะแย่เพราะจะติดหนี้บุญคุณที่หนัก|It will go badly because you will owe a heavy favour|หนี้บุญคุณ,ผูกมัด||
+ถ้าทำสิ่งนี้แล้วจะแย่เพราะความลับจะถูกเปิดเผย|It will go badly because a secret will come out|ความลับ,เปิดเผย||
+ถ้าทำสิ่งนี้แล้วจะแย่เพราะคุณจะเหนื่อยจนหมดไฟ|It will go badly because you will burn out|หมดไฟ,พัก||
+ถ้าทำสิ่งนี้แล้วจะแย่เพราะจะดึงดูดคนผิดเข้ามา|It will go badly because it will draw the wrong people|คนผิด,เลือก||
+ถ้าทำสิ่งนี้แล้วจะแย่เพราะมีค่าใช้จ่ายแฝงที่ยังไม่เห็น|It will go badly because there are hidden costs|ค่าใช้จ่ายแฝง,ตรวจ||
+ถ้าทำสิ่งนี้แล้วจะแย่เพราะคำสัญญาจะไม่เป็นจริง|It will go badly because the promises won't hold|คำสัญญา,ไม่จริง||
+ถ้าทำสิ่งนี้แล้วจะแย่เพราะจะเสียสิ่งที่มีอยู่ตอนนี้|It will go badly because you will lose what you have now|สูญเสีย,รักษา||
+ถ้าทำสิ่งนี้แล้วจะแย่เพราะคนรักจะรู้สึกถูกทิ้ง|It will go badly because your partner will feel left behind|คนรัก,ใส่ใจ||
+ถ้าทำสิ่งนี้แล้วจะแย่เพราะจะกลายเป็นนิสัยที่เลิกยาก|It will go badly because it will become a hard habit to break|นิสัย,เลิกยาก||
+ถ้าทำสิ่งนี้แล้วจะแย่เพราะจะผิดกาลเทศะ|It will go badly because it is the wrong time and place|กาลเทศะ,เหมาะสม||
+ถ้าทำสิ่งนี้แล้วจะแย่เพราะงานหลักจะถูกละเลย|It will go badly because your main work will be neglected|งานหลัก,ละเลย||
+ถ้าทำสิ่งนี้แล้วจะแย่เพราะคนที่ไว้ใจจะผิดหวัง|It will go badly because someone who trusts you will be let down|ผิดหวัง,ความไว้ใจ||
+ถ้าทำสิ่งนี้แล้วจะแย่เพราะตัวเลขยังไม่สมดุล|It will go badly because the numbers don't balance|ตัวเลข,คำนวณ||
+ถ้าทำสิ่งนี้แล้วจะแย่เพราะสภาพอากาศหรือการเดินทางไม่เป็นใจ|It will go badly because weather or travel won't cooperate|อากาศ,เดินทาง||
+ถ้าทำสิ่งนี้แล้วจะแย่เพราะจะเกิดการแข่งขันที่ไม่จำเป็น|It will go badly because it will spark needless rivalry|แข่งขัน,ร่วมมือ||
+ถ้าทำสิ่งนี้แล้วจะแย่เพราะคนเก่าจะกลับมาวุ่นวาย|It will go badly because someone from the past will stir trouble|คนเก่า,วุ่นวาย||
+ถ้าทำสิ่งนี้แล้วจะแย่เพราะคุณจะรู้สึกว่าไม่ใช่ตัวเอง|It will go badly because you won't feel like yourself|ไม่ใช่ตัวเอง,จริงใจ||
+ถ้าทำสิ่งนี้แล้วจะแย่เพราะจะเสียชื่อเสียงที่สร้างมา|It will go badly because your reputation will suffer|ชื่อเสียง,รักษา||
+ถ้าทำสิ่งนี้แล้วจะแย่เพราะระบบหรือเครื่องมือจะมีปัญหา|It will go badly because tools or systems will fail|ระบบ,สำรอง||
+ถ้าทำสิ่งนี้แล้วจะแย่เพราะจะต้องโกหกต่อเนื่อง|It will go badly because you will have to keep lying|โกหก,ความจริง||
+ถ้าทำสิ่งนี้แล้วจะแย่เพราะจะเกิดอุบัติเหตุเล็กๆ ระหว่างทาง|It will go badly because small accidents will happen|อุบัติเหตุ,ระวัง||
+ถ้าทำสิ่งนี้แล้วจะแย่เพราะความรู้สึกจะถูกทำร้าย|It will go badly because feelings will be hurt|ใจ,ระวัง||
+ถ้าทำสิ่งนี้แล้วจะแย่เพราะคนกลางจะบิดเบือนเรื่อง|It will go badly because a go-between will twist the story|คนกลาง,คุยตรง||
+ถ้าทำสิ่งนี้แล้วจะแย่เพราะคุณจะต้องประนีประนอมเกินไป|It will go badly because you will have to compromise too much|ประนีประนอม,ขอบเขต||
+ถ้าทำสิ่งนี้แล้วจะแย่เพราะจะไม่มีใครเห็นค่า|It will go badly because no one will value it|ไม่เห็นค่า,ทำเพื่อตัวเอง||
+ถ้าทำสิ่งนี้แล้วจะแย่เพราะความคาดหวังสูงเกินจริง|It will go badly because expectations are unrealistic|คาดหวัง,พอดี||
+ถ้าทำสิ่งนี้แล้วจะแย่เพราะจะชนกับเรื่องสำคัญอื่น|It will go badly because it will clash with something important|ชนกัน,จัดลำดับ||
+ถ้าทำสิ่งนี้แล้วจะแย่เพราะผู้ใหญ่จะไม่เห็นด้วย|It will go badly because elders will disapprove|ผู้ใหญ่,ไม่เห็นด้วย||
+ถ้าทำสิ่งนี้แล้วจะแย่เพราะจะเจอเงื่อนไขที่ไม่ได้อ่าน|It will go badly because you'll hit terms you didn't read|เงื่อนไข,อ่านก่อน||
+ถ้าทำสิ่งนี้แล้วจะแย่เพราะใจคุณยังผูกกับเรื่องเก่า|It will go badly because your heart is still tied to the past|เรื่องเก่า,ปล่อยวาง||
+ถ้าทำสิ่งนี้แล้วจะแย่เพราะภาระจะทับถมเพิ่ม|It will go badly because the burden will pile up|ภาระ,แบ่ง||
+ถ้าทำสิ่งนี้แล้วจะแย่เพราะคุณจะสูญเสียอิสระ|It will go badly because you will lose your freedom|อิสระ,ผูกมัด||
+ถ้าทำสิ่งนี้แล้วจะแย่เพราะจะเป็นการทำซ้ำความผิดเดิม|It will go badly because it repeats an old mistake|ความผิดเดิม,เรียนรู้||
+ถ้าทำสิ่งนี้แล้วจะแย่เพราะจะต้องพึ่งคนที่ไม่น่าไว้ใจ|It will go badly because you would rely on someone unreliable|ไม่น่าไว้ใจ,พึ่งตัวเอง||
+ถ้าทำสิ่งนี้แล้วจะแย่เพราะผลจะสั้นแต่ปัญหายาว|It will go badly because the gain is short, the trouble long|ระยะสั้น,ระยะยาว||
+ถ้าทำสิ่งนี้แล้วจะแย่เพราะคุณจะต้องเลือกข้าง|It will go badly because you will be forced to take sides|เลือกข้าง,เป็นกลาง||
+ถ้าทำสิ่งนี้แล้วจะแย่เพราะอุปสรรคจะมาไม่หยุด (ความเชื่อ)|It will go badly because obstacles will keep coming (belief)|อุปสรรค,ความเชื่อ||
+ถ้าทำสิ่งนี้แล้วจะแย่เพราะจะเกิดความเข้าใจผิดเรื่องเงิน|It will go badly because there will be money misunderstandings|เงิน,ชัดเจน||
+ถ้าทำสิ่งนี้แล้วจะแย่เพราะคนรอบตัวจะเหนื่อยตามไปด้วย|It will go badly because those around you will be worn out too|คนรอบตัว,เกรงใจ||
+ถ้าทำสิ่งนี้แล้วจะแย่เพราะจะต้องเปลี่ยนแผนกลางทาง|It will go badly because you will have to change plans midway|เปลี่ยนแผน,ยืดหยุ่น||
+ถ้าทำสิ่งนี้แล้วจะแย่เพราะคุณจะเสียสมาธิไปนาน|It will go badly because you will lose focus for a long time|สมาธิ,ฟุ้งซ่าน||
+ถ้าทำสิ่งนี้แล้วจะแย่เพราะจะไปกระทบคนที่อ่อนไหว|It will go badly because it will hit someone sensitive|อ่อนไหว,ใส่ใจ||
+ถ้าทำสิ่งนี้แล้วจะแย่เพราะไม่มีใครช่วยตอนติดขัด|It will go badly because no one will help when it sticks|ติดขัด,เตรียม||
+ถ้าทำสิ่งนี้แล้วจะแย่เพราะจะทำให้ต้องย้ายหรือเปลี่ยนที่|It will go badly because you may have to move|ย้าย,เปลี่ยน||
+ถ้าทำสิ่งนี้แล้วจะแย่เพราะจะต้องจ่ายคืนเป็นสองเท่า|It will go badly because you will pay it back twice over|จ่ายคืน,ระวัง||
+ถ้าทำสิ่งนี้แล้วจะแย่เพราะคุณยังไม่ได้ฟังเสียงตัวเอง|It will go badly because you haven't listened to yourself|เสียงใน,ฟัง||
+ถ้าทำสิ่งนี้แล้วจะแย่เพราะจะถูกตำหนิแม้ตั้งใจดี|It will go badly because you will be blamed despite good intent|ตำหนิ,อธิบาย||
+ถ้าทำสิ่งนี้แล้วจะแย่เพราะข้อมูลที่ได้มาผิด|It will go badly because the information is wrong|ข้อมูลผิด,ตรวจ||
+ถ้าทำสิ่งนี้แล้วจะแย่เพราะจะทำให้คนที่รักห่างออกไป|It will go badly because it will push loved ones away|ห่างเหิน,ใกล้ชิด||
+ถ้าทำสิ่งนี้แล้วจะแย่เพราะคุณจะต้องรับผลที่ไม่ได้ก่อ|It will go badly because you'll bear consequences you didn't cause|รับผล,ขอบเขต||
+ถ้าทำสิ่งนี้แล้วจะแย่เพราะจะเกิดปัญหากับเจ้าหน้าที่|It will go badly because there will be trouble with officials|เจ้าหน้าที่,ถูกต้อง||
+# ไม่ทำสิ่งนี้ก็ได้เพราะ…
+ไม่ทำสิ่งนี้ก็ได้เพราะมีทางอื่นที่ง่ายกว่า|You can skip it because there is an easier way|ทางอื่น,ง่าย||
+ไม่ทำสิ่งนี้ก็ได้เพราะมันไม่ได้สำคัญอย่างที่คิด|You can skip it because it matters less than you think|ไม่สำคัญ,ปล่อย||
+ไม่ทำสิ่งนี้ก็ได้เพราะเรื่องจะคลี่คลายเอง|You can skip it because it will sort itself out|คลี่คลายเอง,รอ||
+ไม่ทำสิ่งนี้ก็ได้เพราะคนอื่นจัดการได้ดีกว่า|You can skip it because someone else can handle it better|มอบหมาย,ไว้ใจ||
+ไม่ทำสิ่งนี้ก็ได้เพราะคุณทำมากพอแล้ว|You can skip it because you have done enough|พอแล้ว,พัก||
+ไม่ทำสิ่งนี้ก็ได้เพราะไม่มีใครคาดหวังจากคุณจริงๆ|You can skip it because no one really expects it|ความคาดหวัง,เบาใจ||
+ไม่ทำสิ่งนี้ก็ได้เพราะมันเป็นแค่ความอยากชั่วครู่|You can skip it because it is a passing urge|อยากชั่วครู่,รอ||
+ไม่ทำสิ่งนี้ก็ได้เพราะผลลัพธ์จะเท่ากันอยู่ดี|You can skip it because the outcome is the same either way|ผลเท่ากัน,ไม่ต้องฝืน||
+ไม่ทำสิ่งนี้ก็ได้เพราะเวลาพักสำคัญกว่าตอนนี้|You can skip it because rest matters more right now|พัก,ฟื้นตัว||
+ไม่ทำสิ่งนี้ก็ได้เพราะคุณไม่ต้องพิสูจน์อะไรกับใคร|You can skip it because you have nothing to prove|พิสูจน์,คุณค่า||
+ไม่ทำสิ่งนี้ก็ได้เพราะมีเรื่องสำคัญกว่ารออยู่|You can skip it because something more important is waiting|ลำดับ,สำคัญกว่า||
+ไม่ทำสิ่งนี้ก็ได้เพราะความสัมพันธ์นี้ดีอยู่แล้ว|You can skip it because this relationship is fine as is|ดีอยู่แล้ว,ไม่ต้องเปลี่ยน||
+ไม่ทำสิ่งนี้ก็ได้เพราะเงินที่มีพอแล้ว|You can skip it because what you have is enough|พอเพียง,พอใจ||
+ไม่ทำสิ่งนี้ก็ได้เพราะมันไม่ใช่หน้าที่ของคุณ|You can skip it because it isn't your job|หน้าที่,ขอบเขต||
+ไม่ทำสิ่งนี้ก็ได้เพราะใจคุณไม่ได้อยากจริงๆ|You can skip it because you don't really want to|ไม่อยาก,ฟังใจ||
+ไม่ทำสิ่งนี้ก็ได้เพราะโอกาสจะวนกลับมาอีก|You can skip it because the chance will come round again|โอกาส,วนกลับ||
+ไม่ทำสิ่งนี้ก็ได้เพราะคนที่ขอยังไม่ได้ต้องการจริง|You can skip it because the one asking doesn't really need it|ไม่จำเป็น,ปฏิเสธได้||
+ไม่ทำสิ่งนี้ก็ได้เพราะคุณมีสิทธิ์ปฏิเสธ|You can skip it because you have the right to say no|ปฏิเสธ,สิทธิ์||
+ไม่ทำสิ่งนี้ก็ได้เพราะเรื่องนี้ไม่ได้อยู่ในการควบคุมของคุณ|You can skip it because it's out of your control|ควบคุมไม่ได้,ปล่อยวาง||
+ไม่ทำสิ่งนี้ก็ได้เพราะชีวิตตอนนี้ลงตัวแล้ว|You can skip it because life is balanced right now|ลงตัว,สมดุล||
+ไม่ทำสิ่งนี้ก็ได้เพราะไม่ต้องรีบตามกระแส|You can skip it because no need to follow the trend|กระแส,ช้าได้||
+ไม่ทำสิ่งนี้ก็ได้เพราะคุณเรียนรู้บทนี้ไปแล้ว|You can skip it because you already learned this lesson|บทเรียน,ผ่านแล้ว||
+ไม่ทำสิ่งนี้ก็ได้เพราะจะช่วยให้มีเวลาให้ตัวเอง|You can skip it because it frees time for yourself|เวลาตัวเอง,ดูแล||
+ไม่ทำสิ่งนี้ก็ได้เพราะคนรอบตัวเข้าใจคุณอยู่แล้ว|You can skip it because those around you already understand|เข้าใจแล้ว,ไม่ต้องอธิบาย||
+ไม่ทำสิ่งนี้ก็ได้เพราะความสงบมีค่ามากกว่า|You can skip it because peace is worth more|สงบ,มีค่า||
+ไม่ทำสิ่งนี้ก็ได้เพราะไม่มีอะไรเสียหายถ้าไม่ทำ|You can skip it because nothing is lost if you don't|ไม่เสียหาย,สบายใจ||
+ไม่ทำสิ่งนี้ก็ได้เพราะมันเป็นความต้องการของคนอื่น|You can skip it because it is someone else's wish|ความต้องการคนอื่น,ตัวเอง||
+ไม่ทำสิ่งนี้ก็ได้เพราะงานนี้ไม่คุ้มเหนื่อย|You can skip it because it isn't worth the effort|ไม่คุ้ม,ประหยัดแรง||
+ไม่ทำสิ่งนี้ก็ได้เพราะคุณเติบโตเกินเรื่องนี้แล้ว|You can skip it because you've outgrown it|โตแล้ว,ก้าวผ่าน||
+ไม่ทำสิ่งนี้ก็ได้เพราะจังหวะชีวิตกำลังพาไปทางอื่น|You can skip it because life is steering you elsewhere|ทางอื่น,จังหวะ||
+ไม่ทำสิ่งนี้ก็ได้เพราะการรอเฉยๆ ก็เป็นคำตอบ|You can skip it because waiting is an answer too|รอ,นิ่ง||
+ไม่ทำสิ่งนี้ก็ได้เพราะไม่มีกำหนดเวลาตายตัว|You can skip it because there is no hard deadline|ไม่เร่ง,ยืดหยุ่น||
+ไม่ทำสิ่งนี้ก็ได้เพราะคนที่ใช่จะไม่ต้องให้คุณฝืน|You can skip it because the right person won't make you force it|คนที่ใช่,ไม่ฝืน||
+ไม่ทำสิ่งนี้ก็ได้เพราะสุขภาพใจสำคัญกว่าผลงาน|You can skip it because mental health matters more than output|สุขภาพใจ,สำคัญ||
+ไม่ทำสิ่งนี้ก็ได้เพราะความเรียบง่ายก็พอแล้ว|You can skip it because simple is enough|เรียบง่าย,พอ||
+ไม่ทำสิ่งนี้ก็ได้เพราะคุณมีทางเลือกที่ดีอยู่แล้ว|You can skip it because you already have a good option|ทางเลือก,ดีอยู่แล้ว||
+ไม่ทำสิ่งนี้ก็ได้เพราะเรื่องนี้ผ่านไปแล้ว|You can skip it because this is already behind you|ผ่านไป,ปล่อยวาง||
+ไม่ทำสิ่งนี้ก็ได้เพราะไม่ต้องตอบทุกคำถาม|You can skip it because you don't have to answer everything|ไม่ต้องตอบ,ขอบเขต||
+ไม่ทำสิ่งนี้ก็ได้เพราะมันไม่ได้เพิ่มความสุข|You can skip it because it won't add to your happiness|ความสุข,ไม่เพิ่ม||
+ไม่ทำสิ่งนี้ก็ได้เพราะแค่ขอบคุณก็พอ|You can skip it because a thank-you is enough|ขอบคุณ,พอ||
+ไม่ทำสิ่งนี้ก็ได้เพราะคุณไม่ต้องเป็นคนแบกทุกเรื่อง|You can skip it because you don't have to carry everything|ไม่ต้องแบก,แบ่งปัน||
+ไม่ทำสิ่งนี้ก็ได้เพราะกฎไม่ได้บังคับ|You can skip it because no rule requires it|ไม่บังคับ,เลือกได้||
+ไม่ทำสิ่งนี้ก็ได้เพราะเป็นแค่ความกังวลล่วงหน้า|You can skip it because it's just worry about the future|กังวล,ปัจจุบัน||
+ไม่ทำสิ่งนี้ก็ได้เพราะคนที่สำคัญไม่ได้สนใจเรื่องนี้|You can skip it because the people who matter don't care about it|ไม่สนใจ,เบาใจ||
+ไม่ทำสิ่งนี้ก็ได้เพราะความสม่ำเสมอเดิมดีกว่า|You can skip it because your usual routine is better|สม่ำเสมอ,คงเดิม||
+ไม่ทำสิ่งนี้ก็ได้เพราะมันเป็นเรื่องของจังหวะ ไม่ใช่ความพยายาม|You can skip it because it is about timing, not effort|จังหวะ,ไม่ฝืน||
+ไม่ทำสิ่งนี้ก็ได้เพราะการไม่ทำคือการรักษาพลัง|You can skip it because not doing it saves your energy|รักษาพลัง,พัก||
+ไม่ทำสิ่งนี้ก็ได้เพราะผลจะมาหาเองตามกรรม (ความเชื่อ)|You can skip it because karma will bring it in time (belief)|กรรม,ความเชื่อ||
+ไม่ทำสิ่งนี้ก็ได้เพราะคนอื่นได้ทำแทนแล้ว|You can skip it because someone already did it|ทำแล้ว,ไม่ซ้ำ||
+ไม่ทำสิ่งนี้ก็ได้เพราะคุณดีพอแล้วตอนนี้|You can skip it because you are good enough as you are|ดีพอ,ยอมรับตัวเอง||
+ไม่ทำสิ่งนี้ก็ได้เพราะไม่มีอะไรต้องรีบตัดสินใจ|You can skip it because there is nothing to decide in a hurry|ไม่รีบ,คิดก่อน||
+ไม่ทำสิ่งนี้ก็ได้เพราะความต้องการจะเปลี่ยนไปเอง|You can skip it because the wish will change on its own|เปลี่ยนเอง,รอดู||
+ไม่ทำสิ่งนี้ก็ได้เพราะถอยหนึ่งก้าวก็ยังปลอดภัย|You can skip it because stepping back is still safe|ถอย,ปลอดภัย||
+ไม่ทำสิ่งนี้ก็ได้เพราะเป็นแค่ความเกรงใจ|You can skip it because it's only politeness|เกรงใจ,จริงใจ||
+ไม่ทำสิ่งนี้ก็ได้เพราะเรื่องนี้ไม่ได้กำหนดชีวิตคุณ|You can skip it because this doesn't define your life|ไม่กำหนด,ชีวิต||
+ไม่ทำสิ่งนี้ก็ได้เพราะมีคนใจดีจะเข้ามาช่วย|You can skip it because someone kind will step in|คนใจดี,ช่วยเหลือ||
+ไม่ทำสิ่งนี้ก็ได้เพราะความเงียบจะพูดแทน|You can skip it because silence will speak for you|ความเงียบ,นิ่ง||
+ไม่ทำสิ่งนี้ก็ได้เพราะมันไม่ได้แก้ปัญหาจริง|You can skip it because it wouldn't solve the real problem|ไม่แก้ปัญหา,ต้นเหตุ||
+ไม่ทำสิ่งนี้ก็ได้เพราะพรุ่งนี้ก็ยังทำได้|You can skip it because you can still do it tomorrow|พรุ่งนี้,ไม่ด่วน||
+ไม่ทำสิ่งนี้ก็ได้เพราะใจที่พอคือรวยที่สุด|You can skip it because contentment is the greatest wealth|พอใจ,รวยใจ||
+ไม่ทำสิ่งนี้ก็ได้เพราะคุณกำลังพยายามมากเกินไป|You can skip it because you're trying too hard|พยายามเกิน,ผ่อน||
+ไม่ทำสิ่งนี้ก็ได้เพราะสิ่งที่มีอยู่ทำงานดีแล้ว|You can skip it because what you have works well|ใช้งานได้,ไม่ต้องเปลี่ยน||
+ไม่ทำสิ่งนี้ก็ได้เพราะเป็นความคาดหวังของสังคม ไม่ใช่ของคุณ|You can skip it because it's society's expectation, not yours|สังคม,ของตัวเอง||
+ไม่ทำสิ่งนี้ก็ได้เพราะไม่มีใครรออยู่ปลายทาง|You can skip it because no one is waiting at the end|ไม่มีคนรอ,ทบทวน||
+ไม่ทำสิ่งนี้ก็ได้เพราะชีวิตยังมีทางให้เลือกอีกมาก|You can skip it because life still has many paths|ทางเลือก,กว้าง||
+ไม่ทำสิ่งนี้ก็ได้เพราะคุณได้ทำส่วนของคุณครบแล้ว|You can skip it because you have done your part|ทำครบ,วางลง||
+ไม่ทำสิ่งนี้ก็ได้เพราะความรักไม่ต้องพิสูจน์ด้วยสิ่งนี้|You can skip it because love needs no proof like this|ความรัก,ไม่ต้องพิสูจน์||
+ไม่ทำสิ่งนี้ก็ได้เพราะมันเป็นเรื่องเล็กที่ผ่านไปได้|You can skip it because it's a small thing that will pass|เรื่องเล็ก,ผ่านไป||
+# ถ้าทำสิ่งนี้แล้วจะ…
+ถ้าทำสิ่งนี้แล้วจะได้สิ่งที่หวังแต่ช้ากว่าที่คิด|If you do it, you will get what you hope for, only slower|สมหวัง,ช้า||
+ถ้าทำสิ่งนี้แล้วจะได้เพื่อนร่วมทางที่ดี|If you do it, you will find good company on the way|เพื่อนร่วมทาง,ดี||
+ถ้าทำสิ่งนี้แล้วจะเหนื่อยช่วงแรกแล้วสบายภายหลัง|If you do it, you will struggle first, then ease|เหนื่อยก่อน,สบายทีหลัง||
+ถ้าทำสิ่งนี้แล้วจะได้เงินเพิ่มแต่ต้องใช้เวลา|If you do it, you will earn more, in time|เงินเพิ่ม,เวลา||
+ถ้าทำสิ่งนี้แล้วจะเจอความท้าทายที่ทำให้เก่งขึ้น|If you do it, you will meet a challenge that makes you better|ท้าทาย,เก่งขึ้น||
+ถ้าทำสิ่งนี้แล้วจะได้รับคำชมจากคนที่ไม่คาดคิด|If you do it, you will be praised by someone unexpected|คำชม,ไม่คาดคิด||
+ถ้าทำสิ่งนี้แล้วจะมีคนไม่พอใจแต่ส่วนใหญ่ยินดี|If you do it, you will upset a few but please most|ส่วนใหญ่,ยินดี||
+ถ้าทำสิ่งนี้แล้วจะต้องปรับแผนหนึ่งครั้ง|If you do it, you will need to adjust the plan once|ปรับแผน,ยืดหยุ่น||
+ถ้าทำสิ่งนี้แล้วจะได้รู้ว่าใครจริงใจ|If you do it, you will learn who is sincere|จริงใจ,มองเห็น||
+ถ้าทำสิ่งนี้แล้วจะเปลี่ยนมุมมองชีวิต|If you do it, you will see life differently|มุมมอง,เปลี่ยน||
+ถ้าทำสิ่งนี้แล้วจะเดินทางบ่อยขึ้น|If you do it, you will travel more|เดินทาง,บ่อย||
+ถ้าทำสิ่งนี้แล้วจะได้ย้ายไปที่ที่ดีกว่า|If you do it, you will move somewhere better|ย้าย,ดีกว่า||
+ถ้าทำสิ่งนี้แล้วจะได้ความรักกลับคืนมา|If you do it, you will get love back|ความรัก,คืนมา||
+ถ้าทำสิ่งนี้แล้วจะพบคนสำคัญในชีวิต|If you do it, you will meet someone important|คนสำคัญ,พบเจอ||
+ถ้าทำสิ่งนี้แล้วจะมีภาระเพิ่มแต่คุ้มค่า|If you do it, you will take on more, and it's worth it|ภาระ,คุ้มค่า||
+ถ้าทำสิ่งนี้แล้วจะได้เริ่มอาชีพใหม่|If you do it, you will start a new line of work|อาชีพใหม่,เริ่ม||
+ถ้าทำสิ่งนี้แล้วจะเป็นที่รู้จักมากขึ้น|If you do it, you will become better known|ชื่อเสียง,รู้จัก||
+ถ้าทำสิ่งนี้แล้วจะได้ความรู้สึกปลอดภัย|If you do it, you will feel safe|ปลอดภัย,มั่นคง||
+ถ้าทำสิ่งนี้แล้วจะมีคนมาขอคำแนะนำจากคุณ|If you do it, you will have people ask your advice|ที่ปรึกษา,ไว้ใจ||
+ถ้าทำสิ่งนี้แล้วจะเสียเงินก้อนแรกแต่ได้คืนภายหลัง|If you do it, you will spend first and recover it later|ลงทุน,ได้คืน||
+ถ้าทำสิ่งนี้แล้วจะได้พักผ่อนอย่างที่ต้องการ|If you do it, you will get the rest you need|พักผ่อน,ฟื้นตัว||
+ถ้าทำสิ่งนี้แล้วจะเจออุปสรรคเล็กๆ ที่แก้ได้|If you do it, you will meet small, fixable obstacles|อุปสรรคเล็ก,แก้ได้||
+ถ้าทำสิ่งนี้แล้วจะได้ความเป็นอิสระทางการเงิน|If you do it, you will gain financial independence|อิสระทางการเงิน,มั่นคง||
+ถ้าทำสิ่งนี้แล้วจะใกล้ชิดครอบครัวมากขึ้น|If you do it, you will grow closer to family|ครอบครัว,ใกล้ชิด||
+ถ้าทำสิ่งนี้แล้วจะได้เห็นผลภายใน 3 เดือน|If you do it, you will see results within 3 months|ผล,3 เดือน||
+ถ้าทำสิ่งนี้แล้วจะได้เรียนต่อหรือฝึกทักษะใหม่|If you do it, you will study or train in something new|เรียนต่อ,ทักษะ||
+ถ้าทำสิ่งนี้แล้วจะได้ใช้ความสามารถเต็มที่|If you do it, you will use your talents fully|ความสามารถ,เต็มที่||
+ถ้าทำสิ่งนี้แล้วจะถูกทดสอบความอดทน|If you do it, you will have your patience tested|อดทน,ทดสอบ||
+ถ้าทำสิ่งนี้แล้วจะได้รับข่าวดีทางโทรศัพท์หรือข้อความ|If you do it, you will get good news by call or message|ข่าวดี,ข้อความ||
+ถ้าทำสิ่งนี้แล้วจะมีคู่แข่งโผล่มา|If you do it, you will find a rival appears|คู่แข่ง,ตั้งใจ||
+ถ้าทำสิ่งนี้แล้วจะต้องตัดใจจากบางอย่าง|If you do it, you will have to let something go|ตัดใจ,เลือก||
+ถ้าทำสิ่งนี้แล้วจะรู้สึกเป็นตัวเองมากขึ้น|If you do it, you will feel more like yourself|เป็นตัวเอง,สบายใจ||
+ถ้าทำสิ่งนี้แล้วจะได้งานที่มั่นคงขึ้น|If you do it, you will land steadier work|งานมั่นคง,ปลอดภัย||
+ถ้าทำสิ่งนี้แล้วจะมีผู้ใหญ่ช่วยดันจากเบื้องหลัง|If you do it, you will be backed by a mentor behind the scenes|ผู้ใหญ่,ผลักดัน||
+ถ้าทำสิ่งนี้แล้วจะได้ช่วยคนอื่นโดยไม่ตั้งใจ|If you do it, you will end up helping others|ช่วยเหลือ,ผลพลอยได้||
+ถ้าทำสิ่งนี้แล้วจะได้เห็นด้านใหม่ของตัวเอง|If you do it, you will discover a new side of yourself|ด้านใหม่,ค้นพบ||
+ถ้าทำสิ่งนี้แล้วจะมีเรื่องให้ตัดสินใจต่ออีกหนึ่งเรื่อง|If you do it, you will face one more decision|ตัดสินใจ,ต่อเนื่อง||
+ถ้าทำสิ่งนี้แล้วจะได้ความสงบที่ตามหามานาน|If you do it, you will find the peace you've sought|ความสงบ,ตามหา||
+ถ้าทำสิ่งนี้แล้วจะต้องเรียนรู้กฎใหม่|If you do it, you will have to learn new rules|กฎใหม่,ปรับตัว||
+ถ้าทำสิ่งนี้แล้วจะมีคนเข้าใจผิดในช่วงแรก|If you do it, you will be misunderstood at first|เข้าใจผิด,อธิบาย||
+ถ้าทำสิ่งนี้แล้วจะได้รายได้หลายทาง|If you do it, you will earn from several sources|หลายทาง,รายได้||
+ถ้าทำสิ่งนี้แล้วจะได้ปลดหนี้หรือภาระเก่า|If you do it, you will clear an old debt or burden|ปลดหนี้,เบาตัว||
+ถ้าทำสิ่งนี้แล้วจะได้ทำงานร่วมกับคนเก่ง|If you do it, you will work with talented people|คนเก่ง,ทีม||
+ถ้าทำสิ่งนี้แล้วจะต้องอยู่ห่างบ้านช่วงหนึ่ง|If you do it, you will be away from home for a while|ห่างบ้าน,ชั่วคราว||
+ถ้าทำสิ่งนี้แล้วจะมีความสุขเล็กๆ ทุกวัน|If you do it, you will find small joys every day|ความสุขเล็ก,ทุกวัน||
+ถ้าทำสิ่งนี้แล้วจะผ่านพ้นช่วงยากได้|If you do it, you will get through the hard part|ผ่านพ้น,แข็งแรง||
+ถ้าทำสิ่งนี้แล้วจะได้รับมรดกหรือของตกทอด|If you do it, you will receive an inheritance or heirloom|มรดก,ของตกทอด||
+ถ้าทำสิ่งนี้แล้วจะได้สร้างบ้านหรือที่อยู่ใหม่|If you do it, you will build a new home|บ้านใหม่,สร้าง||
+ถ้าทำสิ่งนี้แล้วจะได้ทำบุญใหญ่ (ความเชื่อ)|If you do it, you will make great merit (belief)|บุญใหญ่,ความเชื่อ||
+ถ้าทำสิ่งนี้แล้วจะต้องอธิบายตัวเองหลายรอบ|If you do it, you will have to explain yourself many times|อธิบาย,อดทน||
+ถ้าทำสิ่งนี้แล้วจะได้กลับไปหาสิ่งที่เคยรัก|If you do it, you will return to something you used to love|สิ่งที่รัก,กลับมา||
+ถ้าทำสิ่งนี้แล้วจะได้คนใหม่เข้ามาในครอบครัว|If you do it, you will welcome someone new into the family|สมาชิกใหม่,ครอบครัว||
+ถ้าทำสิ่งนี้แล้วจะได้ความสนุกและเสียงหัวเราะ|If you do it, you will have fun and laughter|สนุก,หัวเราะ||
+ถ้าทำสิ่งนี้แล้วจะต้องลงแรงมากกว่าคนอื่น|If you do it, you will have to work harder than others|ลงแรง,ขยัน||
+ถ้าทำสิ่งนี้แล้วจะได้รับการเลื่อนขั้นหรือบทบาทใหม่|If you do it, you will get a promotion or new role|เลื่อนขั้น,บทบาทใหม่||
+ถ้าทำสิ่งนี้แล้วจะเจอคนที่มีความฝันเหมือนกัน|If you do it, you will meet someone with the same dream|ความฝันเดียวกัน,พบเจอ||
+ถ้าทำสิ่งนี้แล้วจะสุขภาพแข็งแรงขึ้น|If you do it, you will grow healthier|แข็งแรง,สุขภาพ||
+ถ้าทำสิ่งนี้แล้วจะได้คืนดีกับคนที่เคยห่าง|If you do it, you will reconcile with someone distant|คืนดี,ใกล้ชิด||
+ถ้าทำสิ่งนี้แล้วจะมีชื่ออยู่ในใจคนอีกนาน|If you do it, you will be remembered for a long time|จดจำ,ยาวนาน||
+ถ้าทำสิ่งนี้แล้วจะต้องเลือกระหว่างสองทาง|If you do it, you will have to choose between two paths|สองทาง,เลือก||
+ถ้าทำสิ่งนี้แล้วจะได้ผลดีเกินความพยายาม|If you do it, you will get more than you put in|ผลดี,เกินคาด||
+ถ้าทำสิ่งนี้แล้วจะพบความจริงบางอย่างที่ซ่อนอยู่|If you do it, you will uncover a hidden truth|ความจริง,ค้นพบ||
+ถ้าทำสิ่งนี้แล้วจะได้เวลาว่างมากขึ้น|If you do it, you will have more free time|เวลาว่าง,สมดุล||
+ถ้าทำสิ่งนี้แล้วจะเป็นที่พึ่งของคนอื่น|If you do it, you will become someone others rely on|ที่พึ่ง,รับผิดชอบ||
+ถ้าทำสิ่งนี้แล้วจะได้ความมั่นใจกลับมา|If you do it, you will get your confidence back|มั่นใจ,คืนมา||
+ถ้าทำสิ่งนี้แล้วจะได้ไปต่างประเทศ|If you do it, you will go abroad|ต่างประเทศ,เดินทาง||
+ถ้าทำสิ่งนี้แล้วจะได้เอกสารหรือใบอนุญาตที่รอ|If you do it, you will receive the document or permit you awaited|เอกสาร,อนุมัติ||
+ถ้าทำสิ่งนี้แล้วจะต้องอดทนรอคำตอบ|If you do it, you will have to wait for an answer|รอคำตอบ,อดทน||
+ถ้าทำสิ่งนี้แล้วจะได้สิ่งที่ดีกว่าที่ขอ|If you do it, you will get something better than you asked|ดีกว่า,ของขวัญ||
+ถ้าทำสิ่งนี้แล้วจะมีเรื่องให้ฉลองเร็วๆ นี้|If you do it, you will have something to celebrate soon|ฉลอง,ใกล้||
+ถ้าทำสิ่งนี้แล้วจะได้ตั้งหลักใหม่|If you do it, you will get back on your feet|ตั้งหลัก,ใหม่||
+ถ้าทำสิ่งนี้แล้วจะได้ความรักจากคนรอบตัวมากขึ้น|If you do it, you will feel more love from those around you|ความรัก,คนรอบตัว||
+ถ้าทำสิ่งนี้แล้วจะต้องเปลี่ยนนิสัยบางอย่าง|If you do it, you will need to change a habit|เปลี่ยนนิสัย,พัฒนา||
+ถ้าทำสิ่งนี้แล้วจะได้พื้นที่ของตัวเอง|If you do it, you will have a space of your own|พื้นที่,ตัวเอง||
+ถ้าทำสิ่งนี้แล้วจะได้เห็นโลกกว้างขึ้น|If you do it, you will see a wider world|โลกกว้าง,เปิดใจ||
+ถ้าทำสิ่งนี้แล้วจะพบว่ามันง่ายกว่าที่กลัว|If you do it, you will find it easier than you feared|ง่าย,ไม่ต้องกลัว||
+ถ้าทำสิ่งนี้แล้วจะได้แรงบันดาลใจใหม่|If you do it, you will find new inspiration|แรงบันดาลใจ,ใหม่||
+ถ้าทำสิ่งนี้แล้วจะได้รู้คุณค่าของตัวเอง|If you do it, you will know your own worth|คุณค่า,ตัวเอง||
+# ถ้าไม่ทำสิ่งนี้แล้วจะ…
+ถ้าไม่ทำสิ่งนี้แล้วจะอยู่ในจุดเดิมต่อไป|If you don't do it, you will stay where you are|จุดเดิม,นิ่ง||
+ถ้าไม่ทำสิ่งนี้แล้วจะเสียดายภายหลัง|If you don't do it, you will regret it later|เสียดาย,ภายหลัง||
+ถ้าไม่ทำสิ่งนี้แล้วจะได้พักและเก็บแรงไว้|If you don't do it, you will rest and save your energy|พัก,เก็บแรง||
+ถ้าไม่ทำสิ่งนี้แล้วจะพลาดโอกาสครั้งนี้แต่จะมีอีก|If you don't do it, you will miss this chance, but another will come|พลาด,มีอีก||
+ถ้าไม่ทำสิ่งนี้แล้วจะรักษาความสงบไว้ได้|If you don't do it, you will keep the peace|สงบ,รักษา||
+ถ้าไม่ทำสิ่งนี้แล้วจะปัญหาเดิมจะวนกลับมา|If you don't do it, you will see the old problem return|ปัญหาเดิม,วน||
+ถ้าไม่ทำสิ่งนี้แล้วจะประหยัดเงินได้ก้อนหนึ่ง|If you don't do it, you will save a sum of money|ประหยัด,เงินเก็บ||
+ถ้าไม่ทำสิ่งนี้แล้วจะความสัมพันธ์จะห่างลง|If you don't do it, you will drift apart from someone|ห่างเหิน,ความสัมพันธ์||
+ถ้าไม่ทำสิ่งนี้แล้วจะได้เวลาไปทำเรื่องอื่น|If you don't do it, you will have time for other things|เวลา,เรื่องอื่น||
+ถ้าไม่ทำสิ่งนี้แล้วจะคนอื่นจะทำแทนและได้หน้า|If you don't do it, you will let someone else do it and take credit|คนอื่นได้หน้า,ยอม||
+ถ้าไม่ทำสิ่งนี้แล้วจะใจจะค้างคาอยู่|If you don't do it, you will be left with an unsettled heart|ค้างคา,ใจ||
+ถ้าไม่ทำสิ่งนี้แล้วจะหลีกเลี่ยงความเสี่ยงได้|If you don't do it, you will avoid the risk|ปลอดภัย,เลี่ยง||
+ถ้าไม่ทำสิ่งนี้แล้วจะมีคนผิดหวังในตัวคุณ|If you don't do it, you will disappoint someone|ผิดหวัง,คาดหวัง||
+ถ้าไม่ทำสิ่งนี้แล้วจะปลอดภัยแต่ไม่โต|If you don't do it, you will be safe but not grow|ปลอดภัย,ไม่เติบโต||
+ถ้าไม่ทำสิ่งนี้แล้วจะได้เห็นว่ามันไม่จำเป็นจริง|If you don't do it, you will see it wasn't really needed|ไม่จำเป็น,เห็นจริง||
+ถ้าไม่ทำสิ่งนี้แล้วจะงานจะค้างและเพิ่มขึ้น|If you don't do it, you will watch the work pile up|งานค้าง,เพิ่ม||
+ถ้าไม่ทำสิ่งนี้แล้วจะมีโอกาสคิดให้รอบคอบขึ้น|If you don't do it, you will get time to think it through|รอบคอบ,คิดก่อน||
+ถ้าไม่ทำสิ่งนี้แล้วจะสุขภาพอาจแย่ลงช้าๆ|If you don't do it, you will let your health slowly slip|สุขภาพ,ค่อยๆ แย่||
+ถ้าไม่ทำสิ่งนี้แล้วจะได้เห็นทางเลือกที่ดีกว่า|If you don't do it, you will discover a better option|ทางเลือก,ดีกว่า||
+ถ้าไม่ทำสิ่งนี้แล้วจะต้องเจอเรื่องนี้อีกในรูปแบบใหม่|If you don't do it, you will meet this again in a new form|วนกลับ,บทเรียน||
+ถ้าไม่ทำสิ่งนี้แล้วจะไม่มีอะไรเปลี่ยนแปลง|If you don't do it, you will see nothing change|ไม่เปลี่ยน,คงที่||
+ถ้าไม่ทำสิ่งนี้แล้วจะรักษาเงินก้อนเดิมไว้ได้|If you don't do it, you will keep your money intact|รักษาเงิน,มั่นคง||
+ถ้าไม่ทำสิ่งนี้แล้วจะคนที่รอจะหมดความอดทน|If you don't do it, you will wear out the patience of someone waiting|คนรอ,หมดความอดทน||
+ถ้าไม่ทำสิ่งนี้แล้วจะได้ความเงียบสงบที่ต้องการ|If you don't do it, you will get the quiet you need|เงียบสงบ,ต้องการ||
+ถ้าไม่ทำสิ่งนี้แล้วจะความกลัวจะยังอยู่|If you don't do it, you will keep the fear|ความกลัว,ยังอยู่||
+ถ้าไม่ทำสิ่งนี้แล้วจะเสียความเชื่อมั่นจากคนอื่น|If you don't do it, you will lose others' confidence|ความเชื่อมั่น,เสีย||
+ถ้าไม่ทำสิ่งนี้แล้วจะรอดจากความวุ่นวาย|If you don't do it, you will escape the chaos|รอด,ความวุ่นวาย||
+ถ้าไม่ทำสิ่งนี้แล้วจะความฝันจะเลื่อนออกไป|If you don't do it, you will put your dream on hold|ความฝัน,เลื่อน||
+ถ้าไม่ทำสิ่งนี้แล้วจะได้อยู่กับคนที่สำคัญมากขึ้น|If you don't do it, you will spend more time with those who matter|คนสำคัญ,อยู่ด้วย||
+ถ้าไม่ทำสิ่งนี้แล้วจะต้องเริ่มใหม่ในอนาคต|If you don't do it, you will have to start again later|เริ่มใหม่,อนาคต||
+ถ้าไม่ทำสิ่งนี้แล้วจะหนี้หรือภาระยังไม่หมด|If you don't do it, you will still carry the debt or burden|ภาระ,ยังอยู่||
+ถ้าไม่ทำสิ่งนี้แล้วจะไม่ต้องเจอคนที่ไม่อยากเจอ|If you don't do it, you will avoid someone you'd rather not see|หลีกเลี่ยง,สบายใจ||
+ถ้าไม่ทำสิ่งนี้แล้วจะไม่ได้รู้คำตอบ|If you don't do it, you will never know the answer|ไม่รู้,คำตอบ||
+ถ้าไม่ทำสิ่งนี้แล้วจะมีพลังเหลือไว้ใช้เรื่องสำคัญ|If you don't do it, you will save energy for what matters|พลัง,สำคัญ||
+ถ้าไม่ทำสิ่งนี้แล้วจะเปิดทางให้คนอื่นเข้ามาแทน|If you don't do it, you will open the way for someone else|คนอื่นแทน,ทาง||
+ถ้าไม่ทำสิ่งนี้แล้วจะใจจะเบาขึ้น|If you don't do it, you will feel lighter|ใจเบา,ปล่อย||
+ถ้าไม่ทำสิ่งนี้แล้วจะเรื่องจะเงียบหายไปเอง|If you don't do it, you will watch it fade away on its own|เงียบหาย,ผ่านไป||
+ถ้าไม่ทำสิ่งนี้แล้วจะคนรอบตัวจะช่วยเติมส่วนที่ขาด|If you don't do it, you will let others fill the gap|คนรอบตัว,ช่วยเติม||
+ถ้าไม่ทำสิ่งนี้แล้วจะต้องอยู่กับความไม่แน่นอนนานขึ้น|If you don't do it, you will live with uncertainty longer|ไม่แน่นอน,อดทน||
+ถ้าไม่ทำสิ่งนี้แล้วจะรักษาขอบเขตของตัวเองได้|If you don't do it, you will keep your boundaries|ขอบเขต,รักษา||
+ถ้าไม่ทำสิ่งนี้แล้วจะพลาดคนที่อาจเป็นคนสำคัญ|If you don't do it, you will miss someone who might matter|พลาด,คนสำคัญ||
+ถ้าไม่ทำสิ่งนี้แล้วจะได้เวลาเยียวยาใจ|If you don't do it, you will have time to heal|เยียวยา,เวลา||
+ถ้าไม่ทำสิ่งนี้แล้วจะคนจะมองว่าคุณไม่สนใจ|If you don't do it, you will seem uninterested to others|ไม่สนใจ,ภาพลักษณ์||
+ถ้าไม่ทำสิ่งนี้แล้วจะได้เรียนรู้ที่จะพอ|If you don't do it, you will learn what enough means|พอ,เรียนรู้||
+ถ้าไม่ทำสิ่งนี้แล้วจะงานใหญ่จะเดินช้าลง|If you don't do it, you will slow down a big project|ช้าลง,งานใหญ่||
+ถ้าไม่ทำสิ่งนี้แล้วจะหลีกเลี่ยงการทะเลาะได้|If you don't do it, you will avoid an argument|เลี่ยงทะเลาะ,สงบ||
+ถ้าไม่ทำสิ่งนี้แล้วจะเงื่อนไขจะเปลี่ยนไปในทางที่แย่ลง|If you don't do it, you will see the terms get worse|เงื่อนไข,แย่ลง||
+ถ้าไม่ทำสิ่งนี้แล้วจะได้ใช้ชีวิตแบบที่คุ้นเคย|If you don't do it, you will keep a familiar life|คุ้นเคย,สบาย||
+ถ้าไม่ทำสิ่งนี้แล้วจะใจจะเริ่มมองหาสิ่งใหม่เอง|If you don't do it, you will start looking for something new anyway|มองหา,ใหม่||
+ถ้าไม่ทำสิ่งนี้แล้วจะคนที่ขอความช่วยเหลือจะหาทางอื่น|If you don't do it, you will let the person asking find another way|ทางอื่น,พึ่งตัวเอง||
+ถ้าไม่ทำสิ่งนี้แล้วจะความรู้สึกจะค่อยๆ จางลง|If you don't do it, you will let the feeling slowly fade|จางลง,ปล่อย||
+ถ้าไม่ทำสิ่งนี้แล้วจะโอกาสจะไปตกที่คู่แข่ง|If you don't do it, you will hand the chance to a rival|คู่แข่ง,พลาด||
+ถ้าไม่ทำสิ่งนี้แล้วจะได้ตั้งหลักให้แน่นก่อน|If you don't do it, you will steady yourself first|ตั้งหลัก,เตรียม||
+ถ้าไม่ทำสิ่งนี้แล้วจะปัญหาเล็กจะกลายเป็นปัญหาใหญ่|If you don't do it, you will let a small problem grow|ลุกลาม,ปัญหาใหญ่||
+ถ้าไม่ทำสิ่งนี้แล้วจะมีเวลาเก็บข้อมูลเพิ่ม|If you don't do it, you will have time to gather more facts|ข้อมูล,เพิ่ม||
+ถ้าไม่ทำสิ่งนี้แล้วจะเสียชื่อเรื่องความรับผิดชอบ|If you don't do it, you will be seen as unreliable|ชื่อเสีย,รับผิดชอบ||
+ถ้าไม่ทำสิ่งนี้แล้วจะได้ใช้ชีวิตช้าลงอย่างมีความสุข|If you don't do it, you will live more slowly and happily|ช้าลง,มีความสุข||
+ถ้าไม่ทำสิ่งนี้แล้วจะจะมีคนมาชวนอีกครั้ง|If you don't do it, you will be invited again|ชวนอีก,โอกาส||
+ถ้าไม่ทำสิ่งนี้แล้วจะรู้สึกโล่งในวันนี้แต่กังวลวันหน้า|If you don't do it, you will feel relief now but worry later|โล่ง,กังวล||
+ถ้าไม่ทำสิ่งนี้แล้วจะครอบครัวจะสบายใจขึ้น|If you don't do it, you will put your family at ease|ครอบครัว,สบายใจ||
+ถ้าไม่ทำสิ่งนี้แล้วจะไม่ได้ทดสอบความสามารถของตัวเอง|If you don't do it, you will never test what you can do|ทดสอบ,ความสามารถ||
+ถ้าไม่ทำสิ่งนี้แล้วจะรักษาความสัมพันธ์เดิมไว้ได้|If you don't do it, you will keep things as they are with someone|ความสัมพันธ์,รักษา||
+ถ้าไม่ทำสิ่งนี้แล้วจะบุญที่ควรได้จะหลุดมือ (ความเชื่อ)|If you don't do it, you will let merit slip away (belief)|บุญ,ความเชื่อ||
+ถ้าไม่ทำสิ่งนี้แล้วจะมีเวลาดูแลสุขภาพ|If you don't do it, you will have time to look after your health|สุขภาพ,ดูแล||
+ถ้าไม่ทำสิ่งนี้แล้วจะต้องฟังคนอื่นตัดสินแทน|If you don't do it, you will let others decide for you|คนอื่นตัดสิน,เสียงตัวเอง||
+ถ้าไม่ทำสิ่งนี้แล้วจะไม่ต้องเปลี่ยนแปลงสิ่งที่ลงตัว|If you don't do it, you will keep what already works|ลงตัว,คงเดิม||
+ถ้าไม่ทำสิ่งนี้แล้วจะความคิดนี้จะกลับมาอีก|If you don't do it, you will find the idea returns|ความคิด,กลับมา||
+ถ้าไม่ทำสิ่งนี้แล้วจะเงินจะยังติดขัดเหมือนเดิม|If you don't do it, you will stay short of money|เงินติดขัด,เหมือนเดิม||
+ถ้าไม่ทำสิ่งนี้แล้วจะได้ความเป็นส่วนตัวกลับมา|If you don't do it, you will get your privacy back|ส่วนตัว,คืนมา||
+ถ้าไม่ทำสิ่งนี้แล้วจะพลาดบทเรียนที่มีค่า|If you don't do it, you will miss a valuable lesson|บทเรียน,พลาด||
+ถ้าไม่ทำสิ่งนี้แล้วจะได้ปกป้องคนที่อ่อนไหว|If you don't do it, you will protect someone vulnerable|ปกป้อง,อ่อนไหว||
+ถ้าไม่ทำสิ่งนี้แล้วจะจะได้รู้ว่าอะไรสำคัญจริง|If you don't do it, you will learn what truly matters|สำคัญจริง,เรียนรู้||
+ถ้าไม่ทำสิ่งนี้แล้วจะความหวังจะยังอยู่|If you don't do it, you will keep your hope alive|ความหวัง,ยังอยู่||
+ถ้าไม่ทำสิ่งนี้แล้วจะเวลาจะตัดสินให้เอง|If you don't do it, you will let time decide|เวลา,ตัดสิน||
+ถ้าไม่ทำสิ่งนี้แล้วจะคนที่ใช่จะยังรอได้|If you don't do it, you will find the right one can still wait|คนที่ใช่,รอได้||
+ถ้าไม่ทำสิ่งนี้แล้วจะได้มองเรื่องนี้จากที่ไกลๆ|If you don't do it, you will see this from a distance|มองไกล,เข้าใจ||
+ถ้าไม่ทำสิ่งนี้แล้วจะทุกอย่างจะผ่านไปอย่างเรียบง่าย|If you don't do it, you will let everything pass simply|เรียบง่าย,ผ่านไป||
+ถ้าไม่ทำสิ่งนี้แล้วจะพลาดความสนุกครั้งนี้|If you don't do it, you will miss out on the fun|พลาด,สนุก||
+ถ้าไม่ทำสิ่งนี้แล้วจะได้คำตอบในแบบที่ไม่คาดคิด|If you don't do it, you will get an answer in an unexpected way|คำตอบ,ไม่คาดคิด||
+ถ้าไม่ทำสิ่งนี้แล้วจะต้องรับผลจากการเพิกเฉยในภายหลัง|If you don't do it, you will face the cost of ignoring it later|เพิกเฉย,ผลภายหลัง||

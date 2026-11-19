@@ -1,0 +1,147 @@
+<!doctype html>
+<html lang="th">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="robots" content="noindex, nofollow">
+<title>RigaRada ปีชงและอายุ</title>
+<!-- Built by tools/tables.py from tools/tables-template.html; edit those, not this file. -->
+<style>
+:root{--bg:#f4f1ea;--surface:#fffdf8;--ink:#1f1d24;--muted:#5f5a68;--line:#d6cfc2;--accent:#5143a8;--accent-ink:#fff;--soft:rgba(81,67,168,.10);--c100:#b3261e;--c75:#c25e00;--c50:#8a6d00;--c25:#2f6f4f;--focus:#c98a00}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#14131a;--surface:#1f1d28;--ink:#ece8f2;--muted:#a9a4b6;--line:#3a3646;--accent:#a394ff;--accent-ink:#14131a;--soft:rgba(163,148,255,.14);--c100:#ff8a80;--c75:#ffb366;--c50:#e6c84d;--c25:#6fd3a3;--focus:#ffcc4d}}
+:root[data-theme="dark"]{--bg:#14131a;--surface:#1f1d28;--ink:#ece8f2;--muted:#a9a4b6;--line:#3a3646;--accent:#a394ff;--accent-ink:#14131a;--soft:rgba(163,148,255,.14);--c100:#ff8a80;--c75:#ffb366;--c50:#e6c84d;--c25:#6fd3a3;--focus:#ffcc4d}
+*{box-sizing:border-box}
+html,body{margin:0}
+body{background:var(--bg);color:var(--ink);font:16px/1.45 system-ui,-apple-system,"Segoe UI","Sukhumvit Set","Noto Sans Thai",sans-serif;overflow-x:hidden}
+[hidden]{display:none!important}
+:focus-visible{outline:3px solid var(--focus);outline-offset:2px}
+#gate{min-height:100dvh;display:grid;place-items:center;padding:16px}
+#gate form{background:var(--surface);border:1px solid var(--line);border-radius:18px;padding:28px 24px;width:100%;max-width:340px;text-align:center}
+#gate h1{font-size:1.3rem;margin:0 0 6px}
+#gate p{color:var(--muted);margin:0 0 16px}
+input,select{font:inherit;color:inherit;background:var(--surface);border:1px solid var(--line);border-radius:10px;min-height:44px;padding:0 12px;width:100%}
+.btn{font:inherit;font-weight:700;min-height:44px;padding:0 16px;border-radius:10px;border:1px solid var(--line);background:var(--surface);color:inherit;cursor:pointer}
+.btn.primary{background:var(--accent);border-color:var(--accent);color:var(--accent-ink);width:100%;margin-top:12px}
+.err{color:var(--c100);min-height:1.4em;margin-top:8px;font-size:.9rem}
+main{max-width:760px;margin:0 auto;padding:16px 16px 48px}
+header{display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap}
+header h1{font-size:1.25rem;margin:0}
+header a{color:var(--accent);font-weight:600;text-decoration:none}
+.tabs{display:flex;gap:4px;background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:4px;margin:14px 0}
+.tabs button{flex:1;min-height:44px;border:0;border-radius:9px;background:none;color:inherit;font:inherit;font-weight:700;cursor:pointer}
+.tabs button[aria-selected="true"]{background:var(--accent);color:var(--accent-ink)}
+.controls{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-bottom:12px}
+.controls label{font-size:.82rem;color:var(--muted);font-weight:600;display:grid;gap:4px}
+.note{font-size:.85rem;color:var(--muted);margin:0 0 12px}
+.legend{display:flex;flex-wrap:wrap;gap:6px 12px;font-size:.82rem;margin:0 0 12px}
+.legend span::before{content:"";display:inline-block;width:10px;height:10px;border-radius:3px;margin-right:5px;vertical-align:-1px;background:var(--c)}
+ol{list-style:none;margin:0;padding:0;display:grid;gap:8px}
+li{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:10px 12px}
+li.hit{border-color:var(--accent);box-shadow:0 0 0 2px var(--soft)}
+.yr{display:flex;flex-wrap:wrap;gap:4px 10px;align-items:baseline}
+.yr b{font-size:1.05rem;font-variant-numeric:tabular-nums}
+.yr .be{color:var(--muted);font-size:.85rem;font-variant-numeric:tabular-nums}
+.yr .z{font-weight:600}
+.lv{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:6px;margin-top:6px}
+.lv div{font-size:.8rem;border-left:3px solid var(--c);padding-left:6px;min-width:0}
+.lv small{display:block;color:var(--muted);font-size:.72rem}
+.age{margin-left:auto;font-weight:700;color:var(--accent);font-variant-numeric:tabular-nums}
+.pair{display:grid;grid-template-columns:84px 1fr;gap:6px}
+.more{display:flex;justify-content:center;margin-top:12px}
+@media (max-width:420px){.lv{grid-template-columns:repeat(2,minmax(0,1fr))}.controls{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+<div id="gate">
+  <form id="gateForm" autocomplete="off">
+    <h1>RigaRada Oracle</h1>
+    <p>ใส่รหัสเพื่อเข้าใช้</p>
+    <input id="code" type="password" inputmode="numeric" maxlength="8" aria-label="รหัส" autofocus>
+    <button class="btn primary" type="submit">เข้าใช้</button>
+    <div class="err" id="err" role="alert"></div>
+  </form>
+</div>
+<main id="app" hidden>
+  <header><h1>ปีชงและตารางอายุ</h1><a href="./">← กลับไปที่ไพ่</a></header>
+  <div class="tabs" role="tablist">
+    <button role="tab" id="tChong" aria-selected="true" aria-controls="pChong">ปฏิทินปีชง</button>
+    <button role="tab" id="tAge" aria-selected="false" aria-controls="pAge">ตารางอายุ</button>
+  </div>
+
+  <section id="pChong" role="tabpanel" aria-labelledby="tChong">
+    <div class="controls">
+      <label>ค้นหาปี<span class="pair"><select id="cEra" aria-label="ระบบปี"><option value="ce">ค.ศ.</option><option value="be">พ.ศ.</option></select><input id="cFind" inputmode="numeric" maxlength="4" placeholder="เช่น 2026"></span></label>
+      <label>ช่วงปี<select id="cRange"></select></label>
+    </div>
+    <p class="note">แต่ละปีมี 4 นักษัตรที่ชง แบ่งตามตำราที่นิยมในไทย: 100% ปีที่อยู่ตรงข้าม (ปะทะตรง) · 75% ปีเดียวกับปีนั้น (ชงตัวเอง) · 50% ปีที่ไห่ (ทำร้ายกัน) · 25% ปีที่ผั่ว (แตกหัก) บางสำนักแบ่งต่างจากนี้ ปีนักษัตรจีนเริ่มราววันลี่ชุน (ประมาณ 4 ก.พ.) ไม่ใช่ 1 มกราคม เป็นความเชื่อ ไม่ใช่ข้อเท็จจริงที่พิสูจน์ได้</p>
+    <div class="legend"><span style="--c:var(--c100)">ชง 100%</span><span style="--c:var(--c75)">ชง 75%</span><span style="--c:var(--c50)">ชง 50%</span><span style="--c:var(--c25)">ชง 25%</span></div>
+    <ol id="cList"></ol>
+  </section>
+
+  <section id="pAge" role="tabpanel" aria-labelledby="tAge" hidden>
+    <div class="controls">
+      <label>ดูอายุในปี (ค.ศ. หรือ พ.ศ.)<input id="aYear" inputmode="numeric" maxlength="4"></label>
+      <label>ค้นหาปีเกิด (ค.ศ. หรือ พ.ศ.)<input id="aFind" inputmode="numeric" maxlength="4" placeholder="เช่น 1990 หรือ 2533"></label>
+    </div>
+    <p class="note">อายุคือปีที่ดูลบปีเกิด เป็นอายุเมื่อถึงวันเกิดในปีนั้น ถ้ายังไม่ถึงวันเกิดให้ลบอีก 1 ปี นักษัตรและธาตุนับตามปฏิทินจีน คนที่เกิดเดือนมกราคมถึงต้นกุมภาพันธ์อาจเป็นนักษัตรของปีก่อนหน้า</p>
+    <ol id="aList"></ol>
+  </section>
+</main>
+<script>
+(()=>{
+const D=/*DATA*/;
+const $=s=>document.querySelector(s);
+const CODE='59',KEY='rro-unlocked-59';
+function unlock(){$('#gate').hidden=true;$('#app').hidden=false;init()}
+$('#gateForm').addEventListener('submit',e=>{e.preventDefault();
+  if($('#code').value.trim()===CODE){try{sessionStorage.setItem(KEY,'1')}catch(_){}unlock()}
+  else{$('#err').textContent='รหัสไม่ถูกต้อง';$('#code').value='';$('#code').focus()}});
+const toCE=v=>{v=parseInt(v,10);if(!v)return null;return v>2400?v-543:v};
+let started=false;
+function init(){
+  if(started)return;started=true;
+  const now=new Date().getFullYear();
+  // clash calendar
+  const sel=$('#cRange');
+  for(let s=2000;s<=3000;s+=100)sel.append(new Option(s===3000?'3000':`${s}–${s+99}`,s));
+  const lv=[['ชง 100%','--c100'],['ชง 75%','--c75'],['ชง 50%','--c50'],['ชง 25%','--c25']];
+  function drawChong(hit){
+    const s=+sel.value,rows=D.chong.filter(r=>r[0]>=s&&r[0]<s+100);
+    const ol=$('#cList');ol.replaceChildren();
+    for(const r of rows){
+      const li=document.createElement('li');if(r[0]===hit)li.className='hit';li.id='c'+r[0];
+      li.innerHTML=`<div class="yr"><b>${r[0]}</b><span class="be">พ.ศ. ${r[1]}</span><span class="z">ปี${r[2]}</span></div><div class="lv">${lv.map((l,i)=>`<div style="--c:var(${l[1]})"><small>${l[0]}</small>${r[3+i]}</div>`).join('')}</div>`;
+      ol.append(li);
+    }
+    if(hit){const el=document.getElementById('c'+hit);el&&el.scrollIntoView({block:'center'})}
+  }
+  sel.value=String(Math.min(3000,Math.max(2000,Math.floor(now/100)*100)));
+  sel.addEventListener('change',()=>drawChong());
+  const era=$('#cEra');era.addEventListener('change',()=>{$('#cFind').placeholder=era.value==='be'?'เช่น 2569':'เช่น 2026';$('#cFind').dispatchEvent(new Event('input'))});
+  $('#cFind').addEventListener('input',e=>{const v=parseInt(e.target.value,10),y=era.value==='be'?v-543:v;if(!v||y<2000||y>3000||e.target.value.length<4)return;sel.value=String(y===3000?3000:Math.floor(y/100)*100);drawChong(y)});
+  drawChong(now);
+  // age table
+  const ay=$('#aYear');ay.value=now;
+  function drawAge(hit){
+    const t=toCE(ay.value)||now,ol=$('#aList');ol.replaceChildren();
+    for(const r of D.ages.slice().reverse()){
+      if(r[0]>t)continue;
+      const li=document.createElement('li');if(r[0]===hit)li.className='hit';li.id='a'+r[0];
+      li.innerHTML=`<div class="yr"><b>${r[0]}</b><span class="be">พ.ศ. ${r[1]}</span><span class="z">ปี${r[2]} · ${r[3]}</span><span class="age">อายุ ${t-r[0]} ปี</span></div>`;
+      ol.append(li);
+    }
+    if(hit){const el=document.getElementById('a'+hit);el&&el.scrollIntoView({block:'center'})}
+  }
+  ay.addEventListener('input',()=>{if(ay.value.length>=4)drawAge()});
+  $('#aFind').addEventListener('input',e=>{const y=toCE(e.target.value);if(y&&e.target.value.length>=4)drawAge(y)});
+  drawAge();
+  // tabs
+  for(const [b,p,o,q] of [['#tChong','#pChong','#tAge','#pAge'],['#tAge','#pAge','#tChong','#pChong']])
+    $(b).addEventListener('click',()=>{$(b).setAttribute('aria-selected','true');$(o).setAttribute('aria-selected','false');$(p).hidden=false;$(q).hidden=true});
+}
+let ok=false;try{ok=sessionStorage.getItem(KEY)==='1'}catch(_){}
+if(ok)unlock();
+})();
+</script>
+</body>
+</html>

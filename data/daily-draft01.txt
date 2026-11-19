@@ -1,0 +1,521 @@
+# การเดินทางและรถ
+รถติดหนัก|Heavy traffic|อุปสรรค,เดินทาง||
+รถเสียกลางทาง|Car breaks down on the way|อุปสรรค,เดินทาง||
+ยางระเบิด|A tyre blows out|อุปสรรค,เดินทาง||
+ยางรั่ว|A flat tyre|อุปสรรค,เดินทาง||
+แบตเตอรี่รถหมด|Car battery dies|อุปสรรค,เดินทาง||
+น้ำมันใกล้หมด|Running low on fuel|อุปสรรค,เดินทาง||
+หาที่จอดรถไม่ได้|Can't find parking|อุปสรรค,เดินทาง||
+โดนใบสั่ง|Getting a ticket|อุปสรรค,เดินทาง||
+รถถูกเฉี่ยว|Car gets scraped|อุปสรรค,เดินทาง||
+ขึ้นรถผิดสาย|Taking the wrong bus|อุปสรรค,เดินทาง||
+พลาดรถไฟเที่ยวสุดท้าย|Missing the last train|อุปสรรค,เดินทาง||
+เที่ยวบินล่าช้า|Flight delayed|อุปสรรค,เดินทาง||
+เที่ยวบินถูกยกเลิก|Flight cancelled|อุปสรรค,เดินทาง||
+กระเป๋าเดินทางหาย|Luggage lost|อุปสรรค,เดินทาง||
+หลงทาง|Getting lost|อุปสรรค,เดินทาง||
+แอปนำทางพาไปผิด|The map app takes you the wrong way|อุปสรรค,เดินทาง||
+เรียกรถไม่ได้|Can't get a ride|อุปสรรค,เดินทาง||
+ค่าโดยสารขึ้นราคา|Fares go up|อุปสรรค,เดินทาง||
+ถนนปิดซ่อม|Road closed for repairs|อุปสรรค,เดินทาง||
+เกิดอุบัติเหตุข้างหน้า|An accident up ahead|อุปสรรค,เดินทาง||
+ลืมกุญแจรถ|Forgetting the car keys|อุปสรรค,เดินทาง||
+รถไฟฟ้าขัดข้อง|Train service disrupted|อุปสรรค,เดินทาง||
+ลืมของไว้บนรถ|Leaving something in a taxi|อุปสรรค,เดินทาง||
+แอร์รถเสีย|Car air conditioning fails|อุปสรรค,เดินทาง||
+ต่อคิวยาวที่ด่าน|A long queue at the checkpoint|อุปสรรค,เดินทาง||
+รถไม่ติดเลย|Clear roads all the way|เรื่องดี,เดินทาง||
+ได้ที่จอดรถหน้าร้าน|Parking right out front|เรื่องดี,เดินทาง||
+ไฟเขียวตลอดทาง|Green lights all the way|เรื่องดี,เดินทาง||
+ทันรถเที่ยวสุดท้ายพอดี|Just making the last ride|เรื่องดี,เดินทาง||
+ได้อัปเกรดที่นั่ง|A seat upgrade|เรื่องดี,เดินทาง||
+เที่ยวบินออกตรงเวลา|Flight leaves on time|เรื่องดี,เดินทาง||
+มีคนชี้ทางให้|Someone shows you the way|เรื่องดี,เดินทาง||
+เจอทางลัดใหม่|Finding a new shortcut|เรื่องดี,เดินทาง||
+คนขับใจดี|A kind driver|เรื่องดี,เดินทาง||
+ได้ที่นั่งบนรถไฟฟ้า|Getting a seat on the train|เรื่องดี,เดินทาง||
+เติมน้ำมันได้ส่วนลด|A fuel discount|เรื่องดี,เดินทาง||
+ของหายแต่ได้คืน|Lost item returned|เรื่องดี,เดินทาง||
+เดินทางปลอดภัยถึงบ้าน|Home safe and sound|เรื่องดี,เดินทาง||
+ได้นั่งข้างหน้าต่างวิวสวย|A window seat with a view|เรื่องดี,เดินทาง||
+# อากาศและธรรมชาติ
+ฝนตกหนัก|Heavy rain|อุปสรรค,อากาศ||
+ฝนตกตอนไม่มีร่ม|Rain without an umbrella|อุปสรรค,อากาศ||
+น้ำท่วมถนน|Flooded streets|อุปสรรค,อากาศ||
+น้ำท่วมบ้าน|Flooding at home|อุปสรรค,อากาศ||
+พายุเข้า|A storm comes in|อุปสรรค,อากาศ||
+ฟ้าผ่าใกล้ๆ|Lightning strikes nearby|อุปสรรค,อากาศ||
+อากาศร้อนจัด|Scorching heat|อุปสรรค,อากาศ||
+ฝุ่นควันหนา|Thick haze and dust|อุปสรรค,อากาศ||
+หมอกลงจัด|Dense fog|อุปสรรค,อากาศ||
+ลมแรงจนของปลิว|Wind blows things away|อุปสรรค,อากาศ||
+ไฟดับเพราะพายุ|Power out from the storm|อุปสรรค,อากาศ||
+อากาศหนาวกะทันหัน|A sudden cold snap|อุปสรรค,อากาศ||
+แดดแรงจนผิวไหม้|Sunburn|อุปสรรค,อากาศ||
+แผ่นดินไหวเล็กน้อย|A small earthquake|อุปสรรค,อากาศ||
+ต้นไม้ล้มขวางทาง|A fallen tree blocks the way|อุปสรรค,อากาศ||
+ยุงเยอะ|Lots of mosquitoes|อุปสรรค,อากาศ||
+หิมะตกหนัก|Heavy snow|อุปสรรค,อากาศ||
+ภูมิแพ้กำเริบตามฤดู|Seasonal allergies flare|อุปสรรค,อากาศ||
+ฟ้าใสอากาศดี|Clear skies and fine weather|เรื่องดี,อากาศ||
+ฝนหยุดพอดีตอนออกจากบ้าน|Rain stops just as you head out|เรื่องดี,อากาศ||
+ลมเย็นสบาย|A cool breeze|เรื่องดี,อากาศ||
+เห็นรุ้งกินน้ำ|Seeing a rainbow|เรื่องดี,อากาศ||
+อากาศดีสำหรับตากผ้า|Good drying weather|เรื่องดี,อากาศ||
+เห็นพระอาทิตย์ตกสวย|A beautiful sunset|เรื่องดี,อากาศ||
+ฝนตกช่วยให้เย็นลง|Rain cools things down|เรื่องดี,อากาศ||
+ดอกไม้หน้าบ้านบาน|Flowers bloom by the door|เรื่องดี,อากาศ||
+ฝุ่นน้อยวันนี้|Clean air today|เรื่องดี,อากาศ||
+เห็นดาวชัดในคืนนี้|Clear stars tonight|เรื่องดี,อากาศ||
+พายุเปลี่ยนทิศไม่เข้า|The storm turns away|เรื่องดี,อากาศ||
+พระจันทร์เต็มดวงสวย|A beautiful full moon|เรื่องดี,อากาศ||
+# บ้านและข้าวของ
+น้ำไม่ไหล|No running water|อุปสรรค,บ้าน||
+ไฟดับ|Power cut|อุปสรรค,บ้าน||
+ท่อน้ำรั่ว|A leaking pipe|อุปสรรค,บ้าน||
+ส้วมตัน|A blocked toilet|อุปสรรค,บ้าน||
+หลังคารั่ว|A leaking roof|อุปสรรค,บ้าน||
+แอร์เสีย|Air conditioner breaks|อุปสรรค,บ้าน||
+ตู้เย็นเสีย|Fridge breaks|อุปสรรค,บ้าน||
+เครื่องซักผ้าเสีย|Washing machine breaks|อุปสรรค,บ้าน||
+ลืมกุญแจบ้าน|Locked out of the house|อุปสรรค,บ้าน||
+กุญแจหาย|Lost keys|อุปสรรค,บ้าน||
+หลอดไฟขาด|A light bulb blows|อุปสรรค,บ้าน||
+แมลงสาบบุกบ้าน|Cockroaches in the house|อุปสรรค,บ้าน||
+มดขึ้นอาหาร|Ants in the food|อุปสรรค,บ้าน||
+เพื่อนบ้านเสียงดัง|Noisy neighbours|อุปสรรค,บ้าน||
+เพื่อนบ้านจอดรถขวาง|A neighbour blocks your car|อุปสรรค,บ้าน||
+ของในบ้านตกแตก|Something breaks at home|อุปสรรค,บ้าน||
+ห้องรก หาของไม่เจอ|Can't find anything in the mess|อุปสรรค,บ้าน||
+ประตูล็อกเสีย|Door lock breaks|อุปสรรค,บ้าน||
+กลิ่นอับชื้น|Damp, musty smell|อุปสรรค,บ้าน||
+ขยะไม่มีคนเก็บ|Rubbish not collected|อุปสรรค,บ้าน||
+พัสดุส่งผิดบ้าน|Parcel delivered to the wrong house|อุปสรรค,บ้าน||
+บ้านโดนขโมยขึ้น|A break-in|อุปสรรค,บ้าน||
+รูมเมทไม่ช่วยทำความสะอาด|Roommate won't clean|อุปสรรค,บ้าน||
+เจ้าของบ้านขึ้นค่าเช่า|Landlord raises the rent|อุปสรรค,บ้าน||
+ช่างนัดแล้วไม่มา|Repair person doesn't show|อุปสรรค,บ้าน||
+ซ่อมของเสร็จเองได้|Fixing something yourself|เรื่องดี,บ้าน||
+เจอของที่หายไปนาน|Finding something long lost|เรื่องดี,บ้าน||
+บ้านสะอาดเรียบร้อย|A clean, tidy home|เรื่องดี,บ้าน||
+เพื่อนบ้านแบ่งอาหารให้|A neighbour shares food|เรื่องดี,บ้าน||
+พัสดุมาถึงเร็ว|Parcel arrives early|เรื่องดี,บ้าน||
+ช่างมาตรงเวลา|Repair person arrives on time|เรื่องดี,บ้าน||
+ได้ของใช้ใหม่ในบ้าน|Something new for the house|เรื่องดี,บ้าน||
+ค่าไฟลดลง|A lower electricity bill|เรื่องดี,บ้าน||
+จัดห้องใหม่แล้วโล่ง|Rearranged room feels spacious|เรื่องดี,บ้าน||
+ต้นไม้ในบ้านแตกใบใหม่|A houseplant sprouts new leaves|เรื่องดี,บ้าน||
+เจ้าของบ้านใจดี|A kind landlord|เรื่องดี,บ้าน||
+ได้ซ่อมฟรีในประกัน|A free repair under warranty|เรื่องดี,บ้าน||
+# เงินและการจับจ่าย
+เงินสดไม่พอ|Not enough cash|อุปสรรค,เงิน||
+บัตรถูกปฏิเสธ|Card declined|อุปสรรค,เงิน||
+โอนเงินผิดบัญชี|Money sent to the wrong account|อุปสรรค,เงิน||
+ลืมจ่ายบิล|Forgetting to pay a bill|อุปสรรค,เงิน||
+โดนค่าปรับจ่ายช้า|A late fee|อุปสรรค,เงิน||
+ของที่อยากได้หมดสต็อก|What you want is sold out|อุปสรรค,เงิน||
+ซื้อของแล้วได้ของชำรุด|Buying something faulty|อุปสรรค,เงิน||
+ทอนเงินผิด|Getting the wrong change|อุปสรรค,เงิน||
+กระเป๋าสตางค์หาย|Losing your wallet|อุปสรรค,เงิน||
+ราคาของขึ้น|Prices go up|อุปสรรค,เงิน||
+ใช้เงินเกินงบ|Going over budget|อุปสรรค,เงิน||
+เงินเดือนออกช้า|Late pay|อุปสรรค,เงิน||
+ถูกเรียกเก็บเงินซ้ำ|Charged twice|อุปสรรค,เงิน||
+ลืมยกเลิกบริการรายเดือน|Forgetting to cancel a subscription|อุปสรรค,เงิน||
+คนยืมเงินไม่คืน|A loan not repaid|อุปสรรค,เงิน||
+ค่าซ่อมแพงกว่าที่คิด|Repairs cost more than expected|อุปสรรค,เงิน||
+ตู้เอทีเอ็มเสีย|ATM out of order|อุปสรรค,เงิน||
+โดนมิจฉาชีพโทรมาหลอก|A scam phone call|อุปสรรค,เงิน||
+ได้ส่วนลดไม่คาดคิด|An unexpected discount|เรื่องดี,เงิน||
+เจอเงินในกระเป๋าเสื้อเก่า|Money in an old coat pocket|เรื่องดี,เงิน||
+ได้เงินคืนภาษี|A tax refund|เรื่องดี,เงิน||
+ได้ของแถม|A free gift|เรื่องดี,เงิน||
+มีคนเลี้ยงข้าว|Someone treats you to a meal|เรื่องดี,เงิน||
+ได้รับเงินที่เคยให้ยืมคืน|A loan paid back|เรื่องดี,เงิน||
+ลดราคาตรงกับของที่อยากได้|A sale on what you wanted|เรื่องดี,เงิน||
+ได้คะแนนสะสมแลกของ|Points to redeem|เรื่องดี,เงิน||
+ได้ใช้คูปองก่อนหมดอายุ|Using a coupon just in time|เรื่องดี,เงิน||
+เงินเดือนเข้าเร็ว|Pay arrives early|เรื่องดี,เงิน||
+ถูกรางวัลเล็กๆ|A small prize|เรื่องดี,เงิน||
+ขายของเก่าได้ราคาดี|Selling old things for a good price|เรื่องดี,เงิน||
+ทำงบเดือนนี้ได้ตามแผน|Sticking to this month's budget|เรื่องดี,เงิน||
+รู้ทันมิจฉาชีพ|Spotting a scam in time|เรื่องดี,เงิน||
+# งาน เรียน และการนัดหมาย
+ตื่นสาย|Oversleeping|อุปสรรค,นัดหมาย||
+ไปทำงานสาย|Late for work|อุปสรรค,นัดหมาย||
+ลืมนัด|Forgetting an appointment|อุปสรรค,นัดหมาย||
+นัดชนกัน|Double-booked|อุปสรรค,นัดหมาย||
+ประชุมยืดเยื้อ|A meeting that drags on|อุปสรรค,นัดหมาย||
+งานด่วนเข้ามากะทันหัน|An urgent job out of nowhere|อุปสรรค,นัดหมาย||
+ไฟล์งานหาย|A work file lost|อุปสรรค,นัดหมาย||
+ส่งอีเมลผิดคน|Email sent to the wrong person|อุปสรรค,นัดหมาย||
+หัวหน้าอารมณ์ไม่ดี|The boss is in a bad mood|อุปสรรค,นัดหมาย||
+เพื่อนร่วมงานลาป่วยกะทันหัน|A colleague calls in sick|อุปสรรค,นัดหมาย||
+ลูกค้าเปลี่ยนใจ|A client changes their mind|อุปสรรค,นัดหมาย||
+ส่งงานไม่ทันกำหนด|Missing a deadline|อุปสรรค,นัดหมาย||
+ลืมการบ้าน|Forgetting homework|อุปสรรค,นัดหมาย||
+สอบเจอข้อที่ไม่ได้อ่าน|An exam question you didn't study|อุปสรรค,นัดหมาย||
+คนนัดยกเลิกนาทีสุดท้าย|Last-minute cancellation|อุปสรรค,นัดหมาย||
+รอคิวนานมาก|A very long wait|อุปสรรค,นัดหมาย||
+ข้อมูลไม่ครบต้องกลับไปเอาใหม่|Missing info, must go back|อุปสรรค,นัดหมาย||
+ต้องทำงานล่วงเวลา|Working overtime|อุปสรรค,นัดหมาย||
+คนในทีมไม่ตอบข้อความ|Teammates don't reply|อุปสรรค,นัดหมาย||
+ปริ้นเตอร์เสียตอนจะใช้|Printer fails when needed|อุปสรรค,นัดหมาย||
+เลิกงานตรงเวลา|Leaving work on time|เรื่องดี,นัดหมาย||
+ประชุมจบเร็ว|A short meeting|เรื่องดี,นัดหมาย||
+งานเสร็จก่อนกำหนด|Work done early|เรื่องดี,นัดหมาย||
+ได้คำชมจากหัวหน้า|Praise from the boss|เรื่องดี,นัดหมาย||
+ลูกค้าตอบตกลง|The client says yes|เรื่องดี,นัดหมาย||
+เพื่อนร่วมงานช่วยเหลือ|A colleague helps out|เรื่องดี,นัดหมาย||
+นัดเลื่อนออกไปพอดีตอนยุ่ง|An appointment moves just when you're busy|เรื่องดี,นัดหมาย||
+ได้คิวแรก|First in line|เรื่องดี,นัดหมาย||
+สอบออกตรงที่อ่าน|The exam covers what you studied|เรื่องดี,นัดหมาย||
+ได้หยุดเพิ่มหนึ่งวัน|An extra day off|เรื่องดี,นัดหมาย||
+ได้ทำงานจากบ้าน|Working from home|เรื่องดี,นัดหมาย||
+คนที่รอติดต่อกลับ|The person you're waiting for calls back|เรื่องดี,นัดหมาย||
+ได้ไอเดียดีระหว่างวัน|A good idea mid-day|เรื่องดี,นัดหมาย||
+ได้ตารางงานที่ลงตัว|A schedule that fits|เรื่องดี,นัดหมาย||
+# เทคโนโลยีและอุปกรณ์
+โทรศัพท์แบตหมด|Phone battery dies|อุปสรรค,เทคโนโลยี||
+ลืมที่ชาร์จ|Forgetting the charger|อุปสรรค,เทคโนโลยี||
+จอโทรศัพท์แตก|Cracked phone screen|อุปสรรค,เทคโนโลยี||
+อินเทอร์เน็ตล่ม|Internet down|อุปสรรค,เทคโนโลยี||
+ไวไฟช้า|Slow Wi-Fi|อุปสรรค,เทคโนโลยี||
+ลืมรหัสผ่าน|Forgetting a password|อุปสรรค,เทคโนโลยี||
+บัญชีถูกล็อก|Account locked|อุปสรรค,เทคโนโลยี||
+คอมพิวเตอร์ค้าง|Computer freezes|อุปสรรค,เทคโนโลยี||
+อัปเดตเครื่องนานมาก|A very long update|อุปสรรค,เทคโนโลยี||
+แอปธนาคารปิดปรับปรุง|Banking app under maintenance|อุปสรรค,เทคโนโลยี||
+ไฟล์เปิดไม่ได้|A file won't open|อุปสรรค,เทคโนโลยี||
+สัญญาณโทรศัพท์หาย|No phone signal|อุปสรรค,เทคโนโลยี||
+หูฟังหาย|Losing your earphones|อุปสรรค,เทคโนโลยี||
+พื้นที่เก็บข้อมูลเต็ม|Storage full|อุปสรรค,เทคโนโลยี||
+โดนไวรัสหรือลิงก์หลอก|Malware or a phishing link|อุปสรรค,เทคโนโลยี||
+ส่งข้อความผิดกลุ่ม|Message sent to the wrong group|อุปสรรค,เทคโนโลยี||
+รูปภาพหายจากเครื่อง|Photos lost|อุปสรรค,เทคโนโลยี||
+โทรศัพท์ตกน้ำ|Phone dropped in water|อุปสรรค,เทคโนโลยี||
+โทรศัพท์ที่หายได้คืน|A lost phone returned|เรื่องดี,เทคโนโลยี||
+อินเทอร์เน็ตเร็วขึ้น|Faster internet|เรื่องดี,เทคโนโลยี||
+สำรองข้อมูลไว้ทัน|Backed up just in time|เรื่องดี,เทคโนโลยี||
+หาไฟล์สำคัญเจอ|Finding an important file|เรื่องดี,เทคโนโลยี||
+อุปกรณ์ใหม่ใช้งานง่าย|An easy new gadget|เรื่องดี,เทคโนโลยี||
+ได้แอปที่ช่วยประหยัดเวลา|An app that saves time|เรื่องดี,เทคโนโลยี||
+ซ่อมเครื่องเองได้จากคลิปสอน|Fixing a device from a tutorial|เรื่องดี,เทคโนโลยี||
+ข้อความสำคัญถึงทันเวลา|An important message arrives in time|เรื่องดี,เทคโนโลยี||
+วิดีโอคอลกับคนไกลได้ชัด|A clear video call with someone far away|เรื่องดี,เทคโนโลยี||
+ลบไฟล์ขยะแล้วเครื่องเร็วขึ้น|Device faster after a clean-up|เรื่องดี,เทคโนโลยี||
+# สุขภาพและร่างกาย
+ปวดหัว|A headache|อุปสรรค,สุขภาพ||
+เป็นหวัด|A cold|อุปสรรค,สุขภาพ||
+ปวดท้อง|Stomach ache|อุปสรรค,สุขภาพ||
+นอนไม่หลับ|Can't sleep|อุปสรรค,สุขภาพ||
+ตื่นมาปวดคอ|Waking with a stiff neck|อุปสรรค,สุขภาพ||
+ข้อเท้าพลิก|A twisted ankle|อุปสรรค,สุขภาพ||
+โดนมีดบาด|A kitchen cut|อุปสรรค,สุขภาพ||
+ปวดฟัน|Toothache|อุปสรรค,สุขภาพ||
+ตาแห้งจากหน้าจอ|Dry eyes from screens|อุปสรรค,สุขภาพ||
+อาหารเป็นพิษ|Food poisoning|อุปสรรค,สุขภาพ||
+เหนื่อยสะสม|Built-up tiredness|อุปสรรค,สุขภาพ||
+ลืมกินยา|Forgetting your medicine|อุปสรรค,สุขภาพ||
+ปวดหลังจากนั่งนาน|Back pain from sitting|อุปสรรค,สุขภาพ||
+แพ้อาหาร|A food allergy reaction|อุปสรรค,สุขภาพ||
+เครียดจนกินไม่ลง|Too stressed to eat|อุปสรรค,สุขภาพ||
+สิวขึ้นก่อนวันสำคัญ|A spot before a big day|อุปสรรค,สุขภาพ||
+รอหมอนานมาก|A long wait at the clinic|อุปสรรค,สุขภาพ||
+นอนหลับเต็มอิ่ม|A full night's sleep|เรื่องดี,สุขภาพ||
+ตื่นมาสดชื่น|Waking up refreshed|เรื่องดี,สุขภาพ||
+อาการป่วยหายเร็ว|Recovering quickly|เรื่องดี,สุขภาพ||
+ผลตรวจสุขภาพดี|Good check-up results|เรื่องดี,สุขภาพ||
+ออกกำลังกายครบตามแผน|Sticking to your workout|เรื่องดี,สุขภาพ||
+ได้นวดผ่อนคลาย|A relaxing massage|เรื่องดี,สุขภาพ||
+ได้กินอาหารดีมีประโยชน์|A healthy meal|เรื่องดี,สุขภาพ||
+ได้หมอที่ใส่ใจ|A caring doctor|เรื่องดี,สุขภาพ||
+ปวดหายหลังพัก|Pain fades after rest|เรื่องดี,สุขภาพ||
+ดื่มน้ำครบทั้งวัน|Drinking enough water all day|เรื่องดี,สุขภาพ||
+ผิวดีขึ้น|Better skin|เรื่องดี,สุขภาพ||
+เดินเล่นแล้วสบายใจ|A walk that clears your head|เรื่องดี,สุขภาพ||
+# อาหารและการกิน
+อาหารที่สั่งมาผิด|Wrong food order|อุปสรรค,อาหาร||
+ร้านประจำปิด|Your usual place is closed|อุปสรรค,อาหาร||
+อาหารมาช้ามาก|Food takes ages|อุปสรรค,อาหาร||
+ของในตู้เย็นเสีย|Food in the fridge goes off|อุปสรรค,อาหาร||
+ทำอาหารไหม้|Burning the food|อุปสรรค,อาหาร||
+ลืมซื้อของสำคัญ|Forgetting a key ingredient|อุปสรรค,อาหาร||
+แก๊สหมดตอนทำอาหาร|Gas runs out mid-cooking|อุปสรรค,อาหาร||
+ร้านคนแน่นต้องรอคิว|A packed restaurant and a queue|อุปสรรค,อาหาร||
+อาหารรสไม่ถูกปาก|Food not to your taste|อุปสรรค,อาหาร||
+กินเผ็ดเกินไป|Food too spicy|อุปสรรค,อาหาร||
+ลืมกินข้าวเที่ยง|Skipping lunch by accident|อุปสรรค,อาหาร||
+เจอร้านอร่อยใหม่|Finding a great new place to eat|เรื่องดี,อาหาร||
+อาหารที่ทำออกมาอร่อย|Your cooking turns out great|เรื่องดี,อาหาร||
+ได้กินของโปรด|Your favourite dish|เรื่องดี,อาหาร||
+มีคนทำอาหารให้|Someone cooks for you|เรื่องดี,อาหาร||
+ได้ขนมจากเพื่อน|A snack from a friend|เรื่องดี,อาหาร||
+ร้านแถมของหวาน|A free dessert|เรื่องดี,อาหาร||
+ทันซื้อของสดราคาถูก|Fresh food at a bargain|เรื่องดี,อาหาร||
+ได้กินข้าวพร้อมหน้าครอบครัว|A family meal together|เรื่องดี,อาหาร||
+กาแฟแก้วนี้อร่อยพอดี|This coffee is just right|เรื่องดี,อาหาร||
+สั่งอาหารได้เร็ว|Food arrives quickly|เรื่องดี,อาหาร||
+# ผู้คนรอบตัว
+ทะเลาะกับคนในบ้าน|An argument at home|อุปสรรค,ผู้คน||
+โดนแซงคิว|Someone cuts the queue|อุปสรรค,ผู้คน||
+เจอคนพูดไม่ดีใส่|Someone is rude to you|อุปสรรค,ผู้คน||
+เพื่อนผิดนัด|A friend stands you up|อุปสรรค,ผู้คน||
+ถูกเข้าใจผิด|Being misunderstood|อุปสรรค,ผู้คน||
+โดนนินทา|Being gossiped about|อุปสรรค,ผู้คน||
+เด็กงอแง|A cranky child|อุปสรรค,ผู้คน||
+แขกมาไม่บอกล่วงหน้า|Unannounced guests|อุปสรรค,ผู้คน||
+คนรักงอน|Your partner sulks|อุปสรรค,ผู้คน||
+โดนขอให้ช่วยงานที่ไม่อยากทำ|Asked for help you don't want to give|อุปสรรค,ผู้คน||
+ถูกถามเรื่องส่วนตัวมากเกินไป|Too many personal questions|อุปสรรค,ผู้คน||
+คนในกลุ่มแชทเถียงกัน|An argument in the group chat|อุปสรรค,ผู้คน||
+มีคนยิ้มให้|Someone smiles at you|เรื่องดี,ผู้คน||
+คนแปลกหน้าช่วยเหลือ|A stranger helps|เรื่องดี,ผู้คน||
+เพื่อนเก่าทักมา|An old friend gets in touch|เรื่องดี,ผู้คน||
+ได้คำขอโทษ|An apology|เรื่องดี,ผู้คน||
+คืนดีกับคนที่ทะเลาะ|Making up after a fight|เรื่องดี,ผู้คน||
+มีคนชมการแต่งตัว|A compliment on your outfit|เรื่องดี,ผู้คน||
+คนรักทำเซอร์ไพรส์|A surprise from your partner|เรื่องดี,ผู้คน||
+เด็กๆ ทำให้หัวเราะ|Children make you laugh|เรื่องดี,ผู้คน||
+ได้คุยกับคนที่เข้าใจ|Talking with someone who gets it|เรื่องดี,ผู้คน||
+มีคนจำวันเกิดได้|Someone remembers your birthday|เรื่องดี,ผู้คน||
+ได้รับของฝาก|A gift from someone's trip|เรื่องดี,ผู้คน||
+มีคนเปิดประตูให้|Someone holds the door|เรื่องดี,ผู้คน||
+# ราชการ เอกสาร และบริการ
+เอกสารไม่ครบ|Missing documents|อุปสรรค,เอกสาร||
+ต้องกลับไปยื่นใหม่|Having to reapply|อุปสรรค,เอกสาร||
+ระบบออนไลน์ล่ม|Online system down|อุปสรรค,เอกสาร||
+เจ้าหน้าที่ขอเอกสารเพิ่ม|Asked for more papers|อุปสรรค,เอกสาร||
+บัตรหมดอายุไม่รู้ตัว|An ID card expired without you noticing|อุปสรรค,เอกสาร||
+ไปถึงแล้วสำนักงานปิด|The office is closed when you arrive|อุปสรรค,เอกสาร||
+ถ่ายรูปบัตรไม่ผ่าน|Photo rejected|อุปสรรค,เอกสาร||
+ชื่อสะกดผิดในเอกสาร|A misspelt name on a document|อุปสรรค,เอกสาร||
+พัสดุติดด่านศุลกากร|Parcel held at customs|อุปสรรค,เอกสาร||
+โทรหาคอลเซ็นเตอร์ไม่ติด|Can't get through to the call centre|อุปสรรค,เอกสาร||
+ต้องรอใบนัดนาน|A long wait for an appointment slot|อุปสรรค,เอกสาร||
+ลืมพกบัตรประชาชน|Forgetting your ID|อุปสรรค,เอกสาร||
+เอกสารผ่านในครั้งเดียว|Paperwork approved first time|เรื่องดี,เอกสาร||
+ได้คิวเร็ว|Getting a quick slot|เรื่องดี,เอกสาร||
+เจ้าหน้าที่ใจดีช่วยแนะนำ|A helpful official|เรื่องดี,เอกสาร||
+ระบบออนไลน์ใช้ง่าย|An easy online system|เรื่องดี,เอกสาร||
+ได้บัตรใหม่เร็วกว่าที่คิด|New card sooner than expected|เรื่องดี,เอกสาร||
+พัสดุผ่านด่านเรียบร้อย|Parcel clears customs|เรื่องดี,เอกสาร||
+ปัญหาแก้ได้ในสายเดียว|Fixed in one call|เรื่องดี,เอกสาร||
+ได้ยกเว้นค่าธรรมเนียม|A fee waived|เรื่องดี,เอกสาร||
+# สัตว์และสัตว์เลี้ยง
+สุนัขเห่าทั้งคืน|A dog barks all night|อุปสรรค,สัตว์||
+แมวข่วนของ|The cat scratches the furniture|อุปสรรค,สัตว์||
+สัตว์เลี้ยงป่วย|A sick pet|อุปสรรค,สัตว์||
+สัตว์เลี้ยงหนีออกจากบ้าน|A pet runs away|อุปสรรค,สัตว์||
+โดนสุนัขไล่|Chased by a dog|อุปสรรค,สัตว์||
+นกขับถ่ายใส่|A bird makes a mess on you|อุปสรรค,สัตว์||
+งูเข้าบ้าน|A snake in the house|อุปสรรค,สัตว์||
+หนูกัดสายไฟ|Rats chew the wiring|อุปสรรค,สัตว์||
+สัตว์เลี้ยงหายป่วย|A pet recovers|เรื่องดี,สัตว์||
+สัตว์เลี้ยงที่หายกลับมา|A lost pet comes home|เรื่องดี,สัตว์||
+แมวมานอนตัก|A cat curls up in your lap|เรื่องดี,สัตว์||
+เจอสัตว์น่ารักระหว่างทาง|A cute animal on the way|เรื่องดี,สัตว์||
+สุนัขดีใจเมื่อคุณกลับบ้าน|The dog greets you at home|เรื่องดี,สัตว์||
+นกมาร้องเพลงหน้าบ้าน|Birds singing outside|เรื่องดี,สัตว์||
+# เรื่องเล็กๆ ในแต่ละวัน
+ทำของหกเลอะเสื้อ|Spilling on your shirt|อุปสรรค,ทั่วไป||
+รองเท้ากัด|Shoes rubbing|อุปสรรค,ทั่วไป||
+กระดุมหลุด|A button pops off|อุปสรรค,ทั่วไป||
+ซิปเสีย|A broken zip|อุปสรรค,ทั่วไป||
+ร่มพัง|A broken umbrella|อุปสรรค,ทั่วไป||
+ลืมของไว้ที่บ้าน|Leaving something at home|อุปสรรค,ทั่วไป||
+ของตกพื้นแตก|Dropping and breaking something|อุปสรรค,ทั่วไป||
+เดินสะดุด|Tripping|อุปสรรค,ทั่วไป||
+เสียงดังจนทำงานไม่ได้|Too noisy to work|อุปสรรค,ทั่วไป||
+อารมณ์ไม่ดีตั้งแต่เช้า|A bad mood from the start|อุปสรรค,ทั่วไป||
+ทุกอย่างช้าไปหมด|Everything running slow|อุปสรรค,ทั่วไป||
+มีเรื่องให้ทำพร้อมกันหลายอย่าง|Too many things at once|อุปสรรค,ทั่วไป||
+ไม่มีเวลาให้ตัวเอง|No time for yourself|อุปสรรค,ทั่วไป||
+ผมเสียทรงก่อนออกจากบ้าน|A bad hair day|อุปสรรค,ทั่วไป||
+วันนี้ทุกอย่างลงตัว|Everything falls into place|เรื่องดี,ทั่วไป||
+เจอเพลงที่ชอบโดยบังเอิญ|Hearing a favourite song by chance|เรื่องดี,ทั่วไป||
+ได้งีบหลับสั้นๆ|A short nap|เรื่องดี,ทั่วไป||
+ได้หัวเราะเต็มที่|A good laugh|เรื่องดี,ทั่วไป||
+ได้เวลาว่างโดยไม่คาดคิด|Unexpected free time|เรื่องดี,ทั่วไป||
+เจอของน่ารักที่อยากได้|Finding something lovely|เรื่องดี,ทั่วไป||
+ทำสิ่งที่ค้างไว้เสร็จ|Finishing something you'd put off|เรื่องดี,ทั่วไป||
+ได้อยู่เงียบๆ คนเดียว|Quiet time alone|เรื่องดี,ทั่วไป||
+อารมณ์ดีทั้งวัน|In a good mood all day|เรื่องดี,ทั่วไป||
+ได้ข่าวดีจากคนไกล|Good news from far away|เรื่องดี,ทั่วไป||
+เจอความบังเอิญที่ดี|A happy coincidence|เรื่องดี,ทั่วไป||
+ได้ช่วยคนอื่นแล้วใจฟู|Helping someone and feeling good|เรื่องดี,ทั่วไป||
+วันนี้ไม่มีอะไรผิดพลาด|Nothing goes wrong today|เรื่องดี,ทั่วไป||
+ได้ทำสิ่งที่ชอบ|Doing something you love|เรื่องดี,ทั่วไป||
+มีเวลาจัดการตัวเอง|Time to sort yourself out|เรื่องดี,ทั่วไป||
+# ตลาด ร้านค้า และการซื้อของ
+ร้านปิดก่อนไปถึง|The shop closes before you arrive|อุปสรรค,ซื้อของ||
+คิวจ่ายเงินยาว|A long checkout queue|อุปสรรค,ซื้อของ||
+ลืมถุงผ้า|Forgetting your shopping bag|อุปสรรค,ซื้อของ||
+ซื้อของผิดขนาด|Buying the wrong size|อุปสรรค,ซื้อของ||
+คืนสินค้าไม่ได้|Can't return an item|อุปสรรค,ซื้อของ||
+ของออนไลน์ไม่ตรงปก|Online order looks nothing like the photo|อุปสรรค,ซื้อของ||
+ส่งของล่าช้า|Delivery delayed|อุปสรรค,ซื้อของ||
+ร้านไม่รับบัตร|The shop doesn't take cards|อุปสรรค,ซื้อของ||
+แม่ค้าอารมณ์ไม่ดี|A grumpy seller|อุปสรรค,ซื้อของ||
+ลืมรายการของที่จะซื้อ|Forgetting your shopping list|อุปสรรค,ซื้อของ||
+ได้ของสดคุณภาพดี|Fresh, quality produce|เรื่องดี,ซื้อของ||
+แม่ค้าแถมให้|The seller throws in extra|เรื่องดี,ซื้อของ||
+ได้ราคาพิเศษเพราะเป็นลูกค้าประจำ|A regular's discount|เรื่องดี,ซื้อของ||
+เปลี่ยนสินค้าได้ง่าย|An easy exchange|เรื่องดี,ซื้อของ||
+ของที่สั่งมาดีกว่าที่คิด|An order better than expected|เรื่องดี,ซื้อของ||
+เจอร้านใหม่ราคาดี|A new shop with good prices|เรื่องดี,ซื้อของ||
+ได้ของครบในที่เดียว|Everything in one place|เรื่องดี,ซื้อของ||
+ส่งของถึงเร็วกว่ากำหนด|Delivery ahead of schedule|เรื่องดี,ซื้อของ||
+ต่อราคาได้|Getting a better price|เรื่องดี,ซื้อของ||
+ได้ของหายากที่ตามหา|Finding a rare item you wanted|เรื่องดี,ซื้อของ||
+# ครอบครัว ความรัก และบ้าน
+ลูกไม่สบายกะทันหัน|A child falls ill suddenly|อุปสรรค,ครอบครัว||
+ไม่มีคนรับลูก|No one to pick up the kids|อุปสรรค,ครอบครัว||
+คนในบ้านลืมทำหน้าที่|Someone at home forgets their chores|อุปสรรค,ครอบครัว||
+พ่อแม่ไม่สบาย|A parent is unwell|อุปสรรค,ครอบครัว||
+ทะเลาะเรื่องเงินในบ้าน|A money argument at home|อุปสรรค,ครอบครัว||
+คนรักติดงานจนไม่มีเวลา|Your partner is too busy for you|อุปสรรค,ครอบครัว||
+ญาติมาขอยืมเงิน|A relative asks to borrow money|อุปสรรค,ครอบครัว||
+ลูกทำของเสียหาย|A child breaks something|อุปสรรค,ครอบครัว||
+คนในบ้านใช้ห้องน้ำนาน|Someone hogs the bathroom|อุปสรรค,ครอบครัว||
+ลืมวันสำคัญของคนรัก|Forgetting your partner's special day|อุปสรรค,ครอบครัว||
+ลูกได้คำชมจากครู|Your child is praised by the teacher|เรื่องดี,ครอบครัว||
+ครอบครัวได้กินข้าวพร้อมหน้า|The family eats together|เรื่องดี,ครอบครัว||
+คนรักส่งข้อความหวานๆ|A sweet message from your partner|เรื่องดี,ครอบครัว||
+พ่อแม่สุขภาพดีขึ้น|Parents feel better|เรื่องดี,ครอบครัว||
+คนในบ้านช่วยกันทำงานบ้าน|Everyone helps with the housework|เรื่องดี,ครอบครัว||
+ได้โทรคุยกับญาติที่ไกล|A call with faraway relatives|เรื่องดี,ครอบครัว||
+ลูกหลับง่าย|The kids fall asleep easily|เรื่องดี,ครอบครัว||
+ได้ไปเที่ยวด้วยกันทั้งบ้าน|A family outing|เรื่องดี,ครอบครัว||
+คนรักจำเรื่องเล็กๆ ได้|Your partner remembers a small detail|เรื่องดี,ครอบครัว||
+ได้กอดคนที่รัก|A hug from someone you love|เรื่องดี,ครอบครัว||
+ญาติส่งของมาให้|A relative sends a package|เรื่องดี,ครอบครัว||
+ได้ข่าวดีในครอบครัว|Good family news|เรื่องดี,ครอบครัว||
+ได้นั่งคุยกันยาวๆ|A long, good talk|เรื่องดี,ครอบครัว||
+ได้ฟังเรื่องเล่าจากผู้ใหญ่|Stories from an elder|เรื่องดี,ครอบครัว||
+คนในบ้านทำอาหารให้|Someone at home cooks for you|เรื่องดี,ครอบครัว||
+# ลูก โรงเรียน และการเรียน
+ลืมเอาการบ้านไปโรงเรียน|Homework left at home|อุปสรรค,โรงเรียน||
+รถโรงเรียนมาสาย|The school bus is late|อุปสรรค,โรงเรียน||
+ลูกทะเลาะกับเพื่อน|Your child fights with a friend|อุปสรรค,โรงเรียน||
+ครูนัดพบผู้ปกครองกะทันหัน|A sudden parent-teacher meeting|อุปสรรค,โรงเรียน||
+ชุดนักเรียนเปื้อน|A stained uniform|อุปสรรค,โรงเรียน||
+ลูกไม่อยากไปโรงเรียน|Your child won't go to school|อุปสรรค,โรงเรียน||
+ค่ากิจกรรมโรงเรียนเพิ่ม|Extra school fees|อุปสรรค,โรงเรียน||
+ลืมเซ็นเอกสารให้ลูก|Forgetting to sign a school form|อุปสรรค,โรงเรียน||
+ลูกได้เพื่อนใหม่|Your child makes a new friend|เรื่องดี,โรงเรียน||
+ลูกสอบได้คะแนนดี|Your child does well in a test|เรื่องดี,โรงเรียน||
+ลูกอ่านหนังสือเองได้|Your child reads on their own|เรื่องดี,โรงเรียน||
+ครูช่วยดูแลเป็นพิเศษ|A teacher gives extra care|เรื่องดี,โรงเรียน||
+ลูกได้รางวัลที่โรงเรียน|Your child wins a school award|เรื่องดี,โรงเรียน||
+ลูกเล่าเรื่องที่โรงเรียนอย่างมีความสุข|Your child happily shares their day|เรื่องดี,โรงเรียน||
+ได้ไปงานโรงเรียนกับลูก|Going to a school event together|เรื่องดี,โรงเรียน||
+ลูกช่วยงานบ้านเอง|Your child helps at home unasked|เรื่องดี,โรงเรียน||
+# เทศกาล วันหยุด และการเที่ยว
+ที่เที่ยวคนแน่น|A packed tourist spot|อุปสรรค,เที่ยว||
+โรงแรมไม่ตรงกับที่จอง|The hotel isn't what you booked|อุปสรรค,เที่ยว||
+ราคาห้องพักขึ้นช่วงเทศกาล|Holiday price hikes|อุปสรรค,เที่ยว||
+เมาเรือหรือเมารถ|Motion sickness|อุปสรรค,เที่ยว||
+ฝนตกวันเที่ยว|Rain on your day out|อุปสรรค,เที่ยว||
+ลืมพาสปอร์ตหรือบัตร|Forgetting your passport or ID|อุปสรรค,เที่ยว||
+เที่ยวแล้วใช้เงินหมดเร็ว|Money runs out on the trip|อุปสรรค,เที่ยว||
+ติดอยู่ในรถช่วงกลับบ้านเทศกาล|Stuck in holiday traffic home|อุปสรรค,เที่ยว||
+ท้องเสียระหว่างเที่ยว|Upset stomach while travelling|อุปสรรค,เที่ยว||
+ได้ห้องพักวิวสวย|A room with a lovely view|เรื่องดี,เที่ยว||
+เจอที่เที่ยวลับคนน้อย|A quiet hidden spot|เรื่องดี,เที่ยว||
+อากาศดีตลอดทริป|Fine weather all trip|เรื่องดี,เที่ยว||
+ได้ถ่ายรูปสวย|Beautiful photos|เรื่องดี,เที่ยว||
+เจอคนท้องถิ่นใจดี|Kind locals|เรื่องดี,เที่ยว||
+ได้กินอาหารท้องถิ่นอร่อย|Delicious local food|เรื่องดี,เที่ยว||
+ได้พักผ่อนจริงๆ|Real rest|เรื่องดี,เที่ยว||
+ทริปเป็นไปตามแผน|The trip goes to plan|เรื่องดี,เที่ยว||
+ได้ของฝากถูกใจคนที่บ้าน|Gifts everyone at home loves|เรื่องดี,เที่ยว||
+ได้เห็นพระอาทิตย์ขึ้นที่ใหม่|A sunrise somewhere new|เรื่องดี,เที่ยว||
+ได้ร่วมงานเทศกาลสนุก|A fun festival|เรื่องดี,เที่ยว||
+ได้วันหยุดยาวพอดี|A long weekend at just the right time|เรื่องดี,เที่ยว||
+# ใจและอารมณ์ในวันธรรมดา
+รู้สึกเบื่อ|Feeling bored|อุปสรรค,ใจ||
+รู้สึกเหงา|Feeling lonely|อุปสรรค,ใจ||
+กังวลเรื่องที่ยังไม่เกิด|Worrying about what hasn't happened|อุปสรรค,ใจ||
+หงุดหงิดง่าย|Easily irritated|อุปสรรค,ใจ||
+รู้สึกไม่มีแรงจูงใจ|No motivation|อุปสรรค,ใจ||
+คิดมากก่อนนอน|Overthinking at bedtime|อุปสรรค,ใจ||
+เปรียบเทียบตัวเองกับคนในโซเชียล|Comparing yourself on social media|อุปสรรค,ใจ||
+รู้สึกขอบคุณสิ่งเล็กๆ|Grateful for small things|เรื่องดี,ใจ||
+ใจสงบหลังทำสมาธิ|Calm after meditating|เรื่องดี,ใจ||
+มีแรงบันดาลใจใหม่|New inspiration|เรื่องดี,ใจ||
+ภูมิใจในตัวเอง|Proud of yourself|เรื่องดี,ใจ||
+ได้ปล่อยวางเรื่องที่ค้างใจ|Letting go of something that weighed on you|เรื่องดี,ใจ||
+รู้สึกปลอดภัย|Feeling safe|เรื่องดี,ใจ||
+หัวเราะกับเรื่องเล็กๆ|Laughing at little things|เรื่องดี,ใจ||
+มีความหวังกับพรุ่งนี้|Hopeful about tomorrow|เรื่องดี,ใจ||
+รู้สึกมีพลังเต็มเปี่ยม|Full of energy|เรื่องดี,ใจ||
+ได้ร้องไห้แล้วโล่ง|A good cry and relief|เรื่องดี,ใจ||
+ได้อยู่กับปัจจุบัน|Being in the moment|เรื่องดี,ใจ||
+รู้สึกเป็นที่รัก|Feeling loved|เรื่องดี,ใจ||
+# ชุมชนและสิ่งรอบตัว
+ถนนหน้าบ้านเป็นหลุม|Potholes outside your house|อุปสรรค,ชุมชน||
+ไฟถนนดับ|Streetlights out|อุปสรรค,ชุมชน||
+มีงานก่อสร้างเสียงดัง|Noisy construction|อุปสรรค,ชุมชน||
+น้ำประปาขุ่น|Cloudy tap water|อุปสรรค,ชุมชน||
+ขยะกองหน้าซอย|Rubbish piling up in the lane|อุปสรรค,ชุมชน||
+มีคนจุดพลุตอนดึก|Fireworks late at night|อุปสรรค,ชุมชน||
+ชุมชนช่วยกันทำความสะอาด|Neighbours clean up together|เรื่องดี,ชุมชน||
+มีตลาดนัดใหม่ใกล้บ้าน|A new market nearby|เรื่องดี,ชุมชน||
+สวนสาธารณะปรับปรุงใหม่|A renovated park|เรื่องดี,ชุมชน||
+เพื่อนบ้านช่วยดูบ้านให้|A neighbour watches your house|เรื่องดี,ชุมชน||
+มีงานบุญในชุมชน|A community merit event|เรื่องดี,ชุมชน||
+ได้รู้จักเพื่อนบ้านใหม่|Meeting a new neighbour|เรื่องดี,ชุมชน||
+ร้านใกล้บ้านเปิดดึก|A nearby shop open late|เรื่องดี,ชุมชน||
+ได้ร่วมทำจิตอาสา|Volunteering together|เรื่องดี,ชุมชน||
+# โชคเล็กๆ และความบังเอิญดีๆ
+เจอเหรียญบนพื้น|Finding a coin on the ground|เรื่องดี,โชค||
+ได้ที่นั่งสุดท้ายพอดี|Getting the very last seat|เรื่องดี,โชค||
+ร้านที่อยากไปไม่มีคิว|No queue at the place you wanted|เรื่องดี,โชค||
+ได้รับโทรศัพท์ที่รอคอย|The call you were waiting for|เรื่องดี,โชค||
+ของที่ส่งไปถึงคนรับปลอดภัย|What you sent arrives safely|เรื่องดี,โชค||
+ได้ยินข่าวดีระหว่างทาง|Good news on the way|เรื่องดี,โชค||
+คนเก่าทักมาพร้อมโอกาส|Someone from the past brings an opportunity|เรื่องดี,โชค||
+ทายถูกเรื่องเล็กๆ|Guessing a small thing right|เรื่องดี,โชค||
+ฝนตกหลังคุณถึงบ้านพอดี|Rain starts just after you get home|เรื่องดี,โชค||
+ได้รับเลือกจากการสุ่ม|Picked in a draw|เรื่องดี,โชค||
+แบตเหลือพอใช้จนถึงบ้าน|Battery lasts just until home|เรื่องดี,โชค||
+ได้คืนของที่ลืมไว้ในร้าน|Getting back something left in a shop|เรื่องดี,โชค||
+เจอเพื่อนโดยบังเอิญ|Bumping into a friend|เรื่องดี,โชค||
+ได้รับการ์ดหรือจดหมายดีๆ|A lovely card or letter|เรื่องดี,โชค||
+ทันโปรโมชันวันสุดท้าย|Catching the last day of a promotion|เรื่องดี,โชค||
+เครื่องที่เสียกลับมาใช้ได้เอง|A broken device works again|เรื่องดี,โชค||
+ได้ยินคำที่ต้องการได้ยิน|Hearing exactly what you needed to hear|เรื่องดี,โชค||
+ขับรถผ่านด่านตรวจไปได้เรียบร้อย|Passing a checkpoint smoothly|เรื่องดี,โชค||
+ได้ข้อเสนอที่ดีกว่าเดิม|A better offer|เรื่องดี,โชค||
+ฝันดีทั้งคืน|Sweet dreams all night|เรื่องดี,โชค||
+# งานเสริม รายได้ และโอกาส
+มีงานเสริมเข้ามา|Extra work comes in|เรื่องดี,รายได้||
+ลูกค้าจ่ายเงินตรงเวลา|A client pays on time|เรื่องดี,รายได้||
+ได้ลูกค้าใหม่จากการบอกต่อ|A new client by word of mouth|เรื่องดี,รายได้||
+ขายของออนไลน์ได้ดี|Online sales go well|เรื่องดี,รายได้||
+ได้ทิปจากลูกค้า|A tip from a customer|เรื่องดี,รายได้||
+มีคนชวนร่วมงานที่น่าสนใจ|An interesting invitation to work together|เรื่องดี,รายได้||
+ได้เรียนคอร์สฟรี|A free course|เรื่องดี,รายได้||
+ได้รับคำแนะนำดีๆ เรื่องอาชีพ|Good career advice|เรื่องดี,รายได้||
+ได้เครื่องมือทำงานใหม่|New tools for work|เรื่องดี,รายได้||
+งานที่ส่งไปผ่านในรอบเดียว|Work approved first time|เรื่องดี,รายได้||
+มีคนสนใจผลงานของคุณ|Someone is interested in your work|เรื่องดี,รายได้||
+ได้ค่าตอบแทนเพิ่ม|Extra pay|เรื่องดี,รายได้||
+ได้รับเชิญไปงานที่มีประโยชน์|Invited to a useful event|เรื่องดี,รายได้||
+ได้คะแนนรีวิวดี|A good review|เรื่องดี,รายได้||
+ได้พบคนที่ช่วยต่อยอดงาน|Meeting someone who can take your work further|เรื่องดี,รายได้||
+ลูกค้าจ่ายเงินช้า|A client pays late|อุปสรรค,รายได้||
+งานเสริมถูกยกเลิก|A side job falls through|อุปสรรค,รายได้||
+ได้รีวิวไม่ดี|A bad review|อุปสรรค,รายได้||
+คู่แข่งตัดราคา|A competitor undercuts you|อุปสรรค,รายได้||
+ระบบรับชำระเงินขัดข้อง|Payment system glitch|อุปสรรค,รายได้||
+# ร่างกายและความงาม
+ทรงผมใหม่ออกมาสวย|A great new haircut|เรื่องดี,ความงาม||
+เสื้อผ้าเก่ายังใส่ได้พอดี|Old clothes still fit|เรื่องดี,ความงาม||
+มีคนทักว่าดูสดใส|Someone says you look radiant|เรื่องดี,ความงาม||
+แต่งหน้าออกมาดี|Your make-up turns out well|เรื่องดี,ความงาม||
+ได้เสื้อผ้าที่ใส่แล้วมั่นใจ|Clothes that make you confident|เรื่องดี,ความงาม||
+ทรงผมออกมาไม่ถูกใจ|A haircut you don't like|อุปสรรค,ความงาม||
+เสื้อผ้าคับขึ้น|Clothes feel tight|อุปสรรค,ความงาม||
+รองเท้าคู่โปรดพัง|Favourite shoes fall apart|อุปสรรค,ความงาม||

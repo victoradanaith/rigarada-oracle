@@ -1,0 +1,1000 @@
+NUMB-001	0–99	0	Zero	เลข1หลัก,ผลรวม 0		
+NUMB-002	0–99	1	One	เลข1หลัก,ผลรวม 1		
+NUMB-003	0–99	2	Two	เลข1หลัก,ผลรวม 2		
+NUMB-004	0–99	3	Three	เลข1หลัก,ผลรวม 3		
+NUMB-005	0–99	4	Four	เลข1หลัก,ผลรวม 4		
+NUMB-006	0–99	5	Five	เลข1หลัก,ผลรวม 5		
+NUMB-007	0–99	6	Six	เลข1หลัก,ผลรวม 6		
+NUMB-008	0–99	7	Seven	เลข1หลัก,ผลรวม 7		
+NUMB-009	0–99	8	Eight	เลข1หลัก,ผลรวม 8		
+NUMB-010	0–99	9	Nine	เลข1หลัก,ผลรวม 9		
+NUMB-011	0–99	10	Ten	เลข2หลัก,ผลรวม 1		
+NUMB-012	0–99	11	Eleven	เลข2หลัก,ผลรวม 2,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-013	0–99	12	Twelve	เลข2หลัก,ผลรวม 3,เลขเรียง		
+NUMB-014	0–99	13	Thirteen	เลข2หลัก,ผลรวม 4		
+NUMB-015	0–99	14	Fourteen	เลข2หลัก,ผลรวม 5		
+NUMB-016	0–99	15	Fifteen	เลข2หลัก,ผลรวม 6		
+NUMB-017	0–99	16	Sixteen	เลข2หลัก,ผลรวม 7		
+NUMB-018	0–99	17	Seventeen	เลข2หลัก,ผลรวม 8		
+NUMB-019	0–99	18	Eighteen	เลข2หลัก,ผลรวม 9		
+NUMB-020	0–99	19	Nineteen	เลข2หลัก,ผลรวม 10		
+NUMB-021	0–99	20	Twenty	เลข2หลัก,ผลรวม 2		
+NUMB-022	0–99	21	Twenty-one	เลข2หลัก,ผลรวม 3		
+NUMB-023	0–99	22	Twenty-two	เลข2หลัก,ผลรวม 4,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-024	0–99	23	Twenty-three	เลข2หลัก,ผลรวม 5,เลขเรียง		
+NUMB-025	0–99	24	Twenty-four	เลข2หลัก,ผลรวม 6		
+NUMB-026	0–99	25	Twenty-five	เลข2หลัก,ผลรวม 7		
+NUMB-027	0–99	26	Twenty-six	เลข2หลัก,ผลรวม 8		
+NUMB-028	0–99	27	Twenty-seven	เลข2หลัก,ผลรวม 9		
+NUMB-029	0–99	28	Twenty-eight	เลข2หลัก,ผลรวม 10		
+NUMB-030	0–99	29	Twenty-nine	เลข2หลัก,ผลรวม 11		
+NUMB-031	0–99	30	Thirty	เลข2หลัก,ผลรวม 3		
+NUMB-032	0–99	31	Thirty-one	เลข2หลัก,ผลรวม 4		
+NUMB-033	0–99	32	Thirty-two	เลข2หลัก,ผลรวม 5		
+NUMB-034	0–99	33	Thirty-three	เลข2หลัก,ผลรวม 6,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-035	0–99	34	Thirty-four	เลข2หลัก,ผลรวม 7,เลขเรียง		
+NUMB-036	0–99	35	Thirty-five	เลข2หลัก,ผลรวม 8		
+NUMB-037	0–99	36	Thirty-six	เลข2หลัก,ผลรวม 9		
+NUMB-038	0–99	37	Thirty-seven	เลข2หลัก,ผลรวม 10		
+NUMB-039	0–99	38	Thirty-eight	เลข2หลัก,ผลรวม 11		
+NUMB-040	0–99	39	Thirty-nine	เลข2หลัก,ผลรวม 12		
+NUMB-041	0–99	40	Forty	เลข2หลัก,ผลรวม 4		
+NUMB-042	0–99	41	Forty-one	เลข2หลัก,ผลรวม 5		
+NUMB-043	0–99	42	Forty-two	เลข2หลัก,ผลรวม 6		
+NUMB-044	0–99	43	Forty-three	เลข2หลัก,ผลรวม 7		
+NUMB-045	0–99	44	Forty-four	เลข2หลัก,ผลรวม 8,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-046	0–99	45	Forty-five	เลข2หลัก,ผลรวม 9,เลขเรียง		
+NUMB-047	0–99	46	Forty-six	เลข2หลัก,ผลรวม 10		
+NUMB-048	0–99	47	Forty-seven	เลข2หลัก,ผลรวม 11		
+NUMB-049	0–99	48	Forty-eight	เลข2หลัก,ผลรวม 12		
+NUMB-050	0–99	49	Forty-nine	เลข2หลัก,ผลรวม 13		
+NUMB-051	0–99	50	Fifty	เลข2หลัก,ผลรวม 5		
+NUMB-052	0–99	51	Fifty-one	เลข2หลัก,ผลรวม 6		
+NUMB-053	0–99	52	Fifty-two	เลข2หลัก,ผลรวม 7		
+NUMB-054	0–99	53	Fifty-three	เลข2หลัก,ผลรวม 8		
+NUMB-055	0–99	54	Fifty-four	เลข2หลัก,ผลรวม 9		
+NUMB-056	0–99	55	Fifty-five	เลข2หลัก,ผลรวม 10,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-057	0–99	56	Fifty-six	เลข2หลัก,ผลรวม 11,เลขเรียง		
+NUMB-058	0–99	57	Fifty-seven	เลข2หลัก,ผลรวม 12		
+NUMB-059	0–99	58	Fifty-eight	เลข2หลัก,ผลรวม 13		
+NUMB-060	0–99	59	Fifty-nine	เลข2หลัก,ผลรวม 14		
+NUMB-061	0–99	60	Sixty	เลข2หลัก,ผลรวม 6		
+NUMB-062	0–99	61	Sixty-one	เลข2หลัก,ผลรวม 7		
+NUMB-063	0–99	62	Sixty-two	เลข2หลัก,ผลรวม 8		
+NUMB-064	0–99	63	Sixty-three	เลข2หลัก,ผลรวม 9		
+NUMB-065	0–99	64	Sixty-four	เลข2หลัก,ผลรวม 10		
+NUMB-066	0–99	65	Sixty-five	เลข2หลัก,ผลรวม 11		
+NUMB-067	0–99	66	Sixty-six	เลข2หลัก,ผลรวม 12,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-068	0–99	67	Sixty-seven	เลข2หลัก,ผลรวม 13,เลขเรียง		
+NUMB-069	0–99	68	Sixty-eight	เลข2หลัก,ผลรวม 14		
+NUMB-070	0–99	69	Sixty-nine	เลข2หลัก,ผลรวม 15		
+NUMB-071	0–99	70	Seventy	เลข2หลัก,ผลรวม 7		
+NUMB-072	0–99	71	Seventy-one	เลข2หลัก,ผลรวม 8		
+NUMB-073	0–99	72	Seventy-two	เลข2หลัก,ผลรวม 9		
+NUMB-074	0–99	73	Seventy-three	เลข2หลัก,ผลรวม 10		
+NUMB-075	0–99	74	Seventy-four	เลข2หลัก,ผลรวม 11		
+NUMB-076	0–99	75	Seventy-five	เลข2หลัก,ผลรวม 12		
+NUMB-077	0–99	76	Seventy-six	เลข2หลัก,ผลรวม 13		
+NUMB-078	0–99	77	Seventy-seven	เลข2หลัก,ผลรวม 14,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-079	0–99	78	Seventy-eight	เลข2หลัก,ผลรวม 15,เลขเรียง		
+NUMB-080	0–99	79	Seventy-nine	เลข2หลัก,ผลรวม 16		
+NUMB-081	0–99	80	Eighty	เลข2หลัก,ผลรวม 8		
+NUMB-082	0–99	81	Eighty-one	เลข2หลัก,ผลรวม 9		
+NUMB-083	0–99	82	Eighty-two	เลข2หลัก,ผลรวม 10		
+NUMB-084	0–99	83	Eighty-three	เลข2หลัก,ผลรวม 11		
+NUMB-085	0–99	84	Eighty-four	เลข2หลัก,ผลรวม 12		
+NUMB-086	0–99	85	Eighty-five	เลข2หลัก,ผลรวม 13		
+NUMB-087	0–99	86	Eighty-six	เลข2หลัก,ผลรวม 14		
+NUMB-088	0–99	87	Eighty-seven	เลข2หลัก,ผลรวม 15		
+NUMB-089	0–99	88	Eighty-eight	เลข2หลัก,ผลรวม 16,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-090	0–99	89	Eighty-nine	เลข2หลัก,ผลรวม 17,เลขเรียง		
+NUMB-091	0–99	90	Ninety	เลข2หลัก,ผลรวม 9		
+NUMB-092	0–99	91	Ninety-one	เลข2หลัก,ผลรวม 10		
+NUMB-093	0–99	92	Ninety-two	เลข2หลัก,ผลรวม 11		
+NUMB-094	0–99	93	Ninety-three	เลข2หลัก,ผลรวม 12		
+NUMB-095	0–99	94	Ninety-four	เลข2หลัก,ผลรวม 13		
+NUMB-096	0–99	95	Ninety-five	เลข2หลัก,ผลรวม 14		
+NUMB-097	0–99	96	Ninety-six	เลข2หลัก,ผลรวม 15		
+NUMB-098	0–99	97	Ninety-seven	เลข2หลัก,ผลรวม 16		
+NUMB-099	0–99	98	Ninety-eight	เลข2หลัก,ผลรวม 17		
+NUMB-100	0–99	99	Ninety-nine	เลข2หลัก,ผลรวม 18,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-101	100–199	100	One hundred	เลข3หลัก,ผลรวม 1,เลขเบิ้ล		
+NUMB-102	100–199	101	One hundred and one	เลข3หลัก,ผลรวม 2,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-103	100–199	102	One hundred and two	เลข3หลัก,ผลรวม 3		
+NUMB-104	100–199	103	One hundred and three	เลข3หลัก,ผลรวม 4		
+NUMB-105	100–199	104	One hundred and four	เลข3หลัก,ผลรวม 5		
+NUMB-106	100–199	105	One hundred and five	เลข3หลัก,ผลรวม 6		
+NUMB-107	100–199	106	One hundred and six	เลข3หลัก,ผลรวม 7		
+NUMB-108	100–199	107	One hundred and seven	เลข3หลัก,ผลรวม 8		
+NUMB-109	100–199	108	One hundred and eight	เลข3หลัก,ผลรวม 9		
+NUMB-110	100–199	109	One hundred and nine	เลข3หลัก,ผลรวม 10		
+NUMB-111	100–199	110	One hundred and ten	เลข3หลัก,ผลรวม 2,เลขเบิ้ล		
+NUMB-112	100–199	111	One hundred and eleven	เลข3หลัก,ผลรวม 3,เลขตอง,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-113	100–199	112	One hundred and twelve	เลข3หลัก,ผลรวม 4,เลขเบิ้ล		
+NUMB-114	100–199	113	One hundred and thirteen	เลข3หลัก,ผลรวม 5,เลขเบิ้ล		
+NUMB-115	100–199	114	One hundred and fourteen	เลข3หลัก,ผลรวม 6,เลขเบิ้ล		
+NUMB-116	100–199	115	One hundred and fifteen	เลข3หลัก,ผลรวม 7,เลขเบิ้ล		
+NUMB-117	100–199	116	One hundred and sixteen	เลข3หลัก,ผลรวม 8,เลขเบิ้ล		
+NUMB-118	100–199	117	One hundred and seventeen	เลข3หลัก,ผลรวม 9,เลขเบิ้ล		
+NUMB-119	100–199	118	One hundred and eighteen	เลข3หลัก,ผลรวม 10,เลขเบิ้ล		
+NUMB-120	100–199	119	One hundred and nineteen	เลข3หลัก,ผลรวม 11,เลขเบิ้ล		
+NUMB-121	100–199	120	One hundred and twenty	เลข3หลัก,ผลรวม 3		
+NUMB-122	100–199	121	One hundred and twenty-one	เลข3หลัก,ผลรวม 4,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-123	100–199	122	One hundred and twenty-two	เลข3หลัก,ผลรวม 5,เลขเบิ้ล		
+NUMB-124	100–199	123	One hundred and twenty-three	เลข3หลัก,ผลรวม 6,เลขเรียง		
+NUMB-125	100–199	124	One hundred and twenty-four	เลข3หลัก,ผลรวม 7		
+NUMB-126	100–199	125	One hundred and twenty-five	เลข3หลัก,ผลรวม 8		
+NUMB-127	100–199	126	One hundred and twenty-six	เลข3หลัก,ผลรวม 9		
+NUMB-128	100–199	127	One hundred and twenty-seven	เลข3หลัก,ผลรวม 10		
+NUMB-129	100–199	128	One hundred and twenty-eight	เลข3หลัก,ผลรวม 11		
+NUMB-130	100–199	129	One hundred and twenty-nine	เลข3หลัก,ผลรวม 12		
+NUMB-131	100–199	130	One hundred and thirty	เลข3หลัก,ผลรวม 4		
+NUMB-132	100–199	131	One hundred and thirty-one	เลข3หลัก,ผลรวม 5,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-133	100–199	132	One hundred and thirty-two	เลข3หลัก,ผลรวม 6		
+NUMB-134	100–199	133	One hundred and thirty-three	เลข3หลัก,ผลรวม 7,เลขเบิ้ล		
+NUMB-135	100–199	134	One hundred and thirty-four	เลข3หลัก,ผลรวม 8		
+NUMB-136	100–199	135	One hundred and thirty-five	เลข3หลัก,ผลรวม 9		
+NUMB-137	100–199	136	One hundred and thirty-six	เลข3หลัก,ผลรวม 10		
+NUMB-138	100–199	137	One hundred and thirty-seven	เลข3หลัก,ผลรวม 11		
+NUMB-139	100–199	138	One hundred and thirty-eight	เลข3หลัก,ผลรวม 12		
+NUMB-140	100–199	139	One hundred and thirty-nine	เลข3หลัก,ผลรวม 13		
+NUMB-141	100–199	140	One hundred and forty	เลข3หลัก,ผลรวม 5		
+NUMB-142	100–199	141	One hundred and forty-one	เลข3หลัก,ผลรวม 6,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-143	100–199	142	One hundred and forty-two	เลข3หลัก,ผลรวม 7		
+NUMB-144	100–199	143	One hundred and forty-three	เลข3หลัก,ผลรวม 8		
+NUMB-145	100–199	144	One hundred and forty-four	เลข3หลัก,ผลรวม 9,เลขเบิ้ล		
+NUMB-146	100–199	145	One hundred and forty-five	เลข3หลัก,ผลรวม 10		
+NUMB-147	100–199	146	One hundred and forty-six	เลข3หลัก,ผลรวม 11		
+NUMB-148	100–199	147	One hundred and forty-seven	เลข3หลัก,ผลรวม 12		
+NUMB-149	100–199	148	One hundred and forty-eight	เลข3หลัก,ผลรวม 13		
+NUMB-150	100–199	149	One hundred and forty-nine	เลข3หลัก,ผลรวม 14		
+NUMB-151	100–199	150	One hundred and fifty	เลข3หลัก,ผลรวม 6		
+NUMB-152	100–199	151	One hundred and fifty-one	เลข3หลัก,ผลรวม 7,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-153	100–199	152	One hundred and fifty-two	เลข3หลัก,ผลรวม 8		
+NUMB-154	100–199	153	One hundred and fifty-three	เลข3หลัก,ผลรวม 9		
+NUMB-155	100–199	154	One hundred and fifty-four	เลข3หลัก,ผลรวม 10		
+NUMB-156	100–199	155	One hundred and fifty-five	เลข3หลัก,ผลรวม 11,เลขเบิ้ล		
+NUMB-157	100–199	156	One hundred and fifty-six	เลข3หลัก,ผลรวม 12		
+NUMB-158	100–199	157	One hundred and fifty-seven	เลข3หลัก,ผลรวม 13		
+NUMB-159	100–199	158	One hundred and fifty-eight	เลข3หลัก,ผลรวม 14		
+NUMB-160	100–199	159	One hundred and fifty-nine	เลข3หลัก,ผลรวม 15		
+NUMB-161	100–199	160	One hundred and sixty	เลข3หลัก,ผลรวม 7		
+NUMB-162	100–199	161	One hundred and sixty-one	เลข3หลัก,ผลรวม 8,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-163	100–199	162	One hundred and sixty-two	เลข3หลัก,ผลรวม 9		
+NUMB-164	100–199	163	One hundred and sixty-three	เลข3หลัก,ผลรวม 10		
+NUMB-165	100–199	164	One hundred and sixty-four	เลข3หลัก,ผลรวม 11		
+NUMB-166	100–199	165	One hundred and sixty-five	เลข3หลัก,ผลรวม 12		
+NUMB-167	100–199	166	One hundred and sixty-six	เลข3หลัก,ผลรวม 13,เลขเบิ้ล		
+NUMB-168	100–199	167	One hundred and sixty-seven	เลข3หลัก,ผลรวม 14		
+NUMB-169	100–199	168	One hundred and sixty-eight	เลข3หลัก,ผลรวม 15		
+NUMB-170	100–199	169	One hundred and sixty-nine	เลข3หลัก,ผลรวม 16		
+NUMB-171	100–199	170	One hundred and seventy	เลข3หลัก,ผลรวม 8		
+NUMB-172	100–199	171	One hundred and seventy-one	เลข3หลัก,ผลรวม 9,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-173	100–199	172	One hundred and seventy-two	เลข3หลัก,ผลรวม 10		
+NUMB-174	100–199	173	One hundred and seventy-three	เลข3หลัก,ผลรวม 11		
+NUMB-175	100–199	174	One hundred and seventy-four	เลข3หลัก,ผลรวม 12		
+NUMB-176	100–199	175	One hundred and seventy-five	เลข3หลัก,ผลรวม 13		
+NUMB-177	100–199	176	One hundred and seventy-six	เลข3หลัก,ผลรวม 14		
+NUMB-178	100–199	177	One hundred and seventy-seven	เลข3หลัก,ผลรวม 15,เลขเบิ้ล		
+NUMB-179	100–199	178	One hundred and seventy-eight	เลข3หลัก,ผลรวม 16		
+NUMB-180	100–199	179	One hundred and seventy-nine	เลข3หลัก,ผลรวม 17		
+NUMB-181	100–199	180	One hundred and eighty	เลข3หลัก,ผลรวม 9		
+NUMB-182	100–199	181	One hundred and eighty-one	เลข3หลัก,ผลรวม 10,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-183	100–199	182	One hundred and eighty-two	เลข3หลัก,ผลรวม 11		
+NUMB-184	100–199	183	One hundred and eighty-three	เลข3หลัก,ผลรวม 12		
+NUMB-185	100–199	184	One hundred and eighty-four	เลข3หลัก,ผลรวม 13		
+NUMB-186	100–199	185	One hundred and eighty-five	เลข3หลัก,ผลรวม 14		
+NUMB-187	100–199	186	One hundred and eighty-six	เลข3หลัก,ผลรวม 15		
+NUMB-188	100–199	187	One hundred and eighty-seven	เลข3หลัก,ผลรวม 16		
+NUMB-189	100–199	188	One hundred and eighty-eight	เลข3หลัก,ผลรวม 17,เลขเบิ้ล		
+NUMB-190	100–199	189	One hundred and eighty-nine	เลข3หลัก,ผลรวม 18		
+NUMB-191	100–199	190	One hundred and ninety	เลข3หลัก,ผลรวม 10		
+NUMB-192	100–199	191	One hundred and ninety-one	เลข3หลัก,ผลรวม 11,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-193	100–199	192	One hundred and ninety-two	เลข3หลัก,ผลรวม 12		
+NUMB-194	100–199	193	One hundred and ninety-three	เลข3หลัก,ผลรวม 13		
+NUMB-195	100–199	194	One hundred and ninety-four	เลข3หลัก,ผลรวม 14		
+NUMB-196	100–199	195	One hundred and ninety-five	เลข3หลัก,ผลรวม 15		
+NUMB-197	100–199	196	One hundred and ninety-six	เลข3หลัก,ผลรวม 16		
+NUMB-198	100–199	197	One hundred and ninety-seven	เลข3หลัก,ผลรวม 17		
+NUMB-199	100–199	198	One hundred and ninety-eight	เลข3หลัก,ผลรวม 18		
+NUMB-200	100–199	199	One hundred and ninety-nine	เลข3หลัก,ผลรวม 19,เลขเบิ้ล		
+NUMB-201	200–299	200	Two hundred	เลข3หลัก,ผลรวม 2,เลขเบิ้ล		
+NUMB-202	200–299	201	Two hundred and one	เลข3หลัก,ผลรวม 3		
+NUMB-203	200–299	202	Two hundred and two	เลข3หลัก,ผลรวม 4,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-204	200–299	203	Two hundred and three	เลข3หลัก,ผลรวม 5		
+NUMB-205	200–299	204	Two hundred and four	เลข3หลัก,ผลรวม 6		
+NUMB-206	200–299	205	Two hundred and five	เลข3หลัก,ผลรวม 7		
+NUMB-207	200–299	206	Two hundred and six	เลข3หลัก,ผลรวม 8		
+NUMB-208	200–299	207	Two hundred and seven	เลข3หลัก,ผลรวม 9		
+NUMB-209	200–299	208	Two hundred and eight	เลข3หลัก,ผลรวม 10		
+NUMB-210	200–299	209	Two hundred and nine	เลข3หลัก,ผลรวม 11		
+NUMB-211	200–299	210	Two hundred and ten	เลข3หลัก,ผลรวม 3		
+NUMB-212	200–299	211	Two hundred and eleven	เลข3หลัก,ผลรวม 4,เลขเบิ้ล		
+NUMB-213	200–299	212	Two hundred and twelve	เลข3หลัก,ผลรวม 5,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-214	200–299	213	Two hundred and thirteen	เลข3หลัก,ผลรวม 6		
+NUMB-215	200–299	214	Two hundred and fourteen	เลข3หลัก,ผลรวม 7		
+NUMB-216	200–299	215	Two hundred and fifteen	เลข3หลัก,ผลรวม 8		
+NUMB-217	200–299	216	Two hundred and sixteen	เลข3หลัก,ผลรวม 9		
+NUMB-218	200–299	217	Two hundred and seventeen	เลข3หลัก,ผลรวม 10		
+NUMB-219	200–299	218	Two hundred and eighteen	เลข3หลัก,ผลรวม 11		
+NUMB-220	200–299	219	Two hundred and nineteen	เลข3หลัก,ผลรวม 12		
+NUMB-221	200–299	220	Two hundred and twenty	เลข3หลัก,ผลรวม 4,เลขเบิ้ล		
+NUMB-222	200–299	221	Two hundred and twenty-one	เลข3หลัก,ผลรวม 5,เลขเบิ้ล		
+NUMB-223	200–299	222	Two hundred and twenty-two	เลข3หลัก,ผลรวม 6,เลขตอง,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-224	200–299	223	Two hundred and twenty-three	เลข3หลัก,ผลรวม 7,เลขเบิ้ล		
+NUMB-225	200–299	224	Two hundred and twenty-four	เลข3หลัก,ผลรวม 8,เลขเบิ้ล		
+NUMB-226	200–299	225	Two hundred and twenty-five	เลข3หลัก,ผลรวม 9,เลขเบิ้ล		
+NUMB-227	200–299	226	Two hundred and twenty-six	เลข3หลัก,ผลรวม 10,เลขเบิ้ล		
+NUMB-228	200–299	227	Two hundred and twenty-seven	เลข3หลัก,ผลรวม 11,เลขเบิ้ล		
+NUMB-229	200–299	228	Two hundred and twenty-eight	เลข3หลัก,ผลรวม 12,เลขเบิ้ล		
+NUMB-230	200–299	229	Two hundred and twenty-nine	เลข3หลัก,ผลรวม 13,เลขเบิ้ล		
+NUMB-231	200–299	230	Two hundred and thirty	เลข3หลัก,ผลรวม 5		
+NUMB-232	200–299	231	Two hundred and thirty-one	เลข3หลัก,ผลรวม 6		
+NUMB-233	200–299	232	Two hundred and thirty-two	เลข3หลัก,ผลรวม 7,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-234	200–299	233	Two hundred and thirty-three	เลข3หลัก,ผลรวม 8,เลขเบิ้ล		
+NUMB-235	200–299	234	Two hundred and thirty-four	เลข3หลัก,ผลรวม 9,เลขเรียง		
+NUMB-236	200–299	235	Two hundred and thirty-five	เลข3หลัก,ผลรวม 10		
+NUMB-237	200–299	236	Two hundred and thirty-six	เลข3หลัก,ผลรวม 11		
+NUMB-238	200–299	237	Two hundred and thirty-seven	เลข3หลัก,ผลรวม 12		
+NUMB-239	200–299	238	Two hundred and thirty-eight	เลข3หลัก,ผลรวม 13		
+NUMB-240	200–299	239	Two hundred and thirty-nine	เลข3หลัก,ผลรวม 14		
+NUMB-241	200–299	240	Two hundred and forty	เลข3หลัก,ผลรวม 6		
+NUMB-242	200–299	241	Two hundred and forty-one	เลข3หลัก,ผลรวม 7		
+NUMB-243	200–299	242	Two hundred and forty-two	เลข3หลัก,ผลรวม 8,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-244	200–299	243	Two hundred and forty-three	เลข3หลัก,ผลรวม 9		
+NUMB-245	200–299	244	Two hundred and forty-four	เลข3หลัก,ผลรวม 10,เลขเบิ้ล		
+NUMB-246	200–299	245	Two hundred and forty-five	เลข3หลัก,ผลรวม 11		
+NUMB-247	200–299	246	Two hundred and forty-six	เลข3หลัก,ผลรวม 12		
+NUMB-248	200–299	247	Two hundred and forty-seven	เลข3หลัก,ผลรวม 13		
+NUMB-249	200–299	248	Two hundred and forty-eight	เลข3หลัก,ผลรวม 14		
+NUMB-250	200–299	249	Two hundred and forty-nine	เลข3หลัก,ผลรวม 15		
+NUMB-251	200–299	250	Two hundred and fifty	เลข3หลัก,ผลรวม 7		
+NUMB-252	200–299	251	Two hundred and fifty-one	เลข3หลัก,ผลรวม 8		
+NUMB-253	200–299	252	Two hundred and fifty-two	เลข3หลัก,ผลรวม 9,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-254	200–299	253	Two hundred and fifty-three	เลข3หลัก,ผลรวม 10		
+NUMB-255	200–299	254	Two hundred and fifty-four	เลข3หลัก,ผลรวม 11		
+NUMB-256	200–299	255	Two hundred and fifty-five	เลข3หลัก,ผลรวม 12,เลขเบิ้ล		
+NUMB-257	200–299	256	Two hundred and fifty-six	เลข3หลัก,ผลรวม 13		
+NUMB-258	200–299	257	Two hundred and fifty-seven	เลข3หลัก,ผลรวม 14		
+NUMB-259	200–299	258	Two hundred and fifty-eight	เลข3หลัก,ผลรวม 15		
+NUMB-260	200–299	259	Two hundred and fifty-nine	เลข3หลัก,ผลรวม 16		
+NUMB-261	200–299	260	Two hundred and sixty	เลข3หลัก,ผลรวม 8		
+NUMB-262	200–299	261	Two hundred and sixty-one	เลข3หลัก,ผลรวม 9		
+NUMB-263	200–299	262	Two hundred and sixty-two	เลข3หลัก,ผลรวม 10,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-264	200–299	263	Two hundred and sixty-three	เลข3หลัก,ผลรวม 11		
+NUMB-265	200–299	264	Two hundred and sixty-four	เลข3หลัก,ผลรวม 12		
+NUMB-266	200–299	265	Two hundred and sixty-five	เลข3หลัก,ผลรวม 13		
+NUMB-267	200–299	266	Two hundred and sixty-six	เลข3หลัก,ผลรวม 14,เลขเบิ้ล		
+NUMB-268	200–299	267	Two hundred and sixty-seven	เลข3หลัก,ผลรวม 15		
+NUMB-269	200–299	268	Two hundred and sixty-eight	เลข3หลัก,ผลรวม 16		
+NUMB-270	200–299	269	Two hundred and sixty-nine	เลข3หลัก,ผลรวม 17		
+NUMB-271	200–299	270	Two hundred and seventy	เลข3หลัก,ผลรวม 9		
+NUMB-272	200–299	271	Two hundred and seventy-one	เลข3หลัก,ผลรวม 10		
+NUMB-273	200–299	272	Two hundred and seventy-two	เลข3หลัก,ผลรวม 11,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-274	200–299	273	Two hundred and seventy-three	เลข3หลัก,ผลรวม 12		
+NUMB-275	200–299	274	Two hundred and seventy-four	เลข3หลัก,ผลรวม 13		
+NUMB-276	200–299	275	Two hundred and seventy-five	เลข3หลัก,ผลรวม 14		
+NUMB-277	200–299	276	Two hundred and seventy-six	เลข3หลัก,ผลรวม 15		
+NUMB-278	200–299	277	Two hundred and seventy-seven	เลข3หลัก,ผลรวม 16,เลขเบิ้ล		
+NUMB-279	200–299	278	Two hundred and seventy-eight	เลข3หลัก,ผลรวม 17		
+NUMB-280	200–299	279	Two hundred and seventy-nine	เลข3หลัก,ผลรวม 18		
+NUMB-281	200–299	280	Two hundred and eighty	เลข3หลัก,ผลรวม 10		
+NUMB-282	200–299	281	Two hundred and eighty-one	เลข3หลัก,ผลรวม 11		
+NUMB-283	200–299	282	Two hundred and eighty-two	เลข3หลัก,ผลรวม 12,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-284	200–299	283	Two hundred and eighty-three	เลข3หลัก,ผลรวม 13		
+NUMB-285	200–299	284	Two hundred and eighty-four	เลข3หลัก,ผลรวม 14		
+NUMB-286	200–299	285	Two hundred and eighty-five	เลข3หลัก,ผลรวม 15		
+NUMB-287	200–299	286	Two hundred and eighty-six	เลข3หลัก,ผลรวม 16		
+NUMB-288	200–299	287	Two hundred and eighty-seven	เลข3หลัก,ผลรวม 17		
+NUMB-289	200–299	288	Two hundred and eighty-eight	เลข3หลัก,ผลรวม 18,เลขเบิ้ล		
+NUMB-290	200–299	289	Two hundred and eighty-nine	เลข3หลัก,ผลรวม 19		
+NUMB-291	200–299	290	Two hundred and ninety	เลข3หลัก,ผลรวม 11		
+NUMB-292	200–299	291	Two hundred and ninety-one	เลข3หลัก,ผลรวม 12		
+NUMB-293	200–299	292	Two hundred and ninety-two	เลข3หลัก,ผลรวม 13,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-294	200–299	293	Two hundred and ninety-three	เลข3หลัก,ผลรวม 14		
+NUMB-295	200–299	294	Two hundred and ninety-four	เลข3หลัก,ผลรวม 15		
+NUMB-296	200–299	295	Two hundred and ninety-five	เลข3หลัก,ผลรวม 16		
+NUMB-297	200–299	296	Two hundred and ninety-six	เลข3หลัก,ผลรวม 17		
+NUMB-298	200–299	297	Two hundred and ninety-seven	เลข3หลัก,ผลรวม 18		
+NUMB-299	200–299	298	Two hundred and ninety-eight	เลข3หลัก,ผลรวม 19		
+NUMB-300	200–299	299	Two hundred and ninety-nine	เลข3หลัก,ผลรวม 20,เลขเบิ้ล		
+NUMB-301	300–399	300	Three hundred	เลข3หลัก,ผลรวม 3,เลขเบิ้ล		
+NUMB-302	300–399	301	Three hundred and one	เลข3หลัก,ผลรวม 4		
+NUMB-303	300–399	302	Three hundred and two	เลข3หลัก,ผลรวม 5		
+NUMB-304	300–399	303	Three hundred and three	เลข3หลัก,ผลรวม 6,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-305	300–399	304	Three hundred and four	เลข3หลัก,ผลรวม 7		
+NUMB-306	300–399	305	Three hundred and five	เลข3หลัก,ผลรวม 8		
+NUMB-307	300–399	306	Three hundred and six	เลข3หลัก,ผลรวม 9		
+NUMB-308	300–399	307	Three hundred and seven	เลข3หลัก,ผลรวม 10		
+NUMB-309	300–399	308	Three hundred and eight	เลข3หลัก,ผลรวม 11		
+NUMB-310	300–399	309	Three hundred and nine	เลข3หลัก,ผลรวม 12		
+NUMB-311	300–399	310	Three hundred and ten	เลข3หลัก,ผลรวม 4		
+NUMB-312	300–399	311	Three hundred and eleven	เลข3หลัก,ผลรวม 5,เลขเบิ้ล		
+NUMB-313	300–399	312	Three hundred and twelve	เลข3หลัก,ผลรวม 6		
+NUMB-314	300–399	313	Three hundred and thirteen	เลข3หลัก,ผลรวม 7,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-315	300–399	314	Three hundred and fourteen	เลข3หลัก,ผลรวม 8		
+NUMB-316	300–399	315	Three hundred and fifteen	เลข3หลัก,ผลรวม 9		
+NUMB-317	300–399	316	Three hundred and sixteen	เลข3หลัก,ผลรวม 10		
+NUMB-318	300–399	317	Three hundred and seventeen	เลข3หลัก,ผลรวม 11		
+NUMB-319	300–399	318	Three hundred and eighteen	เลข3หลัก,ผลรวม 12		
+NUMB-320	300–399	319	Three hundred and nineteen	เลข3หลัก,ผลรวม 13		
+NUMB-321	300–399	320	Three hundred and twenty	เลข3หลัก,ผลรวม 5		
+NUMB-322	300–399	321	Three hundred and twenty-one	เลข3หลัก,ผลรวม 6		
+NUMB-323	300–399	322	Three hundred and twenty-two	เลข3หลัก,ผลรวม 7,เลขเบิ้ล		
+NUMB-324	300–399	323	Three hundred and twenty-three	เลข3หลัก,ผลรวม 8,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-325	300–399	324	Three hundred and twenty-four	เลข3หลัก,ผลรวม 9		
+NUMB-326	300–399	325	Three hundred and twenty-five	เลข3หลัก,ผลรวม 10		
+NUMB-327	300–399	326	Three hundred and twenty-six	เลข3หลัก,ผลรวม 11		
+NUMB-328	300–399	327	Three hundred and twenty-seven	เลข3หลัก,ผลรวม 12		
+NUMB-329	300–399	328	Three hundred and twenty-eight	เลข3หลัก,ผลรวม 13		
+NUMB-330	300–399	329	Three hundred and twenty-nine	เลข3หลัก,ผลรวม 14		
+NUMB-331	300–399	330	Three hundred and thirty	เลข3หลัก,ผลรวม 6,เลขเบิ้ล		
+NUMB-332	300–399	331	Three hundred and thirty-one	เลข3หลัก,ผลรวม 7,เลขเบิ้ล		
+NUMB-333	300–399	332	Three hundred and thirty-two	เลข3หลัก,ผลรวม 8,เลขเบิ้ล		
+NUMB-334	300–399	333	Three hundred and thirty-three	เลข3หลัก,ผลรวม 9,เลขตอง,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-335	300–399	334	Three hundred and thirty-four	เลข3หลัก,ผลรวม 10,เลขเบิ้ล		
+NUMB-336	300–399	335	Three hundred and thirty-five	เลข3หลัก,ผลรวม 11,เลขเบิ้ล		
+NUMB-337	300–399	336	Three hundred and thirty-six	เลข3หลัก,ผลรวม 12,เลขเบิ้ล		
+NUMB-338	300–399	337	Three hundred and thirty-seven	เลข3หลัก,ผลรวม 13,เลขเบิ้ล		
+NUMB-339	300–399	338	Three hundred and thirty-eight	เลข3หลัก,ผลรวม 14,เลขเบิ้ล		
+NUMB-340	300–399	339	Three hundred and thirty-nine	เลข3หลัก,ผลรวม 15,เลขเบิ้ล		
+NUMB-341	300–399	340	Three hundred and forty	เลข3หลัก,ผลรวม 7		
+NUMB-342	300–399	341	Three hundred and forty-one	เลข3หลัก,ผลรวม 8		
+NUMB-343	300–399	342	Three hundred and forty-two	เลข3หลัก,ผลรวม 9		
+NUMB-344	300–399	343	Three hundred and forty-three	เลข3หลัก,ผลรวม 10,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-345	300–399	344	Three hundred and forty-four	เลข3หลัก,ผลรวม 11,เลขเบิ้ล		
+NUMB-346	300–399	345	Three hundred and forty-five	เลข3หลัก,ผลรวม 12,เลขเรียง		
+NUMB-347	300–399	346	Three hundred and forty-six	เลข3หลัก,ผลรวม 13		
+NUMB-348	300–399	347	Three hundred and forty-seven	เลข3หลัก,ผลรวม 14		
+NUMB-349	300–399	348	Three hundred and forty-eight	เลข3หลัก,ผลรวม 15		
+NUMB-350	300–399	349	Three hundred and forty-nine	เลข3หลัก,ผลรวม 16		
+NUMB-351	300–399	350	Three hundred and fifty	เลข3หลัก,ผลรวม 8		
+NUMB-352	300–399	351	Three hundred and fifty-one	เลข3หลัก,ผลรวม 9		
+NUMB-353	300–399	352	Three hundred and fifty-two	เลข3หลัก,ผลรวม 10		
+NUMB-354	300–399	353	Three hundred and fifty-three	เลข3หลัก,ผลรวม 11,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-355	300–399	354	Three hundred and fifty-four	เลข3หลัก,ผลรวม 12		
+NUMB-356	300–399	355	Three hundred and fifty-five	เลข3หลัก,ผลรวม 13,เลขเบิ้ล		
+NUMB-357	300–399	356	Three hundred and fifty-six	เลข3หลัก,ผลรวม 14		
+NUMB-358	300–399	357	Three hundred and fifty-seven	เลข3หลัก,ผลรวม 15		
+NUMB-359	300–399	358	Three hundred and fifty-eight	เลข3หลัก,ผลรวม 16		
+NUMB-360	300–399	359	Three hundred and fifty-nine	เลข3หลัก,ผลรวม 17		
+NUMB-361	300–399	360	Three hundred and sixty	เลข3หลัก,ผลรวม 9		
+NUMB-362	300–399	361	Three hundred and sixty-one	เลข3หลัก,ผลรวม 10		
+NUMB-363	300–399	362	Three hundred and sixty-two	เลข3หลัก,ผลรวม 11		
+NUMB-364	300–399	363	Three hundred and sixty-three	เลข3หลัก,ผลรวม 12,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-365	300–399	364	Three hundred and sixty-four	เลข3หลัก,ผลรวม 13		
+NUMB-366	300–399	365	Three hundred and sixty-five	เลข3หลัก,ผลรวม 14		
+NUMB-367	300–399	366	Three hundred and sixty-six	เลข3หลัก,ผลรวม 15,เลขเบิ้ล		
+NUMB-368	300–399	367	Three hundred and sixty-seven	เลข3หลัก,ผลรวม 16		
+NUMB-369	300–399	368	Three hundred and sixty-eight	เลข3หลัก,ผลรวม 17		
+NUMB-370	300–399	369	Three hundred and sixty-nine	เลข3หลัก,ผลรวม 18		
+NUMB-371	300–399	370	Three hundred and seventy	เลข3หลัก,ผลรวม 10		
+NUMB-372	300–399	371	Three hundred and seventy-one	เลข3หลัก,ผลรวม 11		
+NUMB-373	300–399	372	Three hundred and seventy-two	เลข3หลัก,ผลรวม 12		
+NUMB-374	300–399	373	Three hundred and seventy-three	เลข3หลัก,ผลรวม 13,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-375	300–399	374	Three hundred and seventy-four	เลข3หลัก,ผลรวม 14		
+NUMB-376	300–399	375	Three hundred and seventy-five	เลข3หลัก,ผลรวม 15		
+NUMB-377	300–399	376	Three hundred and seventy-six	เลข3หลัก,ผลรวม 16		
+NUMB-378	300–399	377	Three hundred and seventy-seven	เลข3หลัก,ผลรวม 17,เลขเบิ้ล		
+NUMB-379	300–399	378	Three hundred and seventy-eight	เลข3หลัก,ผลรวม 18		
+NUMB-380	300–399	379	Three hundred and seventy-nine	เลข3หลัก,ผลรวม 19		
+NUMB-381	300–399	380	Three hundred and eighty	เลข3หลัก,ผลรวม 11		
+NUMB-382	300–399	381	Three hundred and eighty-one	เลข3หลัก,ผลรวม 12		
+NUMB-383	300–399	382	Three hundred and eighty-two	เลข3หลัก,ผลรวม 13		
+NUMB-384	300–399	383	Three hundred and eighty-three	เลข3หลัก,ผลรวม 14,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-385	300–399	384	Three hundred and eighty-four	เลข3หลัก,ผลรวม 15		
+NUMB-386	300–399	385	Three hundred and eighty-five	เลข3หลัก,ผลรวม 16		
+NUMB-387	300–399	386	Three hundred and eighty-six	เลข3หลัก,ผลรวม 17		
+NUMB-388	300–399	387	Three hundred and eighty-seven	เลข3หลัก,ผลรวม 18		
+NUMB-389	300–399	388	Three hundred and eighty-eight	เลข3หลัก,ผลรวม 19,เลขเบิ้ล		
+NUMB-390	300–399	389	Three hundred and eighty-nine	เลข3หลัก,ผลรวม 20		
+NUMB-391	300–399	390	Three hundred and ninety	เลข3หลัก,ผลรวม 12		
+NUMB-392	300–399	391	Three hundred and ninety-one	เลข3หลัก,ผลรวม 13		
+NUMB-393	300–399	392	Three hundred and ninety-two	เลข3หลัก,ผลรวม 14		
+NUMB-394	300–399	393	Three hundred and ninety-three	เลข3หลัก,ผลรวม 15,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-395	300–399	394	Three hundred and ninety-four	เลข3หลัก,ผลรวม 16		
+NUMB-396	300–399	395	Three hundred and ninety-five	เลข3หลัก,ผลรวม 17		
+NUMB-397	300–399	396	Three hundred and ninety-six	เลข3หลัก,ผลรวม 18		
+NUMB-398	300–399	397	Three hundred and ninety-seven	เลข3หลัก,ผลรวม 19		
+NUMB-399	300–399	398	Three hundred and ninety-eight	เลข3หลัก,ผลรวม 20		
+NUMB-400	300–399	399	Three hundred and ninety-nine	เลข3หลัก,ผลรวม 21,เลขเบิ้ล		
+NUMB-401	400–499	400	Four hundred	เลข3หลัก,ผลรวม 4,เลขเบิ้ล		
+NUMB-402	400–499	401	Four hundred and one	เลข3หลัก,ผลรวม 5		
+NUMB-403	400–499	402	Four hundred and two	เลข3หลัก,ผลรวม 6		
+NUMB-404	400–499	403	Four hundred and three	เลข3หลัก,ผลรวม 7		
+NUMB-405	400–499	404	Four hundred and four	เลข3หลัก,ผลรวม 8,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-406	400–499	405	Four hundred and five	เลข3หลัก,ผลรวม 9		
+NUMB-407	400–499	406	Four hundred and six	เลข3หลัก,ผลรวม 10		
+NUMB-408	400–499	407	Four hundred and seven	เลข3หลัก,ผลรวม 11		
+NUMB-409	400–499	408	Four hundred and eight	เลข3หลัก,ผลรวม 12		
+NUMB-410	400–499	409	Four hundred and nine	เลข3หลัก,ผลรวม 13		
+NUMB-411	400–499	410	Four hundred and ten	เลข3หลัก,ผลรวม 5		
+NUMB-412	400–499	411	Four hundred and eleven	เลข3หลัก,ผลรวม 6,เลขเบิ้ล		
+NUMB-413	400–499	412	Four hundred and twelve	เลข3หลัก,ผลรวม 7		
+NUMB-414	400–499	413	Four hundred and thirteen	เลข3หลัก,ผลรวม 8		
+NUMB-415	400–499	414	Four hundred and fourteen	เลข3หลัก,ผลรวม 9,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-416	400–499	415	Four hundred and fifteen	เลข3หลัก,ผลรวม 10		
+NUMB-417	400–499	416	Four hundred and sixteen	เลข3หลัก,ผลรวม 11		
+NUMB-418	400–499	417	Four hundred and seventeen	เลข3หลัก,ผลรวม 12		
+NUMB-419	400–499	418	Four hundred and eighteen	เลข3หลัก,ผลรวม 13		
+NUMB-420	400–499	419	Four hundred and nineteen	เลข3หลัก,ผลรวม 14		
+NUMB-421	400–499	420	Four hundred and twenty	เลข3หลัก,ผลรวม 6		
+NUMB-422	400–499	421	Four hundred and twenty-one	เลข3หลัก,ผลรวม 7		
+NUMB-423	400–499	422	Four hundred and twenty-two	เลข3หลัก,ผลรวม 8,เลขเบิ้ล		
+NUMB-424	400–499	423	Four hundred and twenty-three	เลข3หลัก,ผลรวม 9		
+NUMB-425	400–499	424	Four hundred and twenty-four	เลข3หลัก,ผลรวม 10,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-426	400–499	425	Four hundred and twenty-five	เลข3หลัก,ผลรวม 11		
+NUMB-427	400–499	426	Four hundred and twenty-six	เลข3หลัก,ผลรวม 12		
+NUMB-428	400–499	427	Four hundred and twenty-seven	เลข3หลัก,ผลรวม 13		
+NUMB-429	400–499	428	Four hundred and twenty-eight	เลข3หลัก,ผลรวม 14		
+NUMB-430	400–499	429	Four hundred and twenty-nine	เลข3หลัก,ผลรวม 15		
+NUMB-431	400–499	430	Four hundred and thirty	เลข3หลัก,ผลรวม 7		
+NUMB-432	400–499	431	Four hundred and thirty-one	เลข3หลัก,ผลรวม 8		
+NUMB-433	400–499	432	Four hundred and thirty-two	เลข3หลัก,ผลรวม 9		
+NUMB-434	400–499	433	Four hundred and thirty-three	เลข3หลัก,ผลรวม 10,เลขเบิ้ล		
+NUMB-435	400–499	434	Four hundred and thirty-four	เลข3หลัก,ผลรวม 11,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-436	400–499	435	Four hundred and thirty-five	เลข3หลัก,ผลรวม 12		
+NUMB-437	400–499	436	Four hundred and thirty-six	เลข3หลัก,ผลรวม 13		
+NUMB-438	400–499	437	Four hundred and thirty-seven	เลข3หลัก,ผลรวม 14		
+NUMB-439	400–499	438	Four hundred and thirty-eight	เลข3หลัก,ผลรวม 15		
+NUMB-440	400–499	439	Four hundred and thirty-nine	เลข3หลัก,ผลรวม 16		
+NUMB-441	400–499	440	Four hundred and forty	เลข3หลัก,ผลรวม 8,เลขเบิ้ล		
+NUMB-442	400–499	441	Four hundred and forty-one	เลข3หลัก,ผลรวม 9,เลขเบิ้ล		
+NUMB-443	400–499	442	Four hundred and forty-two	เลข3หลัก,ผลรวม 10,เลขเบิ้ล		
+NUMB-444	400–499	443	Four hundred and forty-three	เลข3หลัก,ผลรวม 11,เลขเบิ้ล		
+NUMB-445	400–499	444	Four hundred and forty-four	เลข3หลัก,ผลรวม 12,เลขตอง,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-446	400–499	445	Four hundred and forty-five	เลข3หลัก,ผลรวม 13,เลขเบิ้ล		
+NUMB-447	400–499	446	Four hundred and forty-six	เลข3หลัก,ผลรวม 14,เลขเบิ้ล		
+NUMB-448	400–499	447	Four hundred and forty-seven	เลข3หลัก,ผลรวม 15,เลขเบิ้ล		
+NUMB-449	400–499	448	Four hundred and forty-eight	เลข3หลัก,ผลรวม 16,เลขเบิ้ล		
+NUMB-450	400–499	449	Four hundred and forty-nine	เลข3หลัก,ผลรวม 17,เลขเบิ้ล		
+NUMB-451	400–499	450	Four hundred and fifty	เลข3หลัก,ผลรวม 9		
+NUMB-452	400–499	451	Four hundred and fifty-one	เลข3หลัก,ผลรวม 10		
+NUMB-453	400–499	452	Four hundred and fifty-two	เลข3หลัก,ผลรวม 11		
+NUMB-454	400–499	453	Four hundred and fifty-three	เลข3หลัก,ผลรวม 12		
+NUMB-455	400–499	454	Four hundred and fifty-four	เลข3หลัก,ผลรวม 13,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-456	400–499	455	Four hundred and fifty-five	เลข3หลัก,ผลรวม 14,เลขเบิ้ล		
+NUMB-457	400–499	456	Four hundred and fifty-six	เลข3หลัก,ผลรวม 15,เลขเรียง		
+NUMB-458	400–499	457	Four hundred and fifty-seven	เลข3หลัก,ผลรวม 16		
+NUMB-459	400–499	458	Four hundred and fifty-eight	เลข3หลัก,ผลรวม 17		
+NUMB-460	400–499	459	Four hundred and fifty-nine	เลข3หลัก,ผลรวม 18		
+NUMB-461	400–499	460	Four hundred and sixty	เลข3หลัก,ผลรวม 10		
+NUMB-462	400–499	461	Four hundred and sixty-one	เลข3หลัก,ผลรวม 11		
+NUMB-463	400–499	462	Four hundred and sixty-two	เลข3หลัก,ผลรวม 12		
+NUMB-464	400–499	463	Four hundred and sixty-three	เลข3หลัก,ผลรวม 13		
+NUMB-465	400–499	464	Four hundred and sixty-four	เลข3หลัก,ผลรวม 14,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-466	400–499	465	Four hundred and sixty-five	เลข3หลัก,ผลรวม 15		
+NUMB-467	400–499	466	Four hundred and sixty-six	เลข3หลัก,ผลรวม 16,เลขเบิ้ล		
+NUMB-468	400–499	467	Four hundred and sixty-seven	เลข3หลัก,ผลรวม 17		
+NUMB-469	400–499	468	Four hundred and sixty-eight	เลข3หลัก,ผลรวม 18		
+NUMB-470	400–499	469	Four hundred and sixty-nine	เลข3หลัก,ผลรวม 19		
+NUMB-471	400–499	470	Four hundred and seventy	เลข3หลัก,ผลรวม 11		
+NUMB-472	400–499	471	Four hundred and seventy-one	เลข3หลัก,ผลรวม 12		
+NUMB-473	400–499	472	Four hundred and seventy-two	เลข3หลัก,ผลรวม 13		
+NUMB-474	400–499	473	Four hundred and seventy-three	เลข3หลัก,ผลรวม 14		
+NUMB-475	400–499	474	Four hundred and seventy-four	เลข3หลัก,ผลรวม 15,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-476	400–499	475	Four hundred and seventy-five	เลข3หลัก,ผลรวม 16		
+NUMB-477	400–499	476	Four hundred and seventy-six	เลข3หลัก,ผลรวม 17		
+NUMB-478	400–499	477	Four hundred and seventy-seven	เลข3หลัก,ผลรวม 18,เลขเบิ้ล		
+NUMB-479	400–499	478	Four hundred and seventy-eight	เลข3หลัก,ผลรวม 19		
+NUMB-480	400–499	479	Four hundred and seventy-nine	เลข3หลัก,ผลรวม 20		
+NUMB-481	400–499	480	Four hundred and eighty	เลข3หลัก,ผลรวม 12		
+NUMB-482	400–499	481	Four hundred and eighty-one	เลข3หลัก,ผลรวม 13		
+NUMB-483	400–499	482	Four hundred and eighty-two	เลข3หลัก,ผลรวม 14		
+NUMB-484	400–499	483	Four hundred and eighty-three	เลข3หลัก,ผลรวม 15		
+NUMB-485	400–499	484	Four hundred and eighty-four	เลข3หลัก,ผลรวม 16,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-486	400–499	485	Four hundred and eighty-five	เลข3หลัก,ผลรวม 17		
+NUMB-487	400–499	486	Four hundred and eighty-six	เลข3หลัก,ผลรวม 18		
+NUMB-488	400–499	487	Four hundred and eighty-seven	เลข3หลัก,ผลรวม 19		
+NUMB-489	400–499	488	Four hundred and eighty-eight	เลข3หลัก,ผลรวม 20,เลขเบิ้ล		
+NUMB-490	400–499	489	Four hundred and eighty-nine	เลข3หลัก,ผลรวม 21		
+NUMB-491	400–499	490	Four hundred and ninety	เลข3หลัก,ผลรวม 13		
+NUMB-492	400–499	491	Four hundred and ninety-one	เลข3หลัก,ผลรวม 14		
+NUMB-493	400–499	492	Four hundred and ninety-two	เลข3หลัก,ผลรวม 15		
+NUMB-494	400–499	493	Four hundred and ninety-three	เลข3หลัก,ผลรวม 16		
+NUMB-495	400–499	494	Four hundred and ninety-four	เลข3หลัก,ผลรวม 17,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-496	400–499	495	Four hundred and ninety-five	เลข3หลัก,ผลรวม 18		
+NUMB-497	400–499	496	Four hundred and ninety-six	เลข3หลัก,ผลรวม 19		
+NUMB-498	400–499	497	Four hundred and ninety-seven	เลข3หลัก,ผลรวม 20		
+NUMB-499	400–499	498	Four hundred and ninety-eight	เลข3หลัก,ผลรวม 21		
+NUMB-500	400–499	499	Four hundred and ninety-nine	เลข3หลัก,ผลรวม 22,เลขเบิ้ล		
+NUMB-501	500–599	500	Five hundred	เลข3หลัก,ผลรวม 5,เลขเบิ้ล		
+NUMB-502	500–599	501	Five hundred and one	เลข3หลัก,ผลรวม 6		
+NUMB-503	500–599	502	Five hundred and two	เลข3หลัก,ผลรวม 7		
+NUMB-504	500–599	503	Five hundred and three	เลข3หลัก,ผลรวม 8		
+NUMB-505	500–599	504	Five hundred and four	เลข3หลัก,ผลรวม 9		
+NUMB-506	500–599	505	Five hundred and five	เลข3หลัก,ผลรวม 10,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-507	500–599	506	Five hundred and six	เลข3หลัก,ผลรวม 11		
+NUMB-508	500–599	507	Five hundred and seven	เลข3หลัก,ผลรวม 12		
+NUMB-509	500–599	508	Five hundred and eight	เลข3หลัก,ผลรวม 13		
+NUMB-510	500–599	509	Five hundred and nine	เลข3หลัก,ผลรวม 14		
+NUMB-511	500–599	510	Five hundred and ten	เลข3หลัก,ผลรวม 6		
+NUMB-512	500–599	511	Five hundred and eleven	เลข3หลัก,ผลรวม 7,เลขเบิ้ล		
+NUMB-513	500–599	512	Five hundred and twelve	เลข3หลัก,ผลรวม 8		
+NUMB-514	500–599	513	Five hundred and thirteen	เลข3หลัก,ผลรวม 9		
+NUMB-515	500–599	514	Five hundred and fourteen	เลข3หลัก,ผลรวม 10		
+NUMB-516	500–599	515	Five hundred and fifteen	เลข3หลัก,ผลรวม 11,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-517	500–599	516	Five hundred and sixteen	เลข3หลัก,ผลรวม 12		
+NUMB-518	500–599	517	Five hundred and seventeen	เลข3หลัก,ผลรวม 13		
+NUMB-519	500–599	518	Five hundred and eighteen	เลข3หลัก,ผลรวม 14		
+NUMB-520	500–599	519	Five hundred and nineteen	เลข3หลัก,ผลรวม 15		
+NUMB-521	500–599	520	Five hundred and twenty	เลข3หลัก,ผลรวม 7		
+NUMB-522	500–599	521	Five hundred and twenty-one	เลข3หลัก,ผลรวม 8		
+NUMB-523	500–599	522	Five hundred and twenty-two	เลข3หลัก,ผลรวม 9,เลขเบิ้ล		
+NUMB-524	500–599	523	Five hundred and twenty-three	เลข3หลัก,ผลรวม 10		
+NUMB-525	500–599	524	Five hundred and twenty-four	เลข3หลัก,ผลรวม 11		
+NUMB-526	500–599	525	Five hundred and twenty-five	เลข3หลัก,ผลรวม 12,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-527	500–599	526	Five hundred and twenty-six	เลข3หลัก,ผลรวม 13		
+NUMB-528	500–599	527	Five hundred and twenty-seven	เลข3หลัก,ผลรวม 14		
+NUMB-529	500–599	528	Five hundred and twenty-eight	เลข3หลัก,ผลรวม 15		
+NUMB-530	500–599	529	Five hundred and twenty-nine	เลข3หลัก,ผลรวม 16		
+NUMB-531	500–599	530	Five hundred and thirty	เลข3หลัก,ผลรวม 8		
+NUMB-532	500–599	531	Five hundred and thirty-one	เลข3หลัก,ผลรวม 9		
+NUMB-533	500–599	532	Five hundred and thirty-two	เลข3หลัก,ผลรวม 10		
+NUMB-534	500–599	533	Five hundred and thirty-three	เลข3หลัก,ผลรวม 11,เลขเบิ้ล		
+NUMB-535	500–599	534	Five hundred and thirty-four	เลข3หลัก,ผลรวม 12		
+NUMB-536	500–599	535	Five hundred and thirty-five	เลข3หลัก,ผลรวม 13,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-537	500–599	536	Five hundred and thirty-six	เลข3หลัก,ผลรวม 14		
+NUMB-538	500–599	537	Five hundred and thirty-seven	เลข3หลัก,ผลรวม 15		
+NUMB-539	500–599	538	Five hundred and thirty-eight	เลข3หลัก,ผลรวม 16		
+NUMB-540	500–599	539	Five hundred and thirty-nine	เลข3หลัก,ผลรวม 17		
+NUMB-541	500–599	540	Five hundred and forty	เลข3หลัก,ผลรวม 9		
+NUMB-542	500–599	541	Five hundred and forty-one	เลข3หลัก,ผลรวม 10		
+NUMB-543	500–599	542	Five hundred and forty-two	เลข3หลัก,ผลรวม 11		
+NUMB-544	500–599	543	Five hundred and forty-three	เลข3หลัก,ผลรวม 12		
+NUMB-545	500–599	544	Five hundred and forty-four	เลข3หลัก,ผลรวม 13,เลขเบิ้ล		
+NUMB-546	500–599	545	Five hundred and forty-five	เลข3หลัก,ผลรวม 14,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-547	500–599	546	Five hundred and forty-six	เลข3หลัก,ผลรวม 15		
+NUMB-548	500–599	547	Five hundred and forty-seven	เลข3หลัก,ผลรวม 16		
+NUMB-549	500–599	548	Five hundred and forty-eight	เลข3หลัก,ผลรวม 17		
+NUMB-550	500–599	549	Five hundred and forty-nine	เลข3หลัก,ผลรวม 18		
+NUMB-551	500–599	550	Five hundred and fifty	เลข3หลัก,ผลรวม 10,เลขเบิ้ล		
+NUMB-552	500–599	551	Five hundred and fifty-one	เลข3หลัก,ผลรวม 11,เลขเบิ้ล		
+NUMB-553	500–599	552	Five hundred and fifty-two	เลข3หลัก,ผลรวม 12,เลขเบิ้ล		
+NUMB-554	500–599	553	Five hundred and fifty-three	เลข3หลัก,ผลรวม 13,เลขเบิ้ล		
+NUMB-555	500–599	554	Five hundred and fifty-four	เลข3หลัก,ผลรวม 14,เลขเบิ้ล		
+NUMB-556	500–599	555	Five hundred and fifty-five	เลข3หลัก,ผลรวม 15,เลขตอง,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-557	500–599	556	Five hundred and fifty-six	เลข3หลัก,ผลรวม 16,เลขเบิ้ล		
+NUMB-558	500–599	557	Five hundred and fifty-seven	เลข3หลัก,ผลรวม 17,เลขเบิ้ล		
+NUMB-559	500–599	558	Five hundred and fifty-eight	เลข3หลัก,ผลรวม 18,เลขเบิ้ล		
+NUMB-560	500–599	559	Five hundred and fifty-nine	เลข3หลัก,ผลรวม 19,เลขเบิ้ล		
+NUMB-561	500–599	560	Five hundred and sixty	เลข3หลัก,ผลรวม 11		
+NUMB-562	500–599	561	Five hundred and sixty-one	เลข3หลัก,ผลรวม 12		
+NUMB-563	500–599	562	Five hundred and sixty-two	เลข3หลัก,ผลรวม 13		
+NUMB-564	500–599	563	Five hundred and sixty-three	เลข3หลัก,ผลรวม 14		
+NUMB-565	500–599	564	Five hundred and sixty-four	เลข3หลัก,ผลรวม 15		
+NUMB-566	500–599	565	Five hundred and sixty-five	เลข3หลัก,ผลรวม 16,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-567	500–599	566	Five hundred and sixty-six	เลข3หลัก,ผลรวม 17,เลขเบิ้ล		
+NUMB-568	500–599	567	Five hundred and sixty-seven	เลข3หลัก,ผลรวม 18,เลขเรียง		
+NUMB-569	500–599	568	Five hundred and sixty-eight	เลข3หลัก,ผลรวม 19		
+NUMB-570	500–599	569	Five hundred and sixty-nine	เลข3หลัก,ผลรวม 20		
+NUMB-571	500–599	570	Five hundred and seventy	เลข3หลัก,ผลรวม 12		
+NUMB-572	500–599	571	Five hundred and seventy-one	เลข3หลัก,ผลรวม 13		
+NUMB-573	500–599	572	Five hundred and seventy-two	เลข3หลัก,ผลรวม 14		
+NUMB-574	500–599	573	Five hundred and seventy-three	เลข3หลัก,ผลรวม 15		
+NUMB-575	500–599	574	Five hundred and seventy-four	เลข3หลัก,ผลรวม 16		
+NUMB-576	500–599	575	Five hundred and seventy-five	เลข3หลัก,ผลรวม 17,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-577	500–599	576	Five hundred and seventy-six	เลข3หลัก,ผลรวม 18		
+NUMB-578	500–599	577	Five hundred and seventy-seven	เลข3หลัก,ผลรวม 19,เลขเบิ้ล		
+NUMB-579	500–599	578	Five hundred and seventy-eight	เลข3หลัก,ผลรวม 20		
+NUMB-580	500–599	579	Five hundred and seventy-nine	เลข3หลัก,ผลรวม 21		
+NUMB-581	500–599	580	Five hundred and eighty	เลข3หลัก,ผลรวม 13		
+NUMB-582	500–599	581	Five hundred and eighty-one	เลข3หลัก,ผลรวม 14		
+NUMB-583	500–599	582	Five hundred and eighty-two	เลข3หลัก,ผลรวม 15		
+NUMB-584	500–599	583	Five hundred and eighty-three	เลข3หลัก,ผลรวม 16		
+NUMB-585	500–599	584	Five hundred and eighty-four	เลข3หลัก,ผลรวม 17		
+NUMB-586	500–599	585	Five hundred and eighty-five	เลข3หลัก,ผลรวม 18,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-587	500–599	586	Five hundred and eighty-six	เลข3หลัก,ผลรวม 19		
+NUMB-588	500–599	587	Five hundred and eighty-seven	เลข3หลัก,ผลรวม 20		
+NUMB-589	500–599	588	Five hundred and eighty-eight	เลข3หลัก,ผลรวม 21,เลขเบิ้ล		
+NUMB-590	500–599	589	Five hundred and eighty-nine	เลข3หลัก,ผลรวม 22		
+NUMB-591	500–599	590	Five hundred and ninety	เลข3หลัก,ผลรวม 14		
+NUMB-592	500–599	591	Five hundred and ninety-one	เลข3หลัก,ผลรวม 15		
+NUMB-593	500–599	592	Five hundred and ninety-two	เลข3หลัก,ผลรวม 16		
+NUMB-594	500–599	593	Five hundred and ninety-three	เลข3หลัก,ผลรวม 17		
+NUMB-595	500–599	594	Five hundred and ninety-four	เลข3หลัก,ผลรวม 18		
+NUMB-596	500–599	595	Five hundred and ninety-five	เลข3หลัก,ผลรวม 19,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-597	500–599	596	Five hundred and ninety-six	เลข3หลัก,ผลรวม 20		
+NUMB-598	500–599	597	Five hundred and ninety-seven	เลข3หลัก,ผลรวม 21		
+NUMB-599	500–599	598	Five hundred and ninety-eight	เลข3หลัก,ผลรวม 22		
+NUMB-600	500–599	599	Five hundred and ninety-nine	เลข3หลัก,ผลรวม 23,เลขเบิ้ล		
+NUMB-601	600–699	600	Six hundred	เลข3หลัก,ผลรวม 6,เลขเบิ้ล		
+NUMB-602	600–699	601	Six hundred and one	เลข3หลัก,ผลรวม 7		
+NUMB-603	600–699	602	Six hundred and two	เลข3หลัก,ผลรวม 8		
+NUMB-604	600–699	603	Six hundred and three	เลข3หลัก,ผลรวม 9		
+NUMB-605	600–699	604	Six hundred and four	เลข3หลัก,ผลรวม 10		
+NUMB-606	600–699	605	Six hundred and five	เลข3หลัก,ผลรวม 11		
+NUMB-607	600–699	606	Six hundred and six	เลข3หลัก,ผลรวม 12,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-608	600–699	607	Six hundred and seven	เลข3หลัก,ผลรวม 13		
+NUMB-609	600–699	608	Six hundred and eight	เลข3หลัก,ผลรวม 14		
+NUMB-610	600–699	609	Six hundred and nine	เลข3หลัก,ผลรวม 15		
+NUMB-611	600–699	610	Six hundred and ten	เลข3หลัก,ผลรวม 7		
+NUMB-612	600–699	611	Six hundred and eleven	เลข3หลัก,ผลรวม 8,เลขเบิ้ล		
+NUMB-613	600–699	612	Six hundred and twelve	เลข3หลัก,ผลรวม 9		
+NUMB-614	600–699	613	Six hundred and thirteen	เลข3หลัก,ผลรวม 10		
+NUMB-615	600–699	614	Six hundred and fourteen	เลข3หลัก,ผลรวม 11		
+NUMB-616	600–699	615	Six hundred and fifteen	เลข3หลัก,ผลรวม 12		
+NUMB-617	600–699	616	Six hundred and sixteen	เลข3หลัก,ผลรวม 13,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-618	600–699	617	Six hundred and seventeen	เลข3หลัก,ผลรวม 14		
+NUMB-619	600–699	618	Six hundred and eighteen	เลข3หลัก,ผลรวม 15		
+NUMB-620	600–699	619	Six hundred and nineteen	เลข3หลัก,ผลรวม 16		
+NUMB-621	600–699	620	Six hundred and twenty	เลข3หลัก,ผลรวม 8		
+NUMB-622	600–699	621	Six hundred and twenty-one	เลข3หลัก,ผลรวม 9		
+NUMB-623	600–699	622	Six hundred and twenty-two	เลข3หลัก,ผลรวม 10,เลขเบิ้ล		
+NUMB-624	600–699	623	Six hundred and twenty-three	เลข3หลัก,ผลรวม 11		
+NUMB-625	600–699	624	Six hundred and twenty-four	เลข3หลัก,ผลรวม 12		
+NUMB-626	600–699	625	Six hundred and twenty-five	เลข3หลัก,ผลรวม 13		
+NUMB-627	600–699	626	Six hundred and twenty-six	เลข3หลัก,ผลรวม 14,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-628	600–699	627	Six hundred and twenty-seven	เลข3หลัก,ผลรวม 15		
+NUMB-629	600–699	628	Six hundred and twenty-eight	เลข3หลัก,ผลรวม 16		
+NUMB-630	600–699	629	Six hundred and twenty-nine	เลข3หลัก,ผลรวม 17		
+NUMB-631	600–699	630	Six hundred and thirty	เลข3หลัก,ผลรวม 9		
+NUMB-632	600–699	631	Six hundred and thirty-one	เลข3หลัก,ผลรวม 10		
+NUMB-633	600–699	632	Six hundred and thirty-two	เลข3หลัก,ผลรวม 11		
+NUMB-634	600–699	633	Six hundred and thirty-three	เลข3หลัก,ผลรวม 12,เลขเบิ้ล		
+NUMB-635	600–699	634	Six hundred and thirty-four	เลข3หลัก,ผลรวม 13		
+NUMB-636	600–699	635	Six hundred and thirty-five	เลข3หลัก,ผลรวม 14		
+NUMB-637	600–699	636	Six hundred and thirty-six	เลข3หลัก,ผลรวม 15,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-638	600–699	637	Six hundred and thirty-seven	เลข3หลัก,ผลรวม 16		
+NUMB-639	600–699	638	Six hundred and thirty-eight	เลข3หลัก,ผลรวม 17		
+NUMB-640	600–699	639	Six hundred and thirty-nine	เลข3หลัก,ผลรวม 18		
+NUMB-641	600–699	640	Six hundred and forty	เลข3หลัก,ผลรวม 10		
+NUMB-642	600–699	641	Six hundred and forty-one	เลข3หลัก,ผลรวม 11		
+NUMB-643	600–699	642	Six hundred and forty-two	เลข3หลัก,ผลรวม 12		
+NUMB-644	600–699	643	Six hundred and forty-three	เลข3หลัก,ผลรวม 13		
+NUMB-645	600–699	644	Six hundred and forty-four	เลข3หลัก,ผลรวม 14,เลขเบิ้ล		
+NUMB-646	600–699	645	Six hundred and forty-five	เลข3หลัก,ผลรวม 15		
+NUMB-647	600–699	646	Six hundred and forty-six	เลข3หลัก,ผลรวม 16,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-648	600–699	647	Six hundred and forty-seven	เลข3หลัก,ผลรวม 17		
+NUMB-649	600–699	648	Six hundred and forty-eight	เลข3หลัก,ผลรวม 18		
+NUMB-650	600–699	649	Six hundred and forty-nine	เลข3หลัก,ผลรวม 19		
+NUMB-651	600–699	650	Six hundred and fifty	เลข3หลัก,ผลรวม 11		
+NUMB-652	600–699	651	Six hundred and fifty-one	เลข3หลัก,ผลรวม 12		
+NUMB-653	600–699	652	Six hundred and fifty-two	เลข3หลัก,ผลรวม 13		
+NUMB-654	600–699	653	Six hundred and fifty-three	เลข3หลัก,ผลรวม 14		
+NUMB-655	600–699	654	Six hundred and fifty-four	เลข3หลัก,ผลรวม 15		
+NUMB-656	600–699	655	Six hundred and fifty-five	เลข3หลัก,ผลรวม 16,เลขเบิ้ล		
+NUMB-657	600–699	656	Six hundred and fifty-six	เลข3หลัก,ผลรวม 17,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-658	600–699	657	Six hundred and fifty-seven	เลข3หลัก,ผลรวม 18		
+NUMB-659	600–699	658	Six hundred and fifty-eight	เลข3หลัก,ผลรวม 19		
+NUMB-660	600–699	659	Six hundred and fifty-nine	เลข3หลัก,ผลรวม 20		
+NUMB-661	600–699	660	Six hundred and sixty	เลข3หลัก,ผลรวม 12,เลขเบิ้ล		
+NUMB-662	600–699	661	Six hundred and sixty-one	เลข3หลัก,ผลรวม 13,เลขเบิ้ล		
+NUMB-663	600–699	662	Six hundred and sixty-two	เลข3หลัก,ผลรวม 14,เลขเบิ้ล		
+NUMB-664	600–699	663	Six hundred and sixty-three	เลข3หลัก,ผลรวม 15,เลขเบิ้ล		
+NUMB-665	600–699	664	Six hundred and sixty-four	เลข3หลัก,ผลรวม 16,เลขเบิ้ล		
+NUMB-666	600–699	665	Six hundred and sixty-five	เลข3หลัก,ผลรวม 17,เลขเบิ้ล		
+NUMB-667	600–699	666	Six hundred and sixty-six	เลข3หลัก,ผลรวม 18,เลขตอง,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-668	600–699	667	Six hundred and sixty-seven	เลข3หลัก,ผลรวม 19,เลขเบิ้ล		
+NUMB-669	600–699	668	Six hundred and sixty-eight	เลข3หลัก,ผลรวม 20,เลขเบิ้ล		
+NUMB-670	600–699	669	Six hundred and sixty-nine	เลข3หลัก,ผลรวม 21,เลขเบิ้ล		
+NUMB-671	600–699	670	Six hundred and seventy	เลข3หลัก,ผลรวม 13		
+NUMB-672	600–699	671	Six hundred and seventy-one	เลข3หลัก,ผลรวม 14		
+NUMB-673	600–699	672	Six hundred and seventy-two	เลข3หลัก,ผลรวม 15		
+NUMB-674	600–699	673	Six hundred and seventy-three	เลข3หลัก,ผลรวม 16		
+NUMB-675	600–699	674	Six hundred and seventy-four	เลข3หลัก,ผลรวม 17		
+NUMB-676	600–699	675	Six hundred and seventy-five	เลข3หลัก,ผลรวม 18		
+NUMB-677	600–699	676	Six hundred and seventy-six	เลข3หลัก,ผลรวม 19,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-678	600–699	677	Six hundred and seventy-seven	เลข3หลัก,ผลรวม 20,เลขเบิ้ล		
+NUMB-679	600–699	678	Six hundred and seventy-eight	เลข3หลัก,ผลรวม 21,เลขเรียง		
+NUMB-680	600–699	679	Six hundred and seventy-nine	เลข3หลัก,ผลรวม 22		
+NUMB-681	600–699	680	Six hundred and eighty	เลข3หลัก,ผลรวม 14		
+NUMB-682	600–699	681	Six hundred and eighty-one	เลข3หลัก,ผลรวม 15		
+NUMB-683	600–699	682	Six hundred and eighty-two	เลข3หลัก,ผลรวม 16		
+NUMB-684	600–699	683	Six hundred and eighty-three	เลข3หลัก,ผลรวม 17		
+NUMB-685	600–699	684	Six hundred and eighty-four	เลข3หลัก,ผลรวม 18		
+NUMB-686	600–699	685	Six hundred and eighty-five	เลข3หลัก,ผลรวม 19		
+NUMB-687	600–699	686	Six hundred and eighty-six	เลข3หลัก,ผลรวม 20,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-688	600–699	687	Six hundred and eighty-seven	เลข3หลัก,ผลรวม 21		
+NUMB-689	600–699	688	Six hundred and eighty-eight	เลข3หลัก,ผลรวม 22,เลขเบิ้ล		
+NUMB-690	600–699	689	Six hundred and eighty-nine	เลข3หลัก,ผลรวม 23		
+NUMB-691	600–699	690	Six hundred and ninety	เลข3หลัก,ผลรวม 15		
+NUMB-692	600–699	691	Six hundred and ninety-one	เลข3หลัก,ผลรวม 16		
+NUMB-693	600–699	692	Six hundred and ninety-two	เลข3หลัก,ผลรวม 17		
+NUMB-694	600–699	693	Six hundred and ninety-three	เลข3หลัก,ผลรวม 18		
+NUMB-695	600–699	694	Six hundred and ninety-four	เลข3หลัก,ผลรวม 19		
+NUMB-696	600–699	695	Six hundred and ninety-five	เลข3หลัก,ผลรวม 20		
+NUMB-697	600–699	696	Six hundred and ninety-six	เลข3หลัก,ผลรวม 21,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-698	600–699	697	Six hundred and ninety-seven	เลข3หลัก,ผลรวม 22		
+NUMB-699	600–699	698	Six hundred and ninety-eight	เลข3หลัก,ผลรวม 23		
+NUMB-700	600–699	699	Six hundred and ninety-nine	เลข3หลัก,ผลรวม 24,เลขเบิ้ล		
+NUMB-701	700–799	700	Seven hundred	เลข3หลัก,ผลรวม 7,เลขเบิ้ล		
+NUMB-702	700–799	701	Seven hundred and one	เลข3หลัก,ผลรวม 8		
+NUMB-703	700–799	702	Seven hundred and two	เลข3หลัก,ผลรวม 9		
+NUMB-704	700–799	703	Seven hundred and three	เลข3หลัก,ผลรวม 10		
+NUMB-705	700–799	704	Seven hundred and four	เลข3หลัก,ผลรวม 11		
+NUMB-706	700–799	705	Seven hundred and five	เลข3หลัก,ผลรวม 12		
+NUMB-707	700–799	706	Seven hundred and six	เลข3หลัก,ผลรวม 13		
+NUMB-708	700–799	707	Seven hundred and seven	เลข3หลัก,ผลรวม 14,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-709	700–799	708	Seven hundred and eight	เลข3หลัก,ผลรวม 15		
+NUMB-710	700–799	709	Seven hundred and nine	เลข3หลัก,ผลรวม 16		
+NUMB-711	700–799	710	Seven hundred and ten	เลข3หลัก,ผลรวม 8		
+NUMB-712	700–799	711	Seven hundred and eleven	เลข3หลัก,ผลรวม 9,เลขเบิ้ล		
+NUMB-713	700–799	712	Seven hundred and twelve	เลข3หลัก,ผลรวม 10		
+NUMB-714	700–799	713	Seven hundred and thirteen	เลข3หลัก,ผลรวม 11		
+NUMB-715	700–799	714	Seven hundred and fourteen	เลข3หลัก,ผลรวม 12		
+NUMB-716	700–799	715	Seven hundred and fifteen	เลข3หลัก,ผลรวม 13		
+NUMB-717	700–799	716	Seven hundred and sixteen	เลข3หลัก,ผลรวม 14		
+NUMB-718	700–799	717	Seven hundred and seventeen	เลข3หลัก,ผลรวม 15,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-719	700–799	718	Seven hundred and eighteen	เลข3หลัก,ผลรวม 16		
+NUMB-720	700–799	719	Seven hundred and nineteen	เลข3หลัก,ผลรวม 17		
+NUMB-721	700–799	720	Seven hundred and twenty	เลข3หลัก,ผลรวม 9		
+NUMB-722	700–799	721	Seven hundred and twenty-one	เลข3หลัก,ผลรวม 10		
+NUMB-723	700–799	722	Seven hundred and twenty-two	เลข3หลัก,ผลรวม 11,เลขเบิ้ล		
+NUMB-724	700–799	723	Seven hundred and twenty-three	เลข3หลัก,ผลรวม 12		
+NUMB-725	700–799	724	Seven hundred and twenty-four	เลข3หลัก,ผลรวม 13		
+NUMB-726	700–799	725	Seven hundred and twenty-five	เลข3หลัก,ผลรวม 14		
+NUMB-727	700–799	726	Seven hundred and twenty-six	เลข3หลัก,ผลรวม 15		
+NUMB-728	700–799	727	Seven hundred and twenty-seven	เลข3หลัก,ผลรวม 16,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-729	700–799	728	Seven hundred and twenty-eight	เลข3หลัก,ผลรวม 17		
+NUMB-730	700–799	729	Seven hundred and twenty-nine	เลข3หลัก,ผลรวม 18		
+NUMB-731	700–799	730	Seven hundred and thirty	เลข3หลัก,ผลรวม 10		
+NUMB-732	700–799	731	Seven hundred and thirty-one	เลข3หลัก,ผลรวม 11		
+NUMB-733	700–799	732	Seven hundred and thirty-two	เลข3หลัก,ผลรวม 12		
+NUMB-734	700–799	733	Seven hundred and thirty-three	เลข3หลัก,ผลรวม 13,เลขเบิ้ล		
+NUMB-735	700–799	734	Seven hundred and thirty-four	เลข3หลัก,ผลรวม 14		
+NUMB-736	700–799	735	Seven hundred and thirty-five	เลข3หลัก,ผลรวม 15		
+NUMB-737	700–799	736	Seven hundred and thirty-six	เลข3หลัก,ผลรวม 16		
+NUMB-738	700–799	737	Seven hundred and thirty-seven	เลข3หลัก,ผลรวม 17,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-739	700–799	738	Seven hundred and thirty-eight	เลข3หลัก,ผลรวม 18		
+NUMB-740	700–799	739	Seven hundred and thirty-nine	เลข3หลัก,ผลรวม 19		
+NUMB-741	700–799	740	Seven hundred and forty	เลข3หลัก,ผลรวม 11		
+NUMB-742	700–799	741	Seven hundred and forty-one	เลข3หลัก,ผลรวม 12		
+NUMB-743	700–799	742	Seven hundred and forty-two	เลข3หลัก,ผลรวม 13		
+NUMB-744	700–799	743	Seven hundred and forty-three	เลข3หลัก,ผลรวม 14		
+NUMB-745	700–799	744	Seven hundred and forty-four	เลข3หลัก,ผลรวม 15,เลขเบิ้ล		
+NUMB-746	700–799	745	Seven hundred and forty-five	เลข3หลัก,ผลรวม 16		
+NUMB-747	700–799	746	Seven hundred and forty-six	เลข3หลัก,ผลรวม 17		
+NUMB-748	700–799	747	Seven hundred and forty-seven	เลข3หลัก,ผลรวม 18,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-749	700–799	748	Seven hundred and forty-eight	เลข3หลัก,ผลรวม 19		
+NUMB-750	700–799	749	Seven hundred and forty-nine	เลข3หลัก,ผลรวม 20		
+NUMB-751	700–799	750	Seven hundred and fifty	เลข3หลัก,ผลรวม 12		
+NUMB-752	700–799	751	Seven hundred and fifty-one	เลข3หลัก,ผลรวม 13		
+NUMB-753	700–799	752	Seven hundred and fifty-two	เลข3หลัก,ผลรวม 14		
+NUMB-754	700–799	753	Seven hundred and fifty-three	เลข3หลัก,ผลรวม 15		
+NUMB-755	700–799	754	Seven hundred and fifty-four	เลข3หลัก,ผลรวม 16		
+NUMB-756	700–799	755	Seven hundred and fifty-five	เลข3หลัก,ผลรวม 17,เลขเบิ้ล		
+NUMB-757	700–799	756	Seven hundred and fifty-six	เลข3หลัก,ผลรวม 18		
+NUMB-758	700–799	757	Seven hundred and fifty-seven	เลข3หลัก,ผลรวม 19,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-759	700–799	758	Seven hundred and fifty-eight	เลข3หลัก,ผลรวม 20		
+NUMB-760	700–799	759	Seven hundred and fifty-nine	เลข3หลัก,ผลรวม 21		
+NUMB-761	700–799	760	Seven hundred and sixty	เลข3หลัก,ผลรวม 13		
+NUMB-762	700–799	761	Seven hundred and sixty-one	เลข3หลัก,ผลรวม 14		
+NUMB-763	700–799	762	Seven hundred and sixty-two	เลข3หลัก,ผลรวม 15		
+NUMB-764	700–799	763	Seven hundred and sixty-three	เลข3หลัก,ผลรวม 16		
+NUMB-765	700–799	764	Seven hundred and sixty-four	เลข3หลัก,ผลรวม 17		
+NUMB-766	700–799	765	Seven hundred and sixty-five	เลข3หลัก,ผลรวม 18		
+NUMB-767	700–799	766	Seven hundred and sixty-six	เลข3หลัก,ผลรวม 19,เลขเบิ้ล		
+NUMB-768	700–799	767	Seven hundred and sixty-seven	เลข3หลัก,ผลรวม 20,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-769	700–799	768	Seven hundred and sixty-eight	เลข3หลัก,ผลรวม 21		
+NUMB-770	700–799	769	Seven hundred and sixty-nine	เลข3หลัก,ผลรวม 22		
+NUMB-771	700–799	770	Seven hundred and seventy	เลข3หลัก,ผลรวม 14,เลขเบิ้ล		
+NUMB-772	700–799	771	Seven hundred and seventy-one	เลข3หลัก,ผลรวม 15,เลขเบิ้ล		
+NUMB-773	700–799	772	Seven hundred and seventy-two	เลข3หลัก,ผลรวม 16,เลขเบิ้ล		
+NUMB-774	700–799	773	Seven hundred and seventy-three	เลข3หลัก,ผลรวม 17,เลขเบิ้ล		
+NUMB-775	700–799	774	Seven hundred and seventy-four	เลข3หลัก,ผลรวม 18,เลขเบิ้ล		
+NUMB-776	700–799	775	Seven hundred and seventy-five	เลข3หลัก,ผลรวม 19,เลขเบิ้ล		
+NUMB-777	700–799	776	Seven hundred and seventy-six	เลข3หลัก,ผลรวม 20,เลขเบิ้ล		
+NUMB-778	700–799	777	Seven hundred and seventy-seven	เลข3หลัก,ผลรวม 21,เลขตอง,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-779	700–799	778	Seven hundred and seventy-eight	เลข3หลัก,ผลรวม 22,เลขเบิ้ล		
+NUMB-780	700–799	779	Seven hundred and seventy-nine	เลข3หลัก,ผลรวม 23,เลขเบิ้ล		
+NUMB-781	700–799	780	Seven hundred and eighty	เลข3หลัก,ผลรวม 15		
+NUMB-782	700–799	781	Seven hundred and eighty-one	เลข3หลัก,ผลรวม 16		
+NUMB-783	700–799	782	Seven hundred and eighty-two	เลข3หลัก,ผลรวม 17		
+NUMB-784	700–799	783	Seven hundred and eighty-three	เลข3หลัก,ผลรวม 18		
+NUMB-785	700–799	784	Seven hundred and eighty-four	เลข3หลัก,ผลรวม 19		
+NUMB-786	700–799	785	Seven hundred and eighty-five	เลข3หลัก,ผลรวม 20		
+NUMB-787	700–799	786	Seven hundred and eighty-six	เลข3หลัก,ผลรวม 21		
+NUMB-788	700–799	787	Seven hundred and eighty-seven	เลข3หลัก,ผลรวม 22,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-789	700–799	788	Seven hundred and eighty-eight	เลข3หลัก,ผลรวม 23,เลขเบิ้ล		
+NUMB-790	700–799	789	Seven hundred and eighty-nine	เลข3หลัก,ผลรวม 24,เลขเรียง		
+NUMB-791	700–799	790	Seven hundred and ninety	เลข3หลัก,ผลรวม 16		
+NUMB-792	700–799	791	Seven hundred and ninety-one	เลข3หลัก,ผลรวม 17		
+NUMB-793	700–799	792	Seven hundred and ninety-two	เลข3หลัก,ผลรวม 18		
+NUMB-794	700–799	793	Seven hundred and ninety-three	เลข3หลัก,ผลรวม 19		
+NUMB-795	700–799	794	Seven hundred and ninety-four	เลข3หลัก,ผลรวม 20		
+NUMB-796	700–799	795	Seven hundred and ninety-five	เลข3หลัก,ผลรวม 21		
+NUMB-797	700–799	796	Seven hundred and ninety-six	เลข3หลัก,ผลรวม 22		
+NUMB-798	700–799	797	Seven hundred and ninety-seven	เลข3หลัก,ผลรวม 23,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-799	700–799	798	Seven hundred and ninety-eight	เลข3หลัก,ผลรวม 24		
+NUMB-800	700–799	799	Seven hundred and ninety-nine	เลข3หลัก,ผลรวม 25,เลขเบิ้ล		
+NUMB-801	800–899	800	Eight hundred	เลข3หลัก,ผลรวม 8,เลขเบิ้ล		
+NUMB-802	800–899	801	Eight hundred and one	เลข3หลัก,ผลรวม 9		
+NUMB-803	800–899	802	Eight hundred and two	เลข3หลัก,ผลรวม 10		
+NUMB-804	800–899	803	Eight hundred and three	เลข3หลัก,ผลรวม 11		
+NUMB-805	800–899	804	Eight hundred and four	เลข3หลัก,ผลรวม 12		
+NUMB-806	800–899	805	Eight hundred and five	เลข3หลัก,ผลรวม 13		
+NUMB-807	800–899	806	Eight hundred and six	เลข3หลัก,ผลรวม 14		
+NUMB-808	800–899	807	Eight hundred and seven	เลข3หลัก,ผลรวม 15		
+NUMB-809	800–899	808	Eight hundred and eight	เลข3หลัก,ผลรวม 16,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-810	800–899	809	Eight hundred and nine	เลข3หลัก,ผลรวม 17		
+NUMB-811	800–899	810	Eight hundred and ten	เลข3หลัก,ผลรวม 9		
+NUMB-812	800–899	811	Eight hundred and eleven	เลข3หลัก,ผลรวม 10,เลขเบิ้ล		
+NUMB-813	800–899	812	Eight hundred and twelve	เลข3หลัก,ผลรวม 11		
+NUMB-814	800–899	813	Eight hundred and thirteen	เลข3หลัก,ผลรวม 12		
+NUMB-815	800–899	814	Eight hundred and fourteen	เลข3หลัก,ผลรวม 13		
+NUMB-816	800–899	815	Eight hundred and fifteen	เลข3หลัก,ผลรวม 14		
+NUMB-817	800–899	816	Eight hundred and sixteen	เลข3หลัก,ผลรวม 15		
+NUMB-818	800–899	817	Eight hundred and seventeen	เลข3หลัก,ผลรวม 16		
+NUMB-819	800–899	818	Eight hundred and eighteen	เลข3หลัก,ผลรวม 17,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-820	800–899	819	Eight hundred and nineteen	เลข3หลัก,ผลรวม 18		
+NUMB-821	800–899	820	Eight hundred and twenty	เลข3หลัก,ผลรวม 10		
+NUMB-822	800–899	821	Eight hundred and twenty-one	เลข3หลัก,ผลรวม 11		
+NUMB-823	800–899	822	Eight hundred and twenty-two	เลข3หลัก,ผลรวม 12,เลขเบิ้ล		
+NUMB-824	800–899	823	Eight hundred and twenty-three	เลข3หลัก,ผลรวม 13		
+NUMB-825	800–899	824	Eight hundred and twenty-four	เลข3หลัก,ผลรวม 14		
+NUMB-826	800–899	825	Eight hundred and twenty-five	เลข3หลัก,ผลรวม 15		
+NUMB-827	800–899	826	Eight hundred and twenty-six	เลข3หลัก,ผลรวม 16		
+NUMB-828	800–899	827	Eight hundred and twenty-seven	เลข3หลัก,ผลรวม 17		
+NUMB-829	800–899	828	Eight hundred and twenty-eight	เลข3หลัก,ผลรวม 18,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-830	800–899	829	Eight hundred and twenty-nine	เลข3หลัก,ผลรวม 19		
+NUMB-831	800–899	830	Eight hundred and thirty	เลข3หลัก,ผลรวม 11		
+NUMB-832	800–899	831	Eight hundred and thirty-one	เลข3หลัก,ผลรวม 12		
+NUMB-833	800–899	832	Eight hundred and thirty-two	เลข3หลัก,ผลรวม 13		
+NUMB-834	800–899	833	Eight hundred and thirty-three	เลข3หลัก,ผลรวม 14,เลขเบิ้ล		
+NUMB-835	800–899	834	Eight hundred and thirty-four	เลข3หลัก,ผลรวม 15		
+NUMB-836	800–899	835	Eight hundred and thirty-five	เลข3หลัก,ผลรวม 16		
+NUMB-837	800–899	836	Eight hundred and thirty-six	เลข3หลัก,ผลรวม 17		
+NUMB-838	800–899	837	Eight hundred and thirty-seven	เลข3หลัก,ผลรวม 18		
+NUMB-839	800–899	838	Eight hundred and thirty-eight	เลข3หลัก,ผลรวม 19,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-840	800–899	839	Eight hundred and thirty-nine	เลข3หลัก,ผลรวม 20		
+NUMB-841	800–899	840	Eight hundred and forty	เลข3หลัก,ผลรวม 12		
+NUMB-842	800–899	841	Eight hundred and forty-one	เลข3หลัก,ผลรวม 13		
+NUMB-843	800–899	842	Eight hundred and forty-two	เลข3หลัก,ผลรวม 14		
+NUMB-844	800–899	843	Eight hundred and forty-three	เลข3หลัก,ผลรวม 15		
+NUMB-845	800–899	844	Eight hundred and forty-four	เลข3หลัก,ผลรวม 16,เลขเบิ้ล		
+NUMB-846	800–899	845	Eight hundred and forty-five	เลข3หลัก,ผลรวม 17		
+NUMB-847	800–899	846	Eight hundred and forty-six	เลข3หลัก,ผลรวม 18		
+NUMB-848	800–899	847	Eight hundred and forty-seven	เลข3หลัก,ผลรวม 19		
+NUMB-849	800–899	848	Eight hundred and forty-eight	เลข3หลัก,ผลรวม 20,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-850	800–899	849	Eight hundred and forty-nine	เลข3หลัก,ผลรวม 21		
+NUMB-851	800–899	850	Eight hundred and fifty	เลข3หลัก,ผลรวม 13		
+NUMB-852	800–899	851	Eight hundred and fifty-one	เลข3หลัก,ผลรวม 14		
+NUMB-853	800–899	852	Eight hundred and fifty-two	เลข3หลัก,ผลรวม 15		
+NUMB-854	800–899	853	Eight hundred and fifty-three	เลข3หลัก,ผลรวม 16		
+NUMB-855	800–899	854	Eight hundred and fifty-four	เลข3หลัก,ผลรวม 17		
+NUMB-856	800–899	855	Eight hundred and fifty-five	เลข3หลัก,ผลรวม 18,เลขเบิ้ล		
+NUMB-857	800–899	856	Eight hundred and fifty-six	เลข3หลัก,ผลรวม 19		
+NUMB-858	800–899	857	Eight hundred and fifty-seven	เลข3หลัก,ผลรวม 20		
+NUMB-859	800–899	858	Eight hundred and fifty-eight	เลข3หลัก,ผลรวม 21,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-860	800–899	859	Eight hundred and fifty-nine	เลข3หลัก,ผลรวม 22		
+NUMB-861	800–899	860	Eight hundred and sixty	เลข3หลัก,ผลรวม 14		
+NUMB-862	800–899	861	Eight hundred and sixty-one	เลข3หลัก,ผลรวม 15		
+NUMB-863	800–899	862	Eight hundred and sixty-two	เลข3หลัก,ผลรวม 16		
+NUMB-864	800–899	863	Eight hundred and sixty-three	เลข3หลัก,ผลรวม 17		
+NUMB-865	800–899	864	Eight hundred and sixty-four	เลข3หลัก,ผลรวม 18		
+NUMB-866	800–899	865	Eight hundred and sixty-five	เลข3หลัก,ผลรวม 19		
+NUMB-867	800–899	866	Eight hundred and sixty-six	เลข3หลัก,ผลรวม 20,เลขเบิ้ล		
+NUMB-868	800–899	867	Eight hundred and sixty-seven	เลข3หลัก,ผลรวม 21		
+NUMB-869	800–899	868	Eight hundred and sixty-eight	เลข3หลัก,ผลรวม 22,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-870	800–899	869	Eight hundred and sixty-nine	เลข3หลัก,ผลรวม 23		
+NUMB-871	800–899	870	Eight hundred and seventy	เลข3หลัก,ผลรวม 15		
+NUMB-872	800–899	871	Eight hundred and seventy-one	เลข3หลัก,ผลรวม 16		
+NUMB-873	800–899	872	Eight hundred and seventy-two	เลข3หลัก,ผลรวม 17		
+NUMB-874	800–899	873	Eight hundred and seventy-three	เลข3หลัก,ผลรวม 18		
+NUMB-875	800–899	874	Eight hundred and seventy-four	เลข3หลัก,ผลรวม 19		
+NUMB-876	800–899	875	Eight hundred and seventy-five	เลข3หลัก,ผลรวม 20		
+NUMB-877	800–899	876	Eight hundred and seventy-six	เลข3หลัก,ผลรวม 21		
+NUMB-878	800–899	877	Eight hundred and seventy-seven	เลข3หลัก,ผลรวม 22,เลขเบิ้ล		
+NUMB-879	800–899	878	Eight hundred and seventy-eight	เลข3หลัก,ผลรวม 23,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-880	800–899	879	Eight hundred and seventy-nine	เลข3หลัก,ผลรวม 24		
+NUMB-881	800–899	880	Eight hundred and eighty	เลข3หลัก,ผลรวม 16,เลขเบิ้ล		
+NUMB-882	800–899	881	Eight hundred and eighty-one	เลข3หลัก,ผลรวม 17,เลขเบิ้ล		
+NUMB-883	800–899	882	Eight hundred and eighty-two	เลข3หลัก,ผลรวม 18,เลขเบิ้ล		
+NUMB-884	800–899	883	Eight hundred and eighty-three	เลข3หลัก,ผลรวม 19,เลขเบิ้ล		
+NUMB-885	800–899	884	Eight hundred and eighty-four	เลข3หลัก,ผลรวม 20,เลขเบิ้ล		
+NUMB-886	800–899	885	Eight hundred and eighty-five	เลข3หลัก,ผลรวม 21,เลขเบิ้ล		
+NUMB-887	800–899	886	Eight hundred and eighty-six	เลข3หลัก,ผลรวม 22,เลขเบิ้ล		
+NUMB-888	800–899	887	Eight hundred and eighty-seven	เลข3หลัก,ผลรวม 23,เลขเบิ้ล		
+NUMB-889	800–899	888	Eight hundred and eighty-eight	เลข3หลัก,ผลรวม 24,เลขตอง,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-890	800–899	889	Eight hundred and eighty-nine	เลข3หลัก,ผลรวม 25,เลขเบิ้ล		
+NUMB-891	800–899	890	Eight hundred and ninety	เลข3หลัก,ผลรวม 17		
+NUMB-892	800–899	891	Eight hundred and ninety-one	เลข3หลัก,ผลรวม 18		
+NUMB-893	800–899	892	Eight hundred and ninety-two	เลข3หลัก,ผลรวม 19		
+NUMB-894	800–899	893	Eight hundred and ninety-three	เลข3หลัก,ผลรวม 20		
+NUMB-895	800–899	894	Eight hundred and ninety-four	เลข3หลัก,ผลรวม 21		
+NUMB-896	800–899	895	Eight hundred and ninety-five	เลข3หลัก,ผลรวม 22		
+NUMB-897	800–899	896	Eight hundred and ninety-six	เลข3หลัก,ผลรวม 23		
+NUMB-898	800–899	897	Eight hundred and ninety-seven	เลข3หลัก,ผลรวม 24		
+NUMB-899	800–899	898	Eight hundred and ninety-eight	เลข3หลัก,ผลรวม 25,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-900	800–899	899	Eight hundred and ninety-nine	เลข3หลัก,ผลรวม 26,เลขเบิ้ล		
+NUMB-901	900–999	900	Nine hundred	เลข3หลัก,ผลรวม 9,เลขเบิ้ล		
+NUMB-902	900–999	901	Nine hundred and one	เลข3หลัก,ผลรวม 10		
+NUMB-903	900–999	902	Nine hundred and two	เลข3หลัก,ผลรวม 11		
+NUMB-904	900–999	903	Nine hundred and three	เลข3หลัก,ผลรวม 12		
+NUMB-905	900–999	904	Nine hundred and four	เลข3หลัก,ผลรวม 13		
+NUMB-906	900–999	905	Nine hundred and five	เลข3หลัก,ผลรวม 14		
+NUMB-907	900–999	906	Nine hundred and six	เลข3หลัก,ผลรวม 15		
+NUMB-908	900–999	907	Nine hundred and seven	เลข3หลัก,ผลรวม 16		
+NUMB-909	900–999	908	Nine hundred and eight	เลข3หลัก,ผลรวม 17		
+NUMB-910	900–999	909	Nine hundred and nine	เลข3หลัก,ผลรวม 18,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-911	900–999	910	Nine hundred and ten	เลข3หลัก,ผลรวม 10		
+NUMB-912	900–999	911	Nine hundred and eleven	เลข3หลัก,ผลรวม 11,เลขเบิ้ล		
+NUMB-913	900–999	912	Nine hundred and twelve	เลข3หลัก,ผลรวม 12		
+NUMB-914	900–999	913	Nine hundred and thirteen	เลข3หลัก,ผลรวม 13		
+NUMB-915	900–999	914	Nine hundred and fourteen	เลข3หลัก,ผลรวม 14		
+NUMB-916	900–999	915	Nine hundred and fifteen	เลข3หลัก,ผลรวม 15		
+NUMB-917	900–999	916	Nine hundred and sixteen	เลข3หลัก,ผลรวม 16		
+NUMB-918	900–999	917	Nine hundred and seventeen	เลข3หลัก,ผลรวม 17		
+NUMB-919	900–999	918	Nine hundred and eighteen	เลข3หลัก,ผลรวม 18		
+NUMB-920	900–999	919	Nine hundred and nineteen	เลข3หลัก,ผลรวม 19,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-921	900–999	920	Nine hundred and twenty	เลข3หลัก,ผลรวม 11		
+NUMB-922	900–999	921	Nine hundred and twenty-one	เลข3หลัก,ผลรวม 12		
+NUMB-923	900–999	922	Nine hundred and twenty-two	เลข3หลัก,ผลรวม 13,เลขเบิ้ล		
+NUMB-924	900–999	923	Nine hundred and twenty-three	เลข3หลัก,ผลรวม 14		
+NUMB-925	900–999	924	Nine hundred and twenty-four	เลข3หลัก,ผลรวม 15		
+NUMB-926	900–999	925	Nine hundred and twenty-five	เลข3หลัก,ผลรวม 16		
+NUMB-927	900–999	926	Nine hundred and twenty-six	เลข3หลัก,ผลรวม 17		
+NUMB-928	900–999	927	Nine hundred and twenty-seven	เลข3หลัก,ผลรวม 18		
+NUMB-929	900–999	928	Nine hundred and twenty-eight	เลข3หลัก,ผลรวม 19		
+NUMB-930	900–999	929	Nine hundred and twenty-nine	เลข3หลัก,ผลรวม 20,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-931	900–999	930	Nine hundred and thirty	เลข3หลัก,ผลรวม 12		
+NUMB-932	900–999	931	Nine hundred and thirty-one	เลข3หลัก,ผลรวม 13		
+NUMB-933	900–999	932	Nine hundred and thirty-two	เลข3หลัก,ผลรวม 14		
+NUMB-934	900–999	933	Nine hundred and thirty-three	เลข3หลัก,ผลรวม 15,เลขเบิ้ล		
+NUMB-935	900–999	934	Nine hundred and thirty-four	เลข3หลัก,ผลรวม 16		
+NUMB-936	900–999	935	Nine hundred and thirty-five	เลข3หลัก,ผลรวม 17		
+NUMB-937	900–999	936	Nine hundred and thirty-six	เลข3หลัก,ผลรวม 18		
+NUMB-938	900–999	937	Nine hundred and thirty-seven	เลข3หลัก,ผลรวม 19		
+NUMB-939	900–999	938	Nine hundred and thirty-eight	เลข3หลัก,ผลรวม 20		
+NUMB-940	900–999	939	Nine hundred and thirty-nine	เลข3หลัก,ผลรวม 21,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-941	900–999	940	Nine hundred and forty	เลข3หลัก,ผลรวม 13		
+NUMB-942	900–999	941	Nine hundred and forty-one	เลข3หลัก,ผลรวม 14		
+NUMB-943	900–999	942	Nine hundred and forty-two	เลข3หลัก,ผลรวม 15		
+NUMB-944	900–999	943	Nine hundred and forty-three	เลข3หลัก,ผลรวม 16		
+NUMB-945	900–999	944	Nine hundred and forty-four	เลข3หลัก,ผลรวม 17,เลขเบิ้ล		
+NUMB-946	900–999	945	Nine hundred and forty-five	เลข3หลัก,ผลรวม 18		
+NUMB-947	900–999	946	Nine hundred and forty-six	เลข3หลัก,ผลรวม 19		
+NUMB-948	900–999	947	Nine hundred and forty-seven	เลข3หลัก,ผลรวม 20		
+NUMB-949	900–999	948	Nine hundred and forty-eight	เลข3หลัก,ผลรวม 21		
+NUMB-950	900–999	949	Nine hundred and forty-nine	เลข3หลัก,ผลรวม 22,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-951	900–999	950	Nine hundred and fifty	เลข3หลัก,ผลรวม 14		
+NUMB-952	900–999	951	Nine hundred and fifty-one	เลข3หลัก,ผลรวม 15		
+NUMB-953	900–999	952	Nine hundred and fifty-two	เลข3หลัก,ผลรวม 16		
+NUMB-954	900–999	953	Nine hundred and fifty-three	เลข3หลัก,ผลรวม 17		
+NUMB-955	900–999	954	Nine hundred and fifty-four	เลข3หลัก,ผลรวม 18		
+NUMB-956	900–999	955	Nine hundred and fifty-five	เลข3หลัก,ผลรวม 19,เลขเบิ้ล		
+NUMB-957	900–999	956	Nine hundred and fifty-six	เลข3หลัก,ผลรวม 20		
+NUMB-958	900–999	957	Nine hundred and fifty-seven	เลข3หลัก,ผลรวม 21		
+NUMB-959	900–999	958	Nine hundred and fifty-eight	เลข3หลัก,ผลรวม 22		
+NUMB-960	900–999	959	Nine hundred and fifty-nine	เลข3หลัก,ผลรวม 23,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-961	900–999	960	Nine hundred and sixty	เลข3หลัก,ผลรวม 15		
+NUMB-962	900–999	961	Nine hundred and sixty-one	เลข3หลัก,ผลรวม 16		
+NUMB-963	900–999	962	Nine hundred and sixty-two	เลข3หลัก,ผลรวม 17		
+NUMB-964	900–999	963	Nine hundred and sixty-three	เลข3หลัก,ผลรวม 18		
+NUMB-965	900–999	964	Nine hundred and sixty-four	เลข3หลัก,ผลรวม 19		
+NUMB-966	900–999	965	Nine hundred and sixty-five	เลข3หลัก,ผลรวม 20		
+NUMB-967	900–999	966	Nine hundred and sixty-six	เลข3หลัก,ผลรวม 21,เลขเบิ้ล		
+NUMB-968	900–999	967	Nine hundred and sixty-seven	เลข3หลัก,ผลรวม 22		
+NUMB-969	900–999	968	Nine hundred and sixty-eight	เลข3หลัก,ผลรวม 23		
+NUMB-970	900–999	969	Nine hundred and sixty-nine	เลข3หลัก,ผลรวม 24,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-971	900–999	970	Nine hundred and seventy	เลข3หลัก,ผลรวม 16		
+NUMB-972	900–999	971	Nine hundred and seventy-one	เลข3หลัก,ผลรวม 17		
+NUMB-973	900–999	972	Nine hundred and seventy-two	เลข3หลัก,ผลรวม 18		
+NUMB-974	900–999	973	Nine hundred and seventy-three	เลข3หลัก,ผลรวม 19		
+NUMB-975	900–999	974	Nine hundred and seventy-four	เลข3หลัก,ผลรวม 20		
+NUMB-976	900–999	975	Nine hundred and seventy-five	เลข3หลัก,ผลรวม 21		
+NUMB-977	900–999	976	Nine hundred and seventy-six	เลข3หลัก,ผลรวม 22		
+NUMB-978	900–999	977	Nine hundred and seventy-seven	เลข3หลัก,ผลรวม 23,เลขเบิ้ล		
+NUMB-979	900–999	978	Nine hundred and seventy-eight	เลข3หลัก,ผลรวม 24		
+NUMB-980	900–999	979	Nine hundred and seventy-nine	เลข3หลัก,ผลรวม 25,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-981	900–999	980	Nine hundred and eighty	เลข3หลัก,ผลรวม 17		
+NUMB-982	900–999	981	Nine hundred and eighty-one	เลข3หลัก,ผลรวม 18		
+NUMB-983	900–999	982	Nine hundred and eighty-two	เลข3หลัก,ผลรวม 19		
+NUMB-984	900–999	983	Nine hundred and eighty-three	เลข3หลัก,ผลรวม 20		
+NUMB-985	900–999	984	Nine hundred and eighty-four	เลข3หลัก,ผลรวม 21		
+NUMB-986	900–999	985	Nine hundred and eighty-five	เลข3หลัก,ผลรวม 22		
+NUMB-987	900–999	986	Nine hundred and eighty-six	เลข3หลัก,ผลรวม 23		
+NUMB-988	900–999	987	Nine hundred and eighty-seven	เลข3หลัก,ผลรวม 24		
+NUMB-989	900–999	988	Nine hundred and eighty-eight	เลข3หลัก,ผลรวม 25,เลขเบิ้ล		
+NUMB-990	900–999	989	Nine hundred and eighty-nine	เลข3หลัก,ผลรวม 26,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน		
+NUMB-991	900–999	990	Nine hundred and ninety	เลข3หลัก,ผลรวม 18,เลขเบิ้ล		
+NUMB-992	900–999	991	Nine hundred and ninety-one	เลข3หลัก,ผลรวม 19,เลขเบิ้ล		
+NUMB-993	900–999	992	Nine hundred and ninety-two	เลข3หลัก,ผลรวม 20,เลขเบิ้ล		
+NUMB-994	900–999	993	Nine hundred and ninety-three	เลข3หลัก,ผลรวม 21,เลขเบิ้ล		
+NUMB-995	900–999	994	Nine hundred and ninety-four	เลข3หลัก,ผลรวม 22,เลขเบิ้ล		
+NUMB-996	900–999	995	Nine hundred and ninety-five	เลข3หลัก,ผลรวม 23,เลขเบิ้ล		
+NUMB-997	900–999	996	Nine hundred and ninety-six	เลข3หลัก,ผลรวม 24,เลขเบิ้ล		
+NUMB-998	900–999	997	Nine hundred and ninety-seven	เลข3หลัก,ผลรวม 25,เลขเบิ้ล		
+NUMB-999	900–999	998	Nine hundred and ninety-eight	เลข3หลัก,ผลรวม 26,เลขเบิ้ล		
+NUMB-1000	900–999	999	Nine hundred and ninety-nine	เลข3หลัก,ผลรวม 27,เลขตอง,เลขกลับไปกลับมาเหมือนกัน		

@@ -316,3 +316,209 @@
 ทำงานเพื่อใจรัก|The Passion Worker|ใจรัก,มีความหมาย||
 ขี้เกียจคิด|The Mentally Lazy|ทางง่าย,ไม่ลึก||
 ชอบสอนคนอื่น|The Mentor|ส่งต่อ,แบ่งปัน||
+# เงินทองและการให้
+ชอบให้ของขวัญ|The Gift-Giver|ของขวัญ,ใส่ใจ||
+ชอบจ่ายแทนคนอื่น|The One Who Always Pays|จ่ายแทน,เกรงใจ||
+หารเท่ากันเป๊ะ|The Exact Splitter|ยุติธรรม,ชัดเจน||
+ลืมทวงเงิน|The One Who Never Collects|ลืมทวง,ใจดี||
+ทวงเงินเก่ง|The Debt Collector|ทวงเงิน,ชัดเจน||
+ชอบซื้อของลดราคา|The Bargain Hunter|ลดราคา,คุ้มค่า||
+ซื้อของตามอารมณ์|The Impulse Buyer|อารมณ์,ใช้จ่าย||
+ซื้อของเพื่อคลายเครียด|The Stress Shopper|คลายเครียด,ใช้จ่าย||
+จดรายจ่ายทุกบาท|The Expense Tracker|จดบัญชี,วินัย||
+ไม่เคยดูยอดเงินในบัญชี|The One Who Never Checks the Balance|ไม่สนใจ,เสี่ยง||
+ชอบออมทอง|The Gold Saver|ออมทอง,มั่นคง||
+ชอบเล่นหุ้น|The Stock Trader|หุ้น,เสี่ยง||
+ชอบทำธุรกิจส่วนตัว|The Entrepreneur|ธุรกิจ,กล้า||
+ชอบงานประจำมั่นคง|The Steady Employee|มั่นคง,ปลอดภัย||
+ชอบอาชีพเสริม|The Side Hustler|รายได้เสริม,ขยัน||
+ให้ยืมเงินง่าย|The Easy Lender|ให้ยืม,ใจอ่อน||
+ไม่ให้ใครยืมเงิน|The Non-Lender|ขอบเขต,ระวัง||
+ค้ำประกันให้คนอื่น|The Guarantor|ค้ำประกัน,เสี่ยง||
+ชอบบริจาคเงียบๆ|The Quiet Donor|บริจาค,ถ่อมตัว||
+บริจาคแล้วประกาศ|The Public Donor|บริจาค,อวด||
+ชอบแลกเปลี่ยนของ|The Swapper|แลกเปลี่ยน,คุ้มค่า||
+ซื้อของมือสอง|The Second-Hand Buyer|มือสอง,ประหยัด||
+ชอบของแบรนด์เนม|The Brand Lover|แบรนด์เนม,ภาพลักษณ์||
+ไม่สนแบรนด์|The Brand-Indifferent|ใช้งานได้,เรียบง่าย||
+คืนเงินทอนเกิน|The One Who Returns Extra Change|ซื่อสัตย์,ถูกต้อง||
+ชอบเก็บเงินสด|The Cash Keeper|เงินสด,ระวัง||
+ใช้บัตรเครดิตเต็มวงเงิน|The Maxed-Out Card|หนี้,ระวัง||
+วางแผนเกษียณ|The Retirement Planner|อนาคต,วางแผน||
+ใช้ชีวิตวันต่อวัน|The Day-to-Day Spender|วันนี้,ไม่วางแผน||
+ซื้อประกันครบ|The Fully Insured|ป้องกัน,รอบคอบ||
+เกรงใจเรื่องเงิน|The Money-Shy|เกรงใจ,ไม่กล้าพูด||
+พูดเรื่องเงินตรงๆ|The Money-Frank|ตรงไปตรงมา,ชัดเจน||
+มองเงินเป็นเครื่องมือ|The One Who Sees Money as a Tool|เครื่องมือ,มีเป้าหมาย||
+มองเงินเป็นความมั่นคงทางใจ|The One Who Sees Money as Safety|มั่นคง,กลัวขาด||
+# อารมณ์และความรู้สึก
+ขี้อิจฉาในความรัก|The Jealous Lover|หึงหวง,ไม่มั่นใจ||
+ขี้หวั่นวิตก|The Anxious One|วิตก,ล่วงหน้า||
+ขี้สงสารคนอื่น|The Tender-Hearted|สงสาร,อ่อนโยน||
+ร้องไห้ง่าย|The Quick to Tears|น้ำตา,อ่อนไหว||
+ไม่ค่อยร้องไห้|The Dry-Eyed|เก็บอารมณ์,เข้มแข็ง||
+หัวเราะง่าย|The Easy Laugher|หัวเราะ,ร่าเริง||
+อารมณ์แปรปรวน|The Moody One|แปรปรวน,ไม่แน่นอน||
+อารมณ์คงที่|The Even-Keeled|มั่นคง,สงบ||
+ขี้ใจอ่อนกับสัตว์|The Soft Spot for Animals|สัตว์,เมตตา||
+โกรธง่ายหายเร็ว|The Quick to Anger, Quick to Cool|โกรธง่าย,หายเร็ว||
+โกรธยากแต่หายยาก|The Slow Burner|โกรธยาก,จำนาน||
+รู้สึกผิดง่าย|The Guilt-Prone|รู้สึกผิด,ใจดี||
+ไม่ค่อยรู้สึกผิด|The Guilt-Free|มั่นใจ,ไม่ทบทวน||
+กลัวถูกทิ้ง|The Fear of Abandonment|กลัวถูกทิ้ง,ต้องการความมั่นใจ||
+กลัวความผูกมัด|The Commitment-Shy|ผูกมัด,อิสระ||
+ขี้คิดถึง|The One Who Misses People|คิดถึง,ผูกพัน||
+ขี้ห่วง|The Worrier for Others|ห่วงใย,ดูแล||
+ชอบความเงียบ|The Silence Lover|เงียบ,สงบ||
+ทนเสียงดังไม่ได้|The Noise-Sensitive|เสียงดัง,อ่อนไหว||
+อารมณ์ตามอากาศ|The Weather-Moody|อากาศ,อารมณ์||
+ขี้ใจดีเกินไป|The Too-Nice|ใจดี,ขอบเขต||
+หน้าใหญ่ใจโต|The Big-Hearted Show|ใจโต,ภาพลักษณ์||
+ขี้ระแวงในความรัก|The Suspicious Lover|ระแวง,ไว้ใจ||
+ซึ้งง่าย|The Easily Moved|ซาบซึ้ง,อ่อนไหว||
+ชอบเก็บความทรงจำ|The Keepsake Keeper|ความทรงจำ,ผูกพัน||
+ลืมเรื่องร้ายเร็ว|The Quick Forgetter of Bad Things|ลืมเร็ว,ไปต่อ||
+คิดถึงอดีตบ่อย|The Nostalgic|อดีต,คิดถึง||
+ตื่นเต้นกับอนาคต|The Future-Excited|อนาคต,ความหวัง||
+ขี้น้อยใจกับครอบครัว|The Hurt by Family|ครอบครัว,น้อยใจ||
+อารมณ์ดีตอนเช้า|The Morning Person|ตอนเช้า,สดใส||
+อารมณ์ดีตอนกลางคืน|The Night Owl|กลางคืน,มีพลัง||
+หิวแล้วหงุดหงิด|The Hangry One|หิว,หงุดหงิด||
+ขี้หนาวขี้ร้อน|The Temperature-Sensitive|อากาศ,อ่อนไหว||
+# ความต้องการและการควบคุม
+ชอบจัดตาราง|The Scheduler|ตารางเวลา,ระเบียบ||
+เกลียดการรอ|The Impatient Waiter|รอไม่ได้,เร่ง||
+รอได้นาน|The Patient Waiter|รอได้,อดทน||
+ชอบให้คนอื่นตัดสินใจ|The Deferrer|ตามคนอื่น,สบายใจ||
+ต้องได้คำตอบทันที|The Needs-an-Answer-Now|เร่ง,ไม่แน่ใจไม่ได้||
+ชอบวางของที่เดิม|The Creature of Habit|ที่เดิม,คุ้นเคย||
+ชอบลองของใหม่|The Novelty Seeker|ของใหม่,อยากรู้||
+ชอบความเรียบร้อย|The Neat Freak|เรียบร้อย,สะอาด||
+รกแต่หาของเจอ|The Organised Mess|รก,จำได้||
+ไม่ชอบถูกสั่ง|The Order-Averse|อิสระ,ต่อต้าน||
+ชอบมีกฎชัดเจน|The Rule-Lover|กฎ,ชัดเจน||
+ชอบแหกกฎ|The Rule-Breaker|แหกกฎ,ท้าทาย||
+ขี้หวงพื้นที่|The Territorial|พื้นที่ส่วนตัว,หวง||
+ขี้หวงคนรัก|The Possessive Lover|หวง,กลัวเสีย||
+ชอบเช็กโทรศัพท์คนอื่น|The Phone Checker|ระแวง,ควบคุม||
+ให้พื้นที่คนรัก|The Space-Giver|ให้พื้นที่,ไว้ใจ||
+ชอบเตรียมแผนสำรอง|The Plan-B Maker|แผนสำรอง,รอบคอบ||
+ทำอะไรด้นสด|The Improviser|ด้นสด,ยืดหยุ่น||
+ชอบวางเป้ารายปี|The Annual Goal-Setter|เป้าหมาย,ทบทวน||
+ไม่ตั้งเป้าอะไรเลย|The Goal-Free|ปล่อยไหล,ไม่กดดัน||
+ชอบชนะในเกม|The Game Winner|ชนะ,แข่งขัน||
+แพ้แล้วงอน|The Sore Loser|แพ้,งอน||
+อยากให้ทุกคนรัก|The People-Pleaser|อยากเป็นที่รัก,เกรงใจ||
+ไม่สนว่าใครจะคิดยังไง|The Unbothered|ไม่แคร์,มั่นใจ||
+ขี้ห่วงภาพลักษณ์|The Image-Conscious|ภาพลักษณ์,ระวัง||
+อยากรู้ทุกเรื่อง|The Know-It-All Seeker|อยากรู้,ควบคุม||
+รู้แล้วเก็บไว้|The Keeper of Knowledge|เก็บ,ไม่พูด||
+ชอบตัดสินใจคนเดียว|The Solo Decider|ตัดสินใจเอง,อิสระ||
+ชอบปรึกษาก่อนตัดสินใจ|The Consulter|ปรึกษา,รอบคอบ||
+เปลี่ยนใจบ่อย|The Mind-Changer|เปลี่ยนใจ,ลังเล||
+พูดคำไหนคำนั้น|The One Whose Word Is Final|คำไหนคำนั้น,มั่นคง||
+ชอบทำทุกอย่างเอง|The Do-It-Yourselfer|ทำเอง,ไม่ไว้ใจ||
+มอบหมายงานเก่ง|The Delegator|มอบหมาย,ไว้ใจ||
+# ความเมตตาและการเข้าสังคม
+ชอบทักทายก่อน|The First to Say Hello|ทักทาย,เปิดใจ||
+รอให้คนอื่นทักก่อน|The One Who Waits to Be Greeted|รอ,ขี้อาย||
+ชอบจัดปาร์ตี้|The Party Host|จัดงาน,สังสรรค์||
+ชอบอยู่บ้าน|The Homebody|อยู่บ้าน,สงบ||
+ตอบแชทช้า|The Slow Replier|ตอบช้า,ไม่เร่ง||
+ตอบแชทไว|The Instant Replier|ตอบไว,ใส่ใจ||
+ชอบโทรมากกว่าพิมพ์|The Caller|โทร,ใกล้ชิด||
+ชอบพิมพ์มากกว่าโทร|The Texter|พิมพ์,เว้นระยะ||
+จำชื่อคนเก่ง|The Name-Rememberer|จำชื่อ,ใส่ใจ||
+จำหน้าได้แต่จำชื่อไม่ได้|Faces Yes, Names No|จำหน้า,ลืมชื่อ||
+ชอบแนะนำคนให้รู้จักกัน|The Connector|เชื่อมคน,เครือข่าย||
+ชอบช่วยคนแปลกหน้า|The Good Samaritan|คนแปลกหน้า,น้ำใจ||
+ระวังคนแปลกหน้า|The Stranger-Wary|ระวัง,ป้องกัน||
+ชอบให้คำปรึกษา|The Adviser|ให้คำปรึกษา,รับฟัง||
+ชอบระบายให้คนอื่นฟัง|The Venter|ระบาย,ต้องการคนฟัง||
+เก็บปัญหาไว้คนเดียว|The Lone Sufferer|เก็บปัญหา,เข้มแข็ง||
+ขอบคุณเสมอ|The Always-Thankful|ขอบคุณ,มารยาท||
+ขอโทษเก่ง|The Apologiser|ขอโทษ,ยอมรับ||
+ไม่ค่อยขอโทษ|The Rarely Sorry|ไม่ขอโทษ,ทิฐิ||
+ชอบเป็นตัวตลกในกลุ่ม|The Group Clown|ตลก,ผ่อนคลาย||
+ชอบเป็นคนจัดการในกลุ่ม|The Group Organiser|จัดการ,รับผิดชอบ||
+ชอบอยู่เบื้องหลัง|The Behind-the-Scenes|เบื้องหลัง,ถ่อมตัว||
+ชอบโพสต์ชีวิตส่วนตัว|The Oversharer|โพสต์,เปิดเผย||
+ไม่ค่อยเล่นโซเชียล|The Offline One|ไม่เล่นโซเชียล,ส่วนตัว||
+ชอบคอมเมนต์ดราม่า|The Drama Commenter|ดราม่า,ออนไลน์||
+ใจดีกับเด็กและคนแก่|The Kind to Young and Old|เด็ก,ผู้สูงอายุ||
+เกรงใจคนในบ้าน|The Considerate Housemate|เกรงใจ,อยู่ร่วม||
+ชอบยืมของคนอื่น|The Borrower|ยืม,พึ่งพา||
+ชอบให้ยืมของ|The Lender of Things|ให้ยืม,แบ่งปัน||
+ชอบเลี้ยงสัตว์|The Pet Lover|สัตว์เลี้ยง,ดูแล||
+ชอบดูแลต้นไม้|The Plant Parent|ต้นไม้,ใส่ใจ||
+คบคนต่างวัยได้ดี|The Ageless Friend|ต่างวัย,เปิดใจ||
+คบคนต่างชาติได้ง่าย|The Cross-Cultural Friend|ต่างชาติ,เปิดกว้าง||
+# ความเชื่อและจิตใจ
+ไหว้พระทุกวัน|The Daily Worshipper|ไหว้พระ,ศรัทธา||
+ทำบุญวันเกิด|The Birthday Merit-Maker|ทำบุญ,วันเกิด||
+ถือศีลแปดในวันพระ|The Holy-Day Precept-Keeper|ศีล,วันพระ||
+ชอบไปวัดเพื่อความสงบ|The Temple Retreater|วัด,สงบ||
+ชอบไปโบสถ์|The Churchgoer|โบสถ์,ศรัทธา||
+ชอบสวดมนต์ก่อนนอน|The Bedtime Prayer|สวดมนต์,ก่อนนอน||
+เชื่อเรื่องฤกษ์ยาม|The Auspicious-Timer|ฤกษ์,ความเชื่อ||
+เชื่อเรื่องฮวงจุ้ย|The Feng Shui Believer|ฮวงจุ้ย,จัดบ้าน||
+ชอบดูไพ่ทาโรต์|The Tarot Reader|ไพ่,ความเชื่อ||
+เชื่อในพลังคริสตัล|The Crystal Believer|คริสตัล,ความเชื่อ||
+เชื่อเรื่องกฎแห่งกรรม|The Karma Believer|กรรม,ผลการกระทำ||
+เชื่อเรื่องชาติก่อน|The Past-Life Believer|ชาติก่อน,ความเชื่อ||
+เชื่อในความบังเอิญ|The Believer in Coincidence|บังเอิญ,ไม่มีความหมาย||
+เชื่อว่าทุกอย่างมีเหตุผล|Everything Happens for a Reason|เหตุผล,ความหมาย||
+เชื่อในพรหมลิขิต|The Destiny Believer|พรหมลิขิต,โชคชะตา||
+เชื่อในความพยายาม|The Effort Believer|พยายาม,ลงมือ||
+ศรัทธาในครูบาอาจารย์|The Devotee of Teachers|ครูบาอาจารย์,ศรัทธา||
+ชอบอ่านหนังสือธรรมะ|The Dharma Reader|ธรรมะ,ปัญญา||
+ชอบปฏิบัติธรรม|The Meditator|ปฏิบัติธรรม,สติ||
+กินมังสวิรัติเพราะความเชื่อ|The Faith Vegetarian|มังสวิรัติ,ความเชื่อ||
+แบ่งแยกความเชื่อกับชีวิตจริง|The One Who Separates Faith and Life|แยกส่วน,เหตุผล||
+ไม่เชื่อแต่ไม่ลบหลู่|Doubtful but Respectful|ไม่ลบหลู่,เคารพ||
+ชอบพิสูจน์ความเชื่อ|The Belief-Tester|พิสูจน์,สงสัย||
+เปลี่ยนศาสนา|The Convert|เปลี่ยนศาสนา,ค้นหา||
+ศรัทธาหลายศาสนา|The Multi-Faith|หลายศาสนา,เปิดใจ||
+ให้อภัยตัวเองได้|The Self-Forgiver|ให้อภัยตัวเอง,เมตตา||
+เข้มงวดกับตัวเอง|The Self-Critic|เข้มงวด,ตัวเอง||
+หาความหมายของชีวิต|The Meaning-Seeker|ความหมาย,ค้นหา||
+อยู่กับปัจจุบัน|The Present-Minded|ปัจจุบัน,สติ||
+กลัวความตาย|The Death-Fearing|ความตาย,กลัว||
+ยอมรับความตาย|The Death-Accepting|ความตาย,ยอมรับ||
+เชื่อในพลังความคิด|The Mind-Power Believer|ความคิด,ดึงดูด||
+ชอบขอพรสิ่งศักดิ์สิทธิ์|The Wish-Maker|ขอพร,ความเชื่อ||
+# ความคิดและการทำงาน
+ชอบจดโน้ต|The Note-Taker|จดโน้ต,จำ||
+ชอบทำลิสต์|The List-Maker|ลิสต์,ระเบียบ||
+ทำงานตอนใกล้ส่ง|The Deadline Worker|ใกล้ส่ง,กดดัน||
+ส่งงานก่อนกำหนด|The Early Finisher|ก่อนกำหนด,วินัย||
+ทำงานดึก|The Late-Night Worker|ดึก,สมาธิ||
+ทำงานเช้าตรู่|The Early-Morning Worker|เช้าตรู่,สดใส||
+ชอบทำงานในร้านกาแฟ|The Café Worker|ร้านกาแฟ,บรรยากาศ||
+ชอบทำงานเงียบๆ|The Quiet Worker|เงียบ,โฟกัส||
+ชอบประชุม|The Meeting Lover|ประชุม,คุยกัน||
+เกลียดการประชุม|The Meeting Hater|ประชุม,เสียเวลา||
+ชอบถามคำถาม|The Question-Asker|ถาม,อยากรู้||
+ไม่กล้าถาม|The Afraid-to-Ask|ไม่กล้าถาม,เกรงใจ||
+ชอบอธิบาย|The Explainer|อธิบาย,สอน||
+ชอบเรียนรู้จากการลงมือ|The Hands-On Learner|ลงมือ,เรียนรู้||
+ชอบเรียนรู้จากหนังสือ|The Book Learner|หนังสือ,ทฤษฎี||
+ชอบใช้เทคโนโลยีใหม่|The Early Adopter|เทคโนโลยี,ทันสมัย||
+ไม่ถนัดเทคโนโลยี|The Tech-Shy|เทคโนโลยี,ไม่ถนัด||
+ชอบใช้ AI ช่วยงาน|The AI Helper-User|AI,ประหยัดเวลา||
+ชอบงานซ้ำๆ|The Routine-Lover|งานซ้ำ,มั่นคง||
+เบื่องานซ้ำ|The Routine-Bored|เบื่อ,อยากเปลี่ยน||
+ชอบงานที่มีกำหนดชัด|The Clear-Brief Worker|ชัดเจน,ขอบเขต||
+ชอบงานที่คิดเอง|The Self-Directed|คิดเอง,อิสระ||
+รับงานเกินตัว|The Over-Committer|รับงานเกิน,เหนื่อย||
+ปฏิเสธงานเป็น|The Healthy Refuser|ปฏิเสธ,สมดุล||
+ทำงานเพื่อการยอมรับ|The Recognition-Driven|การยอมรับ,คำชม||
+ทำงานเพื่อครอบครัว|The Family Provider|ครอบครัว,รับผิดชอบ||
+ชอบทำงานกับตัวเลข|The Numbers Person|ตัวเลข,แม่นยำ||
+ชอบทำงานกับคน|The People Person|คน,สื่อสาร||
+ชอบทำงานศิลปะ|The Artist at Work|ศิลปะ,สร้างสรรค์||
+ชอบเขียน|The Writer|เขียน,ถ่ายทอด||
+ชอบพูดต่อหน้าคน|The Public Speaker|พูด,มั่นใจ||
+กลัวการพูดต่อหน้าคน|The Stage-Fright|กลัวพูด,ประหม่า||
+เรียนรู้จากความผิดพลาด|The Mistake-Learner|ผิดพลาด,บทเรียน||
+สอนงานคนใหม่เก่ง|The Good Onboarder|สอนงาน,อดทน||

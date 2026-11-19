@@ -1,0 +1,500 @@
+ZODI-001	ปีชวด (หนู)	ปีชวด (หนู)	Year of the Rat	ฉลาด,ประหยัด		
+ZODI-002	ปีชวด (หนู)	ปีชวดธาตุไม้ (หนูไม้)	Wood Rat	หนูไม้,ธาตุไม้		
+ZODI-003	ปีชวด (หนู)	ปีชวดธาตุไฟ (หนูไฟ)	Fire Rat	หนูไฟ,ธาตุไฟ		
+ZODI-004	ปีชวด (หนู)	ปีชวดธาตุดิน (หนูดิน)	Earth Rat	หนูดิน,ธาตุดิน		
+ZODI-005	ปีชวด (หนู)	ปีชวดธาตุทอง (หนูทอง)	Metal Rat	หนูทอง,ธาตุทอง		
+ZODI-006	ปีชวด (หนู)	ปีชวดธาตุน้ำ (หนูน้ำ)	Water Rat	หนูน้ำ,ธาตุน้ำ		
+ZODI-007	ปีชวด (หนู)	ปีชวดควรเก็บออมเงินอย่างสม่ำเสมอ	Rat: do keep saving steadily	ควรทำ,ความเชื่อ		
+ZODI-008	ปีชวด (หนู)	ปีชวดควรใช้ไหวพริบหาโอกาสใหม่	Rat: do use your wits to spot openings	ควรทำ,ความเชื่อ		
+ZODI-009	ปีชวด (หนู)	ปีชวดควรวางแผนล่วงหน้าเป็นขั้นตอน	Rat: do plan ahead step by step	ควรทำ,ความเชื่อ		
+ZODI-010	ปีชวด (หนู)	ปีชวดควรสร้างเครือข่ายคนรู้จัก	Rat: do build your network	ควรทำ,ความเชื่อ		
+ZODI-011	ปีชวด (หนู)	ปีชวดควรทำงานที่ต้องใช้ความละเอียด	Rat: do take on detailed work	ควรทำ,ความเชื่อ		
+ZODI-012	ปีชวด (หนู)	ปีชวดควรเรียนรู้ทักษะการเงิน	Rat: do learn money skills	ควรทำ,ความเชื่อ		
+ZODI-013	ปีชวด (หนู)	ปีชวดควรดูแลครอบครัวใกล้ชิด	Rat: do stay close to family	ควรทำ,ความเชื่อ		
+ZODI-014	ปีชวด (หนู)	ปีชวดควรทำงานกลางคืนที่ใช้สมาธิ	Rat: do do focused work in quiet hours	ควรทำ,ความเชื่อ		
+ZODI-015	ปีชวด (หนู)	ปีชวดควรเก็บเอกสารให้เป็นระเบียบ	Rat: do keep papers in order	ควรทำ,ความเชื่อ		
+ZODI-016	ปีชวด (หนู)	ปีชวดควรลงทุนแบบค่อยเป็นค่อยไป	Rat: do invest little by little	ควรทำ,ความเชื่อ		
+ZODI-017	ปีชวด (หนู)	ปีชวดควรฟังก่อนพูด	Rat: do listen before speaking	ควรทำ,ความเชื่อ		
+ZODI-018	ปีชวด (หนู)	ปีชวดควรทำบุญด้วยอาหาร	Rat: do give food as merit	ควรทำ,ความเชื่อ		
+ZODI-019	ปีชวด (หนู)	ปีชวดไม่ควรตระหนี่จนเสียมิตร	Rat: don't be so thrifty you lose friends	ไม่ควรทำ,ความเชื่อ		
+ZODI-020	ปีชวด (หนู)	ปีชวดไม่ควรคิดมากจนไม่ลงมือ	Rat: don't overthink and never act	ไม่ควรทำ,ความเชื่อ		
+ZODI-021	ปีชวด (หนู)	ปีชวดไม่ควรเก็บความลับแล้วระแวงคนอื่น	Rat: don't hoard secrets and suspect others	ไม่ควรทำ,ความเชื่อ		
+ZODI-022	ปีชวด (หนู)	ปีชวดไม่ควรเสี่ยงโชคเกินตัว	Rat: don't gamble beyond your means	ไม่ควรทำ,ความเชื่อ		
+ZODI-023	ปีชวด (หนู)	ปีชวดไม่ควรเปลี่ยนใจบ่อย	Rat: don't keep changing your mind	ไม่ควรทำ,ความเชื่อ		
+ZODI-024	ปีชวด (หนู)	ปีชวดไม่ควรนินทาคนใกล้ตัว	Rat: don't gossip about people close to you	ไม่ควรทำ,ความเชื่อ		
+ZODI-025	ปีชวด (หนู)	ปีชวดไม่ควรรับปากหลายงานพร้อมกัน	Rat: don't promise too many jobs at once	ไม่ควรทำ,ความเชื่อ		
+ZODI-026	ปีชวด (หนู)	ปีชวดไม่ควรใช้ไหวพริบเอาเปรียบคน	Rat: don't use cleverness to take advantage	ไม่ควรทำ,ความเชื่อ		
+ZODI-027	ปีชวด (หนู)	ปีชวดไม่ควรนอนดึกติดต่อกัน	Rat: don't stay up late night after night	ไม่ควรทำ,ความเชื่อ		
+ZODI-028	ปีชวด (หนู)	ปีชวดไม่ควรกังวลเรื่องเงินตลอดเวลา	Rat: don't worry about money all the time	ไม่ควรทำ,ความเชื่อ		
+ZODI-029	ปีชวด (หนู)	ปีชวดไม่ควรหนีปัญหาแทนเผชิญ	Rat: don't run from problems instead of facing them	ไม่ควรทำ,ความเชื่อ		
+ZODI-030	ปีฉลู (วัว)	ปีฉลู (วัว)	Year of the Ox	ขยัน,อดทน		
+ZODI-031	ปีฉลู (วัว)	ปีฉลูธาตุไม้ (วัวไม้)	Wood Ox	วัวไม้,ธาตุไม้		
+ZODI-032	ปีฉลู (วัว)	ปีฉลูธาตุไฟ (วัวไฟ)	Fire Ox	วัวไฟ,ธาตุไฟ		
+ZODI-033	ปีฉลู (วัว)	ปีฉลูธาตุดิน (วัวดิน)	Earth Ox	วัวดิน,ธาตุดิน		
+ZODI-034	ปีฉลู (วัว)	ปีฉลูธาตุทอง (วัวทอง)	Metal Ox	วัวทอง,ธาตุทอง		
+ZODI-035	ปีฉลู (วัว)	ปีฉลูธาตุน้ำ (วัวน้ำ)	Water Ox	วัวน้ำ,ธาตุน้ำ		
+ZODI-036	ปีฉลู (วัว)	ปีฉลูควรทำงานหนักอย่างอดทน	Ox: do work hard and patiently	ควรทำ,ความเชื่อ		
+ZODI-037	ปีฉลู (วัว)	ปีฉลูควรสร้างรากฐานระยะยาว	Ox: do build long-term foundations	ควรทำ,ความเชื่อ		
+ZODI-038	ปีฉลู (วัว)	ปีฉลูควรรักษาคำพูดและสัญญา	Ox: do keep your word	ควรทำ,ความเชื่อ		
+ZODI-039	ปีฉลู (วัว)	ปีฉลูควรทำเกษตรหรือดูแลต้นไม้	Ox: do farm or tend plants	ควรทำ,ความเชื่อ		
+ZODI-040	ปีฉลู (วัว)	ปีฉลูควรซื้อที่ดินหรือทรัพย์สินถาวร	Ox: do buy land or lasting property	ควรทำ,ความเชื่อ		
+ZODI-041	ปีฉลู (วัว)	ปีฉลูควรทำงานซ้ำจนชำนาญ	Ox: do practise until you master it	ควรทำ,ความเชื่อ		
+ZODI-042	ปีฉลู (วัว)	ปีฉลูควรดูแลพ่อแม่	Ox: do look after your parents	ควรทำ,ความเชื่อ		
+ZODI-043	ปีฉลู (วัว)	ปีฉลูควรออกกำลังกายสม่ำเสมอ	Ox: do exercise regularly	ควรทำ,ความเชื่อ		
+ZODI-044	ปีฉลู (วัว)	ปีฉลูควรเป็นที่พึ่งให้ทีม	Ox: do be the team's anchor	ควรทำ,ความเชื่อ		
+ZODI-045	ปีฉลู (วัว)	ปีฉลูควรทำตามแผนจนจบ	Ox: do follow the plan to the end	ควรทำ,ความเชื่อ		
+ZODI-046	ปีฉลู (วัว)	ปีฉลูควรประหยัดอย่างพอดี	Ox: do save sensibly	ควรทำ,ความเชื่อ		
+ZODI-047	ปีฉลู (วัว)	ปีฉลูควรพักผ่อนให้เพียงพอ	Ox: do get enough rest	ควรทำ,ความเชื่อ		
+ZODI-048	ปีฉลู (วัว)	ปีฉลูไม่ควรดื้อดึงไม่ฟังใคร	Ox: don't refuse to listen to anyone	ไม่ควรทำ,ความเชื่อ		
+ZODI-049	ปีฉลู (วัว)	ปีฉลูไม่ควรทำงานจนลืมพัก	Ox: don't work without rest	ไม่ควรทำ,ความเชื่อ		
+ZODI-050	ปีฉลู (วัว)	ปีฉลูไม่ควรเก็บความโกรธไว้นาน	Ox: don't hold on to anger	ไม่ควรทำ,ความเชื่อ		
+ZODI-051	ปีฉลู (วัว)	ปีฉลูไม่ควรปฏิเสธการเปลี่ยนแปลง	Ox: don't resist all change	ไม่ควรทำ,ความเชื่อ		
+ZODI-052	ปีฉลู (วัว)	ปีฉลูไม่ควรแบกภาระคนอื่นทั้งหมด	Ox: don't carry everyone else's load	ไม่ควรทำ,ความเชื่อ		
+ZODI-053	ปีฉลู (วัว)	ปีฉลูไม่ควรตัดสินคนจากความเชื่อเดิม	Ox: don't judge people by old beliefs	ไม่ควรทำ,ความเชื่อ		
+ZODI-054	ปีฉลู (วัว)	ปีฉลูไม่ควรใช้เงินกับของฟุ่มเฟือย	Ox: don't spend on luxuries	ไม่ควรทำ,ความเชื่อ		
+ZODI-055	ปีฉลู (วัว)	ปีฉลูไม่ควรเก็บตัวจนเหงา	Ox: don't withdraw until you're lonely	ไม่ควรทำ,ความเชื่อ		
+ZODI-056	ปีฉลู (วัว)	ปีฉลูไม่ควรกินจนเกินพอดี	Ox: don't overeat	ไม่ควรทำ,ความเชื่อ		
+ZODI-057	ปีฉลู (วัว)	ปีฉลูไม่ควรทะเลาะเรื่องเล็กกับคนในบ้าน	Ox: don't fight over small things at home	ไม่ควรทำ,ความเชื่อ		
+ZODI-058	ปีฉลู (วัว)	ปีฉลูไม่ควรปล่อยให้คนอื่นตัดสินแทน	Ox: don't let others decide for you	ไม่ควรทำ,ความเชื่อ		
+ZODI-059	ปีขาล (เสือ)	ปีขาล (เสือ)	Year of the Tiger	กล้าหาญ,ผู้นำ		
+ZODI-060	ปีขาล (เสือ)	ปีขาลธาตุไม้ (เสือไม้)	Wood Tiger	เสือไม้,ธาตุไม้		
+ZODI-061	ปีขาล (เสือ)	ปีขาลธาตุไฟ (เสือไฟ)	Fire Tiger	เสือไฟ,ธาตุไฟ		
+ZODI-062	ปีขาล (เสือ)	ปีขาลธาตุดิน (เสือดิน)	Earth Tiger	เสือดิน,ธาตุดิน		
+ZODI-063	ปีขาล (เสือ)	ปีขาลธาตุทอง (เสือทอง)	Metal Tiger	เสือทอง,ธาตุทอง		
+ZODI-064	ปีขาล (เสือ)	ปีขาลธาตุน้ำ (เสือน้ำ)	Water Tiger	เสือน้ำ,ธาตุน้ำ		
+ZODI-065	ปีขาล (เสือ)	ปีขาลควรกล้าเริ่มสิ่งใหม่	Tiger: do dare to start something new	ควรทำ,ความเชื่อ		
+ZODI-066	ปีขาล (เสือ)	ปีขาลควรเป็นผู้นำในเรื่องที่ถนัด	Tiger: do lead in what you know	ควรทำ,ความเชื่อ		
+ZODI-067	ปีขาล (เสือ)	ปีขาลควรปกป้องคนที่อ่อนแอกว่า	Tiger: do protect the vulnerable	ควรทำ,ความเชื่อ		
+ZODI-068	ปีขาล (เสือ)	ปีขาลควรออกกำลังกายที่ใช้พลัง	Tiger: do do energetic exercise	ควรทำ,ความเชื่อ		
+ZODI-069	ปีขาล (เสือ)	ปีขาลควรเดินทางผจญภัย	Tiger: do go on an adventure	ควรทำ,ความเชื่อ		
+ZODI-070	ปีขาล (เสือ)	ปีขาลควรพูดความจริงตรงไปตรงมา	Tiger: do speak plainly and honestly	ควรทำ,ความเชื่อ		
+ZODI-071	ปีขาล (เสือ)	ปีขาลควรทำงานที่ท้าทาย	Tiger: do take on challenging work	ควรทำ,ความเชื่อ		
+ZODI-072	ปีขาล (เสือ)	ปีขาลควรใช้พลังกับงานจิตอาสา	Tiger: do put your energy into volunteering	ควรทำ,ความเชื่อ		
+ZODI-073	ปีขาล (เสือ)	ปีขาลควรฝึกควบคุมอารมณ์	Tiger: do practise controlling your temper	ควรทำ,ความเชื่อ		
+ZODI-074	ปีขาล (เสือ)	ปีขาลควรขอคำแนะนำจากผู้ใหญ่	Tiger: do ask elders for advice	ควรทำ,ความเชื่อ		
+ZODI-075	ปีขาล (เสือ)	ปีขาลควรทำบุญปล่อยสัตว์ (ความเชื่อ)	Tiger: do release animals for merit (belief)	ควรทำ,ความเชื่อ		
+ZODI-076	ปีขาล (เสือ)	ปีขาลควรตั้งเป้าหมายใหญ่	Tiger: do set a big goal	ควรทำ,ความเชื่อ		
+ZODI-077	ปีขาล (เสือ)	ปีขาลไม่ควรใจร้อนตัดสินใจทันที	Tiger: don't decide on impulse	ไม่ควรทำ,ความเชื่อ		
+ZODI-078	ปีขาล (เสือ)	ปีขาลไม่ควรท้าทายผู้มีอำนาจโดยไม่จำเป็น	Tiger: don't challenge authority needlessly	ไม่ควรทำ,ความเชื่อ		
+ZODI-079	ปีขาล (เสือ)	ปีขาลไม่ควรขับรถเร็วหรือเสี่ยงอันตราย	Tiger: don't drive fast or take physical risks	ไม่ควรทำ,ความเชื่อ		
+ZODI-080	ปีขาล (เสือ)	ปีขาลไม่ควรทะเลาะเพื่อเอาชนะ	Tiger: don't argue just to win	ไม่ควรทำ,ความเชื่อ		
+ZODI-081	ปีขาล (เสือ)	ปีขาลไม่ควรลงทุนตามอารมณ์	Tiger: don't invest on emotion	ไม่ควรทำ,ความเชื่อ		
+ZODI-082	ปีขาล (เสือ)	ปีขาลไม่ควรทิ้งงานกลางคัน	Tiger: don't abandon work halfway	ไม่ควรทำ,ความเชื่อ		
+ZODI-083	ปีขาล (เสือ)	ปีขาลไม่ควรไม่ยอมขอความช่วยเหลือ	Tiger: don't refuse to ask for help	ไม่ควรทำ,ความเชื่อ		
+ZODI-084	ปีขาล (เสือ)	ปีขาลไม่ควรใช้คำพูดแรงกับคนรัก	Tiger: don't speak harshly to loved ones	ไม่ควรทำ,ความเชื่อ		
+ZODI-085	ปีขาล (เสือ)	ปีขาลไม่ควรรับงานเกินกำลัง	Tiger: don't take on more than you can handle	ไม่ควรทำ,ความเชื่อ		
+ZODI-086	ปีขาล (เสือ)	ปีขาลไม่ควรอวดตัวจนคนหมั่นไส้	Tiger: don't show off until people resent it	ไม่ควรทำ,ความเชื่อ		
+ZODI-087	ปีขาล (เสือ)	ปีขาลไม่ควรเผชิญหน้าตอนกำลังโกรธ	Tiger: don't confront people while angry	ไม่ควรทำ,ความเชื่อ		
+ZODI-088	ปีเถาะ (กระต่าย)	ปีเถาะ (กระต่าย)	Year of the Rabbit	อ่อนโยน,ประนีประนอม		
+ZODI-089	ปีเถาะ (กระต่าย)	ปีเถาะธาตุไม้ (กระต่ายไม้)	Wood Rabbit	กระต่ายไม้,ธาตุไม้		
+ZODI-090	ปีเถาะ (กระต่าย)	ปีเถาะธาตุไฟ (กระต่ายไฟ)	Fire Rabbit	กระต่ายไฟ,ธาตุไฟ		
+ZODI-091	ปีเถาะ (กระต่าย)	ปีเถาะธาตุดิน (กระต่ายดิน)	Earth Rabbit	กระต่ายดิน,ธาตุดิน		
+ZODI-092	ปีเถาะ (กระต่าย)	ปีเถาะธาตุทอง (กระต่ายทอง)	Metal Rabbit	กระต่ายทอง,ธาตุทอง		
+ZODI-093	ปีเถาะ (กระต่าย)	ปีเถาะธาตุน้ำ (กระต่ายน้ำ)	Water Rabbit	กระต่ายน้ำ,ธาตุน้ำ		
+ZODI-094	ปีเถาะ (กระต่าย)	ปีเถาะควรทำงานศิลปะหรืองานละเอียด	Rabbit: do do art or fine work	ควรทำ,ความเชื่อ		
+ZODI-095	ปีเถาะ (กระต่าย)	ปีเถาะควรรักษาความสงบในบ้าน	Rabbit: do keep peace at home	ควรทำ,ความเชื่อ		
+ZODI-096	ปีเถาะ (กระต่าย)	ปีเถาะควรเป็นคนกลางไกล่เกลี่ย	Rabbit: do mediate between others	ควรทำ,ความเชื่อ		
+ZODI-097	ปีเถาะ (กระต่าย)	ปีเถาะควรแต่งบ้านให้น่าอยู่	Rabbit: do make your home cosy	ควรทำ,ความเชื่อ		
+ZODI-098	ปีเถาะ (กระต่าย)	ปีเถาะควรดูแลสุขภาพใจ	Rabbit: do look after your mental health	ควรทำ,ความเชื่อ		
+ZODI-099	ปีเถาะ (กระต่าย)	ปีเถาะควรคบเพื่อนที่อ่อนโยน	Rabbit: do keep gentle friends	ควรทำ,ความเชื่อ		
+ZODI-100	ปีเถาะ (กระต่าย)	ปีเถาะควรเรียนรู้ด้านความงามหรือแฟชั่น	Rabbit: do learn about beauty or fashion	ควรทำ,ความเชื่อ		
+ZODI-101	ปีเถาะ (กระต่าย)	ปีเถาะควรใช้การทูตแก้ปัญหา	Rabbit: do solve problems diplomatically	ควรทำ,ความเชื่อ		
+ZODI-102	ปีเถาะ (กระต่าย)	ปีเถาะควรเขียนหรืออ่านหนังสือ	Rabbit: do read or write	ควรทำ,ความเชื่อ		
+ZODI-103	ปีเถาะ (กระต่าย)	ปีเถาะควรทำบุญที่วัดใกล้บ้าน	Rabbit: do make merit at a nearby temple	ควรทำ,ความเชื่อ		
+ZODI-104	ปีเถาะ (กระต่าย)	ปีเถาะควรวางแผนการเงินแบบปลอดภัย	Rabbit: do plan money safely	ควรทำ,ความเชื่อ		
+ZODI-105	ปีเถาะ (กระต่าย)	ปีเถาะควรฟังเสียงตัวเอง	Rabbit: do listen to yourself	ควรทำ,ความเชื่อ		
+ZODI-106	ปีเถาะ (กระต่าย)	ปีเถาะไม่ควรหลีกเลี่ยงทุกความขัดแย้ง	Rabbit: don't avoid every conflict	ไม่ควรทำ,ความเชื่อ		
+ZODI-107	ปีเถาะ (กระต่าย)	ปีเถาะไม่ควรยอมคนอื่นจนเสียตัวเอง	Rabbit: don't give in until you lose yourself	ไม่ควรทำ,ความเชื่อ		
+ZODI-108	ปีเถาะ (กระต่าย)	ปีเถาะไม่ควรกังวลเกินเหตุ	Rabbit: don't worry too much	ไม่ควรทำ,ความเชื่อ		
+ZODI-109	ปีเถาะ (กระต่าย)	ปีเถาะไม่ควรลังเลจนพลาดโอกาส	Rabbit: don't hesitate and miss the chance	ไม่ควรทำ,ความเชื่อ		
+ZODI-110	ปีเถาะ (กระต่าย)	ปีเถาะไม่ควรทำตามคนอื่นเพราะเกรงใจ	Rabbit: don't go along just to be polite	ไม่ควรทำ,ความเชื่อ		
+ZODI-111	ปีเถาะ (กระต่าย)	ปีเถาะไม่ควรเก็บความไม่พอใจไว้	Rabbit: don't bottle up your displeasure	ไม่ควรทำ,ความเชื่อ		
+ZODI-112	ปีเถาะ (กระต่าย)	ปีเถาะไม่ควรหนีความรับผิดชอบ	Rabbit: don't dodge responsibility	ไม่ควรทำ,ความเชื่อ		
+ZODI-113	ปีเถาะ (กระต่าย)	ปีเถาะไม่ควรใช้จ่ายกับของสวยงามเกินตัว	Rabbit: don't overspend on pretty things	ไม่ควรทำ,ความเชื่อ		
+ZODI-114	ปีเถาะ (กระต่าย)	ปีเถาะไม่ควรเชื่อคำหวานง่าย	Rabbit: don't believe sweet talk too easily	ไม่ควรทำ,ความเชื่อ		
+ZODI-115	ปีเถาะ (กระต่าย)	ปีเถาะไม่ควรเปลี่ยนงานบ่อยเพราะไม่สบายใจ	Rabbit: don't change jobs whenever uncomfortable	ไม่ควรทำ,ความเชื่อ		
+ZODI-116	ปีเถาะ (กระต่าย)	ปีเถาะไม่ควรไปที่ที่วุ่นวายเกินไป	Rabbit: don't go to overly chaotic places	ไม่ควรทำ,ความเชื่อ		
+ZODI-117	ปีมะโรง (มังกร)	ปีมะโรง (มังกร)	Year of the Dragon	ทะเยอทะยาน,มีบารมี		
+ZODI-118	ปีมะโรง (มังกร)	ปีมะโรงธาตุไม้ (มังกรไม้)	Wood Dragon	มังกรไม้,ธาตุไม้		
+ZODI-119	ปีมะโรง (มังกร)	ปีมะโรงธาตุไฟ (มังกรไฟ)	Fire Dragon	มังกรไฟ,ธาตุไฟ		
+ZODI-120	ปีมะโรง (มังกร)	ปีมะโรงธาตุดิน (มังกรดิน)	Earth Dragon	มังกรดิน,ธาตุดิน		
+ZODI-121	ปีมะโรง (มังกร)	ปีมะโรงธาตุทอง (มังกรทอง)	Metal Dragon	มังกรทอง,ธาตุทอง		
+ZODI-122	ปีมะโรง (มังกร)	ปีมะโรงธาตุน้ำ (มังกรน้ำ)	Water Dragon	มังกรน้ำ,ธาตุน้ำ		
+ZODI-123	ปีมะโรง (มังกร)	ปีมะโรงควรตั้งเป้าหมายระดับใหญ่	Dragon: do aim high	ควรทำ,ความเชื่อ		
+ZODI-124	ปีมะโรง (มังกร)	ปีมะโรงควรเริ่มธุรกิจหรือโครงการใหม่	Dragon: do launch a business or project	ควรทำ,ความเชื่อ		
+ZODI-125	ปีมะโรง (มังกร)	ปีมะโรงควรพูดในที่สาธารณะ	Dragon: do speak in public	ควรทำ,ความเชื่อ		
+ZODI-126	ปีมะโรง (มังกร)	ปีมะโรงควรเป็นผู้นำทีม	Dragon: do lead a team	ควรทำ,ความเชื่อ		
+ZODI-127	ปีมะโรง (มังกร)	ปีมะโรงควรลงทุนกับการศึกษาตัวเอง	Dragon: do invest in your own education	ควรทำ,ความเชื่อ		
+ZODI-128	ปีมะโรง (มังกร)	ปีมะโรงควรสร้างชื่อเสียงด้วยผลงาน	Dragon: do build a name through your work	ควรทำ,ความเชื่อ		
+ZODI-129	ปีมะโรง (มังกร)	ปีมะโรงควรไหว้ขอพรสิ่งศักดิ์สิทธิ์ (ความเชื่อ)	Dragon: do pray at a sacred place (belief)	ควรทำ,ความเชื่อ		
+ZODI-130	ปีมะโรง (มังกร)	ปีมะโรงควรใจกว้างให้โอกาสคนอื่น	Dragon: do be generous with chances for others	ควรทำ,ความเชื่อ		
+ZODI-131	ปีมะโรง (มังกร)	ปีมะโรงควรวางระบบให้เป็นระเบียบ	Dragon: do set up proper systems	ควรทำ,ความเชื่อ		
+ZODI-132	ปีมะโรง (มังกร)	ปีมะโรงควรใช้ความมั่นใจช่วยคนอื่น	Dragon: do use your confidence to help others	ควรทำ,ความเชื่อ		
+ZODI-133	ปีมะโรง (มังกร)	ปีมะโรงควรพักผ่อนใกล้น้ำ	Dragon: do rest by the water	ควรทำ,ความเชื่อ		
+ZODI-134	ปีมะโรง (มังกร)	ปีมะโรงควรถ่อมตัวเมื่อสำเร็จ	Dragon: do stay humble in success	ควรทำ,ความเชื่อ		
+ZODI-135	ปีมะโรง (มังกร)	ปีมะโรงไม่ควรหยิ่งจนไม่ฟังใคร	Dragon: don't be too proud to listen	ไม่ควรทำ,ความเชื่อ		
+ZODI-136	ปีมะโรง (มังกร)	ปีมะโรงไม่ควรใช้อำนาจกดดันคนอื่น	Dragon: don't use power to pressure people	ไม่ควรทำ,ความเชื่อ		
+ZODI-137	ปีมะโรง (มังกร)	ปีมะโรงไม่ควรทำทุกอย่างคนเดียว	Dragon: don't do everything alone	ไม่ควรทำ,ความเชื่อ		
+ZODI-138	ปีมะโรง (มังกร)	ปีมะโรงไม่ควรคาดหวังสูงเกินจริง	Dragon: don't expect too much	ไม่ควรทำ,ความเชื่อ		
+ZODI-139	ปีมะโรง (มังกร)	ปีมะโรงไม่ควรใช้เงินเพื่อภาพลักษณ์	Dragon: don't spend for image	ไม่ควรทำ,ความเชื่อ		
+ZODI-140	ปีมะโรง (มังกร)	ปีมะโรงไม่ควรใจร้อนกับคนที่ช้ากว่า	Dragon: don't be impatient with slower people	ไม่ควรทำ,ความเชื่อ		
+ZODI-141	ปีมะโรง (มังกร)	ปีมะโรงไม่ควรลงทุนโดยไม่ศึกษา	Dragon: don't invest without research	ไม่ควรทำ,ความเชื่อ		
+ZODI-142	ปีมะโรง (มังกร)	ปีมะโรงไม่ควรไม่ยอมรับข้อผิดพลาด	Dragon: don't refuse to admit mistakes	ไม่ควรทำ,ความเชื่อ		
+ZODI-143	ปีมะโรง (มังกร)	ปีมะโรงไม่ควรทำงานจนสุขภาพพัง	Dragon: don't work until your health breaks	ไม่ควรทำ,ความเชื่อ		
+ZODI-144	ปีมะโรง (มังกร)	ปีมะโรงไม่ควรรับปากเกินที่ทำได้	Dragon: don't promise more than you can deliver	ไม่ควรทำ,ความเชื่อ		
+ZODI-145	ปีมะโรง (มังกร)	ปีมะโรงไม่ควรเปรียบเทียบตัวเองกับคนที่สูงกว่า	Dragon: don't compare yourself to those above you	ไม่ควรทำ,ความเชื่อ		
+ZODI-146	ปีมะเส็ง (งู)	ปีมะเส็ง (งู)	Year of the Snake	ลึกซึ้ง,รอบคอบ		
+ZODI-147	ปีมะเส็ง (งู)	ปีมะเส็งธาตุไม้ (งูไม้)	Wood Snake	งูไม้,ธาตุไม้		
+ZODI-148	ปีมะเส็ง (งู)	ปีมะเส็งธาตุไฟ (งูไฟ)	Fire Snake	งูไฟ,ธาตุไฟ		
+ZODI-149	ปีมะเส็ง (งู)	ปีมะเส็งธาตุดิน (งูดิน)	Earth Snake	งูดิน,ธาตุดิน		
+ZODI-150	ปีมะเส็ง (งู)	ปีมะเส็งธาตุทอง (งูทอง)	Metal Snake	งูทอง,ธาตุทอง		
+ZODI-151	ปีมะเส็ง (งู)	ปีมะเส็งธาตุน้ำ (งูน้ำ)	Water Snake	งูน้ำ,ธาตุน้ำ		
+ZODI-152	ปีมะเส็ง (งู)	ปีมะเส็งควรศึกษาก่อนตัดสินใจ	Snake: do research before deciding	ควรทำ,ความเชื่อ		
+ZODI-153	ปีมะเส็ง (งู)	ปีมะเส็งควรใช้ปัญญาแก้ปัญหา	Snake: do use insight to solve problems	ควรทำ,ความเชื่อ		
+ZODI-154	ปีมะเส็ง (งู)	ปีมะเส็งควรทำสมาธิหรือฝึกจิต	Snake: do meditate or train the mind	ควรทำ,ความเชื่อ		
+ZODI-155	ปีมะเส็ง (งู)	ปีมะเส็งควรเก็บความลับที่ควรเก็บ	Snake: do keep what should stay private	ควรทำ,ความเชื่อ		
+ZODI-156	ปีมะเส็ง (งู)	ปีมะเส็งควรลงทุนระยะยาวอย่างรอบคอบ	Snake: do invest carefully for the long term	ควรทำ,ความเชื่อ		
+ZODI-157	ปีมะเส็ง (งู)	ปีมะเส็งควรเรียนศาสตร์ลึกลับหรือปรัชญา	Snake: do study philosophy or mystical arts	ควรทำ,ความเชื่อ		
+ZODI-158	ปีมะเส็ง (งู)	ปีมะเส็งควรแต่งตัวให้ดูดี	Snake: do dress well	ควรทำ,ความเชื่อ		
+ZODI-159	ปีมะเส็ง (งู)	ปีมะเส็งควรทำงานวิจัยหรืองานเชิงลึก	Snake: do do research or deep work	ควรทำ,ความเชื่อ		
+ZODI-160	ปีมะเส็ง (งู)	ปีมะเส็งควรดูแลผิวพรรณและสุขภาพ	Snake: do care for your skin and health	ควรทำ,ความเชื่อ		
+ZODI-161	ปีมะเส็ง (งู)	ปีมะเส็งควรเลือกคบคนน้อยแต่จริงใจ	Snake: do keep few but sincere friends	ควรทำ,ความเชื่อ		
+ZODI-162	ปีมะเส็ง (งู)	ปีมะเส็งควรลอกคราบนิสัยเก่า	Snake: do shed an old habit	ควรทำ,ความเชื่อ		
+ZODI-163	ปีมะเส็ง (งู)	ปีมะเส็งควรพักในที่เงียบสงบ	Snake: do rest somewhere quiet	ควรทำ,ความเชื่อ		
+ZODI-164	ปีมะเส็ง (งู)	ปีมะเส็งไม่ควรระแวงคนรอบข้าง	Snake: don't be suspicious of everyone	ไม่ควรทำ,ความเชื่อ		
+ZODI-165	ปีมะเส็ง (งู)	ปีมะเส็งไม่ควรเก็บความแค้นนาน	Snake: don't hold grudges	ไม่ควรทำ,ความเชื่อ		
+ZODI-166	ปีมะเส็ง (งู)	ปีมะเส็งไม่ควรหึงหวงเกินเหตุ	Snake: don't be overly jealous	ไม่ควรทำ,ความเชื่อ		
+ZODI-167	ปีมะเส็ง (งู)	ปีมะเส็งไม่ควรปิดบังความรู้สึกจนคนเข้าใจผิด	Snake: don't hide feelings until you're misunderstood	ไม่ควรทำ,ความเชื่อ		
+ZODI-168	ปีมะเส็ง (งู)	ปีมะเส็งไม่ควรใช้คำพูดเชือดเฉือน	Snake: don't use cutting words	ไม่ควรทำ,ความเชื่อ		
+ZODI-169	ปีมะเส็ง (งู)	ปีมะเส็งไม่ควรลงทุนกับสิ่งที่ไม่เข้าใจ	Snake: don't invest in what you don't understand	ไม่ควรทำ,ความเชื่อ		
+ZODI-170	ปีมะเส็ง (งู)	ปีมะเส็งไม่ควรขี้เกียจออกกำลังกาย	Snake: don't skip exercise	ไม่ควรทำ,ความเชื่อ		
+ZODI-171	ปีมะเส็ง (งู)	ปีมะเส็งไม่ควรควบคุมคนรัก	Snake: don't control your partner	ไม่ควรทำ,ความเชื่อ		
+ZODI-172	ปีมะเส็ง (งู)	ปีมะเส็งไม่ควรคิดลบล่วงหน้า	Snake: don't expect the worst	ไม่ควรทำ,ความเชื่อ		
+ZODI-173	ปีมะเส็ง (งู)	ปีมะเส็งไม่ควรใช้เล่ห์เหลี่ยม	Snake: don't scheme	ไม่ควรทำ,ความเชื่อ		
+ZODI-174	ปีมะเส็ง (งู)	ปีมะเส็งไม่ควรเก็บตัวเงียบเมื่อมีปัญหา	Snake: don't go silent when there's trouble	ไม่ควรทำ,ความเชื่อ		
+ZODI-175	ปีมะเมีย (ม้า)	ปีมะเมีย (ม้า)	Year of the Horse	อิสระ,กระตือรือร้น		
+ZODI-176	ปีมะเมีย (ม้า)	ปีมะเมียธาตุไม้ (ม้าไม้)	Wood Horse	ม้าไม้,ธาตุไม้		
+ZODI-177	ปีมะเมีย (ม้า)	ปีมะเมียธาตุไฟ (ม้าไฟ)	Fire Horse	ม้าไฟ,ธาตุไฟ		
+ZODI-178	ปีมะเมีย (ม้า)	ปีมะเมียธาตุดิน (ม้าดิน)	Earth Horse	ม้าดิน,ธาตุดิน		
+ZODI-179	ปีมะเมีย (ม้า)	ปีมะเมียธาตุทอง (ม้าทอง)	Metal Horse	ม้าทอง,ธาตุทอง		
+ZODI-180	ปีมะเมีย (ม้า)	ปีมะเมียธาตุน้ำ (ม้าน้ำ)	Water Horse	ม้าน้ำ,ธาตุน้ำ		
+ZODI-181	ปีมะเมีย (ม้า)	ปีมะเมียควรเดินทางไปที่ใหม่	Horse: do travel somewhere new	ควรทำ,ความเชื่อ		
+ZODI-182	ปีมะเมีย (ม้า)	ปีมะเมียควรออกกำลังกายกลางแจ้ง	Horse: do exercise outdoors	ควรทำ,ความเชื่อ		
+ZODI-183	ปีมะเมีย (ม้า)	ปีมะเมียควรทำงานที่มีอิสระ	Horse: do do work with freedom	ควรทำ,ความเชื่อ		
+ZODI-184	ปีมะเมีย (ม้า)	ปีมะเมียควรพบปะผู้คนใหม่	Horse: do meet new people	ควรทำ,ความเชื่อ		
+ZODI-185	ปีมะเมีย (ม้า)	ปีมะเมียควรเรียนรู้ภาษาหรือวัฒนธรรม	Horse: do learn a language or culture	ควรทำ,ความเชื่อ		
+ZODI-186	ปีมะเมีย (ม้า)	ปีมะเมียควรใช้ความกระตือรือร้นจุดประกายทีม	Horse: do spark the team with enthusiasm	ควรทำ,ความเชื่อ		
+ZODI-187	ปีมะเมีย (ม้า)	ปีมะเมียควรลงมือทันทีเมื่อพร้อม	Horse: do act as soon as you're ready	ควรทำ,ความเชื่อ		
+ZODI-188	ปีมะเมีย (ม้า)	ปีมะเมียควรทำงานขายหรือการตลาด	Horse: do do sales or marketing	ควรทำ,ความเชื่อ		
+ZODI-189	ปีมะเมีย (ม้า)	ปีมะเมียควรสนุกกับงานอดิเรก	Horse: do enjoy a hobby	ควรทำ,ความเชื่อ		
+ZODI-190	ปีมะเมีย (ม้า)	ปีมะเมียควรพูดสิ่งที่คิดอย่างสุภาพ	Horse: do say what you think, politely	ควรทำ,ความเชื่อ		
+ZODI-191	ปีมะเมีย (ม้า)	ปีมะเมียควรวางแผนการเงินให้มีวินัย	Horse: do bring discipline to your money	ควรทำ,ความเชื่อ		
+ZODI-192	ปีมะเมีย (ม้า)	ปีมะเมียควรพักให้พอระหว่างงาน	Horse: do rest enough between tasks	ควรทำ,ความเชื่อ		
+ZODI-193	ปีมะเมีย (ม้า)	ปีมะเมียไม่ควรทำหลายอย่างแต่ไม่จบสักอย่าง	Horse: don't start many things and finish none	ไม่ควรทำ,ความเชื่อ		
+ZODI-194	ปีมะเมีย (ม้า)	ปีมะเมียไม่ควรใจร้อนกับเรื่องรัก	Horse: don't rush into love	ไม่ควรทำ,ความเชื่อ		
+ZODI-195	ปีมะเมีย (ม้า)	ปีมะเมียไม่ควรใช้เงินตามอารมณ์	Horse: don't spend on impulse	ไม่ควรทำ,ความเชื่อ		
+ZODI-196	ปีมะเมีย (ม้า)	ปีมะเมียไม่ควรเบื่อง่ายแล้วทิ้งงาน	Horse: don't get bored and quit	ไม่ควรทำ,ความเชื่อ		
+ZODI-197	ปีมะเมีย (ม้า)	ปีมะเมียไม่ควรหนีเมื่อถูกผูกมัด	Horse: don't run from commitment	ไม่ควรทำ,ความเชื่อ		
+ZODI-198	ปีมะเมีย (ม้า)	ปีมะเมียไม่ควรพูดก่อนคิด	Horse: don't speak before thinking	ไม่ควรทำ,ความเชื่อ		
+ZODI-199	ปีมะเมีย (ม้า)	ปีมะเมียไม่ควรเดินทางโดยไม่วางแผน	Horse: don't travel without a plan	ไม่ควรทำ,ความเชื่อ		
+ZODI-200	ปีมะเมีย (ม้า)	ปีมะเมียไม่ควรละเลยคนที่บ้าน	Horse: don't neglect those at home	ไม่ควรทำ,ความเชื่อ		
+ZODI-201	ปีมะเมีย (ม้า)	ปีมะเมียไม่ควรฝืนร่างกายจนบาดเจ็บ	Horse: don't push your body until injured	ไม่ควรทำ,ความเชื่อ		
+ZODI-202	ปีมะเมีย (ม้า)	ปีมะเมียไม่ควรไม่ฟังคำเตือน	Horse: don't ignore warnings	ไม่ควรทำ,ความเชื่อ		
+ZODI-203	ปีมะเมีย (ม้า)	ปีมะเมียไม่ควรเปลี่ยนงานเพราะอารมณ์ชั่ววูบ	Horse: don't change jobs on a whim	ไม่ควรทำ,ความเชื่อ		
+ZODI-204	ปีมะแม (แพะ)	ปีมะแม (แพะ)	Year of the Goat	ศิลปะ,ใจดี		
+ZODI-205	ปีมะแม (แพะ)	ปีมะแมธาตุไม้ (แพะไม้)	Wood Goat	แพะไม้,ธาตุไม้		
+ZODI-206	ปีมะแม (แพะ)	ปีมะแมธาตุไฟ (แพะไฟ)	Fire Goat	แพะไฟ,ธาตุไฟ		
+ZODI-207	ปีมะแม (แพะ)	ปีมะแมธาตุดิน (แพะดิน)	Earth Goat	แพะดิน,ธาตุดิน		
+ZODI-208	ปีมะแม (แพะ)	ปีมะแมธาตุทอง (แพะทอง)	Metal Goat	แพะทอง,ธาตุทอง		
+ZODI-209	ปีมะแม (แพะ)	ปีมะแมธาตุน้ำ (แพะน้ำ)	Water Goat	แพะน้ำ,ธาตุน้ำ		
+ZODI-210	ปีมะแม (แพะ)	ปีมะแมควรทำงานศิลปะหรือดนตรี	Goat: do make art or music	ควรทำ,ความเชื่อ		
+ZODI-211	ปีมะแม (แพะ)	ปีมะแมควรทำอาหารให้คนที่รัก	Goat: do cook for loved ones	ควรทำ,ความเชื่อ		
+ZODI-212	ปีมะแม (แพะ)	ปีมะแมควรทำบุญช่วยคนลำบาก	Goat: do help those in need	ควรทำ,ความเชื่อ		
+ZODI-213	ปีมะแม (แพะ)	ปีมะแมควรอยู่ใกล้ธรรมชาติ	Goat: do spend time in nature	ควรทำ,ความเชื่อ		
+ZODI-214	ปีมะแม (แพะ)	ปีมะแมควรทำงานร่วมกับทีมที่อบอุ่น	Goat: do work with a warm team	ควรทำ,ความเชื่อ		
+ZODI-215	ปีมะแม (แพะ)	ปีมะแมควรเรียนรู้งานฝีมือ	Goat: do learn a craft	ควรทำ,ความเชื่อ		
+ZODI-216	ปีมะแม (แพะ)	ปีมะแมควรขอคำปรึกษาเมื่อไม่แน่ใจ	Goat: do ask advice when unsure	ควรทำ,ความเชื่อ		
+ZODI-217	ปีมะแม (แพะ)	ปีมะแมควรสร้างบ้านให้อบอุ่น	Goat: do make home warm	ควรทำ,ความเชื่อ		
+ZODI-218	ปีมะแม (แพะ)	ปีมะแมควรดูแลสุขภาพกระเพาะ	Goat: do look after your stomach	ควรทำ,ความเชื่อ		
+ZODI-219	ปีมะแม (แพะ)	ปีมะแมควรเขียนบันทึกความรู้สึก	Goat: do keep a feelings journal	ควรทำ,ความเชื่อ		
+ZODI-220	ปีมะแม (แพะ)	ปีมะแมควรให้เวลากับครอบครัว	Goat: do give time to family	ควรทำ,ความเชื่อ		
+ZODI-221	ปีมะแม (แพะ)	ปีมะแมควรรับฟังอย่างเข้าใจ	Goat: do listen with understanding	ควรทำ,ความเชื่อ		
+ZODI-222	ปีมะแม (แพะ)	ปีมะแมไม่ควรใจอ่อนให้คนยืมเงิน	Goat: don't lend money out of softness	ไม่ควรทำ,ความเชื่อ		
+ZODI-223	ปีมะแม (แพะ)	ปีมะแมไม่ควรคิดมากเรื่องคำพูดคนอื่น	Goat: don't dwell on what others say	ไม่ควรทำ,ความเชื่อ		
+ZODI-224	ปีมะแม (แพะ)	ปีมะแมไม่ควรพึ่งคนอื่นมากเกินไป	Goat: don't depend on others too much	ไม่ควรทำ,ความเชื่อ		
+ZODI-225	ปีมะแม (แพะ)	ปีมะแมไม่ควรลังเลไม่กล้าตัดสินใจ	Goat: don't be too hesitant to decide	ไม่ควรทำ,ความเชื่อ		
+ZODI-226	ปีมะแม (แพะ)	ปีมะแมไม่ควรหนีความขัดแย้งจนปัญหาสะสม	Goat: don't avoid conflict until problems pile up	ไม่ควรทำ,ความเชื่อ		
+ZODI-227	ปีมะแม (แพะ)	ปีมะแมไม่ควรใช้จ่ายเพื่อปลอบใจตัวเอง	Goat: don't spend to comfort yourself	ไม่ควรทำ,ความเชื่อ		
+ZODI-228	ปีมะแม (แพะ)	ปีมะแมไม่ควรมองโลกในแง่ร้าย	Goat: don't see only the bad side	ไม่ควรทำ,ความเชื่อ		
+ZODI-229	ปีมะแม (แพะ)	ปีมะแมไม่ควรยอมทำงานที่ไม่ชอบนานเกิน	Goat: don't stay too long in work you dislike	ไม่ควรทำ,ความเชื่อ		
+ZODI-230	ปีมะแม (แพะ)	ปีมะแมไม่ควรเก็บตัวเมื่อเศร้า	Goat: don't hide away when sad	ไม่ควรทำ,ความเชื่อ		
+ZODI-231	ปีมะแม (แพะ)	ปีมะแมไม่ควรไว้ใจคนแปลกหน้าเร็วเกิน	Goat: don't trust strangers too fast	ไม่ควรทำ,ความเชื่อ		
+ZODI-232	ปีมะแม (แพะ)	ปีมะแมไม่ควรทำตามกระแสโดยไม่คิด	Goat: don't follow trends without thinking	ไม่ควรทำ,ความเชื่อ		
+ZODI-233	ปีวอก (ลิง)	ปีวอก (ลิง)	Year of the Monkey	ไหวพริบ,สร้างสรรค์		
+ZODI-234	ปีวอก (ลิง)	ปีวอกธาตุไม้ (ลิงไม้)	Wood Monkey	ลิงไม้,ธาตุไม้		
+ZODI-235	ปีวอก (ลิง)	ปีวอกธาตุไฟ (ลิงไฟ)	Fire Monkey	ลิงไฟ,ธาตุไฟ		
+ZODI-236	ปีวอก (ลิง)	ปีวอกธาตุดิน (ลิงดิน)	Earth Monkey	ลิงดิน,ธาตุดิน		
+ZODI-237	ปีวอก (ลิง)	ปีวอกธาตุทอง (ลิงทอง)	Metal Monkey	ลิงทอง,ธาตุทอง		
+ZODI-238	ปีวอก (ลิง)	ปีวอกธาตุน้ำ (ลิงน้ำ)	Water Monkey	ลิงน้ำ,ธาตุน้ำ		
+ZODI-239	ปีวอก (ลิง)	ปีวอกควรใช้ความคิดสร้างสรรค์แก้ปัญหา	Monkey: do solve problems creatively	ควรทำ,ความเชื่อ		
+ZODI-240	ปีวอก (ลิง)	ปีวอกควรเรียนรู้เทคโนโลยีใหม่	Monkey: do learn new technology	ควรทำ,ความเชื่อ		
+ZODI-241	ปีวอก (ลิง)	ปีวอกควรทำงานที่ต้องคิดเร็ว	Monkey: do do work that needs quick thinking	ควรทำ,ความเชื่อ		
+ZODI-242	ปีวอก (ลิง)	ปีวอกควรเจรจาต่อรอง	Monkey: do negotiate	ควรทำ,ความเชื่อ		
+ZODI-243	ปีวอก (ลิง)	ปีวอกควรสร้างเสียงหัวเราะในทีม	Monkey: do bring laughter to the team	ควรทำ,ความเชื่อ		
+ZODI-244	ปีวอก (ลิง)	ปีวอกควรลองงานหลายด้านเพื่อหาที่ถนัด	Monkey: do try different fields to find your strength	ควรทำ,ความเชื่อ		
+ZODI-245	ปีวอก (ลิง)	ปีวอกควรเดินทางระยะสั้น	Monkey: do take short trips	ควรทำ,ความเชื่อ		
+ZODI-246	ปีวอก (ลิง)	ปีวอกควรฝึกความอดทนให้จบงาน	Monkey: do train yourself to finish	ควรทำ,ความเชื่อ		
+ZODI-247	ปีวอก (ลิง)	ปีวอกควรทำงานกับคนเก่งกว่า	Monkey: do work with people better than you	ควรทำ,ความเชื่อ		
+ZODI-248	ปีวอก (ลิง)	ปีวอกควรเขียนแผนให้ชัด	Monkey: do write clear plans	ควรทำ,ความเชื่อ		
+ZODI-249	ปีวอก (ลิง)	ปีวอกควรใช้ความช่างสังเกต	Monkey: do use your sharp eye	ควรทำ,ความเชื่อ		
+ZODI-250	ปีวอก (ลิง)	ปีวอกควรทำบุญอย่างจริงใจ	Monkey: do make merit sincerely	ควรทำ,ความเชื่อ		
+ZODI-251	ปีวอก (ลิง)	ปีวอกไม่ควรฉลาดแกมโกง	Monkey: don't be sly	ไม่ควรทำ,ความเชื่อ		
+ZODI-252	ปีวอก (ลิง)	ปีวอกไม่ควรล้อเล่นจนคนเจ็บ	Monkey: don't joke until someone gets hurt	ไม่ควรทำ,ความเชื่อ		
+ZODI-253	ปีวอก (ลิง)	ปีวอกไม่ควรทำหลายงานจนพลาดรายละเอียด	Monkey: don't juggle so much you miss details	ไม่ควรทำ,ความเชื่อ		
+ZODI-254	ปีวอก (ลิง)	ปีวอกไม่ควรโอ้อวดความเก่ง	Monkey: don't brag about your cleverness	ไม่ควรทำ,ความเชื่อ		
+ZODI-255	ปีวอก (ลิง)	ปีวอกไม่ควรไม่จริงจังกับคำสัญญา	Monkey: don't take promises lightly	ไม่ควรทำ,ความเชื่อ		
+ZODI-256	ปีวอก (ลิง)	ปีวอกไม่ควรเสี่ยงโชคเพราะมั่นใจเกิน	Monkey: don't gamble out of overconfidence	ไม่ควรทำ,ความเชื่อ		
+ZODI-257	ปีวอก (ลิง)	ปีวอกไม่ควรมองข้ามความรู้สึกคนอื่น	Monkey: don't overlook others' feelings	ไม่ควรทำ,ความเชื่อ		
+ZODI-258	ปีวอก (ลิง)	ปีวอกไม่ควรเบื่อแล้วเปลี่ยนคนรักบ่อย	Monkey: don't change partners out of boredom	ไม่ควรทำ,ความเชื่อ		
+ZODI-259	ปีวอก (ลิง)	ปีวอกไม่ควรเลี่ยงงานน่าเบื่อแต่จำเป็น	Monkey: don't avoid dull but necessary work	ไม่ควรทำ,ความเชื่อ		
+ZODI-260	ปีวอก (ลิง)	ปีวอกไม่ควรใช้คำพูดหลอกล่อ	Monkey: don't use tricky words	ไม่ควรทำ,ความเชื่อ		
+ZODI-261	ปีวอก (ลิง)	ปีวอกไม่ควรวิจารณ์คนอื่นในที่สาธารณะ	Monkey: don't criticise others in public	ไม่ควรทำ,ความเชื่อ		
+ZODI-262	ปีระกา (ไก่)	ปีระกา (ไก่)	Year of the Rooster	ตรงเวลา,ละเอียด		
+ZODI-263	ปีระกา (ไก่)	ปีระกาธาตุไม้ (ไก่ไม้)	Wood Rooster	ไก่ไม้,ธาตุไม้		
+ZODI-264	ปีระกา (ไก่)	ปีระกาธาตุไฟ (ไก่ไฟ)	Fire Rooster	ไก่ไฟ,ธาตุไฟ		
+ZODI-265	ปีระกา (ไก่)	ปีระกาธาตุดิน (ไก่ดิน)	Earth Rooster	ไก่ดิน,ธาตุดิน		
+ZODI-266	ปีระกา (ไก่)	ปีระกาธาตุทอง (ไก่ทอง)	Metal Rooster	ไก่ทอง,ธาตุทอง		
+ZODI-267	ปีระกา (ไก่)	ปีระกาธาตุน้ำ (ไก่น้ำ)	Water Rooster	ไก่น้ำ,ธาตุน้ำ		
+ZODI-268	ปีระกา (ไก่)	ปีระกาควรวางตารางเวลาให้เป็นระเบียบ	Rooster: do keep an orderly schedule	ควรทำ,ความเชื่อ		
+ZODI-269	ปีระกา (ไก่)	ปีระกาควรตื่นเช้าเริ่มวันใหม่	Rooster: do rise early	ควรทำ,ความเชื่อ		
+ZODI-270	ปีระกา (ไก่)	ปีระกาควรทำงานที่ต้องการความแม่นยำ	Rooster: do do precise work	ควรทำ,ความเชื่อ		
+ZODI-271	ปีระกา (ไก่)	ปีระกาควรแต่งกายให้เหมาะสม	Rooster: do dress appropriately	ควรทำ,ความเชื่อ		
+ZODI-272	ปีระกา (ไก่)	ปีระกาควรพูดความจริงอย่างสุภาพ	Rooster: do tell the truth kindly	ควรทำ,ความเชื่อ		
+ZODI-273	ปีระกา (ไก่)	ปีระกาควรตรวจทานงานก่อนส่ง	Rooster: do check work before handing it in	ควรทำ,ความเชื่อ		
+ZODI-274	ปีระกา (ไก่)	ปีระกาควรจัดบ้านให้สะอาด	Rooster: do keep your home tidy	ควรทำ,ความเชื่อ		
+ZODI-275	ปีระกา (ไก่)	ปีระกาควรทำบัญชีรายรับรายจ่าย	Rooster: do keep a budget	ควรทำ,ความเชื่อ		
+ZODI-276	ปีระกา (ไก่)	ปีระกาควรเป็นตัวอย่างเรื่องวินัย	Rooster: do set an example of discipline	ควรทำ,ความเชื่อ		
+ZODI-277	ปีระกา (ไก่)	ปีระกาควรทำงานที่ได้แสดงผลงาน	Rooster: do do work where you can show results	ควรทำ,ความเชื่อ		
+ZODI-278	ปีระกา (ไก่)	ปีระกาควรชมคนอื่นอย่างจริงใจ	Rooster: do praise others sincerely	ควรทำ,ความเชื่อ		
+ZODI-279	ปีระกา (ไก่)	ปีระกาควรผ่อนคลายบ้าง	Rooster: do loosen up now and then	ควรทำ,ความเชื่อ		
+ZODI-280	ปีระกา (ไก่)	ปีระกาไม่ควรจับผิดคนอื่น	Rooster: don't nitpick	ไม่ควรทำ,ความเชื่อ		
+ZODI-281	ปีระกา (ไก่)	ปีระกาไม่ควรพูดตรงจนทำร้ายใจ	Rooster: don't be so blunt it hurts	ไม่ควรทำ,ความเชื่อ		
+ZODI-282	ปีระกา (ไก่)	ปีระกาไม่ควรสมบูรณ์แบบจนไม่เสร็จ	Rooster: don't be so perfectionist nothing gets done	ไม่ควรทำ,ความเชื่อ		
+ZODI-283	ปีระกา (ไก่)	ปีระกาไม่ควรโอ้อวดผลงาน	Rooster: don't boast about your results	ไม่ควรทำ,ความเชื่อ		
+ZODI-284	ปีระกา (ไก่)	ปีระกาไม่ควรทะเลาะเรื่องเล็กๆ	Rooster: don't argue over trifles	ไม่ควรทำ,ความเชื่อ		
+ZODI-285	ปีระกา (ไก่)	ปีระกาไม่ควรใช้เงินเพื่อภาพลักษณ์	Rooster: don't spend to look good	ไม่ควรทำ,ความเชื่อ		
+ZODI-286	ปีระกา (ไก่)	ปีระกาไม่ควรไม่ยอมรับความเห็นต่าง	Rooster: don't reject different opinions	ไม่ควรทำ,ความเชื่อ		
+ZODI-287	ปีระกา (ไก่)	ปีระกาไม่ควรทำงานจนไม่มีเวลาพัก	Rooster: don't work with no time to rest	ไม่ควรทำ,ความเชื่อ		
+ZODI-288	ปีระกา (ไก่)	ปีระกาไม่ควรคาดหวังให้คนอื่นเป๊ะเหมือนตัวเอง	Rooster: don't expect others to be as exact as you	ไม่ควรทำ,ความเชื่อ		
+ZODI-289	ปีระกา (ไก่)	ปีระกาไม่ควรเก็บความเครียดไว้คนเดียว	Rooster: don't keep stress to yourself	ไม่ควรทำ,ความเชื่อ		
+ZODI-290	ปีระกา (ไก่)	ปีระกาไม่ควรตัดสินคนจากภายนอก	Rooster: don't judge by appearances	ไม่ควรทำ,ความเชื่อ		
+ZODI-291	ปีจอ (สุนัข)	ปีจอ (สุนัข)	Year of the Dog	ซื่อสัตย์,ยุติธรรม		
+ZODI-292	ปีจอ (สุนัข)	ปีจอธาตุไม้ (สุนัขไม้)	Wood Dog	สุนัขไม้,ธาตุไม้		
+ZODI-293	ปีจอ (สุนัข)	ปีจอธาตุไฟ (สุนัขไฟ)	Fire Dog	สุนัขไฟ,ธาตุไฟ		
+ZODI-294	ปีจอ (สุนัข)	ปีจอธาตุดิน (สุนัขดิน)	Earth Dog	สุนัขดิน,ธาตุดิน		
+ZODI-295	ปีจอ (สุนัข)	ปีจอธาตุทอง (สุนัขทอง)	Metal Dog	สุนัขทอง,ธาตุทอง		
+ZODI-296	ปีจอ (สุนัข)	ปีจอธาตุน้ำ (สุนัขน้ำ)	Water Dog	สุนัขน้ำ,ธาตุน้ำ		
+ZODI-297	ปีจอ (สุนัข)	ปีจอควรช่วยเหลือเพื่อนอย่างจริงใจ	Dog: do help friends sincerely	ควรทำ,ความเชื่อ		
+ZODI-298	ปีจอ (สุนัข)	ปีจอควรทำงานที่ช่วยคนอื่น	Dog: do do work that helps people	ควรทำ,ความเชื่อ		
+ZODI-299	ปีจอ (สุนัข)	ปีจอควรยืนหยัดเพื่อความถูกต้อง	Dog: do stand up for what's right	ควรทำ,ความเชื่อ		
+ZODI-300	ปีจอ (สุนัข)	ปีจอควรดูแลสัตว์เลี้ยง	Dog: do look after animals	ควรทำ,ความเชื่อ		
+ZODI-301	ปีจอ (สุนัข)	ปีจอควรสร้างความไว้ใจในทีม	Dog: do build trust in the team	ควรทำ,ความเชื่อ		
+ZODI-302	ปีจอ (สุนัข)	ปีจอควรรักษาความซื่อสัตย์	Dog: do stay honest	ควรทำ,ความเชื่อ		
+ZODI-303	ปีจอ (สุนัข)	ปีจอควรออกกำลังกายเป็นประจำ	Dog: do exercise regularly	ควรทำ,ความเชื่อ		
+ZODI-304	ปีจอ (สุนัข)	ปีจอควรเฝ้าดูแลบ้านและครอบครัว	Dog: do watch over home and family	ควรทำ,ความเชื่อ		
+ZODI-305	ปีจอ (สุนัข)	ปีจอควรทำจิตอาสา	Dog: do volunteer	ควรทำ,ความเชื่อ		
+ZODI-306	ปีจอ (สุนัข)	ปีจอควรคบเพื่อนเก่าให้แน่นแฟ้น	Dog: do keep old friendships strong	ควรทำ,ความเชื่อ		
+ZODI-307	ปีจอ (สุนัข)	ปีจอควรปล่อยวางเรื่องที่ควบคุมไม่ได้	Dog: do let go of what you can't control	ควรทำ,ความเชื่อ		
+ZODI-308	ปีจอ (สุนัข)	ปีจอควรวางแผนเกษียณ	Dog: do plan for retirement	ควรทำ,ความเชื่อ		
+ZODI-309	ปีจอ (สุนัข)	ปีจอไม่ควรกังวลล่วงหน้าเกินไป	Dog: don't worry too far ahead	ไม่ควรทำ,ความเชื่อ		
+ZODI-310	ปีจอ (สุนัข)	ปีจอไม่ควรระแวงคนใหม่	Dog: don't distrust newcomers	ไม่ควรทำ,ความเชื่อ		
+ZODI-311	ปีจอ (สุนัข)	ปีจอไม่ควรดื้อในเรื่องที่ผิด	Dog: don't be stubborn when wrong	ไม่ควรทำ,ความเชื่อ		
+ZODI-312	ปีจอ (สุนัข)	ปีจอไม่ควรเสียสละจนตัวเองลำบาก	Dog: don't sacrifice until you suffer	ไม่ควรทำ,ความเชื่อ		
+ZODI-313	ปีจอ (สุนัข)	ปีจอไม่ควรตำหนิตัวเองมากเกิน	Dog: don't blame yourself too much	ไม่ควรทำ,ความเชื่อ		
+ZODI-314	ปีจอ (สุนัข)	ปีจอไม่ควรทะเลาะเพื่อปกป้องคนอื่นจนเกินเหตุ	Dog: don't fight too hard for others	ไม่ควรทำ,ความเชื่อ		
+ZODI-315	ปีจอ (สุนัข)	ปีจอไม่ควรเก็บความไม่พอใจจนระเบิด	Dog: don't hold it in until you explode	ไม่ควรทำ,ความเชื่อ		
+ZODI-316	ปีจอ (สุนัข)	ปีจอไม่ควรมองโลกแง่ร้าย	Dog: don't be pessimistic	ไม่ควรทำ,ความเชื่อ		
+ZODI-317	ปีจอ (สุนัข)	ปีจอไม่ควรไม่ยอมเปลี่ยนแปลง	Dog: don't refuse to change	ไม่ควรทำ,ความเชื่อ		
+ZODI-318	ปีจอ (สุนัข)	ปีจอไม่ควรตัดสินคนเร็วเกินไป	Dog: don't judge too quickly	ไม่ควรทำ,ความเชื่อ		
+ZODI-319	ปีจอ (สุนัข)	ปีจอไม่ควรปล่อยให้คนเอาเปรียบความดี	Dog: don't let people exploit your kindness	ไม่ควรทำ,ความเชื่อ		
+ZODI-320	ปีกุน (หมู)	ปีกุน (หมู)	Year of the Pig	ใจกว้าง,จริงใจ		
+ZODI-321	ปีกุน (หมู)	ปีกุนธาตุไม้ (หมูไม้)	Wood Pig	หมูไม้,ธาตุไม้		
+ZODI-322	ปีกุน (หมู)	ปีกุนธาตุไฟ (หมูไฟ)	Fire Pig	หมูไฟ,ธาตุไฟ		
+ZODI-323	ปีกุน (หมู)	ปีกุนธาตุดิน (หมูดิน)	Earth Pig	หมูดิน,ธาตุดิน		
+ZODI-324	ปีกุน (หมู)	ปีกุนธาตุทอง (หมูทอง)	Metal Pig	หมูทอง,ธาตุทอง		
+ZODI-325	ปีกุน (หมู)	ปีกุนธาตุน้ำ (หมูน้ำ)	Water Pig	หมูน้ำ,ธาตุน้ำ		
+ZODI-326	ปีกุน (หมู)	ปีกุนควรใจกว้างแบ่งปัน	Pig: do share generously	ควรทำ,ความเชื่อ		
+ZODI-327	ปีกุน (หมู)	ปีกุนควรทำอาหารหรือธุรกิจอาหาร	Pig: do cook or run a food business	ควรทำ,ความเชื่อ		
+ZODI-328	ปีกุน (หมู)	ปีกุนควรพักผ่อนให้มีความสุข	Pig: do rest and enjoy	ควรทำ,ความเชื่อ		
+ZODI-329	ปีกุน (หมู)	ปีกุนควรทำงานที่ได้อยู่กับคน	Pig: do do work with people	ควรทำ,ความเชื่อ		
+ZODI-330	ปีกุน (หมู)	ปีกุนควรให้อภัยคนอื่นง่าย	Pig: do forgive easily	ควรทำ,ความเชื่อ		
+ZODI-331	ปีกุน (หมู)	ปีกุนควรทำบุญทำทาน	Pig: do give to charity	ควรทำ,ความเชื่อ		
+ZODI-332	ปีกุน (หมู)	ปีกุนควรจัดงานรวมญาติหรือเพื่อน	Pig: do host family or friends	ควรทำ,ความเชื่อ		
+ZODI-333	ปีกุน (หมู)	ปีกุนควรเก็บออมสำหรับอนาคต	Pig: do save for the future	ควรทำ,ความเชื่อ		
+ZODI-334	ปีกุน (หมู)	ปีกุนควรทำงานอย่างจริงใจ	Pig: do work sincerely	ควรทำ,ความเชื่อ		
+ZODI-335	ปีกุน (หมู)	ปีกุนควรเรียนรู้ด้านการเงิน	Pig: do learn about money	ควรทำ,ความเชื่อ		
+ZODI-336	ปีกุน (หมู)	ปีกุนควรดูแลน้ำหนักและสุขภาพ	Pig: do watch your weight and health	ควรทำ,ความเชื่อ		
+ZODI-337	ปีกุน (หมู)	ปีกุนควรเชื่อในความดีของคน	Pig: do believe in people's good side	ควรทำ,ความเชื่อ		
+ZODI-338	ปีกุน (หมู)	ปีกุนไม่ควรใช้จ่ายเกินตัว	Pig: don't overspend	ไม่ควรทำ,ความเชื่อ		
+ZODI-339	ปีกุน (หมู)	ปีกุนไม่ควรเชื่อคนง่ายจนถูกหลอก	Pig: don't trust too easily and get tricked	ไม่ควรทำ,ความเชื่อ		
+ZODI-340	ปีกุน (หมู)	ปีกุนไม่ควรกินดื่มเกินพอดี	Pig: don't overindulge in food and drink	ไม่ควรทำ,ความเชื่อ		
+ZODI-341	ปีกุน (หมู)	ปีกุนไม่ควรขี้เกียจเลื่อนงาน	Pig: don't put work off out of laziness	ไม่ควรทำ,ความเชื่อ		
+ZODI-342	ปีกุน (หมู)	ปีกุนไม่ควรค้ำประกันให้คนอื่น	Pig: don't guarantee someone else's loan	ไม่ควรทำ,ความเชื่อ		
+ZODI-343	ปีกุน (หมู)	ปีกุนไม่ควรยอมทุกอย่างเพื่อเลี่ยงความขัดแย้ง	Pig: don't give in to avoid conflict	ไม่ควรทำ,ความเชื่อ		
+ZODI-344	ปีกุน (หมู)	ปีกุนไม่ควรไม่ตั้งขอบเขตกับคนใกล้ตัว	Pig: don't set no boundaries with people close to you	ไม่ควรทำ,ความเชื่อ		
+ZODI-345	ปีกุน (หมู)	ปีกุนไม่ควรปล่อยปัญหาไว้นาน	Pig: don't let problems drag on	ไม่ควรทำ,ความเชื่อ		
+ZODI-346	ปีกุน (หมู)	ปีกุนไม่ควรตามใจตัวเองจนเสียวินัย	Pig: don't indulge yourself until discipline slips	ไม่ควรทำ,ความเชื่อ		
+ZODI-347	ปีกุน (หมู)	ปีกุนไม่ควรลงทุนตามคำชวนเพื่อน	Pig: don't invest because a friend asks	ไม่ควรทำ,ความเชื่อ		
+ZODI-348	ปีกุน (หมู)	ปีกุนไม่ควรทำงานแบบไม่มีแผน	Pig: don't work without a plan	ไม่ควรทำ,ความเชื่อ		
+ZODI-349	ธาตุทั้งห้าและก้านฟ้า	ธาตุไม้	Wood element	ธาตุไม้,ห้าธาตุ		
+ZODI-350	ธาตุทั้งห้าและก้านฟ้า	ธาตุไฟ	Fire element	ธาตุไฟ,ห้าธาตุ		
+ZODI-351	ธาตุทั้งห้าและก้านฟ้า	ธาตุดิน	Earth element	ธาตุดิน,ห้าธาตุ		
+ZODI-352	ธาตุทั้งห้าและก้านฟ้า	ธาตุทอง	Metal element	ธาตุทอง,ห้าธาตุ		
+ZODI-353	ธาตุทั้งห้าและก้านฟ้า	ธาตุน้ำ	Water element	ธาตุน้ำ,ห้าธาตุ		
+ZODI-354	ธาตุทั้งห้าและก้านฟ้า	ธาตุไม้หยาง (กะ 甲)	Yang Wood (甲)	ก้านฟ้า,หยาง		
+ZODI-355	ธาตุทั้งห้าและก้านฟ้า	ธาตุไม้หยิน (อิก 乙)	Yin Wood (乙)	ก้านฟ้า,หยิน		
+ZODI-356	ธาตุทั้งห้าและก้านฟ้า	ธาตุไฟหยาง (เปี้ย 丙)	Yang Fire (丙)	ก้านฟ้า,หยาง		
+ZODI-357	ธาตุทั้งห้าและก้านฟ้า	ธาตุไฟหยิน (เต็ง 丁)	Yin Fire (丁)	ก้านฟ้า,หยิน		
+ZODI-358	ธาตุทั้งห้าและก้านฟ้า	ธาตุดินหยาง (โบ่ว 戊)	Yang Earth (戊)	ก้านฟ้า,หยาง		
+ZODI-359	ธาตุทั้งห้าและก้านฟ้า	ธาตุดินหยิน (กี้ 己)	Yin Earth (己)	ก้านฟ้า,หยิน		
+ZODI-360	ธาตุทั้งห้าและก้านฟ้า	ธาตุทองหยาง (แก 庚)	Yang Metal (庚)	ก้านฟ้า,หยาง		
+ZODI-361	ธาตุทั้งห้าและก้านฟ้า	ธาตุทองหยิน (ซิง 辛)	Yin Metal (辛)	ก้านฟ้า,หยิน		
+ZODI-362	ธาตุทั้งห้าและก้านฟ้า	ธาตุน้ำหยาง (หยิม 壬)	Yang Water (壬)	ก้านฟ้า,หยาง		
+ZODI-363	ธาตุทั้งห้าและก้านฟ้า	ธาตุน้ำหยิน (กุ่ย 癸)	Yin Water (癸)	ก้านฟ้า,หยิน		
+ZODI-364	วงจรธาตุ	ธาตุไม้ให้กำเนิดธาตุไฟ	Wood feeds Fire	ให้กำเนิด,ส่งเสริม		
+ZODI-365	วงจรธาตุ	ธาตุไฟให้กำเนิดธาตุดิน	Fire feeds Earth	ให้กำเนิด,ส่งเสริม		
+ZODI-366	วงจรธาตุ	ธาตุดินให้กำเนิดธาตุทอง	Earth feeds Metal	ให้กำเนิด,ส่งเสริม		
+ZODI-367	วงจรธาตุ	ธาตุทองให้กำเนิดธาตุน้ำ	Metal feeds Water	ให้กำเนิด,ส่งเสริม		
+ZODI-368	วงจรธาตุ	ธาตุน้ำให้กำเนิดธาตุไม้	Water feeds Wood	ให้กำเนิด,ส่งเสริม		
+ZODI-369	วงจรธาตุ	ธาตุไม้ข่มธาตุดิน	Wood restrains Earth	ข่ม,ควบคุม		
+ZODI-370	วงจรธาตุ	ธาตุดินข่มธาตุน้ำ	Earth restrains Water	ข่ม,ควบคุม		
+ZODI-371	วงจรธาตุ	ธาตุน้ำข่มธาตุไฟ	Water restrains Fire	ข่ม,ควบคุม		
+ZODI-372	วงจรธาตุ	ธาตุไฟข่มธาตุทอง	Fire restrains Metal	ข่ม,ควบคุม		
+ZODI-373	วงจรธาตุ	ธาตุทองข่มธาตุไม้	Metal restrains Wood	ข่ม,ควบคุม		
+ZODI-374	ธาตุกับสี ทิศ ฤดู และร่างกาย	ธาตุไม้: สีเขียว	Wood: green (colour)	ธาตุไม้,สี		
+ZODI-375	ธาตุกับสี ทิศ ฤดู และร่างกาย	ธาตุไม้: ทิศตะวันออก	Wood: east (direction)	ธาตุไม้,ทิศ		
+ZODI-376	ธาตุกับสี ทิศ ฤดู และร่างกาย	ธาตุไม้: ฤดูใบไม้ผลิ	Wood: spring (season)	ธาตุไม้,ฤดู		
+ZODI-377	ธาตุกับสี ทิศ ฤดู และร่างกาย	ธาตุไม้: ตับ	Wood: liver (organ)	ธาตุไม้,อวัยวะ		
+ZODI-378	ธาตุกับสี ทิศ ฤดู และร่างกาย	ธาตุไม้: รสเปรี้ยว	Wood: sour (taste)	ธาตุไม้,รส		
+ZODI-379	ธาตุกับสี ทิศ ฤดู และร่างกาย	ธาตุไม้: ความโกรธ	Wood: anger (emotion)	ธาตุไม้,อารมณ์		
+ZODI-380	ธาตุกับสี ทิศ ฤดู และร่างกาย	ธาตุไฟ: สีแดง	Fire: red (colour)	ธาตุไฟ,สี		
+ZODI-381	ธาตุกับสี ทิศ ฤดู และร่างกาย	ธาตุไฟ: ทิศใต้	Fire: south (direction)	ธาตุไฟ,ทิศ		
+ZODI-382	ธาตุกับสี ทิศ ฤดู และร่างกาย	ธาตุไฟ: ฤดูร้อน	Fire: summer (season)	ธาตุไฟ,ฤดู		
+ZODI-383	ธาตุกับสี ทิศ ฤดู และร่างกาย	ธาตุไฟ: หัวใจ	Fire: heart (organ)	ธาตุไฟ,อวัยวะ		
+ZODI-384	ธาตุกับสี ทิศ ฤดู และร่างกาย	ธาตุไฟ: รสขม	Fire: bitter (taste)	ธาตุไฟ,รส		
+ZODI-385	ธาตุกับสี ทิศ ฤดู และร่างกาย	ธาตุไฟ: ความดีใจ	Fire: joy (emotion)	ธาตุไฟ,อารมณ์		
+ZODI-386	ธาตุกับสี ทิศ ฤดู และร่างกาย	ธาตุดิน: สีเหลือง	Earth: yellow (colour)	ธาตุดิน,สี		
+ZODI-387	ธาตุกับสี ทิศ ฤดู และร่างกาย	ธาตุดิน: ศูนย์กลาง	Earth: the centre (direction)	ธาตุดิน,ทิศ		
+ZODI-388	ธาตุกับสี ทิศ ฤดู และร่างกาย	ธาตุดิน: ปลายฤดูร้อน	Earth: late summer (season)	ธาตุดิน,ฤดู		
+ZODI-389	ธาตุกับสี ทิศ ฤดู และร่างกาย	ธาตุดิน: ม้ามและกระเพาะ	Earth: spleen and stomach (organ)	ธาตุดิน,อวัยวะ		
+ZODI-390	ธาตุกับสี ทิศ ฤดู และร่างกาย	ธาตุดิน: รสหวาน	Earth: sweet (taste)	ธาตุดิน,รส		
+ZODI-391	ธาตุกับสี ทิศ ฤดู และร่างกาย	ธาตุดิน: ความครุ่นคิด	Earth: worry (emotion)	ธาตุดิน,อารมณ์		
+ZODI-392	ธาตุกับสี ทิศ ฤดู และร่างกาย	ธาตุทอง: สีขาว	Metal: white (colour)	ธาตุทอง,สี		
+ZODI-393	ธาตุกับสี ทิศ ฤดู และร่างกาย	ธาตุทอง: ทิศตะวันตก	Metal: west (direction)	ธาตุทอง,ทิศ		
+ZODI-394	ธาตุกับสี ทิศ ฤดู และร่างกาย	ธาตุทอง: ฤดูใบไม้ร่วง	Metal: autumn (season)	ธาตุทอง,ฤดู		
+ZODI-395	ธาตุกับสี ทิศ ฤดู และร่างกาย	ธาตุทอง: ปอด	Metal: lungs (organ)	ธาตุทอง,อวัยวะ		
+ZODI-396	ธาตุกับสี ทิศ ฤดู และร่างกาย	ธาตุทอง: รสเผ็ด	Metal: pungent (taste)	ธาตุทอง,รส		
+ZODI-397	ธาตุกับสี ทิศ ฤดู และร่างกาย	ธาตุทอง: ความเศร้า	Metal: grief (emotion)	ธาตุทอง,อารมณ์		
+ZODI-398	ธาตุกับสี ทิศ ฤดู และร่างกาย	ธาตุน้ำ: สีดำและน้ำเงิน	Water: black and blue (colour)	ธาตุน้ำ,สี		
+ZODI-399	ธาตุกับสี ทิศ ฤดู และร่างกาย	ธาตุน้ำ: ทิศเหนือ	Water: north (direction)	ธาตุน้ำ,ทิศ		
+ZODI-400	ธาตุกับสี ทิศ ฤดู และร่างกาย	ธาตุน้ำ: ฤดูหนาว	Water: winter (season)	ธาตุน้ำ,ฤดู		
+ZODI-401	ธาตุกับสี ทิศ ฤดู และร่างกาย	ธาตุน้ำ: ไต	Water: kidneys (organ)	ธาตุน้ำ,อวัยวะ		
+ZODI-402	ธาตุกับสี ทิศ ฤดู และร่างกาย	ธาตุน้ำ: รสเค็ม	Water: salty (taste)	ธาตุน้ำ,รส		
+ZODI-403	ธาตุกับสี ทิศ ฤดู และร่างกาย	ธาตุน้ำ: ความกลัว	Water: fear (emotion)	ธาตุน้ำ,อารมณ์		
+ZODI-404	ธาตุ ทิศ และเดือนประจำนักษัตร	ปีชวดมีธาตุประจำตัวเป็นธาตุน้ำ	The Rat's fixed element is Water	ปีชวด,ธาตุน้ำ		
+ZODI-405	ธาตุ ทิศ และเดือนประจำนักษัตร	ปีฉลูมีธาตุประจำตัวเป็นธาตุดิน	The Ox's fixed element is Earth	ปีฉลู,ธาตุดิน		
+ZODI-406	ธาตุ ทิศ และเดือนประจำนักษัตร	ปีขาลมีธาตุประจำตัวเป็นธาตุไม้	The Tiger's fixed element is Wood	ปีขาล,ธาตุไม้		
+ZODI-407	ธาตุ ทิศ และเดือนประจำนักษัตร	ปีเถาะมีธาตุประจำตัวเป็นธาตุไม้	The Rabbit's fixed element is Wood	ปีเถาะ,ธาตุไม้		
+ZODI-408	ธาตุ ทิศ และเดือนประจำนักษัตร	ปีมะโรงมีธาตุประจำตัวเป็นธาตุดิน	The Dragon's fixed element is Earth	ปีมะโรง,ธาตุดิน		
+ZODI-409	ธาตุ ทิศ และเดือนประจำนักษัตร	ปีมะเส็งมีธาตุประจำตัวเป็นธาตุไฟ	The Snake's fixed element is Fire	ปีมะเส็ง,ธาตุไฟ		
+ZODI-410	ธาตุ ทิศ และเดือนประจำนักษัตร	ปีมะเมียมีธาตุประจำตัวเป็นธาตุไฟ	The Horse's fixed element is Fire	ปีมะเมีย,ธาตุไฟ		
+ZODI-411	ธาตุ ทิศ และเดือนประจำนักษัตร	ปีมะแมมีธาตุประจำตัวเป็นธาตุดิน	The Goat's fixed element is Earth	ปีมะแม,ธาตุดิน		
+ZODI-412	ธาตุ ทิศ และเดือนประจำนักษัตร	ปีวอกมีธาตุประจำตัวเป็นธาตุทอง	The Monkey's fixed element is Metal	ปีวอก,ธาตุทอง		
+ZODI-413	ธาตุ ทิศ และเดือนประจำนักษัตร	ปีระกามีธาตุประจำตัวเป็นธาตุทอง	The Rooster's fixed element is Metal	ปีระกา,ธาตุทอง		
+ZODI-414	ธาตุ ทิศ และเดือนประจำนักษัตร	ปีจอมีธาตุประจำตัวเป็นธาตุดิน	The Dog's fixed element is Earth	ปีจอ,ธาตุดิน		
+ZODI-415	ธาตุ ทิศ และเดือนประจำนักษัตร	ปีกุนมีธาตุประจำตัวเป็นธาตุน้ำ	The Pig's fixed element is Water	ปีกุน,ธาตุน้ำ		
+ZODI-416	ธาตุ ทิศ และเดือนประจำนักษัตร	ปีชวดประจำทิศเหนือ	The Rat sits in the North	ปีชวด,ทิศ		
+ZODI-417	ธาตุ ทิศ และเดือนประจำนักษัตร	ปีฉลูประจำทิศตะวันออกเฉียงเหนือ (ค่อนเหนือ)	The Ox sits in the North-northeast	ปีฉลู,ทิศ		
+ZODI-418	ธาตุ ทิศ และเดือนประจำนักษัตร	ปีขาลประจำทิศตะวันออกเฉียงเหนือ (ค่อนตะวันออก)	The Tiger sits in the East-northeast	ปีขาล,ทิศ		
+ZODI-419	ธาตุ ทิศ และเดือนประจำนักษัตร	ปีเถาะประจำทิศตะวันออก	The Rabbit sits in the East	ปีเถาะ,ทิศ		
+ZODI-420	ธาตุ ทิศ และเดือนประจำนักษัตร	ปีมะโรงประจำทิศตะวันออกเฉียงใต้ (ค่อนตะวันออก)	The Dragon sits in the East-southeast	ปีมะโรง,ทิศ		
+ZODI-421	ธาตุ ทิศ และเดือนประจำนักษัตร	ปีมะเส็งประจำทิศตะวันออกเฉียงใต้ (ค่อนใต้)	The Snake sits in the South-southeast	ปีมะเส็ง,ทิศ		
+ZODI-422	ธาตุ ทิศ และเดือนประจำนักษัตร	ปีมะเมียประจำทิศใต้	The Horse sits in the South	ปีมะเมีย,ทิศ		
+ZODI-423	ธาตุ ทิศ และเดือนประจำนักษัตร	ปีมะแมประจำทิศตะวันตกเฉียงใต้ (ค่อนใต้)	The Goat sits in the South-southwest	ปีมะแม,ทิศ		
+ZODI-424	ธาตุ ทิศ และเดือนประจำนักษัตร	ปีวอกประจำทิศตะวันตกเฉียงใต้ (ค่อนตะวันตก)	The Monkey sits in the West-southwest	ปีวอก,ทิศ		
+ZODI-425	ธาตุ ทิศ และเดือนประจำนักษัตร	ปีระกาประจำทิศตะวันตก	The Rooster sits in the West	ปีระกา,ทิศ		
+ZODI-426	ธาตุ ทิศ และเดือนประจำนักษัตร	ปีจอประจำทิศตะวันตกเฉียงเหนือ (ค่อนตะวันตก)	The Dog sits in the West-northwest	ปีจอ,ทิศ		
+ZODI-427	ธาตุ ทิศ และเดือนประจำนักษัตร	ปีกุนประจำทิศตะวันตกเฉียงเหนือ (ค่อนเหนือ)	The Pig sits in the North-northwest	ปีกุน,ทิศ		
+ZODI-428	ธาตุ ทิศ และเดือนประจำนักษัตร	เดือนจีนของปีชวด (ราว 7 ธ.ค.–5 ม.ค.)	Month of the Rat	ปีชวด,เดือนจีน		
+ZODI-429	ธาตุ ทิศ และเดือนประจำนักษัตร	เดือนจีนของปีฉลู (ราว 6 ม.ค.–3 ก.พ.)	Month of the Ox	ปีฉลู,เดือนจีน		
+ZODI-430	ธาตุ ทิศ และเดือนประจำนักษัตร	เดือนจีนของปีขาล (ราว 4 ก.พ.–5 มี.ค.)	Month of the Tiger	ปีขาล,เดือนจีน		
+ZODI-431	ธาตุ ทิศ และเดือนประจำนักษัตร	เดือนจีนของปีเถาะ (ราว 6 มี.ค.–4 เม.ย.)	Month of the Rabbit	ปีเถาะ,เดือนจีน		
+ZODI-432	ธาตุ ทิศ และเดือนประจำนักษัตร	เดือนจีนของปีมะโรง (ราว 5 เม.ย.–5 พ.ค.)	Month of the Dragon	ปีมะโรง,เดือนจีน		
+ZODI-433	ธาตุ ทิศ และเดือนประจำนักษัตร	เดือนจีนของปีมะเส็ง (ราว 6 พ.ค.–5 มิ.ย.)	Month of the Snake	ปีมะเส็ง,เดือนจีน		
+ZODI-434	ธาตุ ทิศ และเดือนประจำนักษัตร	เดือนจีนของปีมะเมีย (ราว 6 มิ.ย.–6 ก.ค.)	Month of the Horse	ปีมะเมีย,เดือนจีน		
+ZODI-435	ธาตุ ทิศ และเดือนประจำนักษัตร	เดือนจีนของปีมะแม (ราว 7 ก.ค.–7 ส.ค.)	Month of the Goat	ปีมะแม,เดือนจีน		
+ZODI-436	ธาตุ ทิศ และเดือนประจำนักษัตร	เดือนจีนของปีวอก (ราว 8 ส.ค.–7 ก.ย.)	Month of the Monkey	ปีวอก,เดือนจีน		
+ZODI-437	ธาตุ ทิศ และเดือนประจำนักษัตร	เดือนจีนของปีระกา (ราว 8 ก.ย.–7 ต.ค.)	Month of the Rooster	ปีระกา,เดือนจีน		
+ZODI-438	ธาตุ ทิศ และเดือนประจำนักษัตร	เดือนจีนของปีจอ (ราว 8 ต.ค.–6 พ.ย.)	Month of the Dog	ปีจอ,เดือนจีน		
+ZODI-439	ธาตุ ทิศ และเดือนประจำนักษัตร	เดือนจีนของปีกุน (ราว 7 พ.ย.–6 ธ.ค.)	Month of the Pig	ปีกุน,เดือนจีน		
+ZODI-440	ปีที่ถูกโฉลกกัน	สามประสานธาตุน้ำ: ปีวอก ปีชวด ปีมะโรง	Three-way harmony (Water): Monkey, Rat, Dragon	สามประสาน,ถูกโฉลก		
+ZODI-441	ปีที่ถูกโฉลกกัน	ปีชวดกับปีวอก ถูกโฉลก (สามประสาน)	Rat and Monkey: three-way harmony	ถูกโฉลก,สามประสาน		
+ZODI-442	ปีที่ถูกโฉลกกัน	ปีมะโรงกับปีวอก ถูกโฉลก (สามประสาน)	Dragon and Monkey: three-way harmony	ถูกโฉลก,สามประสาน		
+ZODI-443	ปีที่ถูกโฉลกกัน	ปีชวดกับปีมะโรง ถูกโฉลก (สามประสาน)	Rat and Dragon: three-way harmony	ถูกโฉลก,สามประสาน		
+ZODI-444	ปีที่ถูกโฉลกกัน	สามประสานธาตุไฟ: ปีขาล ปีมะเมีย ปีจอ	Three-way harmony (Fire): Tiger, Horse, Dog	สามประสาน,ถูกโฉลก		
+ZODI-445	ปีที่ถูกโฉลกกัน	ปีขาลกับปีมะเมีย ถูกโฉลก (สามประสาน)	Tiger and Horse: three-way harmony	ถูกโฉลก,สามประสาน		
+ZODI-446	ปีที่ถูกโฉลกกัน	ปีขาลกับปีจอ ถูกโฉลก (สามประสาน)	Tiger and Dog: three-way harmony	ถูกโฉลก,สามประสาน		
+ZODI-447	ปีที่ถูกโฉลกกัน	ปีมะเมียกับปีจอ ถูกโฉลก (สามประสาน)	Horse and Dog: three-way harmony	ถูกโฉลก,สามประสาน		
+ZODI-448	ปีที่ถูกโฉลกกัน	สามประสานธาตุทอง: ปีมะเส็ง ปีระกา ปีฉลู	Three-way harmony (Metal): Snake, Rooster, Ox	สามประสาน,ถูกโฉลก		
+ZODI-449	ปีที่ถูกโฉลกกัน	ปีมะเส็งกับปีระกา ถูกโฉลก (สามประสาน)	Snake and Rooster: three-way harmony	ถูกโฉลก,สามประสาน		
+ZODI-450	ปีที่ถูกโฉลกกัน	ปีฉลูกับปีมะเส็ง ถูกโฉลก (สามประสาน)	Ox and Snake: three-way harmony	ถูกโฉลก,สามประสาน		
+ZODI-451	ปีที่ถูกโฉลกกัน	ปีฉลูกับปีระกา ถูกโฉลก (สามประสาน)	Ox and Rooster: three-way harmony	ถูกโฉลก,สามประสาน		
+ZODI-452	ปีที่ถูกโฉลกกัน	สามประสานธาตุไม้: ปีกุน ปีเถาะ ปีมะแม	Three-way harmony (Wood): Pig, Rabbit, Goat	สามประสาน,ถูกโฉลก		
+ZODI-453	ปีที่ถูกโฉลกกัน	ปีเถาะกับปีกุน ถูกโฉลก (สามประสาน)	Rabbit and Pig: three-way harmony	ถูกโฉลก,สามประสาน		
+ZODI-454	ปีที่ถูกโฉลกกัน	ปีมะแมกับปีกุน ถูกโฉลก (สามประสาน)	Goat and Pig: three-way harmony	ถูกโฉลก,สามประสาน		
+ZODI-455	ปีที่ถูกโฉลกกัน	ปีเถาะกับปีมะแม ถูกโฉลก (สามประสาน)	Rabbit and Goat: three-way harmony	ถูกโฉลก,สามประสาน		
+ZODI-456	ปีที่ถูกโฉลกกัน	ปีชวดกับปีฉลู ถูกโฉลก (หกประสาน)	Rat and Ox: six harmony	ถูกโฉลก,หกประสาน		
+ZODI-457	ปีที่ถูกโฉลกกัน	ปีขาลกับปีกุน ถูกโฉลก (หกประสาน)	Tiger and Pig: six harmony	ถูกโฉลก,หกประสาน		
+ZODI-458	ปีที่ถูกโฉลกกัน	ปีเถาะกับปีจอ ถูกโฉลก (หกประสาน)	Rabbit and Dog: six harmony	ถูกโฉลก,หกประสาน		
+ZODI-459	ปีที่ถูกโฉลกกัน	ปีมะโรงกับปีระกา ถูกโฉลก (หกประสาน)	Dragon and Rooster: six harmony	ถูกโฉลก,หกประสาน		
+ZODI-460	ปีที่ถูกโฉลกกัน	ปีมะเส็งกับปีวอก ถูกโฉลก (หกประสาน)	Snake and Monkey: six harmony	ถูกโฉลก,หกประสาน		
+ZODI-461	ปีที่ถูกโฉลกกัน	ปีมะเมียกับปีมะแม ถูกโฉลก (หกประสาน)	Horse and Goat: six harmony	ถูกโฉลก,หกประสาน		
+ZODI-462	ปีที่ไม่ถูกกัน	ปีชวดกับปีมะเมีย ชงกัน (ปะทะตรงข้าม)	Rat and Horse: direct clash	ชง,ปะทะ		
+ZODI-463	ปีที่ไม่ถูกกัน	ปีฉลูกับปีมะแม ชงกัน (ปะทะตรงข้าม)	Ox and Goat: direct clash	ชง,ปะทะ		
+ZODI-464	ปีที่ไม่ถูกกัน	ปีขาลกับปีวอก ชงกัน (ปะทะตรงข้าม)	Tiger and Monkey: direct clash	ชง,ปะทะ		
+ZODI-465	ปีที่ไม่ถูกกัน	ปีเถาะกับปีระกา ชงกัน (ปะทะตรงข้าม)	Rabbit and Rooster: direct clash	ชง,ปะทะ		
+ZODI-466	ปีที่ไม่ถูกกัน	ปีมะโรงกับปีจอ ชงกัน (ปะทะตรงข้าม)	Dragon and Dog: direct clash	ชง,ปะทะ		
+ZODI-467	ปีที่ไม่ถูกกัน	ปีมะเส็งกับปีกุน ชงกัน (ปะทะตรงข้าม)	Snake and Pig: direct clash	ชง,ปะทะ		
+ZODI-468	ปีที่ไม่ถูกกัน	ปีชวดกับปีมะแม ไม่ถูกกัน (ไห่ · ทำร้ายกัน)	Rat and Goat: harm	ไห่,ระวัง		
+ZODI-469	ปีที่ไม่ถูกกัน	ปีฉลูกับปีมะเมีย ไม่ถูกกัน (ไห่ · ทำร้ายกัน)	Ox and Horse: harm	ไห่,ระวัง		
+ZODI-470	ปีที่ไม่ถูกกัน	ปีขาลกับปีมะเส็ง ไม่ถูกกัน (ไห่ · ทำร้ายกัน)	Tiger and Snake: harm	ไห่,ระวัง		
+ZODI-471	ปีที่ไม่ถูกกัน	ปีเถาะกับปีมะโรง ไม่ถูกกัน (ไห่ · ทำร้ายกัน)	Rabbit and Dragon: harm	ไห่,ระวัง		
+ZODI-472	ปีที่ไม่ถูกกัน	ปีวอกกับปีกุน ไม่ถูกกัน (ไห่ · ทำร้ายกัน)	Monkey and Pig: harm	ไห่,ระวัง		
+ZODI-473	ปีที่ไม่ถูกกัน	ปีระกากับปีจอ ไม่ถูกกัน (ไห่ · ทำร้ายกัน)	Rooster and Dog: harm	ไห่,ระวัง		
+ZODI-474	ปีที่ไม่ถูกกัน	ปีชวดกับปีระกา ไม่ถูกกัน (ผั่ว · แตกหัก)	Rat and Rooster: break	ผั่ว,ระวัง		
+ZODI-475	ปีที่ไม่ถูกกัน	ปีเถาะกับปีมะเมีย ไม่ถูกกัน (ผั่ว · แตกหัก)	Rabbit and Horse: break	ผั่ว,ระวัง		
+ZODI-476	ปีที่ไม่ถูกกัน	ปีมะเส็งกับปีวอก ไม่ถูกกัน (ผั่ว · แตกหัก)	Snake and Monkey: break	ผั่ว,ระวัง		
+ZODI-477	ปีที่ไม่ถูกกัน	ปีขาลกับปีกุน ไม่ถูกกัน (ผั่ว · แตกหัก)	Tiger and Pig: break	ผั่ว,ระวัง		
+ZODI-478	ปีที่ไม่ถูกกัน	ปีฉลูกับปีมะโรง ไม่ถูกกัน (ผั่ว · แตกหัก)	Ox and Dragon: break	ผั่ว,ระวัง		
+ZODI-479	ปีที่ไม่ถูกกัน	ปีมะแมกับปีจอ ไม่ถูกกัน (ผั่ว · แตกหัก)	Goat and Dog: break	ผั่ว,ระวัง		
+ZODI-480	ปีที่ไม่ถูกกัน	ปีขาลกับปีมะเส็ง ไม่ถูกกัน (เฮ้ง · ลงโทษกัน)	Tiger and Snake: punishment	เฮ้ง,ระวัง		
+ZODI-481	ปีที่ไม่ถูกกัน	ปีมะเส็งกับปีวอก ไม่ถูกกัน (เฮ้ง · ลงโทษกัน)	Snake and Monkey: punishment	เฮ้ง,ระวัง		
+ZODI-482	ปีที่ไม่ถูกกัน	ปีขาลกับปีวอก ไม่ถูกกัน (เฮ้ง · ลงโทษกัน)	Tiger and Monkey: punishment	เฮ้ง,ระวัง		
+ZODI-483	ปีที่ไม่ถูกกัน	ปีฉลูกับปีจอ ไม่ถูกกัน (เฮ้ง · ลงโทษกัน)	Ox and Dog: punishment	เฮ้ง,ระวัง		
+ZODI-484	ปีที่ไม่ถูกกัน	ปีมะแมกับปีจอ ไม่ถูกกัน (เฮ้ง · ลงโทษกัน)	Goat and Dog: punishment	เฮ้ง,ระวัง		
+ZODI-485	ปีที่ไม่ถูกกัน	ปีฉลูกับปีมะแม ไม่ถูกกัน (เฮ้ง · ลงโทษกัน)	Ox and Goat: punishment	เฮ้ง,ระวัง		
+ZODI-486	ปีที่ไม่ถูกกัน	ปีชวดกับปีเถาะ ไม่ถูกกัน (เฮ้ง · ลงโทษกัน)	Rat and Rabbit: punishment	เฮ้ง,ระวัง		
+ZODI-487	ปีชงและการแก้ชง (ความเชื่อ)	ชง 100%: ปีที่อยู่ตรงข้ามกับปีนั้น	100% clash: the sign opposite the year	ชง 100%,ปะทะตรง		
+ZODI-488	ปีชงและการแก้ชง (ความเชื่อ)	ชง 75%: ปีเดียวกับปีนั้น (ชงตัวเอง)	75% clash: the year's own sign	ชง 75%,ชงตัวเอง		
+ZODI-489	ปีชงและการแก้ชง (ความเชื่อ)	ชง 50%: ปีที่ทำร้ายกัน (ไห่) กับปีนั้น	50% clash: the sign in harm with the year	ชง 50%,ไห่		
+ZODI-490	ปีชงและการแก้ชง (ความเชื่อ)	ชง 25%: ปีที่แตกหัก (ผั่ว) กับปีนั้น	25% clash: the sign in break with the year	ชง 25%,ผั่ว		
+ZODI-491	ปีชงและการแก้ชง (ความเชื่อ)	ไหว้ไท่ส่วยเอี๊ยต้นปี	Pay respects to Tai Sui early in the year	ไท่ส่วยเอี๊ย,แก้ชง		
+ZODI-492	ปีชงและการแก้ชง (ความเชื่อ)	ทำบุญถวายสังฆทาน	Offer alms to monks	ทำบุญ,แก้ชง		
+ZODI-493	ปีชงและการแก้ชง (ความเชื่อ)	บริจาคเลือดเป็นเคล็ดเสียเลือดเล็กน้อย	Give blood as a small symbolic loss	บริจาคเลือด,เคล็ด		
+ZODI-494	ปีชงและการแก้ชง (ความเชื่อ)	ทำฟันหรือขูดหินปูนเป็นเคล็ด	See the dentist as a small symbolic loss	ทำฟัน,เคล็ด		
+ZODI-495	ปีชงและการแก้ชง (ความเชื่อ)	ปล่อยปลาหรือปล่อยสัตว์	Release fish or animals	ปล่อยสัตว์,บุญ		
+ZODI-496	ปีชงและการแก้ชง (ความเชื่อ)	ระวังการเดินทางและขับขี่	Take care on the road	เดินทาง,ระวัง		
+ZODI-497	ปีชงและการแก้ชง (ความเชื่อ)	เลี่ยงการลงทุนก้อนใหญ่ในปีชง	Avoid big investments in a clash year	ลงทุน,ระวัง		
+ZODI-498	ปีชงและการแก้ชง (ความเชื่อ)	ตรวจสุขภาพประจำปี	Get an annual health check	สุขภาพ,ป้องกัน		
+ZODI-499	ปีชงและการแก้ชง (ความเชื่อ)	พกเครื่องรางแก้ชงจากศาลเจ้า	Carry a clash-year charm from a shrine	เครื่องราง,แก้ชง		
+ZODI-500	ปีชงและการแก้ชง (ความเชื่อ)	ทำความดีต่อเนื่องทั้งปี	Keep doing good all year	ทำดี,ต่อเนื่อง		

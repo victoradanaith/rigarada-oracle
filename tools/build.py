@@ -1,4 +1,4 @@
-"""Build index.html from data/ (18 decks) and tools/template.html.
+"""Build index.html from data/ (23 decks) and tools/template.html.
 
 Usage: python3 tools/build.py   (run from the repo root)
 """
@@ -32,10 +32,17 @@ DECKS = [
     ("Visa & Abroad", "VISA", "สัญชาติ วีซ่า และต่างประเทศ", "Visas, Status & Life Abroad", "visa-abroad-draft01.txt", False),
     ("Housing", "HOME", "ที่อยู่อาศัย", "Home & Housing", "housing-draft01.txt", False),
     ("Study", "STDY", "การเรียน", "Study & Education", "study-draft01.txt", False),
+    ("Guidance", "GUID", "การแนะแนวชีวิต", "Life Guidance", "guidance-draft01.txt", False),
+    ("Timing", "TIME", "ไพ่บอกเวลา", "Timing", "timing-draft01.txt", False),
+    ("Numbers", "NUMB", "ตัวเลข 0–999", "Numbers 0–999", "numbers-draft01.txt", False),
+    ("Zodiac", "ZODI", "ปีนักษัตรและธาตุจีน", "Chinese Zodiac & Elements", "zodiac-draft01.txt", False),
+    ("Daily Life", "DALY", "ปัญหาอุปสรรคในชีวิตประจำวัน", "Everyday Ups & Downs", "daily-draft01.txt", False),
 ]
 
 # decks that get a category dropdown (every card, or one category at a time)
-CAT_PICK = {"USTH", "SACR", "KARM", "THSC", "REME", "LOVE", "JOBS", "VISA", "HOME", "STDY"}
+CAT_PICK = {"USTH", "SACR", "KARM", "THSC", "REME", "LOVE", "JOBS", "VISA", "HOME", "STDY", "LOOK", "MIND", "GUID", "TIME", "NUMB", "ZODI", "DALY"}
+# decks whose one-line description (the meaning field) is printed on the card face
+SHOW_DESC = {"SACR"}
 
 
 def load_txt(path, prefix):
@@ -70,6 +77,8 @@ for label, prefix, th, en, src, show_cat in DECKS:
     deck = {"label": label, "th": th, "en": en, "showCat": show_cat, "cards": cards}
     if prefix in CAT_PICK:
         deck["catPick"] = True
+    if prefix in SHOW_DESC:
+        deck["showDesc"] = True
     decks.append(deck)
     print(f"{label}: {len(cards)} cards, {len({c['category'] for c in cards})} categories")
 

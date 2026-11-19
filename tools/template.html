@@ -48,7 +48,8 @@ body{background:var(--bg);color:var(--ink);font:16px/1.4 system-ui,-apple-system
 /* six reading sizes: the selector gets its own full-width row under the brand */
 .top{flex-wrap:wrap}
 .top #countSeg{flex:1 1 100%}
-#countSeg label{flex:1;min-width:0;padding:0 2px;font-size:.85rem;white-space:nowrap}
+#countSeg label{flex:1;min-width:0;padding:0 1px;font-size:.8rem;white-space:nowrap}
+#countSeg input:disabled+label{opacity:.35;cursor:not-allowed}
 
 /* deck switcher */
 .decks{display:flex;flex-wrap:wrap;gap:6px;border:0;padding:0;margin:10px 0 0}
@@ -126,6 +127,19 @@ body{background:var(--bg);color:var(--ink);font:16px/1.4 system-ui,-apple-system
   .app:has(.tray.celtic) .spreadhelp{font-size:.7rem}
 }
 @media(max-height:450px){.app:has(.tray.celtic){padding-top:4px}.app:has(.tray.celtic) #countSeg label{min-height:32px}.app:has(.tray.celtic) .status h2{font-size:1rem;line-height:1.2}.app:has(.tray.celtic) .status p{font-size:.75rem;margin:0}.app:has(.tray.celtic) .foot{padding:4px 0}.app:has(.tray.celtic) .foot .btn{min-height:40px}.tray.celtic .slotbtn{min-width:44px;margin-left:min(0px,calc((var(--spread-w) - 44px)/2))}}
+/* 2 cards side by side; 30 cards three to a row (small grid while choosing, scrolling grid once revealed) */
+.tray.big.n2 .slot{width:min(40vw,150px)}
+.tray.n30:not(.big){display:grid;justify-content:center;gap:6px 8px;grid-template-columns:repeat(6,30px)}
+.tray.n30:not(.big) .slot{width:100%;min-width:0}
+.tray.n30:not(.big) .slotname,.tray.n30:not(.big) .cardname{display:none}
+.tray.n30:not(.big) .empty{font-size:.75rem}
+.tray.n30:not(.big) .x{width:20px;height:20px;top:-6px;right:-6px;font-size:.65rem}
+.tray.big.n30{display:grid;justify-content:center;grid-template-columns:repeat(3,min(28vw,112px));gap:14px 12px}
+.tray.big.n30 .slot{width:100%}
+.tray.big.n30 .cardname{display:block;font-size:.7rem;margin-left:-5px;margin-right:-5px}
+/* one-line description on the face (decks with showDesc); hidden when the card is too small to read it */
+.face em{font-style:normal;font-size:clamp(6.5px,8.5cqw,12px);line-height:1.3;color:var(--muted);text-wrap:pretty;display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:4;overflow:hidden}
+@container (max-width:64px){.face em{display:none}}
 .spreadhelp{font-size:.85rem;color:var(--muted);margin:8px 0 14px}
 .slotbtn{all:unset;box-sizing:border-box;display:flex;flex-direction:column;align-items:center;gap:4px;width:100%;cursor:pointer;border-radius:10px;padding:2px}
 .slotbtn:focus-visible{outline:3px solid var(--focus)}
@@ -230,11 +244,13 @@ dialog .row .btn{flex:1}
     <fieldset class="seg" id="countSeg">
       <legend>จำนวนไพ่</legend>
       <input type="radio" name="count" id="c1" value="1"><label for="c1">1 ใบ</label>
+      <input type="radio" name="count" id="c2" value="2"><label for="c2">2 ใบ</label>
       <input type="radio" name="count" id="c3" value="3"><label for="c3">3 ใบ</label>
       <input type="radio" name="count" id="c4" value="4"><label for="c4">4 ใบ</label>
       <input type="radio" name="count" id="c6" value="6"><label for="c6">6 ใบ</label>
       <input type="radio" name="count" id="c9" value="9"><label for="c9">9 ใบ</label>
       <input type="radio" name="count" id="c10" value="10"><label for="c10">10 ใบ</label>
+      <input type="radio" name="count" id="c30" value="30"><label for="c30">30 ใบ</label>
     </fieldset>
   </div>
 
@@ -266,6 +282,7 @@ dialog .row .btn{flex:1}
         <input type="radio" name="motion" id="r-on" value="on"><label for="r-on">ลด</label>
         <input type="radio" name="motion" id="r-off" value="off"><label for="r-off">เต็ม</label>
       </fieldset>
+      <p class="note"><a href="tables.html">ปฏิทินปีชง 2000–3000 และตารางอายุ →</a></p>
       <p class="note">Draft 01 · ข้อความเป็นแนวทางสะท้อนคิด ไม่ใช่การทำนายผล และไม่ใช่คำแนะนำทางการแพทย์ กฎหมาย หรือการเข้าเมือง</p>
     </div>
   </details>
@@ -312,9 +329,9 @@ $('#gateForm').addEventListener('submit',e=>{
 function start(){
 let deckIdx=0,catName='',DECK=DECKS[0].cards,N=DECK.length;
 const COLS=10, ANIM=60;                       // every card goes on the panel; only the first 60 are animated during a shuffle
-const COUNTS=[1,3,4,6,9,10];
+const COUNTS=[1,2,3,4,6,9,10,30];
 const POS={1:['ไพ่ของคุณ'],3:['อดีต','ปัจจุบัน','อนาคต']};
-for(const n of [4,6,9,10])POS[n]=Array.from({length:n},(_,i)=>`ใบที่ ${i+1}`);
+for(const n of [2,4,6,9,10,30])POS[n]=Array.from({length:n},(_,i)=>`ใบที่ ${i+1}`);
 const GRID={4:[4,1],6:[3,2],9:[3,3]};        // revealed layout for 4/6/9 cards: [columns, rows]
 const CELTIC=['ปัจจุบัน','อุปสรรค','รากฐาน','อดีต','เป้าหมาย','อนาคตอันใกล้','ตัวตน','สิ่งรอบตัว','ความหวังและความกลัว','ผลลัพธ์'];
 const CONTEXT=['สถานการณ์ที่อยู่ตรงกลางของการอ่าน','สิ่งที่ขวางหรือท้าทายสถานการณ์','รากหรืออิทธิพลที่อยู่เบื้องลึก','พื้นหลังและอดีตที่เพิ่งผ่านมา','เป้าหมายหรือความเป็นไปได้ที่รู้ตัว','สิ่งที่กำลังจะเกิดต่อไป','มุมมองและวิธีรับมือของคุณ','ผู้คนและสภาพแวดล้อมรอบตัว','ความหวัง ความกลัว หรือความคาดหวัง','ทิศทางที่การวางไพ่ชี้ไป'];
@@ -361,9 +378,14 @@ function fillCats(){
   counts.forEach((n,c)=>catSel.append(new Option(`${c} (${n} ใบ)`,c)));
   catSel.value=catName;
 }
+function syncCounts(){                       // a category smaller than the spread can't fill it
+  document.querySelectorAll('input[name="count"]').forEach(el=>{el.disabled=+el.value>N});
+  if(S.count>N){const ok=COUNTS.filter(n=>n<=N);setCount(ok[ok.length-1])}
+  const on=document.querySelector(`input[name="count"][value="${S.count}"]`);if(on)on.checked=true;
+}
 function setCat(c){
   if(c===catName)return;
-  catName=c;const all=DECKS[deckIdx].cards;DECK=c?all.filter(x=>x.category===c):all;N=DECK.length;
+  catName=c;const all=DECKS[deckIdx].cards;DECK=c?all.filter(x=>x.category===c):all;N=DECK.length;syncCounts();
   if($('#dlgInspect').open)$('#dlgInspect').close();
   newReading(false);
   say(`${c?'หมวด '+c:'ทุกหมวด'} ${N} ใบ กดสับไพ่ก่อนเลือก`);
@@ -371,7 +393,7 @@ function setCat(c){
 catSel.addEventListener('change',()=>setCat(catSel.value));
 function setDeck(i){
   if(i===deckIdx)return;
-  deckIdx=i;catName='';DECK=DECKS[i].cards;N=DECK.length;fillCats();
+  deckIdx=i;catName='';DECK=DECKS[i].cards;N=DECK.length;fillCats();syncCounts();
   if($('#dlgInspect').open)$('#dlgInspect').close();
   newReading(false);
   say(`สำรับ ${DECKS[i].th} กดสับไพ่ก่อนเลือก`);
@@ -521,6 +543,7 @@ function renderFace(li,id){
   face.append(th);
   if(card.name_en){const en=document.createElement('i');en.textContent=card.name_en;face.append(en)}
   if(DECKS[deckIdx].showCat){const c=document.createElement('small');setWords(c,card.category);face.append(c)}
+  if(DECKS[deckIdx].showDesc&&card.meaning){const d=document.createElement('em');d.textContent=card.meaning;face.append(d)}
   const label=document.createElement('span');label.className='cardname';setWords(label,card.name_th);
   li.querySelector('.slotbtn').append(label);
   nameRO.observe(li);requestAnimationFrame(()=>fitNames(li));

@@ -1,0 +1,1010 @@
+# 0–99
+0|Zero|เลข1หลัก,ผลรวม 0||
+1|One|เลข1หลัก,ผลรวม 1||
+2|Two|เลข1หลัก,ผลรวม 2||
+3|Three|เลข1หลัก,ผลรวม 3||
+4|Four|เลข1หลัก,ผลรวม 4||
+5|Five|เลข1หลัก,ผลรวม 5||
+6|Six|เลข1หลัก,ผลรวม 6||
+7|Seven|เลข1หลัก,ผลรวม 7||
+8|Eight|เลข1หลัก,ผลรวม 8||
+9|Nine|เลข1หลัก,ผลรวม 9||
+10|Ten|เลข2หลัก,ผลรวม 1||
+11|Eleven|เลข2หลัก,ผลรวม 2,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน||
+12|Twelve|เลข2หลัก,ผลรวม 3,เลขเรียง||
+13|Thirteen|เลข2หลัก,ผลรวม 4||
+14|Fourteen|เลข2หลัก,ผลรวม 5||
+15|Fifteen|เลข2หลัก,ผลรวม 6||
+16|Sixteen|เลข2หลัก,ผลรวม 7||
+17|Seventeen|เลข2หลัก,ผลรวม 8||
+18|Eighteen|เลข2หลัก,ผลรวม 9||
+19|Nineteen|เลข2หลัก,ผลรวม 10||
+20|Twenty|เลข2หลัก,ผลรวม 2||
+21|Twenty-one|เลข2หลัก,ผลรวม 3||
+22|Twenty-two|เลข2หลัก,ผลรวม 4,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน||
+23|Twenty-three|เลข2หลัก,ผลรวม 5,เลขเรียง||
+24|Twenty-four|เลข2หลัก,ผลรวม 6||
+25|Twenty-five|เลข2หลัก,ผลรวม 7||
+26|Twenty-six|เลข2หลัก,ผลรวม 8||
+27|Twenty-seven|เลข2หลัก,ผลรวม 9||
+28|Twenty-eight|เลข2หลัก,ผลรวม 10||
+29|Twenty-nine|เลข2หลัก,ผลรวม 11||
+30|Thirty|เลข2หลัก,ผลรวม 3||
+31|Thirty-one|เลข2หลัก,ผลรวม 4||
+32|Thirty-two|เลข2หลัก,ผลรวม 5||
+33|Thirty-three|เลข2หลัก,ผลรวม 6,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน||
+34|Thirty-four|เลข2หลัก,ผลรวม 7,เลขเรียง||
+35|Thirty-five|เลข2หลัก,ผลรวม 8||
+36|Thirty-six|เลข2หลัก,ผลรวม 9||
+37|Thirty-seven|เลข2หลัก,ผลรวม 10||
+38|Thirty-eight|เลข2หลัก,ผลรวม 11||
+39|Thirty-nine|เลข2หลัก,ผลรวม 12||
+40|Forty|เลข2หลัก,ผลรวม 4||
+41|Forty-one|เลข2หลัก,ผลรวม 5||
+42|Forty-two|เลข2หลัก,ผลรวม 6||
+43|Forty-three|เลข2หลัก,ผลรวม 7||
+44|Forty-four|เลข2หลัก,ผลรวม 8,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน||
+45|Forty-five|เลข2หลัก,ผลรวม 9,เลขเรียง||
+46|Forty-six|เลข2หลัก,ผลรวม 10||
+47|Forty-seven|เลข2หลัก,ผลรวม 11||
+48|Forty-eight|เลข2หลัก,ผลรวม 12||
+49|Forty-nine|เลข2หลัก,ผลรวม 13||
+50|Fifty|เลข2หลัก,ผลรวม 5||
+51|Fifty-one|เลข2หลัก,ผลรวม 6||
+52|Fifty-two|เลข2หลัก,ผลรวม 7||
+53|Fifty-three|เลข2หลัก,ผลรวม 8||
+54|Fifty-four|เลข2หลัก,ผลรวม 9||
+55|Fifty-five|เลข2หลัก,ผลรวม 10,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน||
+56|Fifty-six|เลข2หลัก,ผลรวม 11,เลขเรียง||
+57|Fifty-seven|เลข2หลัก,ผลรวม 12||
+58|Fifty-eight|เลข2หลัก,ผลรวม 13||
+59|Fifty-nine|เลข2หลัก,ผลรวม 14||
+60|Sixty|เลข2หลัก,ผลรวม 6||
+61|Sixty-one|เลข2หลัก,ผลรวม 7||
+62|Sixty-two|เลข2หลัก,ผลรวม 8||
+63|Sixty-three|เลข2หลัก,ผลรวม 9||
+64|Sixty-four|เลข2หลัก,ผลรวม 10||
+65|Sixty-five|เลข2หลัก,ผลรวม 11||
+66|Sixty-six|เลข2หลัก,ผลรวม 12,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน||
+67|Sixty-seven|เลข2หลัก,ผลรวม 13,เลขเรียง||
+68|Sixty-eight|เลข2หลัก,ผลรวม 14||
+69|Sixty-nine|เลข2หลัก,ผลรวม 15||
+70|Seventy|เลข2หลัก,ผลรวม 7||
+71|Seventy-one|เลข2หลัก,ผลรวม 8||
+72|Seventy-two|เลข2หลัก,ผลรวม 9||
+73|Seventy-three|เลข2หลัก,ผลรวม 10||
+74|Seventy-four|เลข2หลัก,ผลรวม 11||
+75|Seventy-five|เลข2หลัก,ผลรวม 12||
+76|Seventy-six|เลข2หลัก,ผลรวม 13||
+77|Seventy-seven|เลข2หลัก,ผลรวม 14,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน||
+78|Seventy-eight|เลข2หลัก,ผลรวม 15,เลขเรียง||
+79|Seventy-nine|เลข2หลัก,ผลรวม 16||
+80|Eighty|เลข2หลัก,ผลรวม 8||
+81|Eighty-one|เลข2หลัก,ผลรวม 9||
+82|Eighty-two|เลข2หลัก,ผลรวม 10||
+83|Eighty-three|เลข2หลัก,ผลรวม 11||
+84|Eighty-four|เลข2หลัก,ผลรวม 12||
+85|Eighty-five|เลข2หลัก,ผลรวม 13||
+86|Eighty-six|เลข2หลัก,ผลรวม 14||
+87|Eighty-seven|เลข2หลัก,ผลรวม 15||
+88|Eighty-eight|เลข2หลัก,ผลรวม 16,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน||
+89|Eighty-nine|เลข2หลัก,ผลรวม 17,เลขเรียง||
+90|Ninety|เลข2หลัก,ผลรวม 9||
+91|Ninety-one|เลข2หลัก,ผลรวม 10||
+92|Ninety-two|เลข2หลัก,ผลรวม 11||
+93|Ninety-three|เลข2หลัก,ผลรวม 12||
+94|Ninety-four|เลข2หลัก,ผลรวม 13||
+95|Ninety-five|เลข2หลัก,ผลรวม 14||
+96|Ninety-six|เลข2หลัก,ผลรวม 15||
+97|Ninety-seven|เลข2หลัก,ผลรวม 16||
+98|Ninety-eight|เลข2หลัก,ผลรวม 17||
+99|Ninety-nine|เลข2หลัก,ผลรวม 18,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน||
+# 100–199
+100|One hundred|เลข3หลัก,ผลรวม 1,เลขเบิ้ล||
+101|One hundred and one|เลข3หลัก,ผลรวม 2,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน||
+102|One hundred and two|เลข3หลัก,ผลรวม 3||
+103|One hundred and three|เลข3หลัก,ผลรวม 4||
+104|One hundred and four|เลข3หลัก,ผลรวม 5||
+105|One hundred and five|เลข3หลัก,ผลรวม 6||
+106|One hundred and six|เลข3หลัก,ผลรวม 7||
+107|One hundred and seven|เลข3หลัก,ผลรวม 8||
+108|One hundred and eight|เลข3หลัก,ผลรวม 9||
+109|One hundred and nine|เลข3หลัก,ผลรวม 10||
+110|One hundred and ten|เลข3หลัก,ผลรวม 2,เลขเบิ้ล||
+111|One hundred and eleven|เลข3หลัก,ผลรวม 3,เลขตอง,เลขกลับไปกลับมาเหมือนกัน||
+112|One hundred and twelve|เลข3หลัก,ผลรวม 4,เลขเบิ้ล||
+113|One hundred and thirteen|เลข3หลัก,ผลรวม 5,เลขเบิ้ล||
+114|One hundred and fourteen|เลข3หลัก,ผลรวม 6,เลขเบิ้ล||
+115|One hundred and fifteen|เลข3หลัก,ผลรวม 7,เลขเบิ้ล||
+116|One hundred and sixteen|เลข3หลัก,ผลรวม 8,เลขเบิ้ล||
+117|One hundred and seventeen|เลข3หลัก,ผลรวม 9,เลขเบิ้ล||
+118|One hundred and eighteen|เลข3หลัก,ผลรวม 10,เลขเบิ้ล||
+119|One hundred and nineteen|เลข3หลัก,ผลรวม 11,เลขเบิ้ล||
+120|One hundred and twenty|เลข3หลัก,ผลรวม 3||
+121|One hundred and twenty-one|เลข3หลัก,ผลรวม 4,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน||
+122|One hundred and twenty-two|เลข3หลัก,ผลรวม 5,เลขเบิ้ล||
+123|One hundred and twenty-three|เลข3หลัก,ผลรวม 6,เลขเรียง||
+124|One hundred and twenty-four|เลข3หลัก,ผลรวม 7||
+125|One hundred and twenty-five|เลข3หลัก,ผลรวม 8||
+126|One hundred and twenty-six|เลข3หลัก,ผลรวม 9||
+127|One hundred and twenty-seven|เลข3หลัก,ผลรวม 10||
+128|One hundred and twenty-eight|เลข3หลัก,ผลรวม 11||
+129|One hundred and twenty-nine|เลข3หลัก,ผลรวม 12||
+130|One hundred and thirty|เลข3หลัก,ผลรวม 4||
+131|One hundred and thirty-one|เลข3หลัก,ผลรวม 5,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน||
+132|One hundred and thirty-two|เลข3หลัก,ผลรวม 6||
+133|One hundred and thirty-three|เลข3หลัก,ผลรวม 7,เลขเบิ้ล||
+134|One hundred and thirty-four|เลข3หลัก,ผลรวม 8||
+135|One hundred and thirty-five|เลข3หลัก,ผลรวม 9||
+136|One hundred and thirty-six|เลข3หลัก,ผลรวม 10||
+137|One hundred and thirty-seven|เลข3หลัก,ผลรวม 11||
+138|One hundred and thirty-eight|เลข3หลัก,ผลรวม 12||
+139|One hundred and thirty-nine|เลข3หลัก,ผลรวม 13||
+140|One hundred and forty|เลข3หลัก,ผลรวม 5||
+141|One hundred and forty-one|เลข3หลัก,ผลรวม 6,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน||
+142|One hundred and forty-two|เลข3หลัก,ผลรวม 7||
+143|One hundred and forty-three|เลข3หลัก,ผลรวม 8||
+144|One hundred and forty-four|เลข3หลัก,ผลรวม 9,เลขเบิ้ล||
+145|One hundred and forty-five|เลข3หลัก,ผลรวม 10||
+146|One hundred and forty-six|เลข3หลัก,ผลรวม 11||
+147|One hundred and forty-seven|เลข3หลัก,ผลรวม 12||
+148|One hundred and forty-eight|เลข3หลัก,ผลรวม 13||
+149|One hundred and forty-nine|เลข3หลัก,ผลรวม 14||
+150|One hundred and fifty|เลข3หลัก,ผลรวม 6||
+151|One hundred and fifty-one|เลข3หลัก,ผลรวม 7,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน||
+152|One hundred and fifty-two|เลข3หลัก,ผลรวม 8||
+153|One hundred and fifty-three|เลข3หลัก,ผลรวม 9||
+154|One hundred and fifty-four|เลข3หลัก,ผลรวม 10||
+155|One hundred and fifty-five|เลข3หลัก,ผลรวม 11,เลขเบิ้ล||
+156|One hundred and fifty-six|เลข3หลัก,ผลรวม 12||
+157|One hundred and fifty-seven|เลข3หลัก,ผลรวม 13||
+158|One hundred and fifty-eight|เลข3หลัก,ผลรวม 14||
+159|One hundred and fifty-nine|เลข3หลัก,ผลรวม 15||
+160|One hundred and sixty|เลข3หลัก,ผลรวม 7||
+161|One hundred and sixty-one|เลข3หลัก,ผลรวม 8,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน||
+162|One hundred and sixty-two|เลข3หลัก,ผลรวม 9||
+163|One hundred and sixty-three|เลข3หลัก,ผลรวม 10||
+164|One hundred and sixty-four|เลข3หลัก,ผลรวม 11||
+165|One hundred and sixty-five|เลข3หลัก,ผลรวม 12||
+166|One hundred and sixty-six|เลข3หลัก,ผลรวม 13,เลขเบิ้ล||
+167|One hundred and sixty-seven|เลข3หลัก,ผลรวม 14||
+168|One hundred and sixty-eight|เลข3หลัก,ผลรวม 15||
+169|One hundred and sixty-nine|เลข3หลัก,ผลรวม 16||
+170|One hundred and seventy|เลข3หลัก,ผลรวม 8||
+171|One hundred and seventy-one|เลข3หลัก,ผลรวม 9,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน||
+172|One hundred and seventy-two|เลข3หลัก,ผลรวม 10||
+173|One hundred and seventy-three|เลข3หลัก,ผลรวม 11||
+174|One hundred and seventy-four|เลข3หลัก,ผลรวม 12||
+175|One hundred and seventy-five|เลข3หลัก,ผลรวม 13||
+176|One hundred and seventy-six|เลข3หลัก,ผลรวม 14||
+177|One hundred and seventy-seven|เลข3หลัก,ผลรวม 15,เลขเบิ้ล||
+178|One hundred and seventy-eight|เลข3หลัก,ผลรวม 16||
+179|One hundred and seventy-nine|เลข3หลัก,ผลรวม 17||
+180|One hundred and eighty|เลข3หลัก,ผลรวม 9||
+181|One hundred and eighty-one|เลข3หลัก,ผลรวม 10,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน||
+182|One hundred and eighty-two|เลข3หลัก,ผลรวม 11||
+183|One hundred and eighty-three|เลข3หลัก,ผลรวม 12||
+184|One hundred and eighty-four|เลข3หลัก,ผลรวม 13||
+185|One hundred and eighty-five|เลข3หลัก,ผลรวม 14||
+186|One hundred and eighty-six|เลข3หลัก,ผลรวม 15||
+187|One hundred and eighty-seven|เลข3หลัก,ผลรวม 16||
+188|One hundred and eighty-eight|เลข3หลัก,ผลรวม 17,เลขเบิ้ล||
+189|One hundred and eighty-nine|เลข3หลัก,ผลรวม 18||
+190|One hundred and ninety|เลข3หลัก,ผลรวม 10||
+191|One hundred and ninety-one|เลข3หลัก,ผลรวม 11,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน||
+192|One hundred and ninety-two|เลข3หลัก,ผลรวม 12||
+193|One hundred and ninety-three|เลข3หลัก,ผลรวม 13||
+194|One hundred and ninety-four|เลข3หลัก,ผลรวม 14||
+195|One hundred and ninety-five|เลข3หลัก,ผลรวม 15||
+196|One hundred and ninety-six|เลข3หลัก,ผลรวม 16||
+197|One hundred and ninety-seven|เลข3หลัก,ผลรวม 17||
+198|One hundred and ninety-eight|เลข3หลัก,ผลรวม 18||
+199|One hundred and ninety-nine|เลข3หลัก,ผลรวม 19,เลขเบิ้ล||
+# 200–299
+200|Two hundred|เลข3หลัก,ผลรวม 2,เลขเบิ้ล||
+201|Two hundred and one|เลข3หลัก,ผลรวม 3||
+202|Two hundred and two|เลข3หลัก,ผลรวม 4,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน||
+203|Two hundred and three|เลข3หลัก,ผลรวม 5||
+204|Two hundred and four|เลข3หลัก,ผลรวม 6||
+205|Two hundred and five|เลข3หลัก,ผลรวม 7||
+206|Two hundred and six|เลข3หลัก,ผลรวม 8||
+207|Two hundred and seven|เลข3หลัก,ผลรวม 9||
+208|Two hundred and eight|เลข3หลัก,ผลรวม 10||
+209|Two hundred and nine|เลข3หลัก,ผลรวม 11||
+210|Two hundred and ten|เลข3หลัก,ผลรวม 3||
+211|Two hundred and eleven|เลข3หลัก,ผลรวม 4,เลขเบิ้ล||
+212|Two hundred and twelve|เลข3หลัก,ผลรวม 5,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน||
+213|Two hundred and thirteen|เลข3หลัก,ผลรวม 6||
+214|Two hundred and fourteen|เลข3หลัก,ผลรวม 7||
+215|Two hundred and fifteen|เลข3หลัก,ผลรวม 8||
+216|Two hundred and sixteen|เลข3หลัก,ผลรวม 9||
+217|Two hundred and seventeen|เลข3หลัก,ผลรวม 10||
+218|Two hundred and eighteen|เลข3หลัก,ผลรวม 11||
+219|Two hundred and nineteen|เลข3หลัก,ผลรวม 12||
+220|Two hundred and twenty|เลข3หลัก,ผลรวม 4,เลขเบิ้ล||
+221|Two hundred and twenty-one|เลข3หลัก,ผลรวม 5,เลขเบิ้ล||
+222|Two hundred and twenty-two|เลข3หลัก,ผลรวม 6,เลขตอง,เลขกลับไปกลับมาเหมือนกัน||
+223|Two hundred and twenty-three|เลข3หลัก,ผลรวม 7,เลขเบิ้ล||
+224|Two hundred and twenty-four|เลข3หลัก,ผลรวม 8,เลขเบิ้ล||
+225|Two hundred and twenty-five|เลข3หลัก,ผลรวม 9,เลขเบิ้ล||
+226|Two hundred and twenty-six|เลข3หลัก,ผลรวม 10,เลขเบิ้ล||
+227|Two hundred and twenty-seven|เลข3หลัก,ผลรวม 11,เลขเบิ้ล||
+228|Two hundred and twenty-eight|เลข3หลัก,ผลรวม 12,เลขเบิ้ล||
+229|Two hundred and twenty-nine|เลข3หลัก,ผลรวม 13,เลขเบิ้ล||
+230|Two hundred and thirty|เลข3หลัก,ผลรวม 5||
+231|Two hundred and thirty-one|เลข3หลัก,ผลรวม 6||
+232|Two hundred and thirty-two|เลข3หลัก,ผลรวม 7,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน||
+233|Two hundred and thirty-three|เลข3หลัก,ผลรวม 8,เลขเบิ้ล||
+234|Two hundred and thirty-four|เลข3หลัก,ผลรวม 9,เลขเรียง||
+235|Two hundred and thirty-five|เลข3หลัก,ผลรวม 10||
+236|Two hundred and thirty-six|เลข3หลัก,ผลรวม 11||
+237|Two hundred and thirty-seven|เลข3หลัก,ผลรวม 12||
+238|Two hundred and thirty-eight|เลข3หลัก,ผลรวม 13||
+239|Two hundred and thirty-nine|เลข3หลัก,ผลรวม 14||
+240|Two hundred and forty|เลข3หลัก,ผลรวม 6||
+241|Two hundred and forty-one|เลข3หลัก,ผลรวม 7||
+242|Two hundred and forty-two|เลข3หลัก,ผลรวม 8,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน||
+243|Two hundred and forty-three|เลข3หลัก,ผลรวม 9||
+244|Two hundred and forty-four|เลข3หลัก,ผลรวม 10,เลขเบิ้ล||
+245|Two hundred and forty-five|เลข3หลัก,ผลรวม 11||
+246|Two hundred and forty-six|เลข3หลัก,ผลรวม 12||
+247|Two hundred and forty-seven|เลข3หลัก,ผลรวม 13||
+248|Two hundred and forty-eight|เลข3หลัก,ผลรวม 14||
+249|Two hundred and forty-nine|เลข3หลัก,ผลรวม 15||
+250|Two hundred and fifty|เลข3หลัก,ผลรวม 7||
+251|Two hundred and fifty-one|เลข3หลัก,ผลรวม 8||
+252|Two hundred and fifty-two|เลข3หลัก,ผลรวม 9,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน||
+253|Two hundred and fifty-three|เลข3หลัก,ผลรวม 10||
+254|Two hundred and fifty-four|เลข3หลัก,ผลรวม 11||
+255|Two hundred and fifty-five|เลข3หลัก,ผลรวม 12,เลขเบิ้ล||
+256|Two hundred and fifty-six|เลข3หลัก,ผลรวม 13||
+257|Two hundred and fifty-seven|เลข3หลัก,ผลรวม 14||
+258|Two hundred and fifty-eight|เลข3หลัก,ผลรวม 15||
+259|Two hundred and fifty-nine|เลข3หลัก,ผลรวม 16||
+260|Two hundred and sixty|เลข3หลัก,ผลรวม 8||
+261|Two hundred and sixty-one|เลข3หลัก,ผลรวม 9||
+262|Two hundred and sixty-two|เลข3หลัก,ผลรวม 10,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน||
+263|Two hundred and sixty-three|เลข3หลัก,ผลรวม 11||
+264|Two hundred and sixty-four|เลข3หลัก,ผลรวม 12||
+265|Two hundred and sixty-five|เลข3หลัก,ผลรวม 13||
+266|Two hundred and sixty-six|เลข3หลัก,ผลรวม 14,เลขเบิ้ล||
+267|Two hundred and sixty-seven|เลข3หลัก,ผลรวม 15||
+268|Two hundred and sixty-eight|เลข3หลัก,ผลรวม 16||
+269|Two hundred and sixty-nine|เลข3หลัก,ผลรวม 17||
+270|Two hundred and seventy|เลข3หลัก,ผลรวม 9||
+271|Two hundred and seventy-one|เลข3หลัก,ผลรวม 10||
+272|Two hundred and seventy-two|เลข3หลัก,ผลรวม 11,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน||
+273|Two hundred and seventy-three|เลข3หลัก,ผลรวม 12||
+274|Two hundred and seventy-four|เลข3หลัก,ผลรวม 13||
+275|Two hundred and seventy-five|เลข3หลัก,ผลรวม 14||
+276|Two hundred and seventy-six|เลข3หลัก,ผลรวม 15||
+277|Two hundred and seventy-seven|เลข3หลัก,ผลรวม 16,เลขเบิ้ล||
+278|Two hundred and seventy-eight|เลข3หลัก,ผลรวม 17||
+279|Two hundred and seventy-nine|เลข3หลัก,ผลรวม 18||
+280|Two hundred and eighty|เลข3หลัก,ผลรวม 10||
+281|Two hundred and eighty-one|เลข3หลัก,ผลรวม 11||
+282|Two hundred and eighty-two|เลข3หลัก,ผลรวม 12,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน||
+283|Two hundred and eighty-three|เลข3หลัก,ผลรวม 13||
+284|Two hundred and eighty-four|เลข3หลัก,ผลรวม 14||
+285|Two hundred and eighty-five|เลข3หลัก,ผลรวม 15||
+286|Two hundred and eighty-six|เลข3หลัก,ผลรวม 16||
+287|Two hundred and eighty-seven|เลข3หลัก,ผลรวม 17||
+288|Two hundred and eighty-eight|เลข3หลัก,ผลรวม 18,เลขเบิ้ล||
+289|Two hundred and eighty-nine|เลข3หลัก,ผลรวม 19||
+290|Two hundred and ninety|เลข3หลัก,ผลรวม 11||
+291|Two hundred and ninety-one|เลข3หลัก,ผลรวม 12||
+292|Two hundred and ninety-two|เลข3หลัก,ผลรวม 13,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน||
+293|Two hundred and ninety-three|เลข3หลัก,ผลรวม 14||
+294|Two hundred and ninety-four|เลข3หลัก,ผลรวม 15||
+295|Two hundred and ninety-five|เลข3หลัก,ผลรวม 16||
+296|Two hundred and ninety-six|เลข3หลัก,ผลรวม 17||
+297|Two hundred and ninety-seven|เลข3หลัก,ผลรวม 18||
+298|Two hundred and ninety-eight|เลข3หลัก,ผลรวม 19||
+299|Two hundred and ninety-nine|เลข3หลัก,ผลรวม 20,เลขเบิ้ล||
+# 300–399
+300|Three hundred|เลข3หลัก,ผลรวม 3,เลขเบิ้ล||
+301|Three hundred and one|เลข3หลัก,ผลรวม 4||
+302|Three hundred and two|เลข3หลัก,ผลรวม 5||
+303|Three hundred and three|เลข3หลัก,ผลรวม 6,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน||
+304|Three hundred and four|เลข3หลัก,ผลรวม 7||
+305|Three hundred and five|เลข3หลัก,ผลรวม 8||
+306|Three hundred and six|เลข3หลัก,ผลรวม 9||
+307|Three hundred and seven|เลข3หลัก,ผลรวม 10||
+308|Three hundred and eight|เลข3หลัก,ผลรวม 11||
+309|Three hundred and nine|เลข3หลัก,ผลรวม 12||
+310|Three hundred and ten|เลข3หลัก,ผลรวม 4||
+311|Three hundred and eleven|เลข3หลัก,ผลรวม 5,เลขเบิ้ล||
+312|Three hundred and twelve|เลข3หลัก,ผลรวม 6||
+313|Three hundred and thirteen|เลข3หลัก,ผลรวม 7,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน||
+314|Three hundred and fourteen|เลข3หลัก,ผลรวม 8||
+315|Three hundred and fifteen|เลข3หลัก,ผลรวม 9||
+316|Three hundred and sixteen|เลข3หลัก,ผลรวม 10||
+317|Three hundred and seventeen|เลข3หลัก,ผลรวม 11||
+318|Three hundred and eighteen|เลข3หลัก,ผลรวม 12||
+319|Three hundred and nineteen|เลข3หลัก,ผลรวม 13||
+320|Three hundred and twenty|เลข3หลัก,ผลรวม 5||
+321|Three hundred and twenty-one|เลข3หลัก,ผลรวม 6||
+322|Three hundred and twenty-two|เลข3หลัก,ผลรวม 7,เลขเบิ้ล||
+323|Three hundred and twenty-three|เลข3หลัก,ผลรวม 8,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน||
+324|Three hundred and twenty-four|เลข3หลัก,ผลรวม 9||
+325|Three hundred and twenty-five|เลข3หลัก,ผลรวม 10||
+326|Three hundred and twenty-six|เลข3หลัก,ผลรวม 11||
+327|Three hundred and twenty-seven|เลข3หลัก,ผลรวม 12||
+328|Three hundred and twenty-eight|เลข3หลัก,ผลรวม 13||
+329|Three hundred and twenty-nine|เลข3หลัก,ผลรวม 14||
+330|Three hundred and thirty|เลข3หลัก,ผลรวม 6,เลขเบิ้ล||
+331|Three hundred and thirty-one|เลข3หลัก,ผลรวม 7,เลขเบิ้ล||
+332|Three hundred and thirty-two|เลข3หลัก,ผลรวม 8,เลขเบิ้ล||
+333|Three hundred and thirty-three|เลข3หลัก,ผลรวม 9,เลขตอง,เลขกลับไปกลับมาเหมือนกัน||
+334|Three hundred and thirty-four|เลข3หลัก,ผลรวม 10,เลขเบิ้ล||
+335|Three hundred and thirty-five|เลข3หลัก,ผลรวม 11,เลขเบิ้ล||
+336|Three hundred and thirty-six|เลข3หลัก,ผลรวม 12,เลขเบิ้ล||
+337|Three hundred and thirty-seven|เลข3หลัก,ผลรวม 13,เลขเบิ้ล||
+338|Three hundred and thirty-eight|เลข3หลัก,ผลรวม 14,เลขเบิ้ล||
+339|Three hundred and thirty-nine|เลข3หลัก,ผลรวม 15,เลขเบิ้ล||
+340|Three hundred and forty|เลข3หลัก,ผลรวม 7||
+341|Three hundred and forty-one|เลข3หลัก,ผลรวม 8||
+342|Three hundred and forty-two|เลข3หลัก,ผลรวม 9||
+343|Three hundred and forty-three|เลข3หลัก,ผลรวม 10,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน||
+344|Three hundred and forty-four|เลข3หลัก,ผลรวม 11,เลขเบิ้ล||
+345|Three hundred and forty-five|เลข3หลัก,ผลรวม 12,เลขเรียง||
+346|Three hundred and forty-six|เลข3หลัก,ผลรวม 13||
+347|Three hundred and forty-seven|เลข3หลัก,ผลรวม 14||
+348|Three hundred and forty-eight|เลข3หลัก,ผลรวม 15||
+349|Three hundred and forty-nine|เลข3หลัก,ผลรวม 16||
+350|Three hundred and fifty|เลข3หลัก,ผลรวม 8||
+351|Three hundred and fifty-one|เลข3หลัก,ผลรวม 9||
+352|Three hundred and fifty-two|เลข3หลัก,ผลรวม 10||
+353|Three hundred and fifty-three|เลข3หลัก,ผลรวม 11,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน||
+354|Three hundred and fifty-four|เลข3หลัก,ผลรวม 12||
+355|Three hundred and fifty-five|เลข3หลัก,ผลรวม 13,เลขเบิ้ล||
+356|Three hundred and fifty-six|เลข3หลัก,ผลรวม 14||
+357|Three hundred and fifty-seven|เลข3หลัก,ผลรวม 15||
+358|Three hundred and fifty-eight|เลข3หลัก,ผลรวม 16||
+359|Three hundred and fifty-nine|เลข3หลัก,ผลรวม 17||
+360|Three hundred and sixty|เลข3หลัก,ผลรวม 9||
+361|Three hundred and sixty-one|เลข3หลัก,ผลรวม 10||
+362|Three hundred and sixty-two|เลข3หลัก,ผลรวม 11||
+363|Three hundred and sixty-three|เลข3หลัก,ผลรวม 12,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน||
+364|Three hundred and sixty-four|เลข3หลัก,ผลรวม 13||
+365|Three hundred and sixty-five|เลข3หลัก,ผลรวม 14||
+366|Three hundred and sixty-six|เลข3หลัก,ผลรวม 15,เลขเบิ้ล||
+367|Three hundred and sixty-seven|เลข3หลัก,ผลรวม 16||
+368|Three hundred and sixty-eight|เลข3หลัก,ผลรวม 17||
+369|Three hundred and sixty-nine|เลข3หลัก,ผลรวม 18||
+370|Three hundred and seventy|เลข3หลัก,ผลรวม 10||
+371|Three hundred and seventy-one|เลข3หลัก,ผลรวม 11||
+372|Three hundred and seventy-two|เลข3หลัก,ผลรวม 12||
+373|Three hundred and seventy-three|เลข3หลัก,ผลรวม 13,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน||
+374|Three hundred and seventy-four|เลข3หลัก,ผลรวม 14||
+375|Three hundred and seventy-five|เลข3หลัก,ผลรวม 15||
+376|Three hundred and seventy-six|เลข3หลัก,ผลรวม 16||
+377|Three hundred and seventy-seven|เลข3หลัก,ผลรวม 17,เลขเบิ้ล||
+378|Three hundred and seventy-eight|เลข3หลัก,ผลรวม 18||
+379|Three hundred and seventy-nine|เลข3หลัก,ผลรวม 19||
+380|Three hundred and eighty|เลข3หลัก,ผลรวม 11||
+381|Three hundred and eighty-one|เลข3หลัก,ผลรวม 12||
+382|Three hundred and eighty-two|เลข3หลัก,ผลรวม 13||
+383|Three hundred and eighty-three|เลข3หลัก,ผลรวม 14,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน||
+384|Three hundred and eighty-four|เลข3หลัก,ผลรวม 15||
+385|Three hundred and eighty-five|เลข3หลัก,ผลรวม 16||
+386|Three hundred and eighty-six|เลข3หลัก,ผลรวม 17||
+387|Three hundred and eighty-seven|เลข3หลัก,ผลรวม 18||
+388|Three hundred and eighty-eight|เลข3หลัก,ผลรวม 19,เลขเบิ้ล||
+389|Three hundred and eighty-nine|เลข3หลัก,ผลรวม 20||
+390|Three hundred and ninety|เลข3หลัก,ผลรวม 12||
+391|Three hundred and ninety-one|เลข3หลัก,ผลรวม 13||
+392|Three hundred and ninety-two|เลข3หลัก,ผลรวม 14||
+393|Three hundred and ninety-three|เลข3หลัก,ผลรวม 15,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน||
+394|Three hundred and ninety-four|เลข3หลัก,ผลรวม 16||
+395|Three hundred and ninety-five|เลข3หลัก,ผลรวม 17||
+396|Three hundred and ninety-six|เลข3หลัก,ผลรวม 18||
+397|Three hundred and ninety-seven|เลข3หลัก,ผลรวม 19||
+398|Three hundred and ninety-eight|เลข3หลัก,ผลรวม 20||
+399|Three hundred and ninety-nine|เลข3หลัก,ผลรวม 21,เลขเบิ้ล||
+# 400–499
+400|Four hundred|เลข3หลัก,ผลรวม 4,เลขเบิ้ล||
+401|Four hundred and one|เลข3หลัก,ผลรวม 5||
+402|Four hundred and two|เลข3หลัก,ผลรวม 6||
+403|Four hundred and three|เลข3หลัก,ผลรวม 7||
+404|Four hundred and four|เลข3หลัก,ผลรวม 8,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน||
+405|Four hundred and five|เลข3หลัก,ผลรวม 9||
+406|Four hundred and six|เลข3หลัก,ผลรวม 10||
+407|Four hundred and seven|เลข3หลัก,ผลรวม 11||
+408|Four hundred and eight|เลข3หลัก,ผลรวม 12||
+409|Four hundred and nine|เลข3หลัก,ผลรวม 13||
+410|Four hundred and ten|เลข3หลัก,ผลรวม 5||
+411|Four hundred and eleven|เลข3หลัก,ผลรวม 6,เลขเบิ้ล||
+412|Four hundred and twelve|เลข3หลัก,ผลรวม 7||
+413|Four hundred and thirteen|เลข3หลัก,ผลรวม 8||
+414|Four hundred and fourteen|เลข3หลัก,ผลรวม 9,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน||
+415|Four hundred and fifteen|เลข3หลัก,ผลรวม 10||
+416|Four hundred and sixteen|เลข3หลัก,ผลรวม 11||
+417|Four hundred and seventeen|เลข3หลัก,ผลรวม 12||
+418|Four hundred and eighteen|เลข3หลัก,ผลรวม 13||
+419|Four hundred and nineteen|เลข3หลัก,ผลรวม 14||
+420|Four hundred and twenty|เลข3หลัก,ผลรวม 6||
+421|Four hundred and twenty-one|เลข3หลัก,ผลรวม 7||
+422|Four hundred and twenty-two|เลข3หลัก,ผลรวม 8,เลขเบิ้ล||
+423|Four hundred and twenty-three|เลข3หลัก,ผลรวม 9||
+424|Four hundred and twenty-four|เลข3หลัก,ผลรวม 10,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน||
+425|Four hundred and twenty-five|เลข3หลัก,ผลรวม 11||
+426|Four hundred and twenty-six|เลข3หลัก,ผลรวม 12||
+427|Four hundred and twenty-seven|เลข3หลัก,ผลรวม 13||
+428|Four hundred and twenty-eight|เลข3หลัก,ผลรวม 14||
+429|Four hundred and twenty-nine|เลข3หลัก,ผลรวม 15||
+430|Four hundred and thirty|เลข3หลัก,ผลรวม 7||
+431|Four hundred and thirty-one|เลข3หลัก,ผลรวม 8||
+432|Four hundred and thirty-two|เลข3หลัก,ผลรวม 9||
+433|Four hundred and thirty-three|เลข3หลัก,ผลรวม 10,เลขเบิ้ล||
+434|Four hundred and thirty-four|เลข3หลัก,ผลรวม 11,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน||
+435|Four hundred and thirty-five|เลข3หลัก,ผลรวม 12||
+436|Four hundred and thirty-six|เลข3หลัก,ผลรวม 13||
+437|Four hundred and thirty-seven|เลข3หลัก,ผลรวม 14||
+438|Four hundred and thirty-eight|เลข3หลัก,ผลรวม 15||
+439|Four hundred and thirty-nine|เลข3หลัก,ผลรวม 16||
+440|Four hundred and forty|เลข3หลัก,ผลรวม 8,เลขเบิ้ล||
+441|Four hundred and forty-one|เลข3หลัก,ผลรวม 9,เลขเบิ้ล||
+442|Four hundred and forty-two|เลข3หลัก,ผลรวม 10,เลขเบิ้ล||
+443|Four hundred and forty-three|เลข3หลัก,ผลรวม 11,เลขเบิ้ล||
+444|Four hundred and forty-four|เลข3หลัก,ผลรวม 12,เลขตอง,เลขกลับไปกลับมาเหมือนกัน||
+445|Four hundred and forty-five|เลข3หลัก,ผลรวม 13,เลขเบิ้ล||
+446|Four hundred and forty-six|เลข3หลัก,ผลรวม 14,เลขเบิ้ล||
+447|Four hundred and forty-seven|เลข3หลัก,ผลรวม 15,เลขเบิ้ล||
+448|Four hundred and forty-eight|เลข3หลัก,ผลรวม 16,เลขเบิ้ล||
+449|Four hundred and forty-nine|เลข3หลัก,ผลรวม 17,เลขเบิ้ล||
+450|Four hundred and fifty|เลข3หลัก,ผลรวม 9||
+451|Four hundred and fifty-one|เลข3หลัก,ผลรวม 10||
+452|Four hundred and fifty-two|เลข3หลัก,ผลรวม 11||
+453|Four hundred and fifty-three|เลข3หลัก,ผลรวม 12||
+454|Four hundred and fifty-four|เลข3หลัก,ผลรวม 13,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน||
+455|Four hundred and fifty-five|เลข3หลัก,ผลรวม 14,เลขเบิ้ล||
+456|Four hundred and fifty-six|เลข3หลัก,ผลรวม 15,เลขเรียง||
+457|Four hundred and fifty-seven|เลข3หลัก,ผลรวม 16||
+458|Four hundred and fifty-eight|เลข3หลัก,ผลรวม 17||
+459|Four hundred and fifty-nine|เลข3หลัก,ผลรวม 18||
+460|Four hundred and sixty|เลข3หลัก,ผลรวม 10||
+461|Four hundred and sixty-one|เลข3หลัก,ผลรวม 11||
+462|Four hundred and sixty-two|เลข3หลัก,ผลรวม 12||
+463|Four hundred and sixty-three|เลข3หลัก,ผลรวม 13||
+464|Four hundred and sixty-four|เลข3หลัก,ผลรวม 14,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน||
+465|Four hundred and sixty-five|เลข3หลัก,ผลรวม 15||
+466|Four hundred and sixty-six|เลข3หลัก,ผลรวม 16,เลขเบิ้ล||
+467|Four hundred and sixty-seven|เลข3หลัก,ผลรวม 17||
+468|Four hundred and sixty-eight|เลข3หลัก,ผลรวม 18||
+469|Four hundred and sixty-nine|เลข3หลัก,ผลรวม 19||
+470|Four hundred and seventy|เลข3หลัก,ผลรวม 11||
+471|Four hundred and seventy-one|เลข3หลัก,ผลรวม 12||
+472|Four hundred and seventy-two|เลข3หลัก,ผลรวม 13||
+473|Four hundred and seventy-three|เลข3หลัก,ผลรวม 14||
+474|Four hundred and seventy-four|เลข3หลัก,ผลรวม 15,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน||
+475|Four hundred and seventy-five|เลข3หลัก,ผลรวม 16||
+476|Four hundred and seventy-six|เลข3หลัก,ผลรวม 17||
+477|Four hundred and seventy-seven|เลข3หลัก,ผลรวม 18,เลขเบิ้ล||
+478|Four hundred and seventy-eight|เลข3หลัก,ผลรวม 19||
+479|Four hundred and seventy-nine|เลข3หลัก,ผลรวม 20||
+480|Four hundred and eighty|เลข3หลัก,ผลรวม 12||
+481|Four hundred and eighty-one|เลข3หลัก,ผลรวม 13||
+482|Four hundred and eighty-two|เลข3หลัก,ผลรวม 14||
+483|Four hundred and eighty-three|เลข3หลัก,ผลรวม 15||
+484|Four hundred and eighty-four|เลข3หลัก,ผลรวม 16,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน||
+485|Four hundred and eighty-five|เลข3หลัก,ผลรวม 17||
+486|Four hundred and eighty-six|เลข3หลัก,ผลรวม 18||
+487|Four hundred and eighty-seven|เลข3หลัก,ผลรวม 19||
+488|Four hundred and eighty-eight|เลข3หลัก,ผลรวม 20,เลขเบิ้ล||
+489|Four hundred and eighty-nine|เลข3หลัก,ผลรวม 21||
+490|Four hundred and ninety|เลข3หลัก,ผลรวม 13||
+491|Four hundred and ninety-one|เลข3หลัก,ผลรวม 14||
+492|Four hundred and ninety-two|เลข3หลัก,ผลรวม 15||
+493|Four hundred and ninety-three|เลข3หลัก,ผลรวม 16||
+494|Four hundred and ninety-four|เลข3หลัก,ผลรวม 17,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน||
+495|Four hundred and ninety-five|เลข3หลัก,ผลรวม 18||
+496|Four hundred and ninety-six|เลข3หลัก,ผลรวม 19||
+497|Four hundred and ninety-seven|เลข3หลัก,ผลรวม 20||
+498|Four hundred and ninety-eight|เลข3หลัก,ผลรวม 21||
+499|Four hundred and ninety-nine|เลข3หลัก,ผลรวม 22,เลขเบิ้ล||
+# 500–599
+500|Five hundred|เลข3หลัก,ผลรวม 5,เลขเบิ้ล||
+501|Five hundred and one|เลข3หลัก,ผลรวม 6||
+502|Five hundred and two|เลข3หลัก,ผลรวม 7||
+503|Five hundred and three|เลข3หลัก,ผลรวม 8||
+504|Five hundred and four|เลข3หลัก,ผลรวม 9||
+505|Five hundred and five|เลข3หลัก,ผลรวม 10,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน||
+506|Five hundred and six|เลข3หลัก,ผลรวม 11||
+507|Five hundred and seven|เลข3หลัก,ผลรวม 12||
+508|Five hundred and eight|เลข3หลัก,ผลรวม 13||
+509|Five hundred and nine|เลข3หลัก,ผลรวม 14||
+510|Five hundred and ten|เลข3หลัก,ผลรวม 6||
+511|Five hundred and eleven|เลข3หลัก,ผลรวม 7,เลขเบิ้ล||
+512|Five hundred and twelve|เลข3หลัก,ผลรวม 8||
+513|Five hundred and thirteen|เลข3หลัก,ผลรวม 9||
+514|Five hundred and fourteen|เลข3หลัก,ผลรวม 10||
+515|Five hundred and fifteen|เลข3หลัก,ผลรวม 11,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน||
+516|Five hundred and sixteen|เลข3หลัก,ผลรวม 12||
+517|Five hundred and seventeen|เลข3หลัก,ผลรวม 13||
+518|Five hundred and eighteen|เลข3หลัก,ผลรวม 14||
+519|Five hundred and nineteen|เลข3หลัก,ผลรวม 15||
+520|Five hundred and twenty|เลข3หลัก,ผลรวม 7||
+521|Five hundred and twenty-one|เลข3หลัก,ผลรวม 8||
+522|Five hundred and twenty-two|เลข3หลัก,ผลรวม 9,เลขเบิ้ล||
+523|Five hundred and twenty-three|เลข3หลัก,ผลรวม 10||
+524|Five hundred and twenty-four|เลข3หลัก,ผลรวม 11||
+525|Five hundred and twenty-five|เลข3หลัก,ผลรวม 12,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน||
+526|Five hundred and twenty-six|เลข3หลัก,ผลรวม 13||
+527|Five hundred and twenty-seven|เลข3หลัก,ผลรวม 14||
+528|Five hundred and twenty-eight|เลข3หลัก,ผลรวม 15||
+529|Five hundred and twenty-nine|เลข3หลัก,ผลรวม 16||
+530|Five hundred and thirty|เลข3หลัก,ผลรวม 8||
+531|Five hundred and thirty-one|เลข3หลัก,ผลรวม 9||
+532|Five hundred and thirty-two|เลข3หลัก,ผลรวม 10||
+533|Five hundred and thirty-three|เลข3หลัก,ผลรวม 11,เลขเบิ้ล||
+534|Five hundred and thirty-four|เลข3หลัก,ผลรวม 12||
+535|Five hundred and thirty-five|เลข3หลัก,ผลรวม 13,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน||
+536|Five hundred and thirty-six|เลข3หลัก,ผลรวม 14||
+537|Five hundred and thirty-seven|เลข3หลัก,ผลรวม 15||
+538|Five hundred and thirty-eight|เลข3หลัก,ผลรวม 16||
+539|Five hundred and thirty-nine|เลข3หลัก,ผลรวม 17||
+540|Five hundred and forty|เลข3หลัก,ผลรวม 9||
+541|Five hundred and forty-one|เลข3หลัก,ผลรวม 10||
+542|Five hundred and forty-two|เลข3หลัก,ผลรวม 11||
+543|Five hundred and forty-three|เลข3หลัก,ผลรวม 12||
+544|Five hundred and forty-four|เลข3หลัก,ผลรวม 13,เลขเบิ้ล||
+545|Five hundred and forty-five|เลข3หลัก,ผลรวม 14,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน||
+546|Five hundred and forty-six|เลข3หลัก,ผลรวม 15||
+547|Five hundred and forty-seven|เลข3หลัก,ผลรวม 16||
+548|Five hundred and forty-eight|เลข3หลัก,ผลรวม 17||
+549|Five hundred and forty-nine|เลข3หลัก,ผลรวม 18||
+550|Five hundred and fifty|เลข3หลัก,ผลรวม 10,เลขเบิ้ล||
+551|Five hundred and fifty-one|เลข3หลัก,ผลรวม 11,เลขเบิ้ล||
+552|Five hundred and fifty-two|เลข3หลัก,ผลรวม 12,เลขเบิ้ล||
+553|Five hundred and fifty-three|เลข3หลัก,ผลรวม 13,เลขเบิ้ล||
+554|Five hundred and fifty-four|เลข3หลัก,ผลรวม 14,เลขเบิ้ล||
+555|Five hundred and fifty-five|เลข3หลัก,ผลรวม 15,เลขตอง,เลขกลับไปกลับมาเหมือนกัน||
+556|Five hundred and fifty-six|เลข3หลัก,ผลรวม 16,เลขเบิ้ล||
+557|Five hundred and fifty-seven|เลข3หลัก,ผลรวม 17,เลขเบิ้ล||
+558|Five hundred and fifty-eight|เลข3หลัก,ผลรวม 18,เลขเบิ้ล||
+559|Five hundred and fifty-nine|เลข3หลัก,ผลรวม 19,เลขเบิ้ล||
+560|Five hundred and sixty|เลข3หลัก,ผลรวม 11||
+561|Five hundred and sixty-one|เลข3หลัก,ผลรวม 12||
+562|Five hundred and sixty-two|เลข3หลัก,ผลรวม 13||
+563|Five hundred and sixty-three|เลข3หลัก,ผลรวม 14||
+564|Five hundred and sixty-four|เลข3หลัก,ผลรวม 15||
+565|Five hundred and sixty-five|เลข3หลัก,ผลรวม 16,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน||
+566|Five hundred and sixty-six|เลข3หลัก,ผลรวม 17,เลขเบิ้ล||
+567|Five hundred and sixty-seven|เลข3หลัก,ผลรวม 18,เลขเรียง||
+568|Five hundred and sixty-eight|เลข3หลัก,ผลรวม 19||
+569|Five hundred and sixty-nine|เลข3หลัก,ผลรวม 20||
+570|Five hundred and seventy|เลข3หลัก,ผลรวม 12||
+571|Five hundred and seventy-one|เลข3หลัก,ผลรวม 13||
+572|Five hundred and seventy-two|เลข3หลัก,ผลรวม 14||
+573|Five hundred and seventy-three|เลข3หลัก,ผลรวม 15||
+574|Five hundred and seventy-four|เลข3หลัก,ผลรวม 16||
+575|Five hundred and seventy-five|เลข3หลัก,ผลรวม 17,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน||
+576|Five hundred and seventy-six|เลข3หลัก,ผลรวม 18||
+577|Five hundred and seventy-seven|เลข3หลัก,ผลรวม 19,เลขเบิ้ล||
+578|Five hundred and seventy-eight|เลข3หลัก,ผลรวม 20||
+579|Five hundred and seventy-nine|เลข3หลัก,ผลรวม 21||
+580|Five hundred and eighty|เลข3หลัก,ผลรวม 13||
+581|Five hundred and eighty-one|เลข3หลัก,ผลรวม 14||
+582|Five hundred and eighty-two|เลข3หลัก,ผลรวม 15||
+583|Five hundred and eighty-three|เลข3หลัก,ผลรวม 16||
+584|Five hundred and eighty-four|เลข3หลัก,ผลรวม 17||
+585|Five hundred and eighty-five|เลข3หลัก,ผลรวม 18,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน||
+586|Five hundred and eighty-six|เลข3หลัก,ผลรวม 19||
+587|Five hundred and eighty-seven|เลข3หลัก,ผลรวม 20||
+588|Five hundred and eighty-eight|เลข3หลัก,ผลรวม 21,เลขเบิ้ล||
+589|Five hundred and eighty-nine|เลข3หลัก,ผลรวม 22||
+590|Five hundred and ninety|เลข3หลัก,ผลรวม 14||
+591|Five hundred and ninety-one|เลข3หลัก,ผลรวม 15||
+592|Five hundred and ninety-two|เลข3หลัก,ผลรวม 16||
+593|Five hundred and ninety-three|เลข3หลัก,ผลรวม 17||
+594|Five hundred and ninety-four|เลข3หลัก,ผลรวม 18||
+595|Five hundred and ninety-five|เลข3หลัก,ผลรวม 19,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน||
+596|Five hundred and ninety-six|เลข3หลัก,ผลรวม 20||
+597|Five hundred and ninety-seven|เลข3หลัก,ผลรวม 21||
+598|Five hundred and ninety-eight|เลข3หลัก,ผลรวม 22||
+599|Five hundred and ninety-nine|เลข3หลัก,ผลรวม 23,เลขเบิ้ล||
+# 600–699
+600|Six hundred|เลข3หลัก,ผลรวม 6,เลขเบิ้ล||
+601|Six hundred and one|เลข3หลัก,ผลรวม 7||
+602|Six hundred and two|เลข3หลัก,ผลรวม 8||
+603|Six hundred and three|เลข3หลัก,ผลรวม 9||
+604|Six hundred and four|เลข3หลัก,ผลรวม 10||
+605|Six hundred and five|เลข3หลัก,ผลรวม 11||
+606|Six hundred and six|เลข3หลัก,ผลรวม 12,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน||
+607|Six hundred and seven|เลข3หลัก,ผลรวม 13||
+608|Six hundred and eight|เลข3หลัก,ผลรวม 14||
+609|Six hundred and nine|เลข3หลัก,ผลรวม 15||
+610|Six hundred and ten|เลข3หลัก,ผลรวม 7||
+611|Six hundred and eleven|เลข3หลัก,ผลรวม 8,เลขเบิ้ล||
+612|Six hundred and twelve|เลข3หลัก,ผลรวม 9||
+613|Six hundred and thirteen|เลข3หลัก,ผลรวม 10||
+614|Six hundred and fourteen|เลข3หลัก,ผลรวม 11||
+615|Six hundred and fifteen|เลข3หลัก,ผลรวม 12||
+616|Six hundred and sixteen|เลข3หลัก,ผลรวม 13,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน||
+617|Six hundred and seventeen|เลข3หลัก,ผลรวม 14||
+618|Six hundred and eighteen|เลข3หลัก,ผลรวม 15||
+619|Six hundred and nineteen|เลข3หลัก,ผลรวม 16||
+620|Six hundred and twenty|เลข3หลัก,ผลรวม 8||
+621|Six hundred and twenty-one|เลข3หลัก,ผลรวม 9||
+622|Six hundred and twenty-two|เลข3หลัก,ผลรวม 10,เลขเบิ้ล||
+623|Six hundred and twenty-three|เลข3หลัก,ผลรวม 11||
+624|Six hundred and twenty-four|เลข3หลัก,ผลรวม 12||
+625|Six hundred and twenty-five|เลข3หลัก,ผลรวม 13||
+626|Six hundred and twenty-six|เลข3หลัก,ผลรวม 14,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน||
+627|Six hundred and twenty-seven|เลข3หลัก,ผลรวม 15||
+628|Six hundred and twenty-eight|เลข3หลัก,ผลรวม 16||
+629|Six hundred and twenty-nine|เลข3หลัก,ผลรวม 17||
+630|Six hundred and thirty|เลข3หลัก,ผลรวม 9||
+631|Six hundred and thirty-one|เลข3หลัก,ผลรวม 10||
+632|Six hundred and thirty-two|เลข3หลัก,ผลรวม 11||
+633|Six hundred and thirty-three|เลข3หลัก,ผลรวม 12,เลขเบิ้ล||
+634|Six hundred and thirty-four|เลข3หลัก,ผลรวม 13||
+635|Six hundred and thirty-five|เลข3หลัก,ผลรวม 14||
+636|Six hundred and thirty-six|เลข3หลัก,ผลรวม 15,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน||
+637|Six hundred and thirty-seven|เลข3หลัก,ผลรวม 16||
+638|Six hundred and thirty-eight|เลข3หลัก,ผลรวม 17||
+639|Six hundred and thirty-nine|เลข3หลัก,ผลรวม 18||
+640|Six hundred and forty|เลข3หลัก,ผลรวม 10||
+641|Six hundred and forty-one|เลข3หลัก,ผลรวม 11||
+642|Six hundred and forty-two|เลข3หลัก,ผลรวม 12||
+643|Six hundred and forty-three|เลข3หลัก,ผลรวม 13||
+644|Six hundred and forty-four|เลข3หลัก,ผลรวม 14,เลขเบิ้ล||
+645|Six hundred and forty-five|เลข3หลัก,ผลรวม 15||
+646|Six hundred and forty-six|เลข3หลัก,ผลรวม 16,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน||
+647|Six hundred and forty-seven|เลข3หลัก,ผลรวม 17||
+648|Six hundred and forty-eight|เลข3หลัก,ผลรวม 18||
+649|Six hundred and forty-nine|เลข3หลัก,ผลรวม 19||
+650|Six hundred and fifty|เลข3หลัก,ผลรวม 11||
+651|Six hundred and fifty-one|เลข3หลัก,ผลรวม 12||
+652|Six hundred and fifty-two|เลข3หลัก,ผลรวม 13||
+653|Six hundred and fifty-three|เลข3หลัก,ผลรวม 14||
+654|Six hundred and fifty-four|เลข3หลัก,ผลรวม 15||
+655|Six hundred and fifty-five|เลข3หลัก,ผลรวม 16,เลขเบิ้ล||
+656|Six hundred and fifty-six|เลข3หลัก,ผลรวม 17,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน||
+657|Six hundred and fifty-seven|เลข3หลัก,ผลรวม 18||
+658|Six hundred and fifty-eight|เลข3หลัก,ผลรวม 19||
+659|Six hundred and fifty-nine|เลข3หลัก,ผลรวม 20||
+660|Six hundred and sixty|เลข3หลัก,ผลรวม 12,เลขเบิ้ล||
+661|Six hundred and sixty-one|เลข3หลัก,ผลรวม 13,เลขเบิ้ล||
+662|Six hundred and sixty-two|เลข3หลัก,ผลรวม 14,เลขเบิ้ล||
+663|Six hundred and sixty-three|เลข3หลัก,ผลรวม 15,เลขเบิ้ล||
+664|Six hundred and sixty-four|เลข3หลัก,ผลรวม 16,เลขเบิ้ล||
+665|Six hundred and sixty-five|เลข3หลัก,ผลรวม 17,เลขเบิ้ล||
+666|Six hundred and sixty-six|เลข3หลัก,ผลรวม 18,เลขตอง,เลขกลับไปกลับมาเหมือนกัน||
+667|Six hundred and sixty-seven|เลข3หลัก,ผลรวม 19,เลขเบิ้ล||
+668|Six hundred and sixty-eight|เลข3หลัก,ผลรวม 20,เลขเบิ้ล||
+669|Six hundred and sixty-nine|เลข3หลัก,ผลรวม 21,เลขเบิ้ล||
+670|Six hundred and seventy|เลข3หลัก,ผลรวม 13||
+671|Six hundred and seventy-one|เลข3หลัก,ผลรวม 14||
+672|Six hundred and seventy-two|เลข3หลัก,ผลรวม 15||
+673|Six hundred and seventy-three|เลข3หลัก,ผลรวม 16||
+674|Six hundred and seventy-four|เลข3หลัก,ผลรวม 17||
+675|Six hundred and seventy-five|เลข3หลัก,ผลรวม 18||
+676|Six hundred and seventy-six|เลข3หลัก,ผลรวม 19,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน||
+677|Six hundred and seventy-seven|เลข3หลัก,ผลรวม 20,เลขเบิ้ล||
+678|Six hundred and seventy-eight|เลข3หลัก,ผลรวม 21,เลขเรียง||
+679|Six hundred and seventy-nine|เลข3หลัก,ผลรวม 22||
+680|Six hundred and eighty|เลข3หลัก,ผลรวม 14||
+681|Six hundred and eighty-one|เลข3หลัก,ผลรวม 15||
+682|Six hundred and eighty-two|เลข3หลัก,ผลรวม 16||
+683|Six hundred and eighty-three|เลข3หลัก,ผลรวม 17||
+684|Six hundred and eighty-four|เลข3หลัก,ผลรวม 18||
+685|Six hundred and eighty-five|เลข3หลัก,ผลรวม 19||
+686|Six hundred and eighty-six|เลข3หลัก,ผลรวม 20,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน||
+687|Six hundred and eighty-seven|เลข3หลัก,ผลรวม 21||
+688|Six hundred and eighty-eight|เลข3หลัก,ผลรวม 22,เลขเบิ้ล||
+689|Six hundred and eighty-nine|เลข3หลัก,ผลรวม 23||
+690|Six hundred and ninety|เลข3หลัก,ผลรวม 15||
+691|Six hundred and ninety-one|เลข3หลัก,ผลรวม 16||
+692|Six hundred and ninety-two|เลข3หลัก,ผลรวม 17||
+693|Six hundred and ninety-three|เลข3หลัก,ผลรวม 18||
+694|Six hundred and ninety-four|เลข3หลัก,ผลรวม 19||
+695|Six hundred and ninety-five|เลข3หลัก,ผลรวม 20||
+696|Six hundred and ninety-six|เลข3หลัก,ผลรวม 21,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน||
+697|Six hundred and ninety-seven|เลข3หลัก,ผลรวม 22||
+698|Six hundred and ninety-eight|เลข3หลัก,ผลรวม 23||
+699|Six hundred and ninety-nine|เลข3หลัก,ผลรวม 24,เลขเบิ้ล||
+# 700–799
+700|Seven hundred|เลข3หลัก,ผลรวม 7,เลขเบิ้ล||
+701|Seven hundred and one|เลข3หลัก,ผลรวม 8||
+702|Seven hundred and two|เลข3หลัก,ผลรวม 9||
+703|Seven hundred and three|เลข3หลัก,ผลรวม 10||
+704|Seven hundred and four|เลข3หลัก,ผลรวม 11||
+705|Seven hundred and five|เลข3หลัก,ผลรวม 12||
+706|Seven hundred and six|เลข3หลัก,ผลรวม 13||
+707|Seven hundred and seven|เลข3หลัก,ผลรวม 14,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน||
+708|Seven hundred and eight|เลข3หลัก,ผลรวม 15||
+709|Seven hundred and nine|เลข3หลัก,ผลรวม 16||
+710|Seven hundred and ten|เลข3หลัก,ผลรวม 8||
+711|Seven hundred and eleven|เลข3หลัก,ผลรวม 9,เลขเบิ้ล||
+712|Seven hundred and twelve|เลข3หลัก,ผลรวม 10||
+713|Seven hundred and thirteen|เลข3หลัก,ผลรวม 11||
+714|Seven hundred and fourteen|เลข3หลัก,ผลรวม 12||
+715|Seven hundred and fifteen|เลข3หลัก,ผลรวม 13||
+716|Seven hundred and sixteen|เลข3หลัก,ผลรวม 14||
+717|Seven hundred and seventeen|เลข3หลัก,ผลรวม 15,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน||
+718|Seven hundred and eighteen|เลข3หลัก,ผลรวม 16||
+719|Seven hundred and nineteen|เลข3หลัก,ผลรวม 17||
+720|Seven hundred and twenty|เลข3หลัก,ผลรวม 9||
+721|Seven hundred and twenty-one|เลข3หลัก,ผลรวม 10||
+722|Seven hundred and twenty-two|เลข3หลัก,ผลรวม 11,เลขเบิ้ล||
+723|Seven hundred and twenty-three|เลข3หลัก,ผลรวม 12||
+724|Seven hundred and twenty-four|เลข3หลัก,ผลรวม 13||
+725|Seven hundred and twenty-five|เลข3หลัก,ผลรวม 14||
+726|Seven hundred and twenty-six|เลข3หลัก,ผลรวม 15||
+727|Seven hundred and twenty-seven|เลข3หลัก,ผลรวม 16,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน||
+728|Seven hundred and twenty-eight|เลข3หลัก,ผลรวม 17||
+729|Seven hundred and twenty-nine|เลข3หลัก,ผลรวม 18||
+730|Seven hundred and thirty|เลข3หลัก,ผลรวม 10||
+731|Seven hundred and thirty-one|เลข3หลัก,ผลรวม 11||
+732|Seven hundred and thirty-two|เลข3หลัก,ผลรวม 12||
+733|Seven hundred and thirty-three|เลข3หลัก,ผลรวม 13,เลขเบิ้ล||
+734|Seven hundred and thirty-four|เลข3หลัก,ผลรวม 14||
+735|Seven hundred and thirty-five|เลข3หลัก,ผลรวม 15||
+736|Seven hundred and thirty-six|เลข3หลัก,ผลรวม 16||
+737|Seven hundred and thirty-seven|เลข3หลัก,ผลรวม 17,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน||
+738|Seven hundred and thirty-eight|เลข3หลัก,ผลรวม 18||
+739|Seven hundred and thirty-nine|เลข3หลัก,ผลรวม 19||
+740|Seven hundred and forty|เลข3หลัก,ผลรวม 11||
+741|Seven hundred and forty-one|เลข3หลัก,ผลรวม 12||
+742|Seven hundred and forty-two|เลข3หลัก,ผลรวม 13||
+743|Seven hundred and forty-three|เลข3หลัก,ผลรวม 14||
+744|Seven hundred and forty-four|เลข3หลัก,ผลรวม 15,เลขเบิ้ล||
+745|Seven hundred and forty-five|เลข3หลัก,ผลรวม 16||
+746|Seven hundred and forty-six|เลข3หลัก,ผลรวม 17||
+747|Seven hundred and forty-seven|เลข3หลัก,ผลรวม 18,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน||
+748|Seven hundred and forty-eight|เลข3หลัก,ผลรวม 19||
+749|Seven hundred and forty-nine|เลข3หลัก,ผลรวม 20||
+750|Seven hundred and fifty|เลข3หลัก,ผลรวม 12||
+751|Seven hundred and fifty-one|เลข3หลัก,ผลรวม 13||
+752|Seven hundred and fifty-two|เลข3หลัก,ผลรวม 14||
+753|Seven hundred and fifty-three|เลข3หลัก,ผลรวม 15||
+754|Seven hundred and fifty-four|เลข3หลัก,ผลรวม 16||
+755|Seven hundred and fifty-five|เลข3หลัก,ผลรวม 17,เลขเบิ้ล||
+756|Seven hundred and fifty-six|เลข3หลัก,ผลรวม 18||
+757|Seven hundred and fifty-seven|เลข3หลัก,ผลรวม 19,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน||
+758|Seven hundred and fifty-eight|เลข3หลัก,ผลรวม 20||
+759|Seven hundred and fifty-nine|เลข3หลัก,ผลรวม 21||
+760|Seven hundred and sixty|เลข3หลัก,ผลรวม 13||
+761|Seven hundred and sixty-one|เลข3หลัก,ผลรวม 14||
+762|Seven hundred and sixty-two|เลข3หลัก,ผลรวม 15||
+763|Seven hundred and sixty-three|เลข3หลัก,ผลรวม 16||
+764|Seven hundred and sixty-four|เลข3หลัก,ผลรวม 17||
+765|Seven hundred and sixty-five|เลข3หลัก,ผลรวม 18||
+766|Seven hundred and sixty-six|เลข3หลัก,ผลรวม 19,เลขเบิ้ล||
+767|Seven hundred and sixty-seven|เลข3หลัก,ผลรวม 20,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน||
+768|Seven hundred and sixty-eight|เลข3หลัก,ผลรวม 21||
+769|Seven hundred and sixty-nine|เลข3หลัก,ผลรวม 22||
+770|Seven hundred and seventy|เลข3หลัก,ผลรวม 14,เลขเบิ้ล||
+771|Seven hundred and seventy-one|เลข3หลัก,ผลรวม 15,เลขเบิ้ล||
+772|Seven hundred and seventy-two|เลข3หลัก,ผลรวม 16,เลขเบิ้ล||
+773|Seven hundred and seventy-three|เลข3หลัก,ผลรวม 17,เลขเบิ้ล||
+774|Seven hundred and seventy-four|เลข3หลัก,ผลรวม 18,เลขเบิ้ล||
+775|Seven hundred and seventy-five|เลข3หลัก,ผลรวม 19,เลขเบิ้ล||
+776|Seven hundred and seventy-six|เลข3หลัก,ผลรวม 20,เลขเบิ้ล||
+777|Seven hundred and seventy-seven|เลข3หลัก,ผลรวม 21,เลขตอง,เลขกลับไปกลับมาเหมือนกัน||
+778|Seven hundred and seventy-eight|เลข3หลัก,ผลรวม 22,เลขเบิ้ล||
+779|Seven hundred and seventy-nine|เลข3หลัก,ผลรวม 23,เลขเบิ้ล||
+780|Seven hundred and eighty|เลข3หลัก,ผลรวม 15||
+781|Seven hundred and eighty-one|เลข3หลัก,ผลรวม 16||
+782|Seven hundred and eighty-two|เลข3หลัก,ผลรวม 17||
+783|Seven hundred and eighty-three|เลข3หลัก,ผลรวม 18||
+784|Seven hundred and eighty-four|เลข3หลัก,ผลรวม 19||
+785|Seven hundred and eighty-five|เลข3หลัก,ผลรวม 20||
+786|Seven hundred and eighty-six|เลข3หลัก,ผลรวม 21||
+787|Seven hundred and eighty-seven|เลข3หลัก,ผลรวม 22,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน||
+788|Seven hundred and eighty-eight|เลข3หลัก,ผลรวม 23,เลขเบิ้ล||
+789|Seven hundred and eighty-nine|เลข3หลัก,ผลรวม 24,เลขเรียง||
+790|Seven hundred and ninety|เลข3หลัก,ผลรวม 16||
+791|Seven hundred and ninety-one|เลข3หลัก,ผลรวม 17||
+792|Seven hundred and ninety-two|เลข3หลัก,ผลรวม 18||
+793|Seven hundred and ninety-three|เลข3หลัก,ผลรวม 19||
+794|Seven hundred and ninety-four|เลข3หลัก,ผลรวม 20||
+795|Seven hundred and ninety-five|เลข3หลัก,ผลรวม 21||
+796|Seven hundred and ninety-six|เลข3หลัก,ผลรวม 22||
+797|Seven hundred and ninety-seven|เลข3หลัก,ผลรวม 23,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน||
+798|Seven hundred and ninety-eight|เลข3หลัก,ผลรวม 24||
+799|Seven hundred and ninety-nine|เลข3หลัก,ผลรวม 25,เลขเบิ้ล||
+# 800–899
+800|Eight hundred|เลข3หลัก,ผลรวม 8,เลขเบิ้ล||
+801|Eight hundred and one|เลข3หลัก,ผลรวม 9||
+802|Eight hundred and two|เลข3หลัก,ผลรวม 10||
+803|Eight hundred and three|เลข3หลัก,ผลรวม 11||
+804|Eight hundred and four|เลข3หลัก,ผลรวม 12||
+805|Eight hundred and five|เลข3หลัก,ผลรวม 13||
+806|Eight hundred and six|เลข3หลัก,ผลรวม 14||
+807|Eight hundred and seven|เลข3หลัก,ผลรวม 15||
+808|Eight hundred and eight|เลข3หลัก,ผลรวม 16,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน||
+809|Eight hundred and nine|เลข3หลัก,ผลรวม 17||
+810|Eight hundred and ten|เลข3หลัก,ผลรวม 9||
+811|Eight hundred and eleven|เลข3หลัก,ผลรวม 10,เลขเบิ้ล||
+812|Eight hundred and twelve|เลข3หลัก,ผลรวม 11||
+813|Eight hundred and thirteen|เลข3หลัก,ผลรวม 12||
+814|Eight hundred and fourteen|เลข3หลัก,ผลรวม 13||
+815|Eight hundred and fifteen|เลข3หลัก,ผลรวม 14||
+816|Eight hundred and sixteen|เลข3หลัก,ผลรวม 15||
+817|Eight hundred and seventeen|เลข3หลัก,ผลรวม 16||
+818|Eight hundred and eighteen|เลข3หลัก,ผลรวม 17,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน||
+819|Eight hundred and nineteen|เลข3หลัก,ผลรวม 18||
+820|Eight hundred and twenty|เลข3หลัก,ผลรวม 10||
+821|Eight hundred and twenty-one|เลข3หลัก,ผลรวม 11||
+822|Eight hundred and twenty-two|เลข3หลัก,ผลรวม 12,เลขเบิ้ล||
+823|Eight hundred and twenty-three|เลข3หลัก,ผลรวม 13||
+824|Eight hundred and twenty-four|เลข3หลัก,ผลรวม 14||
+825|Eight hundred and twenty-five|เลข3หลัก,ผลรวม 15||
+826|Eight hundred and twenty-six|เลข3หลัก,ผลรวม 16||
+827|Eight hundred and twenty-seven|เลข3หลัก,ผลรวม 17||
+828|Eight hundred and twenty-eight|เลข3หลัก,ผลรวม 18,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน||
+829|Eight hundred and twenty-nine|เลข3หลัก,ผลรวม 19||
+830|Eight hundred and thirty|เลข3หลัก,ผลรวม 11||
+831|Eight hundred and thirty-one|เลข3หลัก,ผลรวม 12||
+832|Eight hundred and thirty-two|เลข3หลัก,ผลรวม 13||
+833|Eight hundred and thirty-three|เลข3หลัก,ผลรวม 14,เลขเบิ้ล||
+834|Eight hundred and thirty-four|เลข3หลัก,ผลรวม 15||
+835|Eight hundred and thirty-five|เลข3หลัก,ผลรวม 16||
+836|Eight hundred and thirty-six|เลข3หลัก,ผลรวม 17||
+837|Eight hundred and thirty-seven|เลข3หลัก,ผลรวม 18||
+838|Eight hundred and thirty-eight|เลข3หลัก,ผลรวม 19,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน||
+839|Eight hundred and thirty-nine|เลข3หลัก,ผลรวม 20||
+840|Eight hundred and forty|เลข3หลัก,ผลรวม 12||
+841|Eight hundred and forty-one|เลข3หลัก,ผลรวม 13||
+842|Eight hundred and forty-two|เลข3หลัก,ผลรวม 14||
+843|Eight hundred and forty-three|เลข3หลัก,ผลรวม 15||
+844|Eight hundred and forty-four|เลข3หลัก,ผลรวม 16,เลขเบิ้ล||
+845|Eight hundred and forty-five|เลข3หลัก,ผลรวม 17||
+846|Eight hundred and forty-six|เลข3หลัก,ผลรวม 18||
+847|Eight hundred and forty-seven|เลข3หลัก,ผลรวม 19||
+848|Eight hundred and forty-eight|เลข3หลัก,ผลรวม 20,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน||
+849|Eight hundred and forty-nine|เลข3หลัก,ผลรวม 21||
+850|Eight hundred and fifty|เลข3หลัก,ผลรวม 13||
+851|Eight hundred and fifty-one|เลข3หลัก,ผลรวม 14||
+852|Eight hundred and fifty-two|เลข3หลัก,ผลรวม 15||
+853|Eight hundred and fifty-three|เลข3หลัก,ผลรวม 16||
+854|Eight hundred and fifty-four|เลข3หลัก,ผลรวม 17||
+855|Eight hundred and fifty-five|เลข3หลัก,ผลรวม 18,เลขเบิ้ล||
+856|Eight hundred and fifty-six|เลข3หลัก,ผลรวม 19||
+857|Eight hundred and fifty-seven|เลข3หลัก,ผลรวม 20||
+858|Eight hundred and fifty-eight|เลข3หลัก,ผลรวม 21,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน||
+859|Eight hundred and fifty-nine|เลข3หลัก,ผลรวม 22||
+860|Eight hundred and sixty|เลข3หลัก,ผลรวม 14||
+861|Eight hundred and sixty-one|เลข3หลัก,ผลรวม 15||
+862|Eight hundred and sixty-two|เลข3หลัก,ผลรวม 16||
+863|Eight hundred and sixty-three|เลข3หลัก,ผลรวม 17||
+864|Eight hundred and sixty-four|เลข3หลัก,ผลรวม 18||
+865|Eight hundred and sixty-five|เลข3หลัก,ผลรวม 19||
+866|Eight hundred and sixty-six|เลข3หลัก,ผลรวม 20,เลขเบิ้ล||
+867|Eight hundred and sixty-seven|เลข3หลัก,ผลรวม 21||
+868|Eight hundred and sixty-eight|เลข3หลัก,ผลรวม 22,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน||
+869|Eight hundred and sixty-nine|เลข3หลัก,ผลรวม 23||
+870|Eight hundred and seventy|เลข3หลัก,ผลรวม 15||
+871|Eight hundred and seventy-one|เลข3หลัก,ผลรวม 16||
+872|Eight hundred and seventy-two|เลข3หลัก,ผลรวม 17||
+873|Eight hundred and seventy-three|เลข3หลัก,ผลรวม 18||
+874|Eight hundred and seventy-four|เลข3หลัก,ผลรวม 19||
+875|Eight hundred and seventy-five|เลข3หลัก,ผลรวม 20||
+876|Eight hundred and seventy-six|เลข3หลัก,ผลรวม 21||
+877|Eight hundred and seventy-seven|เลข3หลัก,ผลรวม 22,เลขเบิ้ล||
+878|Eight hundred and seventy-eight|เลข3หลัก,ผลรวม 23,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน||
+879|Eight hundred and seventy-nine|เลข3หลัก,ผลรวม 24||
+880|Eight hundred and eighty|เลข3หลัก,ผลรวม 16,เลขเบิ้ล||
+881|Eight hundred and eighty-one|เลข3หลัก,ผลรวม 17,เลขเบิ้ล||
+882|Eight hundred and eighty-two|เลข3หลัก,ผลรวม 18,เลขเบิ้ล||
+883|Eight hundred and eighty-three|เลข3หลัก,ผลรวม 19,เลขเบิ้ล||
+884|Eight hundred and eighty-four|เลข3หลัก,ผลรวม 20,เลขเบิ้ล||
+885|Eight hundred and eighty-five|เลข3หลัก,ผลรวม 21,เลขเบิ้ล||
+886|Eight hundred and eighty-six|เลข3หลัก,ผลรวม 22,เลขเบิ้ล||
+887|Eight hundred and eighty-seven|เลข3หลัก,ผลรวม 23,เลขเบิ้ล||
+888|Eight hundred and eighty-eight|เลข3หลัก,ผลรวม 24,เลขตอง,เลขกลับไปกลับมาเหมือนกัน||
+889|Eight hundred and eighty-nine|เลข3หลัก,ผลรวม 25,เลขเบิ้ล||
+890|Eight hundred and ninety|เลข3หลัก,ผลรวม 17||
+891|Eight hundred and ninety-one|เลข3หลัก,ผลรวม 18||
+892|Eight hundred and ninety-two|เลข3หลัก,ผลรวม 19||
+893|Eight hundred and ninety-three|เลข3หลัก,ผลรวม 20||
+894|Eight hundred and ninety-four|เลข3หลัก,ผลรวม 21||
+895|Eight hundred and ninety-five|เลข3หลัก,ผลรวม 22||
+896|Eight hundred and ninety-six|เลข3หลัก,ผลรวม 23||
+897|Eight hundred and ninety-seven|เลข3หลัก,ผลรวม 24||
+898|Eight hundred and ninety-eight|เลข3หลัก,ผลรวม 25,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน||
+899|Eight hundred and ninety-nine|เลข3หลัก,ผลรวม 26,เลขเบิ้ล||
+# 900–999
+900|Nine hundred|เลข3หลัก,ผลรวม 9,เลขเบิ้ล||
+901|Nine hundred and one|เลข3หลัก,ผลรวม 10||
+902|Nine hundred and two|เลข3หลัก,ผลรวม 11||
+903|Nine hundred and three|เลข3หลัก,ผลรวม 12||
+904|Nine hundred and four|เลข3หลัก,ผลรวม 13||
+905|Nine hundred and five|เลข3หลัก,ผลรวม 14||
+906|Nine hundred and six|เลข3หลัก,ผลรวม 15||
+907|Nine hundred and seven|เลข3หลัก,ผลรวม 16||
+908|Nine hundred and eight|เลข3หลัก,ผลรวม 17||
+909|Nine hundred and nine|เลข3หลัก,ผลรวม 18,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน||
+910|Nine hundred and ten|เลข3หลัก,ผลรวม 10||
+911|Nine hundred and eleven|เลข3หลัก,ผลรวม 11,เลขเบิ้ล||
+912|Nine hundred and twelve|เลข3หลัก,ผลรวม 12||
+913|Nine hundred and thirteen|เลข3หลัก,ผลรวม 13||
+914|Nine hundred and fourteen|เลข3หลัก,ผลรวม 14||
+915|Nine hundred and fifteen|เลข3หลัก,ผลรวม 15||
+916|Nine hundred and sixteen|เลข3หลัก,ผลรวม 16||
+917|Nine hundred and seventeen|เลข3หลัก,ผลรวม 17||
+918|Nine hundred and eighteen|เลข3หลัก,ผลรวม 18||
+919|Nine hundred and nineteen|เลข3หลัก,ผลรวม 19,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน||
+920|Nine hundred and twenty|เลข3หลัก,ผลรวม 11||
+921|Nine hundred and twenty-one|เลข3หลัก,ผลรวม 12||
+922|Nine hundred and twenty-two|เลข3หลัก,ผลรวม 13,เลขเบิ้ล||
+923|Nine hundred and twenty-three|เลข3หลัก,ผลรวม 14||
+924|Nine hundred and twenty-four|เลข3หลัก,ผลรวม 15||
+925|Nine hundred and twenty-five|เลข3หลัก,ผลรวม 16||
+926|Nine hundred and twenty-six|เลข3หลัก,ผลรวม 17||
+927|Nine hundred and twenty-seven|เลข3หลัก,ผลรวม 18||
+928|Nine hundred and twenty-eight|เลข3หลัก,ผลรวม 19||
+929|Nine hundred and twenty-nine|เลข3หลัก,ผลรวม 20,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน||
+930|Nine hundred and thirty|เลข3หลัก,ผลรวม 12||
+931|Nine hundred and thirty-one|เลข3หลัก,ผลรวม 13||
+932|Nine hundred and thirty-two|เลข3หลัก,ผลรวม 14||
+933|Nine hundred and thirty-three|เลข3หลัก,ผลรวม 15,เลขเบิ้ล||
+934|Nine hundred and thirty-four|เลข3หลัก,ผลรวม 16||
+935|Nine hundred and thirty-five|เลข3หลัก,ผลรวม 17||
+936|Nine hundred and thirty-six|เลข3หลัก,ผลรวม 18||
+937|Nine hundred and thirty-seven|เลข3หลัก,ผลรวม 19||
+938|Nine hundred and thirty-eight|เลข3หลัก,ผลรวม 20||
+939|Nine hundred and thirty-nine|เลข3หลัก,ผลรวม 21,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน||
+940|Nine hundred and forty|เลข3หลัก,ผลรวม 13||
+941|Nine hundred and forty-one|เลข3หลัก,ผลรวม 14||
+942|Nine hundred and forty-two|เลข3หลัก,ผลรวม 15||
+943|Nine hundred and forty-three|เลข3หลัก,ผลรวม 16||
+944|Nine hundred and forty-four|เลข3หลัก,ผลรวม 17,เลขเบิ้ล||
+945|Nine hundred and forty-five|เลข3หลัก,ผลรวม 18||
+946|Nine hundred and forty-six|เลข3หลัก,ผลรวม 19||
+947|Nine hundred and forty-seven|เลข3หลัก,ผลรวม 20||
+948|Nine hundred and forty-eight|เลข3หลัก,ผลรวม 21||
+949|Nine hundred and forty-nine|เลข3หลัก,ผลรวม 22,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน||
+950|Nine hundred and fifty|เลข3หลัก,ผลรวม 14||
+951|Nine hundred and fifty-one|เลข3หลัก,ผลรวม 15||
+952|Nine hundred and fifty-two|เลข3หลัก,ผลรวม 16||
+953|Nine hundred and fifty-three|เลข3หลัก,ผลรวม 17||
+954|Nine hundred and fifty-four|เลข3หลัก,ผลรวม 18||
+955|Nine hundred and fifty-five|เลข3หลัก,ผลรวม 19,เลขเบิ้ล||
+956|Nine hundred and fifty-six|เลข3หลัก,ผลรวม 20||
+957|Nine hundred and fifty-seven|เลข3หลัก,ผลรวม 21||
+958|Nine hundred and fifty-eight|เลข3หลัก,ผลรวม 22||
+959|Nine hundred and fifty-nine|เลข3หลัก,ผลรวม 23,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน||
+960|Nine hundred and sixty|เลข3หลัก,ผลรวม 15||
+961|Nine hundred and sixty-one|เลข3หลัก,ผลรวม 16||
+962|Nine hundred and sixty-two|เลข3หลัก,ผลรวม 17||
+963|Nine hundred and sixty-three|เลข3หลัก,ผลรวม 18||
+964|Nine hundred and sixty-four|เลข3หลัก,ผลรวม 19||
+965|Nine hundred and sixty-five|เลข3หลัก,ผลรวม 20||
+966|Nine hundred and sixty-six|เลข3หลัก,ผลรวม 21,เลขเบิ้ล||
+967|Nine hundred and sixty-seven|เลข3หลัก,ผลรวม 22||
+968|Nine hundred and sixty-eight|เลข3หลัก,ผลรวม 23||
+969|Nine hundred and sixty-nine|เลข3หลัก,ผลรวม 24,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน||
+970|Nine hundred and seventy|เลข3หลัก,ผลรวม 16||
+971|Nine hundred and seventy-one|เลข3หลัก,ผลรวม 17||
+972|Nine hundred and seventy-two|เลข3หลัก,ผลรวม 18||
+973|Nine hundred and seventy-three|เลข3หลัก,ผลรวม 19||
+974|Nine hundred and seventy-four|เลข3หลัก,ผลรวม 20||
+975|Nine hundred and seventy-five|เลข3หลัก,ผลรวม 21||
+976|Nine hundred and seventy-six|เลข3หลัก,ผลรวม 22||
+977|Nine hundred and seventy-seven|เลข3หลัก,ผลรวม 23,เลขเบิ้ล||
+978|Nine hundred and seventy-eight|เลข3หลัก,ผลรวม 24||
+979|Nine hundred and seventy-nine|เลข3หลัก,ผลรวม 25,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน||
+980|Nine hundred and eighty|เลข3หลัก,ผลรวม 17||
+981|Nine hundred and eighty-one|เลข3หลัก,ผลรวม 18||
+982|Nine hundred and eighty-two|เลข3หลัก,ผลรวม 19||
+983|Nine hundred and eighty-three|เลข3หลัก,ผลรวม 20||
+984|Nine hundred and eighty-four|เลข3หลัก,ผลรวม 21||
+985|Nine hundred and eighty-five|เลข3หลัก,ผลรวม 22||
+986|Nine hundred and eighty-six|เลข3หลัก,ผลรวม 23||
+987|Nine hundred and eighty-seven|เลข3หลัก,ผลรวม 24||
+988|Nine hundred and eighty-eight|เลข3หลัก,ผลรวม 25,เลขเบิ้ล||
+989|Nine hundred and eighty-nine|เลข3หลัก,ผลรวม 26,เลขเบิ้ล,เลขกลับไปกลับมาเหมือนกัน||
+990|Nine hundred and ninety|เลข3หลัก,ผลรวม 18,เลขเบิ้ล||
+991|Nine hundred and ninety-one|เลข3หลัก,ผลรวม 19,เลขเบิ้ล||
+992|Nine hundred and ninety-two|เลข3หลัก,ผลรวม 20,เลขเบิ้ล||
+993|Nine hundred and ninety-three|เลข3หลัก,ผลรวม 21,เลขเบิ้ล||
+994|Nine hundred and ninety-four|เลข3หลัก,ผลรวม 22,เลขเบิ้ล||
+995|Nine hundred and ninety-five|เลข3หลัก,ผลรวม 23,เลขเบิ้ล||
+996|Nine hundred and ninety-six|เลข3หลัก,ผลรวม 24,เลขเบิ้ล||
+997|Nine hundred and ninety-seven|เลข3หลัก,ผลรวม 25,เลขเบิ้ล||
+998|Nine hundred and ninety-eight|เลข3หลัก,ผลรวม 26,เลขเบิ้ล||
+999|Nine hundred and ninety-nine|เลข3หลัก,ผลรวม 27,เลขตอง,เลขกลับไปกลับมาเหมือนกัน||
