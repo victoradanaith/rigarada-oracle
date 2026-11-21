@@ -27,7 +27,7 @@ main{max-width:760px;margin:0 auto;padding:16px 16px 48px}
 header{display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap}
 header h1{font-size:1.25rem;margin:0}
 header a{color:var(--accent);font-weight:600;text-decoration:none}
-.tabs{display:grid;grid-template-columns:repeat(4,1fr);gap:4px;background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:4px;margin:14px 0}
+.tabs{display:grid;grid-template-columns:repeat(5,1fr);gap:4px;background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:4px;margin:14px 0}
 .tabs button{min-height:44px;padding:0 4px;font-size:.92rem;border:0;border-radius:9px;background:none;color:inherit;font:inherit;font-weight:700;cursor:pointer}
 .tabs button[aria-selected="true"]{background:var(--accent);color:var(--accent-ink)}
 .controls{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-bottom:12px}
@@ -53,7 +53,7 @@ dl.kv dt{color:var(--muted);font-weight:600;border-left:3px solid var(--c,var(--
 dl.kv dd{margin:0;min-width:0}
 .pos{--c:var(--c25)}.neg{--c:var(--c100)}.bad{--c:var(--c100);font-weight:700}
 .dot{display:inline-block;width:.8em;height:.8em;border-radius:50%;border:1px solid var(--line);vertical-align:-.05em;margin-right:4px}
-@media (max-width:420px){.tabs{grid-template-columns:repeat(2,1fr)}.lv{grid-template-columns:repeat(2,minmax(0,1fr))}.controls{grid-template-columns:1fr}}
+@media (max-width:420px){.tabs{grid-template-columns:repeat(3,1fr)}.lv{grid-template-columns:repeat(2,minmax(0,1fr))}.controls{grid-template-columns:1fr}}
 </style>
 </head>
 <body>
@@ -73,6 +73,7 @@ dl.kv dd{margin:0;min-width:0}
     <button role="tab" id="tAge" aria-selected="false" aria-controls="pAge">ตารางอายุ</button>
     <button role="tab" id="tComp" aria-selected="false" aria-controls="pComp">ถูกโฉลก</button>
     <button role="tab" id="tCol" aria-selected="false" aria-controls="pCol">สีมงคล</button>
+    <button role="tab" id="tEl" aria-selected="false" aria-controls="pEl">ธาตุจีน</button>
   </div>
 
   <section id="pChong" role="tabpanel" aria-labelledby="tChong">
@@ -102,6 +103,10 @@ dl.kv dd{margin:0;min-width:0}
     <div class="controls"><label>คนเกิด<select id="dSel"><option value="">ทั้ง 8 วัน</option></select></label></div>
     <p class="note">สีมงคลตามหลักทักษา นับจากดาวประจำวันเกิดไปตามวงทักษา คนเกิดวันพุธแยกเป็นกลางวัน (6:00–17:59) และกลางคืน (18:00–5:59 เป็นราหู) แต่ละตำราให้สีต่างกันบ้าง ตารางนี้ใช้สีดาวที่นิยม: อาทิตย์ แดง · จันทร์ เหลือง ครีม · อังคาร ชมพู · พุธ เขียว · พฤหัสบดี ส้ม แสด · ศุกร์ ฟ้า น้ำเงิน · เสาร์ ม่วง · ราหู เทา ดำ สีกาลกิณีควรเลี่ยง เป็นความเชื่อ ไม่ใช่ข้อเท็จจริงที่พิสูจน์ได้</p>
     <ol id="dList"></ol>
+  </section>
+  <section id="pEl" role="tabpanel" aria-labelledby="tEl" hidden>
+    <p class="note">ธาตุทั้ง 5 ตามศาสตร์จีน (อู่สิง) ธาตุประจำปีเกิดดูจากเลขท้ายปี ค.ศ. (ปีจีนเริ่มราว 4 ก.พ.) · วงจรให้กำเนิด: ไม้ → ไฟ → ดิน → ทอง → น้ำ → ไม้ · วงจรข่ม: ไม้ข่มดิน ดินข่มน้ำ น้ำข่มไฟ ไฟข่มทอง ทองข่มไม้ · อวัยวะเป็นการจับคู่ตามแพทย์แผนจีน ไม่ใช่การวินิจฉัยโรค เป็นความเชื่อ ไม่ใช่ข้อเท็จจริงที่พิสูจน์ได้</p>
+    <ol id="eList"></ol>
   </section>
 </main>
 <script>
@@ -177,8 +182,13 @@ function init(){
       ol.append(li)});
   }
   ds.addEventListener('change',drawCol);drawCol();
+  // five elements
+  {const ol=$('#eList');
+   for(const r of D.elems){const li=document.createElement('li');
+     li.innerHTML=`<div class="yr"><span class="z">ธาตุ${esc(r[0])}</span><span class="be">ปีเกิด ค.ศ. ลงท้าย ${esc(r[1])}</span></div><dl class="kv">${D.efields.slice(2).map((f,k)=>`<dt class="${k===0||k===3?'pos':k===1||k===2?'neg':''}">${esc(f)}</dt><dd>${esc(r[k+2])}</dd>`).join('')}</dl>`;
+     ol.append(li)}}
   // tabs
-  const TABS=[['#tChong','#pChong'],['#tAge','#pAge'],['#tComp','#pComp'],['#tCol','#pCol']];
+  const TABS=[['#tChong','#pChong'],['#tAge','#pAge'],['#tComp','#pComp'],['#tCol','#pCol'],['#tEl','#pEl']];
   for(const [b,p] of TABS)$(b).addEventListener('click',()=>{for(const [b2,p2] of TABS){$(b2).setAttribute('aria-selected',String(b2===b));$(p2).hidden=b2!==b}});
 }
 let ok=false;try{ok=sessionStorage.getItem(KEY)==='1'}catch(_){}
