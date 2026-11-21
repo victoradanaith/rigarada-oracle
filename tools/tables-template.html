@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="robots" content="noindex, nofollow">
-<title>RigaRada ปีชงและอายุ</title>
+<title>RigaRada ตารางดวง</title>
 <!-- Built by tools/tables.py from tools/tables-template.html; edit those, not this file. -->
 <style>
 :root{--bg:#f4f1ea;--surface:#fffdf8;--ink:#1f1d24;--muted:#5f5a68;--line:#d6cfc2;--accent:#5143a8;--accent-ink:#fff;--soft:rgba(81,67,168,.10);--c100:#b3261e;--c75:#c25e00;--c50:#8a6d00;--c25:#2f6f4f;--focus:#c98a00}
@@ -27,8 +27,8 @@ main{max-width:760px;margin:0 auto;padding:16px 16px 48px}
 header{display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap}
 header h1{font-size:1.25rem;margin:0}
 header a{color:var(--accent);font-weight:600;text-decoration:none}
-.tabs{display:flex;gap:4px;background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:4px;margin:14px 0}
-.tabs button{flex:1;min-height:44px;border:0;border-radius:9px;background:none;color:inherit;font:inherit;font-weight:700;cursor:pointer}
+.tabs{display:grid;grid-template-columns:repeat(4,1fr);gap:4px;background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:4px;margin:14px 0}
+.tabs button{min-height:44px;padding:0 4px;font-size:.92rem;border:0;border-radius:9px;background:none;color:inherit;font:inherit;font-weight:700;cursor:pointer}
 .tabs button[aria-selected="true"]{background:var(--accent);color:var(--accent-ink)}
 .controls{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-bottom:12px}
 .controls label{font-size:.82rem;color:var(--muted);font-weight:600;display:grid;gap:4px}
@@ -48,7 +48,12 @@ li.hit{border-color:var(--accent);box-shadow:0 0 0 2px var(--soft)}
 .age{margin-left:auto;font-weight:700;color:var(--accent);font-variant-numeric:tabular-nums}
 .pair{display:grid;grid-template-columns:84px 1fr;gap:6px}
 .more{display:flex;justify-content:center;margin-top:12px}
-@media (max-width:420px){.lv{grid-template-columns:repeat(2,minmax(0,1fr))}.controls{grid-template-columns:1fr}}
+dl.kv{display:grid;grid-template-columns:minmax(96px,auto) 1fr;gap:4px 10px;margin:6px 0 0;font-size:.88rem}
+dl.kv dt{color:var(--muted);font-weight:600;border-left:3px solid var(--c,var(--line));padding-left:6px}
+dl.kv dd{margin:0;min-width:0}
+.pos{--c:var(--c25)}.neg{--c:var(--c100)}.bad{--c:var(--c100);font-weight:700}
+.dot{display:inline-block;width:.8em;height:.8em;border-radius:50%;border:1px solid var(--line);vertical-align:-.05em;margin-right:4px}
+@media (max-width:420px){.tabs{grid-template-columns:repeat(2,1fr)}.lv{grid-template-columns:repeat(2,minmax(0,1fr))}.controls{grid-template-columns:1fr}}
 </style>
 </head>
 <body>
@@ -62,10 +67,12 @@ li.hit{border-color:var(--accent);box-shadow:0 0 0 2px var(--soft)}
   </form>
 </div>
 <main id="app" hidden>
-  <header><h1>ปีชงและตารางอายุ</h1><a href="./">← กลับไปที่ไพ่</a></header>
+  <header><h1>ตารางดวง</h1><a href="./">← กลับไปที่ไพ่</a></header>
   <div class="tabs" role="tablist">
     <button role="tab" id="tChong" aria-selected="true" aria-controls="pChong">ปฏิทินปีชง</button>
     <button role="tab" id="tAge" aria-selected="false" aria-controls="pAge">ตารางอายุ</button>
+    <button role="tab" id="tComp" aria-selected="false" aria-controls="pComp">ถูกโฉลก</button>
+    <button role="tab" id="tCol" aria-selected="false" aria-controls="pCol">สีมงคล</button>
   </div>
 
   <section id="pChong" role="tabpanel" aria-labelledby="tChong">
@@ -86,6 +93,16 @@ li.hit{border-color:var(--accent);box-shadow:0 0 0 2px var(--soft)}
     <p class="note">อายุคือปีที่ดูลบปีเกิด เป็นอายุเมื่อถึงวันเกิดในปีนั้น ถ้ายังไม่ถึงวันเกิดให้ลบอีก 1 ปี นักษัตรและธาตุนับตามปฏิทินจีน คนที่เกิดเดือนมกราคมถึงต้นกุมภาพันธ์อาจเป็นนักษัตรของปีก่อนหน้า</p>
     <ol id="aList"></ol>
   </section>
+  <section id="pComp" role="tabpanel" aria-labelledby="tComp" hidden>
+    <div class="controls"><label>นักษัตร<select id="zSel"><option value="">ทั้ง 12 นักษัตร</option></select></label></div>
+    <p class="note">ถูกโฉลก = สามประสาน (ซาฮะ) · คู่มิตร = หกประสาน (ลักฮะ) · ไม่ถูก = ชง (ปีตรงข้าม) ไห่ (ทำร้ายกัน) ผั่ว (แตกหัก) เฮ้ง (ลงโทษกัน) ตามโหราศาสตร์จีน เป็นความเชื่อ ไม่ใช่ข้อเท็จจริงที่พิสูจน์ได้</p>
+    <ol id="zList"></ol>
+  </section>
+  <section id="pCol" role="tabpanel" aria-labelledby="tCol" hidden>
+    <div class="controls"><label>คนเกิด<select id="dSel"><option value="">ทั้ง 8 วัน</option></select></label></div>
+    <p class="note">สีมงคลตามหลักทักษา นับจากดาวประจำวันเกิดไปตามวงทักษา คนเกิดวันพุธแยกเป็นกลางวัน (6:00–17:59) และกลางคืน (18:00–5:59 เป็นราหู) แต่ละตำราให้สีต่างกันบ้าง ตารางนี้ใช้สีดาวที่นิยม: อาทิตย์ แดง · จันทร์ เหลือง ครีม · อังคาร ชมพู · พุธ เขียว · พฤหัสบดี ส้ม แสด · ศุกร์ ฟ้า น้ำเงิน · เสาร์ ม่วง · ราหู เทา ดำ สีกาลกิณีควรเลี่ยง เป็นความเชื่อ ไม่ใช่ข้อเท็จจริงที่พิสูจน์ได้</p>
+    <ol id="dList"></ol>
+  </section>
 </main>
 <script>
 (()=>{
@@ -103,10 +120,10 @@ function init(){
   const now=new Date().getFullYear();
   // clash calendar
   const sel=$('#cRange');
-  for(let s=2000;s<=3000;s+=100)sel.append(new Option(s===3000?'3000':`${s}–${s+99}`,s));
+  sel.append(new Option('1950–1999',1950));for(let s=2000;s<=3000;s+=100)sel.append(new Option(s===3000?'3000':`${s}–${s+99}`,s));
   const lv=[['ชง 100%','--c100'],['ชง 75%','--c75'],['ชง 50%','--c50'],['ชง 25%','--c25']];
   function drawChong(hit){
-    const s=+sel.value,rows=D.chong.filter(r=>r[0]>=s&&r[0]<s+100);
+    const s=+sel.value,rows=D.chong.filter(r=>r[0]>=s&&r[0]<(s===1950?2000:s+100));
     const ol=$('#cList');ol.replaceChildren();
     for(const r of rows){
       const li=document.createElement('li');if(r[0]===hit)li.className='hit';li.id='c'+r[0];
@@ -115,10 +132,11 @@ function init(){
     }
     if(hit){const el=document.getElementById('c'+hit);el&&el.scrollIntoView({block:'center'})}
   }
-  sel.value=String(Math.min(3000,Math.max(2000,Math.floor(now/100)*100)));
+  const bucket=y=>y<2000?1950:y===3000?3000:Math.floor(y/100)*100;
+  sel.value=String(bucket(Math.min(3000,Math.max(1950,now))));
   sel.addEventListener('change',()=>drawChong());
   const era=$('#cEra');era.addEventListener('change',()=>{$('#cFind').placeholder=era.value==='be'?'เช่น 2569':'เช่น 2026';$('#cFind').dispatchEvent(new Event('input'))});
-  $('#cFind').addEventListener('input',e=>{const v=parseInt(e.target.value,10),y=era.value==='be'?v-543:v;if(!v||y<2000||y>3000||e.target.value.length<4)return;sel.value=String(y===3000?3000:Math.floor(y/100)*100);drawChong(y)});
+  $('#cFind').addEventListener('input',e=>{const v=parseInt(e.target.value,10),y=era.value==='be'?v-543:v;if(!v||y<1950||y>3000||e.target.value.length<4)return;sel.value=String(bucket(y));drawChong(y)});
   drawChong(now);
   // age table
   const ay=$('#aYear');ay.value=now;
@@ -135,9 +153,33 @@ function init(){
   ay.addEventListener('input',()=>{if(ay.value.length>=4)drawAge()});
   $('#aFind').addEventListener('input',e=>{const y=toCE(e.target.value);if(y&&e.target.value.length>=4)drawAge(y)});
   drawAge();
+  // compatibility
+  const esc=t=>t.replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));
+  const zs=$('#zSel');D.compat.forEach((r,i)=>zs.append(new Option(r[0],i)));
+  const ZL=[['ถูกโฉลก','pos'],['คู่มิตร','pos'],['ชง','neg'],['ไห่','neg'],['ผั่ว','neg'],['เฮ้ง','neg']];
+  function drawComp(){
+    const ol=$('#zList');ol.replaceChildren();
+    D.compat.forEach((r,i)=>{if(zs.value!==''&&+zs.value!==i)return;
+      const li=document.createElement('li');
+      li.innerHTML=`<div class="yr"><span class="z">ปี${esc(r[0])}</span></div><dl class="kv">${ZL.map((l,k)=>`<dt class="${l[1]}">${l[0]}</dt><dd>${esc(r[k+1])}</dd>`).join('')}</dl>`;
+      ol.append(li)});
+  }
+  zs.addEventListener('change',drawComp);drawComp();
+  // weekday colours
+  const SW={'แดง':'#d62828','เหลือง':'#f2c230','ครีม':'#f3e6c4','ชมพู':'#f48fb1','เขียว':'#2e9b4f','ส้ม':'#f28c28','แสด':'#e8622c','ฟ้า':'#5aa9e6','น้ำเงิน':'#1f4e9c','ม่วง':'#7b3fa0','เทา':'#8a8a8a','ดำ':'#1b1b1b'};
+  const sw=t=>t.split(' ').map(c=>`<span class="dot" style="background:${SW[c]||'transparent'}"></span>${c}`).join(' ');
+  const ds=$('#dSel');D.colours.forEach((r,i)=>ds.append(new Option(r[0],i)));
+  function drawCol(){
+    const ol=$('#dList');ol.replaceChildren();
+    D.colours.forEach((r,i)=>{if(ds.value!==''&&+ds.value!==i)return;
+      const li=document.createElement('li');
+      li.innerHTML=`<div class="yr"><span class="z">คนเกิด${esc(r[0])}</span></div><dl class="kv">${D.roles.map((ro,k)=>`<dt class="${k===7?'bad':''}">${ro[0]}<br><small>${ro[1]}</small></dt><dd>${sw(r[k+1])}</dd>`).join('')}</dl>`;
+      ol.append(li)});
+  }
+  ds.addEventListener('change',drawCol);drawCol();
   // tabs
-  for(const [b,p,o,q] of [['#tChong','#pChong','#tAge','#pAge'],['#tAge','#pAge','#tChong','#pChong']])
-    $(b).addEventListener('click',()=>{$(b).setAttribute('aria-selected','true');$(o).setAttribute('aria-selected','false');$(p).hidden=false;$(q).hidden=true});
+  const TABS=[['#tChong','#pChong'],['#tAge','#pAge'],['#tComp','#pComp'],['#tCol','#pCol']];
+  for(const [b,p] of TABS)$(b).addEventListener('click',()=>{for(const [b2,p2] of TABS){$(b2).setAttribute('aria-selected',String(b2===b));$(p2).hidden=b2!==b}});
 }
 let ok=false;try{ok=sessionStorage.getItem(KEY)==='1'}catch(_){}
 if(ok)unlock();

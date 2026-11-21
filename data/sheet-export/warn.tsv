@@ -1,0 +1,500 @@
+WARN-001	การเดินทางและท้องถนน	ระวังรถชนท้าย	Watch for rear-end crashes	อุบัติเหตุ,รถยนต์		
+WARN-002	การเดินทางและท้องถนน	ระวังรถเฉี่ยวชน	Watch for side-swipes	อุบัติเหตุ,รถยนต์		
+WARN-003	การเดินทางและท้องถนน	ระวังรถจักรยานยนต์ล้ม	Watch for motorbike falls	อุบัติเหตุ,มอเตอร์ไซค์		
+WARN-004	การเดินทางและท้องถนน	ระวังเบรกแตก	Watch for brake failure	รถเสีย,อันตราย		
+WARN-005	การเดินทางและท้องถนน	ระวังยางระเบิดบนทางด่วน	Watch for a blowout on the highway	ยาง,ทางด่วน		
+WARN-006	การเดินทางและท้องถนน	ระวังหลับในขณะขับรถ	Watch for dozing at the wheel	ง่วง,ขับรถ		
+WARN-007	การเดินทางและท้องถนน	ระวังขับรถเร็วเกินกำหนด	Watch your speed	ความเร็ว,ใบสั่ง		
+WARN-008	การเดินทางและท้องถนน	ระวังเมาแล้วขับ	Never drive drunk	แอลกอฮอล์,กฎหมาย		
+WARN-009	การเดินทางและท้องถนน	ระวังคนข้ามถนนตัดหน้า	Watch for people crossing suddenly	คนเดินถนน,ทางม้าลาย		
+WARN-010	การเดินทางและท้องถนน	ระวังสัตว์วิ่งตัดหน้ารถ	Watch for animals on the road	สัตว์,ถนน		
+WARN-011	การเดินทางและท้องถนน	ระวังถนนลื่นหลังฝนตก	Watch for slick roads after rain	ฝน,ถนนลื่น		
+WARN-012	การเดินทางและท้องถนน	ระวังหลงทาง	Watch for getting lost	เส้นทาง,แผนที่		
+WARN-013	การเดินทางและท้องถนน	ระวังน้ำมันหมดกลางทาง	Watch for running out of fuel	น้ำมัน,รถ		
+WARN-014	การเดินทางและท้องถนน	ระวังแบตรถหมด	Watch for a dead car battery	แบตเตอรี่,สตาร์ทไม่ติด		
+WARN-015	การเดินทางและท้องถนน	ระวังตกรถ ตกเครื่อง	Watch for missing your bus or flight	ตกรถ,ตกเครื่อง		
+WARN-016	การเดินทางและท้องถนน	ระวังเที่ยวบินล่าช้า	Watch for flight delays	เครื่องบิน,ล่าช้า		
+WARN-017	การเดินทางและท้องถนน	ระวังเที่ยวบินถูกยกเลิก	Watch for cancelled flights	เครื่องบิน,ยกเลิก		
+WARN-018	การเดินทางและท้องถนน	ระวังกระเป๋าเดินทางหาย	Watch for lost luggage	กระเป๋า,สนามบิน		
+WARN-019	การเดินทางและท้องถนน	ระวังลืมพาสปอร์ต	Don't forget your passport	เอกสาร,เดินทาง		
+WARN-020	การเดินทางและท้องถนน	ระวังของหายบนรถสาธารณะ	Watch your things on public transport	ของหาย,รถสาธารณะ		
+WARN-021	การเดินทางและท้องถนน	ระวังล้วงกระเป๋าในที่คนเยอะ	Watch for pickpockets in crowds	ล้วงกระเป๋า,ฝูงชน		
+WARN-022	การเดินทางและท้องถนน	ระวังเรือล่ม	Watch for boats capsizing	เรือ,น้ำ		
+WARN-023	การเดินทางและท้องถนน	ระวังจมน้ำ	Watch for drowning	น้ำ,ว่ายน้ำ		
+WARN-024	การเดินทางและท้องถนน	ระวังตกบันไดเลื่อน	Watch your step on escalators	บันไดเลื่อน,ลื่นล้ม		
+WARN-025	การเดินทางและท้องถนน	ระวังประตูรถไฟฟ้าหนีบ	Watch the train doors	รถไฟฟ้า,ประตู		
+WARN-026	การเดินทางและท้องถนน	ระวังรถไฟชนที่ทางข้าม	Watch at railway crossings	รถไฟ,ทางข้าม		
+WARN-027	การเดินทางและท้องถนน	ระวังโดนรถลากเพราะจอดผิดที่	Watch for being towed	ที่จอดรถ,ค่าปรับ		
+WARN-028	การเดินทางและท้องถนน	ระวังโดนใบสั่ง	Watch for traffic tickets	ตำรวจจราจร,ค่าปรับ		
+WARN-029	การเดินทางและท้องถนน	ระวังทะเลาะบนท้องถนน	Watch for road rage	อารมณ์,ทะเลาะ		
+WARN-030	การเดินทางและท้องถนน	ระวังแท็กซี่โกงค่าโดยสาร	Watch for taxi overcharging	แท็กซี่,โดนโกง		
+WARN-031	การเดินทางและท้องถนน	ระวังจองที่พักแล้วไม่มีห้อง	Watch for booking mix-ups	ที่พัก,จอง		
+WARN-032	การเดินทางและท้องถนน	ระวังเมารถ เมาเรือ	Watch for motion sickness	เมารถ,เมาเรือ		
+WARN-033	การเดินทางและท้องถนน	ระวังป่วยระหว่างเที่ยว	Watch for getting sick on a trip	ท่องเที่ยว,สุขภาพ		
+WARN-034	การเดินทางและท้องถนน	ระวังทำตามกฎท้องถิ่นไม่ถูก	Watch for breaking local rules	ต่างถิ่น,กฎ		
+WARN-035	การเดินทางและท้องถนน	ระวังทางเดินชำรุด	Watch for broken pavement	ทางเท้า,สะดุด		
+WARN-036	การเดินทางและท้องถนน	ระวังขับรถตอนกลางคืนในที่เปลี่ยว	Watch for night drives in lonely places	กลางคืน,เปลี่ยว		
+WARN-037	บ้านและที่อยู่อาศัย	ระวังไฟไหม้บ้าน	Watch for house fires	ไฟไหม้,บ้าน		
+WARN-038	บ้านและที่อยู่อาศัย	ระวังไฟฟ้าลัดวงจร	Watch for electrical shorts	ไฟฟ้า,ลัดวงจร		
+WARN-039	บ้านและที่อยู่อาศัย	ระวังไฟดูด	Watch for electric shock	ไฟฟ้า,อันตราย		
+WARN-040	บ้านและที่อยู่อาศัย	ระวังแก๊สรั่ว	Watch for gas leaks	แก๊ส,ห้องครัว		
+WARN-041	บ้านและที่อยู่อาศัย	ระวังลืมปิดเตา	Don't leave the stove on	เตา,ไฟไหม้		
+WARN-042	บ้านและที่อยู่อาศัย	ระวังน้ำรั่วซึม	Watch for leaks	น้ำรั่ว,หลังคา		
+WARN-043	บ้านและที่อยู่อาศัย	ระวังท่อตัน	Watch for blocked pipes	ท่อ,ห้องน้ำ		
+WARN-044	บ้านและที่อยู่อาศัย	ระวังลื่นในห้องน้ำ	Watch for slipping in the bathroom	ห้องน้ำ,ลื่นล้ม		
+WARN-045	บ้านและที่อยู่อาศัย	ระวังตกบันได	Watch for falls on stairs	บันได,ล้ม		
+WARN-046	บ้านและที่อยู่อาศัย	ระวังของตกจากที่สูง	Watch for things falling from above	ที่สูง,ของหล่น		
+WARN-047	บ้านและที่อยู่อาศัย	ระวังเฟอร์นิเจอร์ล้มทับ	Watch for furniture tipping over	เฟอร์นิเจอร์,เด็ก		
+WARN-048	บ้านและที่อยู่อาศัย	ระวังกุญแจหาย	Watch for losing your keys	กุญแจ,ล็อก		
+WARN-049	บ้านและที่อยู่อาศัย	ระวังลืมล็อกประตู	Don't forget to lock the door	ประตู,ขโมย		
+WARN-050	บ้านและที่อยู่อาศัย	ระวังขโมยขึ้นบ้าน	Watch for burglars	ขโมย,บ้าน		
+WARN-051	บ้านและที่อยู่อาศัย	ระวังเครื่องใช้ไฟฟ้าเสีย	Watch for broken appliances	เครื่องใช้ไฟฟ้า,ซ่อม		
+WARN-052	บ้านและที่อยู่อาศัย	ระวังแอร์เสียกลางหน้าร้อน	Watch for AC failing in summer	แอร์,หน้าร้อน		
+WARN-053	บ้านและที่อยู่อาศัย	ระวังเครื่องทำน้ำอุ่นรั่ว	Watch for water-heater leaks	น้ำอุ่น,ไฟฟ้า		
+WARN-054	บ้านและที่อยู่อาศัย	ระวังปลวกกินบ้าน	Watch for termites	ปลวก,ไม้		
+WARN-055	บ้านและที่อยู่อาศัย	ระวังหนูและแมลงสาบ	Watch for rats and roaches	สัตว์รบกวน,ความสะอาด		
+WARN-056	บ้านและที่อยู่อาศัย	ระวังเชื้อราในบ้าน	Watch for mould	เชื้อรา,ความชื้น		
+WARN-057	บ้านและที่อยู่อาศัย	ระวังงูเข้าบ้าน	Watch for snakes in the house	งู,สัตว์มีพิษ		
+WARN-058	บ้านและที่อยู่อาศัย	ระวังผนังร้าว	Watch for cracked walls	โครงสร้าง,ซ่อม		
+WARN-059	บ้านและที่อยู่อาศัย	ระวังหลังคารั่วหน้าฝน	Watch for roof leaks in the rainy season	หลังคา,ฝน		
+WARN-060	บ้านและที่อยู่อาศัย	ระวังเพื่อนบ้านมีปัญหา	Watch for trouble with neighbours	เพื่อนบ้าน,ทะเลาะ		
+WARN-061	บ้านและที่อยู่อาศัย	ระวังเสียงดังรบกวน	Watch for noise problems	เสียง,รบกวน		
+WARN-062	บ้านและที่อยู่อาศัย	ระวังรูมเมทไม่จ่ายค่าเช่า	Watch for a roommate not paying rent	รูมเมท,ค่าเช่า		
+WARN-063	บ้านและที่อยู่อาศัย	ระวังเจ้าของบ้านไม่คืนมัดจำ	Watch for a lost deposit	เจ้าของบ้าน,มัดจำ		
+WARN-064	บ้านและที่อยู่อาศัย	ระวังโดนบอกให้ย้ายออกกะทันหัน	Watch for a sudden move-out notice	ย้ายออก,สัญญาเช่า		
+WARN-065	บ้านและที่อยู่อาศัย	ระวังค่าน้ำค่าไฟพุ่ง	Watch for high utility bills	ค่าไฟ,ค่าน้ำ		
+WARN-066	บ้านและที่อยู่อาศัย	ระวังลืมจ่ายบิลจนโดนตัด	Watch for cut-off utilities	บิล,ตัดน้ำตัดไฟ		
+WARN-067	บ้านและที่อยู่อาศัย	ระวังเด็กเล็กเข้าใกล้ปลั๊กไฟ	Keep small kids from sockets	เด็ก,ไฟฟ้า		
+WARN-068	บ้านและที่อยู่อาศัย	ระวังสารเคมีในบ้าน	Watch for household chemicals	สารเคมี,พิษ		
+WARN-069	บ้านและที่อยู่อาศัย	ระวังอาหารเสียในตู้เย็น	Watch for spoiled food	อาหาร,ตู้เย็น		
+WARN-070	บ้านและที่อยู่อาศัย	ระวังสัตว์เลี้ยงหนีออกจากบ้าน	Watch for pets getting out	สัตว์เลี้ยง,หาย		
+WARN-071	บ้านและที่อยู่อาศัย	ระวังซ่อมบ้านเองแล้วเจ็บตัว	Watch for DIY injuries	ซ่อมบ้าน,บาดเจ็บ		
+WARN-072	บ้านและที่อยู่อาศัย	ระวังช่างทิ้งงาน	Watch for contractors walking off	ช่าง,ต่อเติม		
+WARN-073	ภัยธรรมชาติและสภาพอากาศ	ระวังน้ำท่วมฉับพลัน	Watch for flash floods	น้ำท่วม,ฝนตกหนัก		
+WARN-074	ภัยธรรมชาติและสภาพอากาศ	ระวังพายุเข้า	Watch for storms	พายุ,ลมแรง		
+WARN-075	ภัยธรรมชาติและสภาพอากาศ	ระวังฟ้าผ่า	Watch for lightning	ฟ้าผ่า,พายุฝน		
+WARN-076	ภัยธรรมชาติและสภาพอากาศ	ระวังต้นไม้ล้มทับ	Watch for falling trees	ต้นไม้,ลมแรง		
+WARN-077	ภัยธรรมชาติและสภาพอากาศ	ระวังแผ่นดินไหว	Watch for earthquakes	แผ่นดินไหว,อาคาร		
+WARN-078	ภัยธรรมชาติและสภาพอากาศ	ระวังสึนามิ	Watch for tsunamis	สึนามิ,ชายฝั่ง		
+WARN-079	ภัยธรรมชาติและสภาพอากาศ	ระวังดินถล่ม	Watch for landslides	ดินถล่ม,ภูเขา		
+WARN-080	ภัยธรรมชาติและสภาพอากาศ	ระวังไฟป่า	Watch for wildfires	ไฟป่า,ควัน		
+WARN-081	ภัยธรรมชาติและสภาพอากาศ	ระวังหมอกควันและฝุ่น PM2.5	Watch for smoke and PM2.5	ฝุ่น,อากาศ		
+WARN-082	ภัยธรรมชาติและสภาพอากาศ	ระวังคลื่นความร้อน	Watch for heat waves	ร้อนจัด,ฮีทสโตรก		
+WARN-083	ภัยธรรมชาติและสภาพอากาศ	ระวังอากาศหนาวจัด	Watch for extreme cold	หนาวจัด,ร่างกาย		
+WARN-084	ภัยธรรมชาติและสภาพอากาศ	ระวังหิมะตกหนัก	Watch for heavy snow	หิมะ,เดินทาง		
+WARN-085	ภัยธรรมชาติและสภาพอากาศ	ระวังถนนเป็นน้ำแข็ง	Watch for icy roads	น้ำแข็ง,ลื่น		
+WARN-086	ภัยธรรมชาติและสภาพอากาศ	ระวังพายุทอร์นาโด	Watch for tornadoes	ทอร์นาโด,ที่หลบภัย		
+WARN-087	ภัยธรรมชาติและสภาพอากาศ	ระวังเฮอริเคน	Watch for hurricanes	เฮอริเคน,อพยพ		
+WARN-088	ภัยธรรมชาติและสภาพอากาศ	ระวังลูกเห็บ	Watch for hail	ลูกเห็บ,รถ		
+WARN-089	ภัยธรรมชาติและสภาพอากาศ	ระวังภัยแล้ง	Watch for drought	แห้งแล้ง,น้ำ		
+WARN-090	ภัยธรรมชาติและสภาพอากาศ	ระวังน้ำป่าไหลหลาก	Watch for mountain floodwater	น้ำป่า,เดินป่า		
+WARN-091	ภัยธรรมชาติและสภาพอากาศ	ระวังคลื่นลมแรงในทะเล	Watch for rough seas	ทะเล,คลื่น		
+WARN-092	ภัยธรรมชาติและสภาพอากาศ	ระวังกระแสน้ำย้อนกลับ	Watch for rip currents	ชายหาด,กระแสน้ำ		
+WARN-093	ภัยธรรมชาติและสภาพอากาศ	ระวังภูเขาไฟปะทุ	Watch for volcanic eruptions	ภูเขาไฟ,เถ้า		
+WARN-094	ภัยธรรมชาติและสภาพอากาศ	ระวังไฟดับเป็นวงกว้าง	Watch for blackouts	ไฟดับ,พายุ		
+WARN-095	ภัยธรรมชาติและสภาพอากาศ	ระวังน้ำประปาไม่ไหล	Watch for water outages	น้ำประปา,ขาดแคลน		
+WARN-096	ภัยธรรมชาติและสภาพอากาศ	ระวังโรคระบาดตามฤดูกาล	Watch for seasonal outbreaks	โรคระบาด,ฤดูกาล		
+WARN-097	ภัยธรรมชาติและสภาพอากาศ	ระวังยุงลายหน้าฝน	Watch for mosquitoes in the rains	ยุง,ไข้เลือดออก		
+WARN-098	ภัยธรรมชาติและสภาพอากาศ	ระวังสัตว์มีพิษหลังน้ำลด	Watch for venomous animals after floods	สัตว์มีพิษ,น้ำท่วม		
+WARN-099	ภัยธรรมชาติและสภาพอากาศ	ระวังฟ้าเปลี่ยนกะทันหันตอนเดินป่า	Watch for sudden weather on hikes	เดินป่า,อากาศ		
+WARN-100	ภัยธรรมชาติและสภาพอากาศ	ระวังแดดแรงจนผิวไหม้	Watch for sunburn	แดด,ผิวหนัง		
+WARN-101	ภัยธรรมชาติและสภาพอากาศ	ระวังลมกระโชกแรง	Watch for strong gusts	ลม,ป้าย		
+WARN-102	ภัยธรรมชาติและสภาพอากาศ	ระวังป้ายโฆษณาล้ม	Watch for falling billboards	ป้าย,ลมแรง		
+WARN-103	ภัยธรรมชาติและสภาพอากาศ	ระวังอาคารเก่าพังลงมา	Watch for old buildings collapsing	อาคาร,โครงสร้าง		
+WARN-104	ภัยธรรมชาติและสภาพอากาศ	ระวังน้ำทะเลหนุน	Watch for king tides	น้ำหนุน,ชายฝั่ง		
+WARN-105	ภัยธรรมชาติและสภาพอากาศ	ระวังหมอกลงจัดบนถนน	Watch for thick fog on the road	หมอก,ทัศนวิสัย		
+WARN-106	ภัยธรรมชาติและสภาพอากาศ	ระวังสัญญาณเตือนภัยที่ไม่ได้ยิน	Don't miss emergency alerts	เตือนภัย,ข่าว		
+WARN-107	ภัยธรรมชาติและสภาพอากาศ	ระวังไม่ได้เตรียมของฉุกเฉิน	Keep an emergency kit ready	ฉุกเฉิน,เตรียมพร้อม		
+WARN-108	ภัยธรรมชาติและสภาพอากาศ	ระวังประกันไม่คุ้มครองภัยธรรมชาติ	Check your disaster insurance	ประกัน,ภัยพิบัติ		
+WARN-109	สุขภาพและร่างกาย	ระวังอาหารเป็นพิษ	Watch for food poisoning	อาหาร,ท้องเสีย		
+WARN-110	สุขภาพและร่างกาย	ระวังแพ้อาหาร	Watch for food allergies	ภูมิแพ้,อาหาร		
+WARN-111	สุขภาพและร่างกาย	ระวังแพ้ยา	Watch for drug allergies	ยา,ผื่น		
+WARN-112	สุขภาพและร่างกาย	ระวังกินยาผิด	Watch for taking the wrong medicine	ยา,ขนาดยา		
+WARN-113	สุขภาพและร่างกาย	ระวังความดันสูง	Watch your blood pressure	ความดัน,หัวใจ		
+WARN-114	สุขภาพและร่างกาย	ระวังน้ำตาลในเลือดสูง	Watch your blood sugar	เบาหวาน,อาหาร		
+WARN-115	สุขภาพและร่างกาย	ระวังโรคหัวใจ	Watch your heart	หัวใจ,ออกกำลังกาย		
+WARN-116	สุขภาพและร่างกาย	ระวังหลอดเลือดสมอง	Watch for stroke signs	สมอง,ฉุกเฉิน		
+WARN-117	สุขภาพและร่างกาย	ระวังหกล้มกระดูกหัก	Watch for falls and fractures	กระดูก,ล้ม		
+WARN-118	สุขภาพและร่างกาย	ระวังปวดหลังเรื้อรัง	Watch for chronic back pain	หลัง,ท่านั่ง		
+WARN-119	สุขภาพและร่างกาย	ระวังออฟฟิศซินโดรม	Watch for office syndrome	ท่านั่ง,กล้ามเนื้อ		
+WARN-120	สุขภาพและร่างกาย	ระวังสายตาเสียจากจอ	Watch your eyes with screens	สายตา,หน้าจอ		
+WARN-121	สุขภาพและร่างกาย	ระวังฟันผุ	Watch for tooth decay	ฟัน,หมอฟัน		
+WARN-122	สุขภาพและร่างกาย	ระวังนอนไม่พอ	Watch for too little sleep	นอนไม่หลับ,พักผ่อน		
+WARN-123	สุขภาพและร่างกาย	ระวังเครียดสะสม	Watch for built-up stress	ความเครียด,จิตใจ		
+WARN-124	สุขภาพและร่างกาย	ระวังโรคซึมเศร้า	Watch for depression	ซึมเศร้า,ขอความช่วยเหลือ		
+WARN-125	สุขภาพและร่างกาย	ระวังติดเชื้อทางเดินหายใจ	Watch for chest infections	หวัด,ปอด		
+WARN-126	สุขภาพและร่างกาย	ระวังโรคติดต่อทางเพศสัมพันธ์	Watch for STIs	เพศสัมพันธ์,ป้องกัน		
+WARN-127	สุขภาพและร่างกาย	ระวังน้ำหนักขึ้นเร็ว	Watch for quick weight gain	น้ำหนัก,อาหาร		
+WARN-128	สุขภาพและร่างกาย	ระวังขาดน้ำ	Watch for dehydration	ดื่มน้ำ,ร้อน		
+WARN-129	สุขภาพและร่างกาย	ระวังฮีทสโตรก	Watch for heatstroke	ร้อนจัด,หมดสติ		
+WARN-130	สุขภาพและร่างกาย	ระวังบาดเจ็บจากการออกกำลังกาย	Watch for sports injuries	ออกกำลังกาย,กล้ามเนื้อ		
+WARN-131	สุขภาพและร่างกาย	ระวังของมีคมบาดมือ	Watch for cuts	มีด,แผล		
+WARN-132	สุขภาพและร่างกาย	ระวังน้ำร้อนลวก	Watch for scalds	น้ำร้อน,แผลไหม้		
+WARN-133	สุขภาพและร่างกาย	ระวังสัตว์กัด	Watch for animal bites	สุนัข,พิษสุนัขบ้า		
+WARN-134	สุขภาพและร่างกาย	ระวังแมลงต่อย	Watch for insect stings	ผึ้ง,ต่อ		
+WARN-135	สุขภาพและร่างกาย	ระวังติดบุหรี่ ติดเหล้า	Watch for smoking and drinking habits	บุหรี่,เหล้า		
+WARN-136	สุขภาพและร่างกาย	ระวังพึ่งยาเกินจำเป็น	Watch for overusing pills	ยา,พึ่งพา		
+WARN-137	สุขภาพและร่างกาย	ระวังละเลยอาการเล็กน้อย	Don't ignore small symptoms	อาการ,ตรวจสุขภาพ		
+WARN-138	สุขภาพและร่างกาย	ระวังผลตรวจสุขภาพผิดปกติ	Watch for abnormal check-up results	ตรวจสุขภาพ,ผลเลือด		
+WARN-139	สุขภาพและร่างกาย	ระวังผ่าตัดมีภาวะแทรกซ้อน	Watch for surgery complications	ผ่าตัด,พักฟื้น		
+WARN-140	สุขภาพและร่างกาย	ระวังวินิจฉัยผิด	Watch for misdiagnosis	หมอ,ความเห็นที่สอง		
+WARN-141	สุขภาพและร่างกาย	ระวังค่ารักษาพยาบาลแพง	Watch for high medical bills	ค่ารักษา,ประกันสุขภาพ		
+WARN-142	สุขภาพและร่างกาย	ระวังหูอื้อจากเสียงดัง	Watch for hearing damage	หู,เสียงดัง		
+WARN-143	สุขภาพและร่างกาย	ระวังภูมิแพ้กำเริบ	Watch for allergy flare-ups	ภูมิแพ้,ฝุ่น		
+WARN-144	สุขภาพและร่างกาย	ระวังไม่ได้ฉีดวัคซีนตามกำหนด	Keep vaccines up to date	วัคซีน,ป้องกัน		
+WARN-145	การงานและอาชีพ	ระวังโดนเลิกจ้าง	Watch for layoffs	ตกงาน,เลิกจ้าง		
+WARN-146	การงานและอาชีพ	ระวังบริษัทปิดกิจการ	Watch for the company closing	บริษัท,ปิดตัว		
+WARN-147	การงานและอาชีพ	ระวังเงินเดือนออกช้า	Watch for late pay	เงินเดือน,ค้างจ่าย		
+WARN-148	การงานและอาชีพ	ระวังโดนตัดโอที	Watch for overtime cuts	โอที,รายได้		
+WARN-149	การงานและอาชีพ	ระวังโดนเจ้านายตำหนิ	Watch for a scolding from the boss	เจ้านาย,ตำหนิ		
+WARN-150	การงานและอาชีพ	ระวังโดนเพื่อนร่วมงานแทงข้างหลัง	Watch for backstabbing colleagues	เพื่อนร่วมงาน,นินทา		
+WARN-151	การงานและอาชีพ	ระวังโดนขโมยผลงาน	Watch for others taking credit	ผลงาน,เครดิต		
+WARN-152	การงานและอาชีพ	ระวังงานล้นมือ	Watch for too much work	งานหนัก,หมดไฟ		
+WARN-153	การงานและอาชีพ	ระวังหมดไฟในการทำงาน	Watch for burnout	หมดไฟ,พักผ่อน		
+WARN-154	การงานและอาชีพ	ระวังพลาดเดดไลน์	Watch for missed deadlines	เดดไลน์,กำหนดส่ง		
+WARN-155	การงานและอาชีพ	ระวังส่งงานผิด	Watch for sending the wrong work	ความผิดพลาด,ตรวจทาน		
+WARN-156	การงานและอาชีพ	ระวังส่งอีเมลผิดคน	Watch for emailing the wrong person	อีเมล,ความลับ		
+WARN-157	การงานและอาชีพ	ระวังพูดผิดในที่ประชุม	Watch what you say in meetings	ประชุม,คำพูด		
+WARN-158	การงานและอาชีพ	ระวังสัมภาษณ์งานไม่ผ่าน	Watch for failing an interview	สัมภาษณ์,สมัครงาน		
+WARN-159	การงานและอาชีพ	ระวังโดนหลอกสมัครงาน	Watch for job scams	หลอกลวง,สมัครงาน		
+WARN-160	การงานและอาชีพ	ระวังสัญญาจ้างเอาเปรียบ	Watch for unfair contracts	สัญญาจ้าง,เอาเปรียบ		
+WARN-161	การงานและอาชีพ	ระวังโดนย้ายแผนกไม่เต็มใจ	Watch for an unwanted transfer	ย้ายงาน,แผนก		
+WARN-162	การงานและอาชีพ	ระวังลูกค้าร้องเรียน	Watch for customer complaints	ลูกค้า,ร้องเรียน		
+WARN-163	การงานและอาชีพ	ระวังเสียลูกค้ารายใหญ่	Watch for losing a big client	ลูกค้า,รายได้		
+WARN-164	การงานและอาชีพ	ระวังหุ้นส่วนไม่ซื่อสัตย์	Watch for a dishonest partner	หุ้นส่วน,ธุรกิจ		
+WARN-165	การงานและอาชีพ	ระวังธุรกิจขาดทุน	Watch for business losses	ขาดทุน,ต้นทุน		
+WARN-166	การงานและอาชีพ	ระวังสต็อกสินค้าค้าง	Watch for unsold stock	สินค้า,สต็อก		
+WARN-167	การงานและอาชีพ	ระวังคู่แข่งตัดราคา	Watch for price-cutting rivals	คู่แข่ง,ราคา		
+WARN-168	การงานและอาชีพ	ระวังโดนตรวจสอบภาษีธุรกิจ	Watch for a tax audit	ภาษี,บัญชี		
+WARN-169	การงานและอาชีพ	ระวังใบอนุญาตหมดอายุ	Watch for expired licences	ใบอนุญาต,กฎหมาย		
+WARN-170	การงานและอาชีพ	ระวังอุบัติเหตุในที่ทำงาน	Watch for workplace accidents	ความปลอดภัย,บาดเจ็บ		
+WARN-171	การงานและอาชีพ	ระวังเครื่องจักรทำร้าย	Watch around machinery	เครื่องจักร,โรงงาน		
+WARN-172	การงานและอาชีพ	ระวังโดนคุกคามในที่ทำงาน	Watch for workplace harassment	คุกคาม,ร้องเรียน		
+WARN-173	การงานและอาชีพ	ระวังการเมืองในออฟฟิศ	Watch for office politics	ออฟฟิศ,ฝักฝ่าย		
+WARN-174	การงานและอาชีพ	ระวังลาออกโดยยังไม่มีงานใหม่	Don't quit before you have a new job	ลาออก,วางแผน		
+WARN-175	การงานและอาชีพ	ระวังเปลี่ยนงานบ่อยเกินไป	Watch for job-hopping too often	เปลี่ยนงาน,ประวัติ		
+WARN-176	การงานและอาชีพ	ระวังทักษะตามไม่ทันงาน	Watch for falling behind on skills	ทักษะ,เรียนเพิ่ม		
+WARN-177	การงานและอาชีพ	ระวังเทคโนโลยีมาแทนงาน	Watch for tech replacing your job	เทคโนโลยี,ปรับตัว		
+WARN-178	การงานและอาชีพ	ระวังงานเสริมกระทบงานหลัก	Watch for side jobs hurting your main job	งานเสริม,เวลา		
+WARN-179	การงานและอาชีพ	ระวังเซ็นเอกสารโดยไม่อ่าน	Don't sign without reading	เอกสาร,ลายเซ็น		
+WARN-180	การงานและอาชีพ	ระวังข้อมูลบริษัทรั่วไหล	Watch for leaking company data	ข้อมูล,ความลับ		
+WARN-181	การเงินและทรัพย์สิน	ระวังเงินหาย	Watch for lost money	เงิน,ของหาย		
+WARN-182	การเงินและทรัพย์สิน	ระวังกระเป๋าสตางค์หาย	Watch for a lost wallet	กระเป๋าสตางค์,บัตร		
+WARN-183	การเงินและทรัพย์สิน	ระวังบัตรเครดิตถูกขโมยใช้	Watch for card fraud	บัตรเครดิต,โจรกรรม		
+WARN-184	การเงินและทรัพย์สิน	ระวังหนี้บัตรเครดิตพอกพูน	Watch for growing card debt	หนี้,ดอกเบี้ย		
+WARN-185	การเงินและทรัพย์สิน	ระวังกู้หนี้นอกระบบ	Avoid loan sharks	หนี้นอกระบบ,ดอกเบี้ยโหด		
+WARN-186	การเงินและทรัพย์สิน	ระวังค้ำประกันให้คนอื่น	Think twice before guaranteeing a loan	ค้ำประกัน,หนี้		
+WARN-187	การเงินและทรัพย์สิน	ระวังให้ยืมเงินแล้วไม่ได้คืน	Watch for loans not repaid	ยืมเงิน,เพื่อน		
+WARN-188	การเงินและทรัพย์สิน	ระวังใช้เงินเกินตัว	Watch for overspending	ฟุ่มเฟือย,งบประมาณ		
+WARN-189	การเงินและทรัพย์สิน	ระวังรายจ่ายไม่คาดฝัน	Watch for surprise costs	ค่าใช้จ่าย,ฉุกเฉิน		
+WARN-190	การเงินและทรัพย์สิน	ระวังเงินเก็บหมด	Watch for draining your savings	เงินเก็บ,สำรอง		
+WARN-191	การเงินและทรัพย์สิน	ระวังลงทุนขาดทุน	Watch for investment losses	ลงทุน,ความเสี่ยง		
+WARN-192	การเงินและทรัพย์สิน	ระวังแชร์ลูกโซ่	Watch for pyramid schemes	แชร์ลูกโซ่,หลอกลวง		
+WARN-193	การเงินและทรัพย์สิน	ระวังคริปโตผันผวน	Watch for crypto swings	คริปโต,ผันผวน		
+WARN-194	การเงินและทรัพย์สิน	ระวังหุ้นตก	Watch for falling stocks	หุ้น,ตลาด		
+WARN-195	การเงินและทรัพย์สิน	ระวังเล่นการพนัน	Watch for gambling	การพนัน,หนี้		
+WARN-196	การเงินและทรัพย์สิน	ระวังหวยกินเงิน	Watch how much goes on lottery	หวย,เสี่ยงโชค		
+WARN-197	การเงินและทรัพย์สิน	ระวังโดนโกงซื้อของออนไลน์	Watch for online shopping scams	ซื้อของ,ออนไลน์		
+WARN-198	การเงินและทรัพย์สิน	ระวังโอนเงินผิดบัญชี	Watch for transfers to the wrong account	โอนเงิน,ธนาคาร		
+WARN-199	การเงินและทรัพย์สิน	ระวังค่าธรรมเนียมแอบแฝง	Watch for hidden fees	ค่าธรรมเนียม,สัญญา		
+WARN-200	การเงินและทรัพย์สิน	ระวังผ่อนบ้านไม่ไหว	Watch for mortgage trouble	ผ่อนบ้าน,หนี้		
+WARN-201	การเงินและทรัพย์สิน	ระวังผ่อนรถไม่ไหว	Watch for car-loan trouble	ผ่อนรถ,ยึดรถ		
+WARN-202	การเงินและทรัพย์สิน	ระวังทรัพย์สินถูกยึด	Watch for repossession	ยึดทรัพย์,หนี้		
+WARN-203	การเงินและทรัพย์สิน	ระวังเครดิตบูโรเสีย	Watch your credit record	เครดิตบูโร,กู้เงิน		
+WARN-204	การเงินและทรัพย์สิน	ระวังยื่นภาษีผิด	Watch for tax-filing mistakes	ภาษี,ค่าปรับ		
+WARN-205	การเงินและทรัพย์สิน	ระวังประกันขาดต่ออายุ	Watch for lapsed insurance	ประกัน,ต่ออายุ		
+WARN-206	การเงินและทรัพย์สิน	ระวังของมีค่าหาย	Watch for losing valuables	ของมีค่า,ทอง		
+WARN-207	การเงินและทรัพย์สิน	ระวังทองปลอม ของปลอม	Watch for fake gold and fakes	ของปลอม,ทอง		
+WARN-208	การเงินและทรัพย์สิน	ระวังซื้อของแพงเกินจริง	Watch for overpaying	ราคา,เปรียบเทียบ		
+WARN-209	การเงินและทรัพย์สิน	ระวังเงินเฟ้อกินเงินเก็บ	Watch for inflation eating savings	เงินเฟ้อ,ค่าครองชีพ		
+WARN-210	การเงินและทรัพย์สิน	ระวังค่าเงินผันผวน	Watch for currency swings	ค่าเงิน,แลกเงิน		
+WARN-211	การเงินและทรัพย์สิน	ระวังมรดกเป็นปัญหา	Watch for inheritance disputes	มรดก,ญาติ		
+WARN-212	การเงินและทรัพย์สิน	ระวังเงินปันผลไม่เข้า	Watch for missing payouts	เงินปันผล,ล่าช้า		
+WARN-213	การเงินและทรัพย์สิน	ระวังลูกหนี้หนีหนี้	Watch for debtors who vanish	ลูกหนี้,ทวงหนี้		
+WARN-214	การเงินและทรัพย์สิน	ระวังรายได้ลดลงกะทันหัน	Watch for a sudden income drop	รายได้,ลดลง		
+WARN-215	การเงินและทรัพย์สิน	ระวังซื้อของตามอารมณ์	Watch for impulse buys	ช้อปปิ้ง,อารมณ์		
+WARN-216	การเงินและทรัพย์สิน	ระวังไม่มีเงินสำรองฉุกเฉิน	Keep an emergency fund	เงินสำรอง,วางแผน		
+WARN-217	ความรักและคู่ครอง	ระวังโดนบอกเลิก	Watch for a breakup	เลิกรา,ความรัก		
+WARN-218	ความรักและคู่ครอง	ระวังคนรักนอกใจ	Watch for a cheating partner	นอกใจ,มือที่สาม		
+WARN-219	ความรักและคู่ครอง	ระวังมือที่สาม	Watch for a third person	มือที่สาม,หึงหวง		
+WARN-220	ความรักและคู่ครอง	ระวังทะเลาะเรื่องเล็กจนบานปลาย	Watch for small fights growing	ทะเลาะ,อารมณ์		
+WARN-221	ความรักและคู่ครอง	ระวังหึงหวงจนเสียความสัมพันธ์	Watch for jealousy	หึงหวง,ไว้ใจ		
+WARN-222	ความรักและคู่ครอง	ระวังคนรักโกหก	Watch for a lying partner	โกหก,ความจริงใจ		
+WARN-223	ความรักและคู่ครอง	ระวังถูกหลอกให้รัก	Watch for being played	หลอกลวง,ความรัก		
+WARN-224	ความรักและคู่ครอง	ระวังแก๊งหลอกรักออนไลน์	Watch for romance scams	หลอกรัก,ออนไลน์		
+WARN-225	ความรักและคู่ครอง	ระวังรักคนมีเจ้าของ	Watch for falling for someone taken	มีเจ้าของ,ผิดศีล		
+WARN-226	ความรักและคู่ครอง	ระวังความรักทางไกลห่างเหิน	Watch for distance pulling you apart	ทางไกล,ห่างเหิน		
+WARN-227	ความรักและคู่ครอง	ระวังครอบครัวไม่ยอมรับคนรัก	Watch for family disapproval	ครอบครัว,ยอมรับ		
+WARN-228	ความรักและคู่ครอง	ระวังเงินทำให้ทะเลาะกัน	Watch for money fights	เงิน,คู่รัก		
+WARN-229	ความรักและคู่ครอง	ระวังความรุนแรงในความสัมพันธ์	Watch for abuse in a relationship	ความรุนแรง,ขอความช่วยเหลือ		
+WARN-230	ความรักและคู่ครอง	ระวังคนรักควบคุมมากเกินไป	Watch for a controlling partner	ควบคุม,อิสระ		
+WARN-231	ความรักและคู่ครอง	ระวังเสียตัวเองไปกับความรัก	Don't lose yourself in love	ตัวตน,ความรัก		
+WARN-232	ความรักและคู่ครอง	ระวังรักข้างเดียว	Watch for one-sided love	รักข้างเดียว,เสียใจ		
+WARN-233	ความรักและคู่ครอง	ระวังรีบแต่งงานเร็วเกินไป	Don't rush into marriage	แต่งงาน,รีบร้อน		
+WARN-234	ความรักและคู่ครอง	ระวังหย่าร้าง	Watch for divorce	หย่า,แยกทาง		
+WARN-235	ความรักและคู่ครอง	ระวังแย่งสิทธิ์เลี้ยงลูก	Watch for custody fights	ลูก,สิทธิ์เลี้ยงดู		
+WARN-236	ความรักและคู่ครอง	ระวังแฟนเก่ากลับมาวุ่นวาย	Watch for an ex stirring trouble	แฟนเก่า,ปัญหา		
+WARN-237	ความรักและคู่ครอง	ระวังเผลอใจกับคนใหม่	Watch for straying to someone new	เผลอใจ,ซื่อสัตย์		
+WARN-238	ความรักและคู่ครอง	ระวังความลับในความสัมพันธ์	Watch for secrets between you	ความลับ,ไว้ใจ		
+WARN-239	ความรักและคู่ครอง	ระวังคบซ้อน	Watch for two-timing	คบซ้อน,ความจริง		
+WARN-240	ความรักและคู่ครอง	ระวังรูปส่วนตัวหลุด	Watch for private photos leaking	รูปส่วนตัว,ความเป็นส่วนตัว		
+WARN-241	ความรักและคู่ครอง	ระวังตั้งครรภ์โดยไม่ได้วางแผน	Watch for unplanned pregnancy	ตั้งครรภ์,คุมกำเนิด		
+WARN-242	ความรักและคู่ครอง	ระวังจ้างแต่งแล้วโดนหลอก	Watch for sham-marriage scams	จ้างแต่ง,หลอกลวง		
+WARN-243	ความรักและคู่ครอง	ระวังคนเข้ามาเพราะผลประโยชน์	Watch for people after your money	ผลประโยชน์,เงิน		
+WARN-244	ความรักและคู่ครอง	ระวังคำพูดทำร้ายใจกัน	Watch for hurtful words	คำพูด,ใจ		
+WARN-245	ความรักและคู่ครอง	ระวังความรักจืดจาง	Watch for love going stale	จืดจาง,เติมไฟ		
+WARN-246	ความรักและคู่ครอง	ระวังเข้าใจผิดเพราะแชต	Watch for text-message misunderstandings	แชต,เข้าใจผิด		
+WARN-247	ความรักและคู่ครอง	ระวังเพื่อนยุให้แตกกัน	Watch for friends driving you apart	ยุแยง,เพื่อน		
+WARN-248	ความรักและคู่ครอง	ระวังรอคนที่ไม่กลับมา	Don't wait for someone who won't return	รอคอย,ปล่อยวาง		
+WARN-249	ความรักและคู่ครอง	ระวังรักเพราะเหงา	Watch for love out of loneliness	เหงา,ความรัก		
+WARN-250	ความรักและคู่ครอง	ระวังหลงคนที่ไม่จริงใจ	Watch for insincere charmers	ไม่จริงใจ,ปากหวาน		
+WARN-251	ความรักและคู่ครอง	ระวังเลิกแล้วยังพัวพัน	Watch for staying tangled after a breakup	เลิกรา,พัวพัน		
+WARN-252	ความรักและคู่ครอง	ระวังคนรักเจ็บป่วย	Watch your partner's health	คนรัก,สุขภาพ		
+WARN-253	ครอบครัวและญาติ	ระวังทะเลาะกับพ่อแม่	Watch for fights with parents	พ่อแม่,ทะเลาะ		
+WARN-254	ครอบครัวและญาติ	ระวังพี่น้องแตกคอ	Watch for siblings falling out	พี่น้อง,แตกคอ		
+WARN-255	ครอบครัวและญาติ	ระวังญาติยืมเงิน	Watch for relatives borrowing money	ญาติ,ยืมเงิน		
+WARN-256	ครอบครัวและญาติ	ระวังแย่งมรดก	Watch for fights over inheritance	มรดก,พี่น้อง		
+WARN-257	ครอบครัวและญาติ	ระวังผู้ใหญ่ในบ้านเจ็บป่วย	Watch elders' health	ผู้ใหญ่,เจ็บป่วย		
+WARN-258	ครอบครัวและญาติ	ระวังผู้สูงอายุหกล้ม	Watch for elders falling	ผู้สูงอายุ,ล้ม		
+WARN-259	ครอบครัวและญาติ	ระวังเด็กเล็กเกิดอุบัติเหตุ	Watch for accidents with small kids	เด็ก,อุบัติเหตุ		
+WARN-260	ครอบครัวและญาติ	ระวังเด็กพลัดหลง	Watch for kids getting lost	เด็ก,พลัดหลง		
+WARN-261	ครอบครัวและญาติ	ระวังลูกเรียนตก	Watch for a child falling behind	ลูก,การเรียน		
+WARN-262	ครอบครัวและญาติ	ระวังลูกคบเพื่อนไม่ดี	Watch your child's friends	ลูก,เพื่อน		
+WARN-263	ครอบครัวและญาติ	ระวังลูกติดเกม	Watch for gaming addiction	ลูก,เกม		
+WARN-264	ครอบครัวและญาติ	ระวังลูกโดนบูลลี่	Watch for your child being bullied	บูลลี่,โรงเรียน		
+WARN-265	ครอบครัวและญาติ	ระวังวัยรุ่นในบ้านเก็บปัญหา	Watch for a teen hiding problems	วัยรุ่น,สื่อสาร		
+WARN-266	ครอบครัวและญาติ	ระวังสัตว์เลี้ยงป่วย	Watch for a sick pet	สัตว์เลี้ยง,สัตวแพทย์		
+WARN-267	ครอบครัวและญาติ	ระวังสัตว์เลี้ยงหาย	Watch for a lost pet	สัตว์เลี้ยง,หาย		
+WARN-268	ครอบครัวและญาติ	ระวังภาระดูแลครอบครัวหนักเกินไป	Watch for too heavy a family load	ภาระ,ดูแล		
+WARN-269	ครอบครัวและญาติ	ระวังพูดไม่คิดกับคนในบ้าน	Watch careless words at home	คำพูด,ครอบครัว		
+WARN-270	ครอบครัวและญาติ	ระวังความลับครอบครัวรั่วไหล	Watch for family secrets getting out	ความลับ,ครอบครัว		
+WARN-271	ครอบครัวและญาติ	ระวังสะใภ้ เขยไม่ลงรอยกัน	Watch for in-law friction	สะใภ้,เขย		
+WARN-272	ครอบครัวและญาติ	ระวังเลี้ยงลูกต่างกันจนทะเลาะ	Watch for parenting clashes	เลี้ยงลูก,ความเห็นต่าง		
+WARN-273	ครอบครัวและญาติ	ระวังญาติมาอยู่ด้วยนาน	Watch for relatives overstaying	ญาติ,ที่อยู่		
+WARN-274	ครอบครัวและญาติ	ระวังห่างเหินกับครอบครัว	Watch for drifting from family	ครอบครัว,ห่างเหิน		
+WARN-275	ครอบครัวและญาติ	ระวังเสียคนในครอบครัว	Watch for losing a family member	สูญเสีย,ทำใจ		
+WARN-276	ครอบครัวและญาติ	ระวังงานศพงานบวชใช้เงินเกินตัว	Watch costs at funerals and ordinations	พิธี,ค่าใช้จ่าย		
+WARN-277	ครอบครัวและญาติ	ระวังกลับบ้านเกิดแล้วมีเรื่อง	Watch for trouble on visits home	บ้านเกิด,ญาติ		
+WARN-278	ครอบครัวและญาติ	ระวังเอกสารครอบครัวไม่ครบ	Keep family papers in order	ทะเบียนบ้าน,เอกสาร		
+WARN-279	ครอบครัวและญาติ	ระวังพินัยกรรมไม่ชัดเจน	Watch for an unclear will	พินัยกรรม,มรดก		
+WARN-280	ครอบครัวและญาติ	ระวังพ่อแม่โดนหลอกทางโทรศัพท์	Watch for scam calls to parents	แก๊งคอลเซ็นเตอร์,ผู้สูงอายุ		
+WARN-281	ครอบครัวและญาติ	ระวังเด็กเล่นน้ำโดยไม่มีคนดู	Watch kids near water	เด็ก,จมน้ำ		
+WARN-282	ครอบครัวและญาติ	ระวังลืมเด็กไว้ในรถ	Never leave a child in the car	เด็ก,รถ		
+WARN-283	ครอบครัวและญาติ	ระวังยาอยู่ในมือเด็ก	Keep medicine away from kids	ยา,เด็ก		
+WARN-284	ครอบครัวและญาติ	ระวังเปรียบเทียบลูกกับคนอื่น	Don't compare your kids	ลูก,เปรียบเทียบ		
+WARN-285	ครอบครัวและญาติ	ระวังครอบครัวแตกแยก	Watch for a family splitting	แตกแยก,ปรองดอง		
+WARN-286	ครอบครัวและญาติ	ระวังทะเลาะเรื่องที่ดิน	Watch for land disputes	ที่ดิน,ญาติ		
+WARN-287	ครอบครัวและญาติ	ระวังดูแลพ่อแม่ไม่ทั่วถึง	Watch for neglecting parents	พ่อแม่,ดูแล		
+WARN-288	ครอบครัวและญาติ	ระวังคนในบ้านติดหนี้	Watch for a family member in debt	หนี้,ครอบครัว		
+WARN-289	เพื่อนและคนรอบตัว	ระวังเพื่อนหักหลัง	Watch for a friend's betrayal	หักหลัง,เพื่อน		
+WARN-290	เพื่อนและคนรอบตัว	ระวังคนนินทาลับหลัง	Watch for gossip behind your back	นินทา,ลับหลัง		
+WARN-291	เพื่อนและคนรอบตัว	ระวังคนอิจฉา	Watch for envious people	อิจฉา,ริษยา		
+WARN-292	เพื่อนและคนรอบตัว	ระวังคนปากหวานก้นเปรี้ยว	Watch for sweet talkers	ปากหวาน,ไม่จริงใจ		
+WARN-293	เพื่อนและคนรอบตัว	ระวังเพื่อนชวนทำเรื่องผิด	Watch for friends leading you astray	ชักชวน,ผิดกฎหมาย		
+WARN-294	เพื่อนและคนรอบตัว	ระวังเพื่อนยืมของไม่คืน	Watch for things borrowed and not returned	ยืมของ,เพื่อน		
+WARN-295	เพื่อนและคนรอบตัว	ระวังเอาความลับไปบอกคนผิด	Watch who you share secrets with	ความลับ,ไว้ใจ		
+WARN-296	เพื่อนและคนรอบตัว	ระวังถูกใส่ร้าย	Watch for being framed	ใส่ร้าย,ชื่อเสียง		
+WARN-297	เพื่อนและคนรอบตัว	ระวังถูกเอาเปรียบ	Watch for being taken advantage of	เอาเปรียบ,ขอบเขต		
+WARN-298	เพื่อนและคนรอบตัว	ระวังคนแปลกหน้าเข้ามาตีสนิท	Watch for strangers getting friendly fast	คนแปลกหน้า,ตีสนิท		
+WARN-299	เพื่อนและคนรอบตัว	ระวังเข้ากลุ่มผิด	Watch for the wrong crowd	กลุ่มเพื่อน,อิทธิพล		
+WARN-300	เพื่อนและคนรอบตัว	ระวังเพื่อนห่างหาย	Watch for friends drifting off	เพื่อน,ห่างเหิน		
+WARN-301	เพื่อนและคนรอบตัว	ระวังทะเลาะในวงเหล้า	Watch for fights over drinks	วงเหล้า,ทะเลาะ		
+WARN-302	เพื่อนและคนรอบตัว	ระวังพูดเล่นจนเกินเลย	Watch jokes going too far	ล้อเล่น,คำพูด		
+WARN-303	เพื่อนและคนรอบตัว	ระวังสัญญาแล้วไม่ทำ	Keep your promises	สัญญา,ความน่าเชื่อถือ		
+WARN-304	เพื่อนและคนรอบตัว	ระวังคนพาลเข้ามาหาเรื่อง	Watch for troublemakers	คนพาล,หาเรื่อง		
+WARN-305	เพื่อนและคนรอบตัว	ระวังโดนเหยียดเชื้อชาติ	Watch for racism	เหยียด,เชื้อชาติ		
+WARN-306	เพื่อนและคนรอบตัว	ระวังโดนบูลลี่	Watch for bullying	บูลลี่,กลั่นแกล้ง		
+WARN-307	เพื่อนและคนรอบตัว	ระวังคนยุให้แตกกัน	Watch for people stirring division	ยุแยง,แตกแยก		
+WARN-308	เพื่อนและคนรอบตัว	ระวังเป็นที่พึ่งจนตัวเองลำบาก	Don't help others at your own cost	ช่วยเหลือ,ขอบเขต		
+WARN-309	เพื่อนและคนรอบตัว	ระวังเพื่อนบ้านเกเร	Watch for rowdy neighbours	เพื่อนบ้าน,ความปลอดภัย		
+WARN-310	เพื่อนและคนรอบตัว	ระวังคนเก่ากลับมาทวงบุญคุณ	Watch for old debts of gratitude	บุญคุณ,ทวง		
+WARN-311	เพื่อนและคนรอบตัว	ระวังเชื่อคนง่ายเกินไป	Don't trust too easily	เชื่อใจ,ระวังตัว		
+WARN-312	เพื่อนและคนรอบตัว	ระวังพูดความลับคนอื่นต่อ	Don't pass on others' secrets	ความลับ,นินทา		
+WARN-313	เพื่อนและคนรอบตัว	ระวังคนมาขอความช่วยเหลือแล้วหาย	Watch for people who take and disappear	ช่วยเหลือ,หายไป		
+WARN-314	เพื่อนและคนรอบตัว	ระวังทะเลาะเรื่องการเมือง ศาสนา	Watch for fights over politics or religion	การเมือง,ศาสนา		
+WARN-315	เพื่อนและคนรอบตัว	ระวังคนพูดจาทำร้ายใจ	Watch for hurtful people	คำพูด,ใจ		
+WARN-316	เพื่อนและคนรอบตัว	ระวังงานเลี้ยงเกิดเรื่อง	Watch for trouble at parties	งานเลี้ยง,ปัญหา		
+WARN-317	เพื่อนและคนรอบตัว	ระวังคนอายุน้อยกว่าเอาเปรียบ	Watch for younger people taking advantage	อายุน้อยกว่า,เอาเปรียบ		
+WARN-318	เพื่อนและคนรอบตัว	ระวังคนอายุมากกว่ากดดัน	Watch for pressure from elders	อายุมากกว่า,กดดัน		
+WARN-319	เพื่อนและคนรอบตัว	ระวังคนในที่สาธารณะก่อเหตุ	Watch for incidents in public places	ที่สาธารณะ,เหตุร้าย		
+WARN-320	เพื่อนและคนรอบตัว	ระวังเป็นแพะรับบาป	Watch for being made the scapegoat	แพะ,ใส่ร้าย		
+WARN-321	เพื่อนและคนรอบตัว	ระวังคนเก่าทำให้ชื่อเสียงเสีย	Watch for an old contact harming your name	ชื่อเสียง,อดีต		
+WARN-322	เพื่อนและคนรอบตัว	ระวังเพื่อนชวนลงทุน	Watch for friends pitching investments	ชวนลงทุน,เพื่อน		
+WARN-323	เพื่อนและคนรอบตัว	ระวังคนรอบตัวพึ่งพาเรามากเกินไป	Watch for people leaning on you too much	พึ่งพา,ภาระ		
+WARN-324	เพื่อนและคนรอบตัว	ระวังเสียเพื่อนเพราะเงิน	Watch for losing friends over money	เงิน,มิตรภาพ		
+WARN-325	การเรียนและการสอบ	ระวังสอบตก	Watch for failing exams	สอบ,ตก		
+WARN-326	การเรียนและการสอบ	ระวังอ่านหนังสือไม่ทัน	Watch for running out of study time	อ่านหนังสือ,เวลา		
+WARN-327	การเรียนและการสอบ	ระวังส่งงานไม่ทัน	Watch for late assignments	การบ้าน,กำหนดส่ง		
+WARN-328	การเรียนและการสอบ	ระวังลอกงานจนโดนจับได้	Watch for being caught copying	ลอกงาน,ทุจริต		
+WARN-329	การเรียนและการสอบ	ระวังลืมวันสอบ	Don't forget exam day	วันสอบ,ตาราง		
+WARN-330	การเรียนและการสอบ	ระวังไปสอบสาย	Watch for being late to an exam	สาย,สอบ		
+WARN-331	การเรียนและการสอบ	ระวังตื่นเต้นจนทำข้อสอบไม่ได้	Watch for exam nerves	ตื่นเต้น,สมาธิ		
+WARN-332	การเรียนและการสอบ	ระวังเลือกสาขาผิด	Watch for choosing the wrong major	สาขา,ตัดสินใจ		
+WARN-333	การเรียนและการสอบ	ระวังไม่ได้ทุน	Watch for missing a scholarship	ทุน,สมัคร		
+WARN-334	การเรียนและการสอบ	ระวังเกรดตก	Watch for grades slipping	เกรด,ผลการเรียน		
+WARN-335	การเรียนและการสอบ	ระวังเพื่อนร่วมกลุ่มไม่ช่วยงาน	Watch for slackers in group work	งานกลุ่ม,เพื่อน		
+WARN-336	การเรียนและการสอบ	ระวังมีปัญหากับอาจารย์	Watch for trouble with a teacher	อาจารย์,ความสัมพันธ์		
+WARN-337	การเรียนและการสอบ	ระวังค่าเทอมไม่พอ	Watch for tuition shortfalls	ค่าเทอม,เงิน		
+WARN-338	การเรียนและการสอบ	ระวังเรียนไม่จบตามกำหนด	Watch for not graduating on time	จบช้า,หน่วยกิต		
+WARN-339	การเรียนและการสอบ	ระวังโดนรีไทร์	Watch for being dismissed	รีไทร์,เกรด		
+WARN-340	การเรียนและการสอบ	ระวังติดโซเชียลจนไม่เรียน	Watch for social media eating study time	โซเชียล,สมาธิ		
+WARN-341	การเรียนและการสอบ	ระวังเที่ยวเยอะจนเสียการเรียน	Watch for too much partying	เที่ยว,การเรียน		
+WARN-342	การเรียนและการสอบ	ระวังเรียนไปทำงานไปจนล้า	Watch for study-and-work exhaustion	ทำงาน,เหนื่อย		
+WARN-343	การเรียนและการสอบ	ระวังไฟล์งานหาย	Watch for losing your files	ไฟล์,สำรองข้อมูล		
+WARN-344	การเรียนและการสอบ	ระวังสมัครเรียนไม่ทันกำหนด	Watch for missed application deadlines	สมัครเรียน,กำหนด		
+WARN-345	การเรียนและการสอบ	ระวังเอกสารสมัครไม่ครบ	Watch for incomplete applications	เอกสาร,สมัคร		
+WARN-346	การเรียนและการสอบ	ระวังสัมภาษณ์เข้าเรียนไม่ผ่าน	Watch for failing an admission interview	สัมภาษณ์,เข้าเรียน		
+WARN-347	การเรียนและการสอบ	ระวังวีซ่านักเรียนมีปัญหา	Watch for student visa trouble	วีซ่านักเรียน,ต่างประเทศ		
+WARN-348	การเรียนและการสอบ	ระวังปรับตัวไม่ได้ในที่เรียนใหม่	Watch for trouble settling in	ปรับตัว,ที่ใหม่		
+WARN-349	การเรียนและการสอบ	ระวังภาษาเป็นอุปสรรค	Watch for language barriers	ภาษา,สื่อสาร		
+WARN-350	การเรียนและการสอบ	ระวังโดนบูลลี่ในโรงเรียน	Watch for school bullying	บูลลี่,โรงเรียน		
+WARN-351	การเรียนและการสอบ	ระวังเครียดเพราะความคาดหวัง	Watch for pressure from expectations	ความคาดหวัง,ความเครียด		
+WARN-352	การเรียนและการสอบ	ระวังเรียนพิเศษมากเกินไป	Watch for too many tutoring classes	เรียนพิเศษ,พักผ่อน		
+WARN-353	การเรียนและการสอบ	ระวังงานวิจัยไม่ผ่าน	Watch for research not being approved	วิจัย,ที่ปรึกษา		
+WARN-354	การเรียนและการสอบ	ระวังคัดลอกผลงานโดยไม่อ้างอิง	Watch for plagiarism	อ้างอิง,ลิขสิทธิ์		
+WARN-355	การเรียนและการสอบ	ระวังเลือกที่เรียนตามเพื่อน	Don't pick a school just for friends	เลือกที่เรียน,ตัดสินใจ		
+WARN-356	การเรียนและการสอบ	ระวังหอพักไม่ปลอดภัย	Watch for unsafe dorms	หอพัก,ความปลอดภัย		
+WARN-357	การเรียนและการสอบ	ระวังกู้ยืมเพื่อการศึกษาเกินตัว	Watch for too much student debt	กยศ,หนี้		
+WARN-358	การเรียนและการสอบ	ระวังหมดไฟกลางเทอม	Watch for mid-term burnout	หมดไฟ,เทอม		
+WARN-359	การเรียนและการสอบ	ระวังใบรับรองการศึกษาไม่ได้รับการยอมรับ	Check your qualification is recognised	วุฒิ,รับรอง		
+WARN-360	การเรียนและการสอบ	ระวังสถาบันปลอม	Watch for fake schools	สถาบัน,หลอกลวง		
+WARN-361	กฎหมาย เอกสาร และคดีความ	ระวังโดนฟ้องร้อง	Watch for lawsuits	ฟ้องร้อง,คดี		
+WARN-362	กฎหมาย เอกสาร และคดีความ	ระวังโดนแจ้งความ	Watch for police complaints	แจ้งความ,ตำรวจ		
+WARN-363	กฎหมาย เอกสาร และคดีความ	ระวังเอกสารหมดอายุ	Watch for expired documents	เอกสาร,ต่ออายุ		
+WARN-364	กฎหมาย เอกสาร และคดีความ	ระวังพาสปอร์ตหมดอายุ	Watch for an expired passport	พาสปอร์ต,ต่ออายุ		
+WARN-365	กฎหมาย เอกสาร และคดีความ	ระวังวีซ่าหมดอายุ	Watch for an expired visa	วีซ่า,อยู่เกินกำหนด		
+WARN-366	กฎหมาย เอกสาร และคดีความ	ระวังอยู่เกินวีซ่า	Watch for overstaying	โอเวอร์สเตย์,ตม.		
+WARN-367	กฎหมาย เอกสาร และคดีความ	ระวังติดปัญหาที่ตม.	Watch for trouble at immigration	ตม.,ด่าน		
+WARN-368	กฎหมาย เอกสาร และคดีความ	ระวังโดนส่งกลับประเทศ	Watch for deportation	ส่งกลับ,ตม.		
+WARN-369	กฎหมาย เอกสาร และคดีความ	ระวังเซ็นสัญญาเสียเปรียบ	Watch for one-sided contracts	สัญญา,เสียเปรียบ		
+WARN-370	กฎหมาย เอกสาร และคดีความ	ระวังลืมต่อใบขับขี่	Watch for an expired driving licence	ใบขับขี่,ต่ออายุ		
+WARN-371	กฎหมาย เอกสาร และคดีความ	ระวังลืมต่อภาษีรถ	Watch for unpaid road tax	ภาษีรถ,ค่าปรับ		
+WARN-372	กฎหมาย เอกสาร และคดีความ	ระวังโดนปรับ	Watch for fines	ค่าปรับ,กฎ		
+WARN-373	กฎหมาย เอกสาร และคดีความ	ระวังทำผิดกฎหมายโดยไม่รู้ตัว	Watch for breaking laws without knowing	กฎหมาย,ไม่รู้		
+WARN-374	กฎหมาย เอกสาร และคดีความ	ระวังพกของต้องห้ามขึ้นเครื่อง	Watch for banned items when flying	ของต้องห้าม,สนามบิน		
+WARN-375	กฎหมาย เอกสาร และคดีความ	ระวังรับฝากของจากคนแปลกหน้า	Never carry bags for strangers	ฝากของ,ยาเสพติด		
+WARN-376	กฎหมาย เอกสาร และคดีความ	ระวังเอกสารปลอม	Watch for forged papers	เอกสารปลอม,ผิดกฎหมาย		
+WARN-377	กฎหมาย เอกสาร และคดีความ	ระวังโดนสวมรอยตัวตน	Watch for identity theft	สวมรอย,บัตรประชาชน		
+WARN-378	กฎหมาย เอกสาร และคดีความ	ระวังสำเนาบัตรถูกนำไปใช้	Watch where your ID copies go	สำเนาบัตร,ลายเซ็น		
+WARN-379	กฎหมาย เอกสาร และคดีความ	ระวังคดีมรดก	Watch for inheritance cases	มรดก,ศาล		
+WARN-380	กฎหมาย เอกสาร และคดีความ	ระวังคดีที่ดิน	Watch for land cases	ที่ดิน,โฉนด		
+WARN-381	กฎหมาย เอกสาร และคดีความ	ระวังหมิ่นประมาทบนโซเชียล	Watch for defamation online	หมิ่นประมาท,โซเชียล		
+WARN-382	กฎหมาย เอกสาร และคดีความ	ระวังละเมิดลิขสิทธิ์	Watch for copyright breaches	ลิขสิทธิ์,ละเมิด		
+WARN-383	กฎหมาย เอกสาร และคดีความ	ระวังโดนเรียกค่าเสียหาย	Watch for damage claims	ค่าเสียหาย,คดี		
+WARN-384	กฎหมาย เอกสาร และคดีความ	ระวังพยานกลับคำ	Watch for witnesses changing their story	พยาน,คดี		
+WARN-385	กฎหมาย เอกสาร และคดีความ	ระวังทนายไม่ซื่อ	Watch for a dishonest lawyer	ทนาย,ความไว้ใจ		
+WARN-386	กฎหมาย เอกสาร และคดีความ	ระวังคดียืดเยื้อ	Watch for drawn-out cases	คดี,ล่าช้า		
+WARN-387	กฎหมาย เอกสาร และคดีความ	ระวังเรื่องจบที่ศาล	Watch for things ending up in court	ศาล,ไกล่เกลี่ย		
+WARN-388	กฎหมาย เอกสาร และคดีความ	ระวังโดนเจ้าหน้าที่เรียกตรวจ	Watch for official checks	ตรวจค้น,เจ้าหน้าที่		
+WARN-389	กฎหมาย เอกสาร และคดีความ	ระวังทำงานผิดประเภทวีซ่า	Watch for working outside your visa	วีซ่า,ใบอนุญาตทำงาน		
+WARN-390	กฎหมาย เอกสาร และคดีความ	ระวังสัญญาเช่าไม่เป็นธรรม	Watch for unfair leases	สัญญาเช่า,เจ้าของบ้าน		
+WARN-391	กฎหมาย เอกสาร และคดีความ	ระวังลายเซ็นถูกปลอม	Watch for forged signatures	ลายเซ็น,ปลอม		
+WARN-392	กฎหมาย เอกสาร และคดีความ	ระวังกรอกข้อมูลผิดในเอกสารราชการ	Watch for mistakes on official forms	แบบฟอร์ม,ราชการ		
+WARN-393	กฎหมาย เอกสาร และคดีความ	ระวังเอกสารยื่นล่าช้า	Watch for late filings	ยื่นเอกสาร,กำหนด		
+WARN-394	กฎหมาย เอกสาร และคดีความ	ระวังโดนอายัดบัญชี	Watch for a frozen account	อายัด,ธนาคาร		
+WARN-395	กฎหมาย เอกสาร และคดีความ	ระวังเป็นบัญชีม้าโดยไม่รู้ตัว	Never lend your bank account	บัญชีม้า,ผิดกฎหมาย		
+WARN-396	กฎหมาย เอกสาร และคดีความ	ระวังรับรองเอกสารให้คนอื่น	Watch what you certify for others	รับรองสำเนา,ความรับผิด		
+WARN-397	อาชญากรรมและภัยจากคนร้าย	ระวังโดนวิ่งราว	Watch for bag snatchers	วิ่งราว,กระเป๋า		
+WARN-398	อาชญากรรมและภัยจากคนร้าย	ระวังโดนปล้น	Watch for robbery	ปล้น,ความปลอดภัย		
+WARN-399	อาชญากรรมและภัยจากคนร้าย	ระวังโดนทำร้ายร่างกาย	Watch for assault	ทำร้าย,ความรุนแรง		
+WARN-400	อาชญากรรมและภัยจากคนร้าย	ระวังเดินคนเดียวกลางคืน	Watch walking alone at night	กลางคืน,เดินคนเดียว		
+WARN-401	อาชญากรรมและภัยจากคนร้าย	ระวังโดนมอมยา	Watch your drink	มอมยา,เครื่องดื่ม		
+WARN-402	อาชญากรรมและภัยจากคนร้าย	ระวังโดนลวนลาม	Watch for groping	ลวนลาม,คุกคาม		
+WARN-403	อาชญากรรมและภัยจากคนร้าย	ระวังโดนสะกดรอยตาม	Watch for being followed	สะกดรอย,ความปลอดภัย		
+WARN-404	อาชญากรรมและภัยจากคนร้าย	ระวังรถถูกขโมย	Watch for car theft	ขโมยรถ,ล็อก		
+WARN-405	อาชญากรรมและภัยจากคนร้าย	ระวังจักรยานยนต์หาย	Watch for motorbike theft	ขโมย,มอเตอร์ไซค์		
+WARN-406	อาชญากรรมและภัยจากคนร้าย	ระวังโจรงัดรถ	Watch for car break-ins	งัดรถ,ของในรถ		
+WARN-407	อาชญากรรมและภัยจากคนร้าย	ระวังแก๊งต้มตุ๋น	Watch for con artists	ต้มตุ๋น,หลอกลวง		
+WARN-408	อาชญากรรมและภัยจากคนร้าย	ระวังแก๊งคอลเซ็นเตอร์	Watch for scam call centres	คอลเซ็นเตอร์,โทรศัพท์		
+WARN-409	อาชญากรรมและภัยจากคนร้าย	ระวังคนปลอมเป็นเจ้าหน้าที่	Watch for fake officials	ปลอมตัว,เจ้าหน้าที่		
+WARN-410	อาชญากรรมและภัยจากคนร้าย	ระวังคนปลอมเป็นช่างเข้าบ้าน	Watch for fake repairmen	ช่างปลอม,บ้าน		
+WARN-411	อาชญากรรมและภัยจากคนร้าย	ระวังโดนข่มขู่	Watch for threats	ข่มขู่,ความปลอดภัย		
+WARN-412	อาชญากรรมและภัยจากคนร้าย	ระวังโดนแบล็กเมล์	Watch for blackmail	แบล็กเมล์,ความลับ		
+WARN-413	อาชญากรรมและภัยจากคนร้าย	ระวังเหตุกราดยิง	Watch for mass shootings	กราดยิง,ทางออกฉุกเฉิน		
+WARN-414	อาชญากรรมและภัยจากคนร้าย	ระวังเหตุระเบิด	Watch for explosions	ระเบิด,ความปลอดภัย		
+WARN-415	อาชญากรรมและภัยจากคนร้าย	ระวังเหตุจลาจล	Watch for riots	จลาจล,ชุมนุม		
+WARN-416	อาชญากรรมและภัยจากคนร้าย	ระวังลูกหลง	Watch for being caught in the crossfire	ลูกหลง,เหตุร้าย		
+WARN-417	อาชญากรรมและภัยจากคนร้าย	ระวังโดนลักพาตัว	Watch for kidnapping	ลักพาตัว,ความปลอดภัย		
+WARN-418	อาชญากรรมและภัยจากคนร้าย	ระวังขบวนการค้ามนุษย์	Watch for trafficking	ค้ามนุษย์,งานต่างประเทศ		
+WARN-419	อาชญากรรมและภัยจากคนร้าย	ระวังงานต่างประเทศที่ดีเกินจริง	Watch for too-good jobs abroad	งานต่างประเทศ,หลอกลวง		
+WARN-420	อาชญากรรมและภัยจากคนร้าย	ระวังคนเมาอาละวาด	Watch for violent drunks	เมา,อาละวาด		
+WARN-421	อาชญากรรมและภัยจากคนร้าย	ระวังโดนลูกหลงจากการทะเลาะวิวาท	Stay clear of brawls	ทะเลาะวิวาท,บาดเจ็บ		
+WARN-422	อาชญากรรมและภัยจากคนร้าย	ระวังของในกระเป๋าตอนอยู่ในตลาด	Watch your bag in markets	ตลาด,ล้วงกระเป๋า		
+WARN-423	อาชญากรรมและภัยจากคนร้าย	ระวังตู้เอทีเอ็มถูกติดเครื่องดักบัตร	Watch for ATM skimmers	เอทีเอ็ม,ดักบัตร		
+WARN-424	อาชญากรรมและภัยจากคนร้าย	ระวังพัสดุปลอม เก็บเงินปลายทาง	Watch for fake cash-on-delivery parcels	พัสดุ,เก็บเงินปลายทาง		
+WARN-425	อาชญากรรมและภัยจากคนร้าย	ระวังคนเคาะประตูแปลกหน้า	Watch for strangers at the door	ประตู,คนแปลกหน้า		
+WARN-426	อาชญากรรมและภัยจากคนร้าย	ระวังที่พักไม่ปลอดภัย	Watch for unsafe lodging	ที่พัก,ความปลอดภัย		
+WARN-427	อาชญากรรมและภัยจากคนร้าย	ระวังเหตุร้ายในงานคอนเสิร์ต	Watch for trouble at concerts	คอนเสิร์ต,ฝูงชน		
+WARN-428	อาชญากรรมและภัยจากคนร้าย	ระวังฝูงชนเบียดกัน	Watch for crowd crushes	ฝูงชน,เบียด		
+WARN-429	อาชญากรรมและภัยจากคนร้าย	ระวังโดนจี้	Watch for being held up	จี้,ปล้น		
+WARN-430	อาชญากรรมและภัยจากคนร้าย	ระวังของหายในโรงแรม	Watch for theft in hotels	โรงแรม,ตู้เซฟ		
+WARN-431	อาชญากรรมและภัยจากคนร้าย	ระวังรับของจากคนแปลกหน้า	Don't take things from strangers	ของแปลกหน้า,อันตราย		
+WARN-432	อาชญากรรมและภัยจากคนร้าย	ระวังเหตุร้ายในที่อโคจร	Avoid dodgy places	ที่อโคจร,อันตราย		
+WARN-433	เทคโนโลยีและออนไลน์	ระวังโดนแฮกบัญชี	Watch for hacked accounts	แฮก,รหัสผ่าน		
+WARN-434	เทคโนโลยีและออนไลน์	ระวังลิงก์หลอกลวง	Watch for phishing links	ลิงก์,ฟิชชิ่ง		
+WARN-435	เทคโนโลยีและออนไลน์	ระวังแอปดูดเงิน	Watch for money-stealing apps	แอป,มัลแวร์		
+WARN-436	เทคโนโลยีและออนไลน์	ระวังรหัสผ่านรั่ว	Watch for leaked passwords	รหัสผ่าน,ข้อมูลรั่ว		
+WARN-437	เทคโนโลยีและออนไลน์	ระวังบอกรหัส OTP ให้คนอื่น	Never share your OTP	OTP,ธนาคาร		
+WARN-438	เทคโนโลยีและออนไลน์	ระวังมือถือหาย	Watch for a lost phone	มือถือ,ของหาย		
+WARN-439	เทคโนโลยีและออนไลน์	ระวังมือถือตกน้ำ	Watch for a phone in water	มือถือ,น้ำ		
+WARN-440	เทคโนโลยีและออนไลน์	ระวังจอแตก	Watch for a cracked screen	จอ,มือถือ		
+WARN-441	เทคโนโลยีและออนไลน์	ระวังข้อมูลหายเพราะไม่ได้สำรอง	Back up your data	สำรองข้อมูล,ไฟล์		
+WARN-442	เทคโนโลยีและออนไลน์	ระวังคอมพิวเตอร์ติดไวรัส	Watch for viruses	ไวรัส,คอมพิวเตอร์		
+WARN-443	เทคโนโลยีและออนไลน์	ระวังแรนซัมแวร์	Watch for ransomware	แรนซัมแวร์,เรียกค่าไถ่		
+WARN-444	เทคโนโลยีและออนไลน์	ระวังโพสต์แล้วเป็นดราม่า	Watch for posts that cause drama	โพสต์,ดราม่า		
+WARN-445	เทคโนโลยีและออนไลน์	ระวังโพสต์ข้อมูลส่วนตัวมากเกินไป	Don't overshare online	ข้อมูลส่วนตัว,โซเชียล		
+WARN-446	เทคโนโลยีและออนไลน์	ระวังโดนแอบอ้างชื่อในโซเชียล	Watch for fake profiles of you	แอบอ้าง,บัญชีปลอม		
+WARN-447	เทคโนโลยีและออนไลน์	ระวังข่าวปลอม	Watch for fake news	ข่าวปลอม,ตรวจสอบ		
+WARN-448	เทคโนโลยีและออนไลน์	ระวังคลิปปลอมจาก AI	Watch for AI deepfakes	ดีปเฟก,AI		
+WARN-449	เทคโนโลยีและออนไลน์	ระวังเสียงปลอมโทรมายืมเงิน	Watch for cloned-voice calls	เสียงปลอม,ยืมเงิน		
+WARN-450	เทคโนโลยีและออนไลน์	ระวังซื้อของจากร้านปลอม	Watch for fake shops	ร้านปลอม,ออนไลน์		
+WARN-451	เทคโนโลยีและออนไลน์	ระวังโดนบูลลี่ออนไลน์	Watch for cyberbullying	บูลลี่,ออนไลน์		
+WARN-452	เทคโนโลยีและออนไลน์	ระวังติดมือถือจนเสียงาน	Watch for phone addiction	ติดมือถือ,สมาธิ		
+WARN-453	เทคโนโลยีและออนไลน์	ระวังเกมออนไลน์ใช้เงินเกิน	Watch in-game spending	เกม,เติมเงิน		
+WARN-454	เทคโนโลยีและออนไลน์	ระวังสมัครสมาชิกแล้วลืมยกเลิก	Watch for forgotten subscriptions	สมัครสมาชิก,ค่าบริการ		
+WARN-455	เทคโนโลยีและออนไลน์	ระวังใช้ไวไฟสาธารณะทำธุรกรรม	Avoid banking on public Wi-Fi	ไวไฟ,ความปลอดภัย		
+WARN-456	เทคโนโลยีและออนไลน์	ระวังแชตหลุด	Watch for leaked chats	แชต,ความลับ		
+WARN-457	เทคโนโลยีและออนไลน์	ระวังกดส่งข้อความผิดห้อง	Watch for messages sent to the wrong chat	แชต,ส่งผิด		
+WARN-458	เทคโนโลยีและออนไลน์	ระวังบัญชีโซเชียลโดนปิด	Watch for your account being shut	บัญชี,แบน		
+WARN-459	เทคโนโลยีและออนไลน์	ระวังเว็บพนันออนไลน์	Watch for online gambling sites	พนันออนไลน์,ผิดกฎหมาย		
+WARN-460	เทคโนโลยีและออนไลน์	ระวังลงทุนผ่านแอปปลอม	Watch for fake investment apps	ลงทุน,แอปปลอม		
+WARN-461	เทคโนโลยีและออนไลน์	ระวังคนแปลกหน้าขอรูปส่วนตัว	Watch for strangers asking for photos	รูปส่วนตัว,คุกคาม		
+WARN-462	เทคโนโลยีและออนไลน์	ระวังเด็กเจอคนแปลกหน้าออนไลน์	Watch kids talking to strangers online	เด็ก,ออนไลน์		
+WARN-463	เทคโนโลยีและออนไลน์	ระวังอุปกรณ์ชาร์จระเบิด	Watch for exploding chargers	แบตเตอรี่,ไฟไหม้		
+WARN-464	เทคโนโลยีและออนไลน์	ระวังกล้องแอบถ่าย	Watch for hidden cameras	กล้อง,ความเป็นส่วนตัว		
+WARN-465	เทคโนโลยีและออนไลน์	ระวังตำแหน่งที่อยู่รั่วไหล	Watch for sharing your location	ตำแหน่ง,ความปลอดภัย		
+WARN-466	เทคโนโลยีและออนไลน์	ระวังรีวิวปลอม	Watch for fake reviews	รีวิว,ตัดสินใจ		
+WARN-467	เทคโนโลยีและออนไลน์	ระวังระบบล่มในวันสำคัญ	Watch for systems failing on a key day	ระบบล่ม,สำรองแผน		
+WARN-468	เทคโนโลยีและออนไลน์	ระวังอีเมลปลอมจากธนาคาร	Watch for fake bank emails	อีเมล,ธนาคาร		
+WARN-469	จิตใจ อารมณ์ และนิสัยตัวเอง	ระวังใจร้อนจนเสียการ	Watch your temper	ใจร้อน,อารมณ์		
+WARN-470	จิตใจ อารมณ์ และนิสัยตัวเอง	ระวังพูดก่อนคิด	Think before you speak	คำพูด,ยั้งคิด		
+WARN-471	จิตใจ อารมณ์ และนิสัยตัวเอง	ระวังตัดสินใจตอนอารมณ์ไม่ดี	Don't decide when upset	ตัดสินใจ,อารมณ์		
+WARN-472	จิตใจ อารมณ์ และนิสัยตัวเอง	ระวังประมาท	Watch for carelessness	ประมาท,รอบคอบ		
+WARN-473	จิตใจ อารมณ์ และนิสัยตัวเอง	ระวังเชื่อมั่นในตัวเองเกินไป	Watch for overconfidence	มั่นใจ,ประมาท		
+WARN-474	จิตใจ อารมณ์ และนิสัยตัวเอง	ระวังผัดวันประกันพรุ่ง	Watch for putting things off	ผัดวัน,เวลา		
+WARN-475	จิตใจ อารมณ์ และนิสัยตัวเอง	ระวังโลภจนเสียทั้งหมด	Watch for greed	โลภ,เสี่ยง		
+WARN-476	จิตใจ อารมณ์ และนิสัยตัวเอง	ระวังอิจฉาคนอื่น	Watch for envy	อิจฉา,เปรียบเทียบ		
+WARN-477	จิตใจ อารมณ์ และนิสัยตัวเอง	ระวังคิดมากจนนอนไม่หลับ	Watch for overthinking	คิดมาก,นอนไม่หลับ		
+WARN-478	จิตใจ อารมณ์ และนิสัยตัวเอง	ระวังเก็บกดจนระเบิด	Watch for bottled-up feelings	เก็บกด,ระบาย		
+WARN-479	จิตใจ อารมณ์ และนิสัยตัวเอง	ระวังเหงาจนตัดสินใจผิด	Watch for loneliness clouding judgement	เหงา,ตัดสินใจ		
+WARN-480	จิตใจ อารมณ์ และนิสัยตัวเอง	ระวังหลงเชื่อคำทำนายเกินไป	Don't lean too hard on predictions	ความเชื่อ,สติ		
+WARN-481	จิตใจ อารมณ์ และนิสัยตัวเอง	ระวังทิฐิไม่ยอมใคร	Watch for stubborn pride	ทิฐิ,ยอมรับ		
+WARN-482	จิตใจ อารมณ์ และนิสัยตัวเอง	ระวังขี้เกรงใจจนเสียเปรียบ	Watch for being too polite to say no	เกรงใจ,ปฏิเสธ		
+WARN-483	จิตใจ อารมณ์ และนิสัยตัวเอง	ระวังใจอ่อนจนโดนหลอก	Watch for a soft heart being used	ใจอ่อน,หลอกลวง		
+WARN-484	จิตใจ อารมณ์ และนิสัยตัวเอง	ระวังโกหกจนเรื่องใหญ่	Watch for lies growing bigger	โกหก,ความจริง		
+WARN-485	จิตใจ อารมณ์ และนิสัยตัวเอง	ระวังเอาแต่ใจตัวเอง	Watch for selfishness	เอาแต่ใจ,ผู้อื่น		
+WARN-486	จิตใจ อารมณ์ และนิสัยตัวเอง	ระวังหลงตัวเอง	Watch for vanity	หลงตัวเอง,ถ่อมตน		
+WARN-487	จิตใจ อารมณ์ และนิสัยตัวเอง	ระวังสิ้นหวังง่ายเกินไป	Don't give up too easily	สิ้นหวัง,กำลังใจ		
+WARN-488	จิตใจ อารมณ์ และนิสัยตัวเอง	ระวังคาดหวังสูงเกินไป	Watch for expecting too much	คาดหวัง,ผิดหวัง		
+WARN-489	จิตใจ อารมณ์ และนิสัยตัวเอง	ระวังติดอยู่กับอดีต	Watch for living in the past	อดีต,ปล่อยวาง		
+WARN-490	จิตใจ อารมณ์ และนิสัยตัวเอง	ระวังกลัวจนไม่กล้าเริ่ม	Watch for fear holding you back	กลัว,เริ่มต้น		
+WARN-491	จิตใจ อารมณ์ และนิสัยตัวเอง	ระวังเปลี่ยนใจบ่อย	Watch for changing your mind too often	เปลี่ยนใจ,มั่นคง		
+WARN-492	จิตใจ อารมณ์ และนิสัยตัวเอง	ระวังลืมนัดสำคัญ	Watch for missed appointments	นัดหมาย,ลืม		
+WARN-493	จิตใจ อารมณ์ และนิสัยตัวเอง	ระวังขี้ลืมจนของหาย	Watch for forgetfulness	ขี้ลืม,ของหาย		
+WARN-494	จิตใจ อารมณ์ และนิสัยตัวเอง	ระวังรับปากเกินกำลัง	Watch for overcommitting	รับปาก,ภาระ		
+WARN-495	จิตใจ อารมณ์ และนิสัยตัวเอง	ระวังทำงานหนักจนลืมดูแลตัวเอง	Don't forget to look after yourself	ดูแลตัวเอง,พักผ่อน		
+WARN-496	จิตใจ อารมณ์ และนิสัยตัวเอง	ระวังพึ่งพาคนอื่นมากเกินไป	Watch for leaning on others too much	พึ่งพา,อิสระ		
+WARN-497	จิตใจ อารมณ์ และนิสัยตัวเอง	ระวังคำพูดของตัวเองกลับมาทำร้าย	Watch your words coming back to bite	คำพูด,ผลกรรม		
+WARN-498	จิตใจ อารมณ์ และนิสัยตัวเอง	ระวังโทษตัวเองมากเกินไป	Don't blame yourself too much	โทษตัวเอง,เมตตาตัวเอง		
+WARN-499	จิตใจ อารมณ์ และนิสัยตัวเอง	ระวังเชื่อข่าวลือ	Watch for believing rumours	ข่าวลือ,ตรวจสอบ		
+WARN-500	จิตใจ อารมณ์ และนิสัยตัวเอง	ระวังทำบุญเพราะกลัวจนโดนหลอก	Watch for being scammed through fear-driven merit-making	ทำบุญ,หลอกลวง		

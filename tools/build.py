@@ -1,4 +1,4 @@
-"""Build index.html from data/ (23 decks) and tools/template.html.
+"""Build index.html from data/ (24 decks) and tools/template.html.
 
 Usage: python3 tools/build.py   (run from the repo root)
 """
@@ -37,10 +37,11 @@ DECKS = [
     ("Numbers", "NUMB", "ตัวเลข 0–999", "Numbers 0–999", "numbers-draft01.txt", False),
     ("Zodiac", "ZODI", "ปีนักษัตรและธาตุจีน", "Chinese Zodiac & Elements", "zodiac-draft01.txt", False),
     ("Daily Life", "DALY", "ปัญหาอุปสรรคในชีวิตประจำวัน", "Everyday Ups & Downs", "daily-draft01.txt", False),
+    ("Caution", "WARN", "สิ่งที่ต้องระวังในชีวิต", "Cautions & Misfortunes", "caution-draft01.txt", False),
 ]
 
 # decks that get a category dropdown (every card, or one category at a time)
-CAT_PICK = {"USTH", "SACR", "KARM", "THSC", "REME", "LOVE", "JOBS", "VISA", "HOME", "STDY", "LOOK", "MIND", "GUID", "TIME", "NUMB", "ZODI", "DALY"}
+CAT_PICK = {"USTH", "SACR", "KARM", "THSC", "REME", "LOVE", "JOBS", "VISA", "HOME", "STDY", "LOOK", "MIND", "GUID", "TIME", "NUMB", "ZODI", "DALY", "WARN"}
 # decks whose one-line description (the meaning field) is printed on the card face
 SHOW_DESC = {"SACR"}
 # decks whose category is the opening phrase of every card name; the page colours that phrase differently
