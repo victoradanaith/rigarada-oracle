@@ -196,7 +196,8 @@ body{background:var(--bg);color:var(--ink);font:16px/1.4 system-ui,-apple-system
 .panel.ready .pcard:hover{transform:translateY(-4px);box-shadow:inset 0 0 0 2px var(--back1),inset 0 0 0 3px var(--back-line),0 0 0 2px var(--accent),0 6px 12px rgba(0,0,0,.3)}
 .panel:not(.ready) .pcard{cursor:default}
 .panel.notrans .pcard{transition:none}
-.mixbtn{position:absolute;left:50%;bottom:0;transform:translateX(-50%);z-index:50;min-width:180px;box-shadow:0 8px 20px rgba(0,0,0,.25)}
+/* in normal flow under the panel: iPhone Safari draws a scrolling panel over anything laid on top of it */
+.mixbtn{position:relative;display:block;margin:10px auto 0;min-width:180px;width:auto;box-shadow:0 8px 20px rgba(0,0,0,.25)}
 .panelwrap.locked{display:none}
 
 .btn{min-height:48px;padding:0 16px;border-radius:14px;border:1px solid var(--line);background:var(--surface);color:var(--ink);font:inherit;font-weight:650;cursor:pointer}
