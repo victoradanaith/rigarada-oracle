@@ -163,6 +163,7 @@ body{background:var(--bg);color:var(--ink);font:16px/1.4 system-ui,-apple-system
 .w{white-space:nowrap}
 .tray.big.n4 .cardname,.tray.big.n6 .cardname,.tray.big.n9 .cardname,.tray.big.n10 .cardname{display:block;margin-left:-5px;margin-right:-5px}
 .cardname,.face b,.face small{text-wrap:balance}
+.decknote{font-size:.8rem;color:var(--muted);margin:2px 0 0}
 .lead{color:var(--do);font-weight:500}
 .lead.no{color:var(--dont)}
 .pred{color:var(--ink)}
@@ -688,6 +689,7 @@ function renderTray(){
 function renderStatus(){
   const n=chosen().length,left=S.count-n,onPanel=S.panel.filter(x=>x!==null).length;
   $('#deckName').textContent=`สำรับ ${deckIdx+1}/${DECKS.length} · ${DECKS[deckIdx].th} · ${DECKS[deckIdx].en}`+(catName?` · หมวด ${catName}`:'');
+  {let n=$('#deckNote');if(!n){n=document.createElement('p');n.id='deckNote';n.className='decknote';$('#deckName').after(n)}n.textContent=DECKS[deckIdx].note||'';n.hidden=!DECKS[deckIdx].note}
   document.title='RigaRada Oracle · '+DECKS[deckIdx].label;
   $('#headline').textContent=S.revealed?'กำลังเปิดไพ่…':!S.mixed?'สับไพ่ก่อนเลือก':S.busy?'กำลังสับไพ่…':left?`เลือกใบที่ ${n+1} จาก ${S.count}`:'กำลังเปิดไพ่…';
   $('#progress').innerHTML=`<b>เลือก ${n} จาก ${S.count}</b> · บนแผง ${onPanel} ใบ · ทั้งสำรับ ${N} ใบ`;

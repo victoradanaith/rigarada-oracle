@@ -1,0 +1,1018 @@
+# หุ้นและกองทุน
+ลงทุนหุ้นไทยได้|Investing in Thai stocks: go ahead|ลงทุนได้,หุ้นไทย||
+ยังไม่ควรลงทุนหุ้นไทย|Not yet for Thai stocks|ยังไม่ควร,หุ้นไทย||
+หุ้นไทยได้กำไร|Thai stocks: profit|กำไร,หุ้นไทย||
+หุ้นไทยขาดทุน|Thai stocks: loss|ขาดทุน,หุ้นไทย||
+หุ้นไทยควรถือยาว|Thai stocks: hold long|ถือยาว,หุ้นไทย||
+หุ้นไทยควรขายทำกำไร|Thai stocks: take profit|ขายทำกำไร,หุ้นไทย||
+หุ้นไทยควรตัดขาดทุน|Thai stocks: cut the loss|ตัดขาดทุน,หุ้นไทย||
+หุ้นไทยทุนจม|Thai stocks: money tied up|ทุนจม,หุ้นไทย||
+หุ้นไทยผันผวนสูง|Thai stocks: very volatile|ผันผวน,หุ้นไทย||
+ศึกษาหุ้นไทยให้ดีก่อน|Study Thai stocks first|ศึกษาก่อน,หุ้นไทย||
+ลงทุนหุ้นต่างประเทศได้|Investing in foreign stocks: go ahead|ลงทุนได้,หุ้นต่างประเทศ||
+ยังไม่ควรลงทุนหุ้นต่างประเทศ|Not yet for foreign stocks|ยังไม่ควร,หุ้นต่างประเทศ||
+หุ้นต่างประเทศได้กำไร|Foreign stocks: profit|กำไร,หุ้นต่างประเทศ||
+หุ้นต่างประเทศขาดทุน|Foreign stocks: loss|ขาดทุน,หุ้นต่างประเทศ||
+หุ้นต่างประเทศควรถือยาว|Foreign stocks: hold long|ถือยาว,หุ้นต่างประเทศ||
+หุ้นต่างประเทศควรขายทำกำไร|Foreign stocks: take profit|ขายทำกำไร,หุ้นต่างประเทศ||
+หุ้นต่างประเทศควรตัดขาดทุน|Foreign stocks: cut the loss|ตัดขาดทุน,หุ้นต่างประเทศ||
+หุ้นต่างประเทศทุนจม|Foreign stocks: money tied up|ทุนจม,หุ้นต่างประเทศ||
+หุ้นต่างประเทศผันผวนสูง|Foreign stocks: very volatile|ผันผวน,หุ้นต่างประเทศ||
+ศึกษาหุ้นต่างประเทศให้ดีก่อน|Study foreign stocks first|ศึกษาก่อน,หุ้นต่างประเทศ||
+ลงทุนหุ้นระยะยาวได้|Investing in long-term stocks: go ahead|ลงทุนได้,หุ้นระยะยาว||
+ยังไม่ควรลงทุนหุ้นระยะยาว|Not yet for long-term stocks|ยังไม่ควร,หุ้นระยะยาว||
+หุ้นระยะยาวได้กำไร|Long-term stocks: profit|กำไร,หุ้นระยะยาว||
+หุ้นระยะยาวขาดทุน|Long-term stocks: loss|ขาดทุน,หุ้นระยะยาว||
+หุ้นระยะยาวควรถือยาว|Long-term stocks: hold long|ถือยาว,หุ้นระยะยาว||
+หุ้นระยะยาวควรขายทำกำไร|Long-term stocks: take profit|ขายทำกำไร,หุ้นระยะยาว||
+หุ้นระยะยาวควรตัดขาดทุน|Long-term stocks: cut the loss|ตัดขาดทุน,หุ้นระยะยาว||
+หุ้นระยะยาวทุนจม|Long-term stocks: money tied up|ทุนจม,หุ้นระยะยาว||
+หุ้นระยะยาวผันผวนสูง|Long-term stocks: very volatile|ผันผวน,หุ้นระยะยาว||
+ศึกษาหุ้นระยะยาวให้ดีก่อน|Study long-term stocks first|ศึกษาก่อน,หุ้นระยะยาว||
+ลงทุนหุ้นซิ่งได้|Investing in speculative stocks: go ahead|ลงทุนได้,หุ้นซิ่ง||
+ยังไม่ควรลงทุนหุ้นซิ่ง|Not yet for speculative stocks|ยังไม่ควร,หุ้นซิ่ง||
+หุ้นซิ่งได้กำไร|Speculative stocks: profit|กำไร,หุ้นซิ่ง||
+หุ้นซิ่งขาดทุน|Speculative stocks: loss|ขาดทุน,หุ้นซิ่ง||
+หุ้นซิ่งควรถือยาว|Speculative stocks: hold long|ถือยาว,หุ้นซิ่ง||
+หุ้นซิ่งควรขายทำกำไร|Speculative stocks: take profit|ขายทำกำไร,หุ้นซิ่ง||
+หุ้นซิ่งควรตัดขาดทุน|Speculative stocks: cut the loss|ตัดขาดทุน,หุ้นซิ่ง||
+หุ้นซิ่งทุนจม|Speculative stocks: money tied up|ทุนจม,หุ้นซิ่ง||
+หุ้นซิ่งผันผวนสูง|Speculative stocks: very volatile|ผันผวน,หุ้นซิ่ง||
+ศึกษาหุ้นซิ่งให้ดีก่อน|Study speculative stocks first|ศึกษาก่อน,หุ้นซิ่ง||
+ลงทุนหุ้นปันผลได้|Investing in dividend stocks: go ahead|ลงทุนได้,หุ้นปันผล||
+ยังไม่ควรลงทุนหุ้นปันผล|Not yet for dividend stocks|ยังไม่ควร,หุ้นปันผล||
+หุ้นปันผลได้กำไร|Dividend stocks: profit|กำไร,หุ้นปันผล||
+หุ้นปันผลขาดทุน|Dividend stocks: loss|ขาดทุน,หุ้นปันผล||
+หุ้นปันผลควรถือยาว|Dividend stocks: hold long|ถือยาว,หุ้นปันผล||
+หุ้นปันผลควรขายทำกำไร|Dividend stocks: take profit|ขายทำกำไร,หุ้นปันผล||
+หุ้นปันผลควรตัดขาดทุน|Dividend stocks: cut the loss|ตัดขาดทุน,หุ้นปันผล||
+หุ้นปันผลทุนจม|Dividend stocks: money tied up|ทุนจม,หุ้นปันผล||
+หุ้นปันผลผันผวนสูง|Dividend stocks: very volatile|ผันผวน,หุ้นปันผล||
+ศึกษาหุ้นปันผลให้ดีก่อน|Study dividend stocks first|ศึกษาก่อน,หุ้นปันผล||
+ลงทุนกองทุนรวมได้|Investing in mutual funds: go ahead|ลงทุนได้,กองทุนรวม||
+ยังไม่ควรลงทุนกองทุนรวม|Not yet for mutual funds|ยังไม่ควร,กองทุนรวม||
+กองทุนรวมได้กำไร|Mutual funds: profit|กำไร,กองทุนรวม||
+กองทุนรวมขาดทุน|Mutual funds: loss|ขาดทุน,กองทุนรวม||
+กองทุนรวมควรถือยาว|Mutual funds: hold long|ถือยาว,กองทุนรวม||
+กองทุนรวมควรขายทำกำไร|Mutual funds: take profit|ขายทำกำไร,กองทุนรวม||
+กองทุนรวมควรตัดขาดทุน|Mutual funds: cut the loss|ตัดขาดทุน,กองทุนรวม||
+กองทุนรวมทุนจม|Mutual funds: money tied up|ทุนจม,กองทุนรวม||
+กองทุนรวมผันผวนสูง|Mutual funds: very volatile|ผันผวน,กองทุนรวม||
+ศึกษากองทุนรวมให้ดีก่อน|Study mutual funds first|ศึกษาก่อน,กองทุนรวม||
+ลงทุนกองทุนดัชนีได้|Investing in index funds: go ahead|ลงทุนได้,กองทุนดัชนี||
+ยังไม่ควรลงทุนกองทุนดัชนี|Not yet for index funds|ยังไม่ควร,กองทุนดัชนี||
+กองทุนดัชนีได้กำไร|Index funds: profit|กำไร,กองทุนดัชนี||
+กองทุนดัชนีขาดทุน|Index funds: loss|ขาดทุน,กองทุนดัชนี||
+กองทุนดัชนีควรถือยาว|Index funds: hold long|ถือยาว,กองทุนดัชนี||
+กองทุนดัชนีควรขายทำกำไร|Index funds: take profit|ขายทำกำไร,กองทุนดัชนี||
+กองทุนดัชนีควรตัดขาดทุน|Index funds: cut the loss|ตัดขาดทุน,กองทุนดัชนี||
+กองทุนดัชนีทุนจม|Index funds: money tied up|ทุนจม,กองทุนดัชนี||
+กองทุนดัชนีผันผวนสูง|Index funds: very volatile|ผันผวน,กองทุนดัชนี||
+ศึกษากองทุนดัชนีให้ดีก่อน|Study index funds first|ศึกษาก่อน,กองทุนดัชนี||
+ลงทุนกองทุนลดหย่อนภาษีได้|Investing in tax-saving funds: go ahead|ลงทุนได้,กองทุนลดหย่อนภาษี||
+ยังไม่ควรลงทุนกองทุนลดหย่อนภาษี|Not yet for tax-saving funds|ยังไม่ควร,กองทุนลดหย่อนภาษี||
+กองทุนลดหย่อนภาษีได้กำไร|Tax-saving funds: profit|กำไร,กองทุนลดหย่อนภาษี||
+กองทุนลดหย่อนภาษีขาดทุน|Tax-saving funds: loss|ขาดทุน,กองทุนลดหย่อนภาษี||
+กองทุนลดหย่อนภาษีควรถือยาว|Tax-saving funds: hold long|ถือยาว,กองทุนลดหย่อนภาษี||
+กองทุนลดหย่อนภาษีควรขายทำกำไร|Tax-saving funds: take profit|ขายทำกำไร,กองทุนลดหย่อนภาษี||
+กองทุนลดหย่อนภาษีควรตัดขาดทุน|Tax-saving funds: cut the loss|ตัดขาดทุน,กองทุนลดหย่อนภาษี||
+กองทุนลดหย่อนภาษีทุนจม|Tax-saving funds: money tied up|ทุนจม,กองทุนลดหย่อนภาษี||
+กองทุนลดหย่อนภาษีผันผวนสูง|Tax-saving funds: very volatile|ผันผวน,กองทุนลดหย่อนภาษี||
+ศึกษากองทุนลดหย่อนภาษีให้ดีก่อน|Study tax-saving funds first|ศึกษาก่อน,กองทุนลดหย่อนภาษี||
+# ทองคำ เงินตรา และตราสาร
+ลงทุนทองคำแท่งได้|Investing in gold bars: go ahead|ลงทุนได้,ทองคำแท่ง||
+ยังไม่ควรลงทุนทองคำแท่ง|Not yet for gold bars|ยังไม่ควร,ทองคำแท่ง||
+ทองคำแท่งได้กำไร|Gold bars: profit|กำไร,ทองคำแท่ง||
+ทองคำแท่งขาดทุน|Gold bars: loss|ขาดทุน,ทองคำแท่ง||
+ทองคำแท่งควรถือยาว|Gold bars: hold long|ถือยาว,ทองคำแท่ง||
+ทองคำแท่งควรขายทำกำไร|Gold bars: take profit|ขายทำกำไร,ทองคำแท่ง||
+ทองคำแท่งควรตัดขาดทุน|Gold bars: cut the loss|ตัดขาดทุน,ทองคำแท่ง||
+ทองคำแท่งทุนจม|Gold bars: money tied up|ทุนจม,ทองคำแท่ง||
+ทองคำแท่งผันผวนสูง|Gold bars: very volatile|ผันผวน,ทองคำแท่ง||
+ศึกษาทองคำแท่งให้ดีก่อน|Study gold bars first|ศึกษาก่อน,ทองคำแท่ง||
+ลงทุนทองรูปพรรณได้|Investing in gold jewellery: go ahead|ลงทุนได้,ทองรูปพรรณ||
+ยังไม่ควรลงทุนทองรูปพรรณ|Not yet for gold jewellery|ยังไม่ควร,ทองรูปพรรณ||
+ทองรูปพรรณได้กำไร|Gold jewellery: profit|กำไร,ทองรูปพรรณ||
+ทองรูปพรรณขาดทุน|Gold jewellery: loss|ขาดทุน,ทองรูปพรรณ||
+ทองรูปพรรณควรถือยาว|Gold jewellery: hold long|ถือยาว,ทองรูปพรรณ||
+ทองรูปพรรณควรขายทำกำไร|Gold jewellery: take profit|ขายทำกำไร,ทองรูปพรรณ||
+ทองรูปพรรณควรตัดขาดทุน|Gold jewellery: cut the loss|ตัดขาดทุน,ทองรูปพรรณ||
+ทองรูปพรรณทุนจม|Gold jewellery: money tied up|ทุนจม,ทองรูปพรรณ||
+ทองรูปพรรณผันผวนสูง|Gold jewellery: very volatile|ผันผวน,ทองรูปพรรณ||
+ศึกษาทองรูปพรรณให้ดีก่อน|Study gold jewellery first|ศึกษาก่อน,ทองรูปพรรณ||
+ลงทุนทองออนไลน์ได้|Investing in digital gold: go ahead|ลงทุนได้,ทองออนไลน์||
+ยังไม่ควรลงทุนทองออนไลน์|Not yet for digital gold|ยังไม่ควร,ทองออนไลน์||
+ทองออนไลน์ได้กำไร|Digital gold: profit|กำไร,ทองออนไลน์||
+ทองออนไลน์ขาดทุน|Digital gold: loss|ขาดทุน,ทองออนไลน์||
+ทองออนไลน์ควรถือยาว|Digital gold: hold long|ถือยาว,ทองออนไลน์||
+ทองออนไลน์ควรขายทำกำไร|Digital gold: take profit|ขายทำกำไร,ทองออนไลน์||
+ทองออนไลน์ควรตัดขาดทุน|Digital gold: cut the loss|ตัดขาดทุน,ทองออนไลน์||
+ทองออนไลน์ทุนจม|Digital gold: money tied up|ทุนจม,ทองออนไลน์||
+ทองออนไลน์ผันผวนสูง|Digital gold: very volatile|ผันผวน,ทองออนไลน์||
+ศึกษาทองออนไลน์ให้ดีก่อน|Study digital gold first|ศึกษาก่อน,ทองออนไลน์||
+ลงทุนฟอเรกซ์ได้|Investing in forex: go ahead|ลงทุนได้,ฟอเรกซ์||
+ยังไม่ควรลงทุนฟอเรกซ์|Not yet for forex|ยังไม่ควร,ฟอเรกซ์||
+ฟอเรกซ์ได้กำไร|Forex: profit|กำไร,ฟอเรกซ์||
+ฟอเรกซ์ขาดทุน|Forex: loss|ขาดทุน,ฟอเรกซ์||
+ฟอเรกซ์ควรถือยาว|Forex: hold long|ถือยาว,ฟอเรกซ์||
+ฟอเรกซ์ควรขายทำกำไร|Forex: take profit|ขายทำกำไร,ฟอเรกซ์||
+ฟอเรกซ์ควรตัดขาดทุน|Forex: cut the loss|ตัดขาดทุน,ฟอเรกซ์||
+ฟอเรกซ์ทุนจม|Forex: money tied up|ทุนจม,ฟอเรกซ์||
+ฟอเรกซ์ผันผวนสูง|Forex: very volatile|ผันผวน,ฟอเรกซ์||
+ศึกษาฟอเรกซ์ให้ดีก่อน|Study forex first|ศึกษาก่อน,ฟอเรกซ์||
+ลงทุนค่าเงินดอลลาร์ได้|Investing in the US dollar: go ahead|ลงทุนได้,ค่าเงินดอลลาร์||
+ยังไม่ควรลงทุนค่าเงินดอลลาร์|Not yet for the US dollar|ยังไม่ควร,ค่าเงินดอลลาร์||
+ค่าเงินดอลลาร์ได้กำไร|The US dollar: profit|กำไร,ค่าเงินดอลลาร์||
+ค่าเงินดอลลาร์ขาดทุน|The US dollar: loss|ขาดทุน,ค่าเงินดอลลาร์||
+ค่าเงินดอลลาร์ควรถือยาว|The US dollar: hold long|ถือยาว,ค่าเงินดอลลาร์||
+ค่าเงินดอลลาร์ควรขายทำกำไร|The US dollar: take profit|ขายทำกำไร,ค่าเงินดอลลาร์||
+ค่าเงินดอลลาร์ควรตัดขาดทุน|The US dollar: cut the loss|ตัดขาดทุน,ค่าเงินดอลลาร์||
+ค่าเงินดอลลาร์ทุนจม|The US dollar: money tied up|ทุนจม,ค่าเงินดอลลาร์||
+ค่าเงินดอลลาร์ผันผวนสูง|The US dollar: very volatile|ผันผวน,ค่าเงินดอลลาร์||
+ศึกษาค่าเงินดอลลาร์ให้ดีก่อน|Study the US dollar first|ศึกษาก่อน,ค่าเงินดอลลาร์||
+ลงทุนพันธบัตรได้|Investing in bonds: go ahead|ลงทุนได้,พันธบัตร||
+ยังไม่ควรลงทุนพันธบัตร|Not yet for bonds|ยังไม่ควร,พันธบัตร||
+พันธบัตรได้กำไร|Bonds: profit|กำไร,พันธบัตร||
+พันธบัตรขาดทุน|Bonds: loss|ขาดทุน,พันธบัตร||
+พันธบัตรควรถือยาว|Bonds: hold long|ถือยาว,พันธบัตร||
+พันธบัตรควรขายทำกำไร|Bonds: take profit|ขายทำกำไร,พันธบัตร||
+พันธบัตรควรตัดขาดทุน|Bonds: cut the loss|ตัดขาดทุน,พันธบัตร||
+พันธบัตรทุนจม|Bonds: money tied up|ทุนจม,พันธบัตร||
+พันธบัตรผันผวนสูง|Bonds: very volatile|ผันผวน,พันธบัตร||
+ศึกษาพันธบัตรให้ดีก่อน|Study bonds first|ศึกษาก่อน,พันธบัตร||
+ลงทุนสลากออมทรัพย์ได้|Investing in savings lottery bonds: go ahead|ลงทุนได้,สลากออมทรัพย์||
+ยังไม่ควรลงทุนสลากออมทรัพย์|Not yet for savings lottery bonds|ยังไม่ควร,สลากออมทรัพย์||
+สลากออมทรัพย์ได้กำไร|Savings lottery bonds: profit|กำไร,สลากออมทรัพย์||
+สลากออมทรัพย์ขาดทุน|Savings lottery bonds: loss|ขาดทุน,สลากออมทรัพย์||
+สลากออมทรัพย์ควรถือยาว|Savings lottery bonds: hold long|ถือยาว,สลากออมทรัพย์||
+สลากออมทรัพย์ควรขายทำกำไร|Savings lottery bonds: take profit|ขายทำกำไร,สลากออมทรัพย์||
+สลากออมทรัพย์ควรตัดขาดทุน|Savings lottery bonds: cut the loss|ตัดขาดทุน,สลากออมทรัพย์||
+สลากออมทรัพย์ทุนจม|Savings lottery bonds: money tied up|ทุนจม,สลากออมทรัพย์||
+สลากออมทรัพย์ผันผวนสูง|Savings lottery bonds: very volatile|ผันผวน,สลากออมทรัพย์||
+ศึกษาสลากออมทรัพย์ให้ดีก่อน|Study savings lottery bonds first|ศึกษาก่อน,สลากออมทรัพย์||
+# คริปโต
+ลงทุนบิตคอยน์ได้|Investing in Bitcoin: go ahead|ลงทุนได้,บิตคอยน์||
+ยังไม่ควรลงทุนบิตคอยน์|Not yet for Bitcoin|ยังไม่ควร,บิตคอยน์||
+บิตคอยน์ได้กำไร|Bitcoin: profit|กำไร,บิตคอยน์||
+บิตคอยน์ขาดทุน|Bitcoin: loss|ขาดทุน,บิตคอยน์||
+บิตคอยน์ควรถือยาว|Bitcoin: hold long|ถือยาว,บิตคอยน์||
+บิตคอยน์ควรขายทำกำไร|Bitcoin: take profit|ขายทำกำไร,บิตคอยน์||
+บิตคอยน์ควรตัดขาดทุน|Bitcoin: cut the loss|ตัดขาดทุน,บิตคอยน์||
+บิตคอยน์ทุนจม|Bitcoin: money tied up|ทุนจม,บิตคอยน์||
+บิตคอยน์ผันผวนสูง|Bitcoin: very volatile|ผันผวน,บิตคอยน์||
+ศึกษาบิตคอยน์ให้ดีก่อน|Study Bitcoin first|ศึกษาก่อน,บิตคอยน์||
+ลงทุนคริปโตเหรียญหลักได้|Investing in major crypto: go ahead|ลงทุนได้,คริปโตเหรียญหลัก||
+ยังไม่ควรลงทุนคริปโตเหรียญหลัก|Not yet for major crypto|ยังไม่ควร,คริปโตเหรียญหลัก||
+คริปโตเหรียญหลักได้กำไร|Major crypto: profit|กำไร,คริปโตเหรียญหลัก||
+คริปโตเหรียญหลักขาดทุน|Major crypto: loss|ขาดทุน,คริปโตเหรียญหลัก||
+คริปโตเหรียญหลักควรถือยาว|Major crypto: hold long|ถือยาว,คริปโตเหรียญหลัก||
+คริปโตเหรียญหลักควรขายทำกำไร|Major crypto: take profit|ขายทำกำไร,คริปโตเหรียญหลัก||
+คริปโตเหรียญหลักควรตัดขาดทุน|Major crypto: cut the loss|ตัดขาดทุน,คริปโตเหรียญหลัก||
+คริปโตเหรียญหลักทุนจม|Major crypto: money tied up|ทุนจม,คริปโตเหรียญหลัก||
+คริปโตเหรียญหลักผันผวนสูง|Major crypto: very volatile|ผันผวน,คริปโตเหรียญหลัก||
+ศึกษาคริปโตเหรียญหลักให้ดีก่อน|Study major crypto first|ศึกษาก่อน,คริปโตเหรียญหลัก||
+ลงทุนเหรียญคริปโตเล็กได้|Investing in small-cap crypto: go ahead|ลงทุนได้,เหรียญคริปโตเล็ก||
+ยังไม่ควรลงทุนเหรียญคริปโตเล็ก|Not yet for small-cap crypto|ยังไม่ควร,เหรียญคริปโตเล็ก||
+เหรียญคริปโตเล็กได้กำไร|Small-cap crypto: profit|กำไร,เหรียญคริปโตเล็ก||
+เหรียญคริปโตเล็กขาดทุน|Small-cap crypto: loss|ขาดทุน,เหรียญคริปโตเล็ก||
+เหรียญคริปโตเล็กควรถือยาว|Small-cap crypto: hold long|ถือยาว,เหรียญคริปโตเล็ก||
+เหรียญคริปโตเล็กควรขายทำกำไร|Small-cap crypto: take profit|ขายทำกำไร,เหรียญคริปโตเล็ก||
+เหรียญคริปโตเล็กควรตัดขาดทุน|Small-cap crypto: cut the loss|ตัดขาดทุน,เหรียญคริปโตเล็ก||
+เหรียญคริปโตเล็กทุนจม|Small-cap crypto: money tied up|ทุนจม,เหรียญคริปโตเล็ก||
+เหรียญคริปโตเล็กผันผวนสูง|Small-cap crypto: very volatile|ผันผวน,เหรียญคริปโตเล็ก||
+ศึกษาเหรียญคริปโตเล็กให้ดีก่อน|Study small-cap crypto first|ศึกษาก่อน,เหรียญคริปโตเล็ก||
+ลงทุนNFTได้|Investing in NFTs: go ahead|ลงทุนได้,NFT||
+ยังไม่ควรลงทุนNFT|Not yet for NFTs|ยังไม่ควร,NFT||
+NFTได้กำไร|NFTs: profit|กำไร,NFT||
+NFTขาดทุน|NFTs: loss|ขาดทุน,NFT||
+NFTควรถือยาว|NFTs: hold long|ถือยาว,NFT||
+NFTควรขายทำกำไร|NFTs: take profit|ขายทำกำไร,NFT||
+NFTควรตัดขาดทุน|NFTs: cut the loss|ตัดขาดทุน,NFT||
+NFTทุนจม|NFTs: money tied up|ทุนจม,NFT||
+NFTผันผวนสูง|NFTs: very volatile|ผันผวน,NFT||
+ศึกษาNFTให้ดีก่อน|Study NFTs first|ศึกษาก่อน,NFT||
+# อสังหาริมทรัพย์ (ประเภท)
+ลงทุนที่ดินเปล่าได้|Investing in vacant land: go ahead|ลงทุนได้,ที่ดินเปล่า||
+ยังไม่ควรลงทุนที่ดินเปล่า|Not yet for vacant land|ยังไม่ควร,ที่ดินเปล่า||
+ที่ดินเปล่าได้กำไร|Vacant land: profit|กำไร,ที่ดินเปล่า||
+ที่ดินเปล่าขาดทุน|Vacant land: loss|ขาดทุน,ที่ดินเปล่า||
+ที่ดินเปล่าควรถือยาว|Vacant land: hold long|ถือยาว,ที่ดินเปล่า||
+ที่ดินเปล่าควรขายทำกำไร|Vacant land: take profit|ขายทำกำไร,ที่ดินเปล่า||
+ที่ดินเปล่าควรตัดขาดทุน|Vacant land: cut the loss|ตัดขาดทุน,ที่ดินเปล่า||
+ที่ดินเปล่าทุนจม|Vacant land: money tied up|ทุนจม,ที่ดินเปล่า||
+ที่ดินเปล่าผันผวนสูง|Vacant land: very volatile|ผันผวน,ที่ดินเปล่า||
+ศึกษาที่ดินเปล่าให้ดีก่อน|Study vacant land first|ศึกษาก่อน,ที่ดินเปล่า||
+ลงทุนคอนโดได้|Investing in condos: go ahead|ลงทุนได้,คอนโด||
+ยังไม่ควรลงทุนคอนโด|Not yet for condos|ยังไม่ควร,คอนโด||
+คอนโดได้กำไร|Condos: profit|กำไร,คอนโด||
+คอนโดขาดทุน|Condos: loss|ขาดทุน,คอนโด||
+คอนโดควรถือยาว|Condos: hold long|ถือยาว,คอนโด||
+คอนโดควรขายทำกำไร|Condos: take profit|ขายทำกำไร,คอนโด||
+คอนโดควรตัดขาดทุน|Condos: cut the loss|ตัดขาดทุน,คอนโด||
+คอนโดทุนจม|Condos: money tied up|ทุนจม,คอนโด||
+คอนโดผันผวนสูง|Condos: very volatile|ผันผวน,คอนโด||
+ศึกษาคอนโดให้ดีก่อน|Study condos first|ศึกษาก่อน,คอนโด||
+ลงทุนบ้านเช่าได้|Investing in rental houses: go ahead|ลงทุนได้,บ้านเช่า||
+ยังไม่ควรลงทุนบ้านเช่า|Not yet for rental houses|ยังไม่ควร,บ้านเช่า||
+บ้านเช่าได้กำไร|Rental houses: profit|กำไร,บ้านเช่า||
+บ้านเช่าขาดทุน|Rental houses: loss|ขาดทุน,บ้านเช่า||
+บ้านเช่าควรถือยาว|Rental houses: hold long|ถือยาว,บ้านเช่า||
+บ้านเช่าควรขายทำกำไร|Rental houses: take profit|ขายทำกำไร,บ้านเช่า||
+บ้านเช่าควรตัดขาดทุน|Rental houses: cut the loss|ตัดขาดทุน,บ้านเช่า||
+บ้านเช่าทุนจม|Rental houses: money tied up|ทุนจม,บ้านเช่า||
+บ้านเช่าผันผวนสูง|Rental houses: very volatile|ผันผวน,บ้านเช่า||
+ศึกษาบ้านเช่าให้ดีก่อน|Study rental houses first|ศึกษาก่อน,บ้านเช่า||
+ลงทุนอสังหาในอเมริกาได้|Investing in US property: go ahead|ลงทุนได้,อสังหาในอเมริกา||
+ยังไม่ควรลงทุนอสังหาในอเมริกา|Not yet for US property|ยังไม่ควร,อสังหาในอเมริกา||
+อสังหาในอเมริกาได้กำไร|US property: profit|กำไร,อสังหาในอเมริกา||
+อสังหาในอเมริกาขาดทุน|US property: loss|ขาดทุน,อสังหาในอเมริกา||
+อสังหาในอเมริกาควรถือยาว|US property: hold long|ถือยาว,อสังหาในอเมริกา||
+อสังหาในอเมริกาควรขายทำกำไร|US property: take profit|ขายทำกำไร,อสังหาในอเมริกา||
+อสังหาในอเมริกาควรตัดขาดทุน|US property: cut the loss|ตัดขาดทุน,อสังหาในอเมริกา||
+อสังหาในอเมริกาทุนจม|US property: money tied up|ทุนจม,อสังหาในอเมริกา||
+อสังหาในอเมริกาผันผวนสูง|US property: very volatile|ผันผวน,อสังหาในอเมริกา||
+ศึกษาอสังหาในอเมริกาให้ดีก่อน|Study US property first|ศึกษาก่อน,อสังหาในอเมริกา||
+ลงทุนอสังหาในไทยได้|Investing in Thai property: go ahead|ลงทุนได้,อสังหาในไทย||
+ยังไม่ควรลงทุนอสังหาในไทย|Not yet for Thai property|ยังไม่ควร,อสังหาในไทย||
+อสังหาในไทยได้กำไร|Thai property: profit|กำไร,อสังหาในไทย||
+อสังหาในไทยขาดทุน|Thai property: loss|ขาดทุน,อสังหาในไทย||
+อสังหาในไทยควรถือยาว|Thai property: hold long|ถือยาว,อสังหาในไทย||
+อสังหาในไทยควรขายทำกำไร|Thai property: take profit|ขายทำกำไร,อสังหาในไทย||
+อสังหาในไทยควรตัดขาดทุน|Thai property: cut the loss|ตัดขาดทุน,อสังหาในไทย||
+อสังหาในไทยทุนจม|Thai property: money tied up|ทุนจม,อสังหาในไทย||
+อสังหาในไทยผันผวนสูง|Thai property: very volatile|ผันผวน,อสังหาในไทย||
+ศึกษาอสังหาในไทยให้ดีก่อน|Study Thai property first|ศึกษาก่อน,อสังหาในไทย||
+ลงทุนอาคารพาณิชย์ได้|Investing in shophouses: go ahead|ลงทุนได้,อาคารพาณิชย์||
+ยังไม่ควรลงทุนอาคารพาณิชย์|Not yet for shophouses|ยังไม่ควร,อาคารพาณิชย์||
+อาคารพาณิชย์ได้กำไร|Shophouses: profit|กำไร,อาคารพาณิชย์||
+อาคารพาณิชย์ขาดทุน|Shophouses: loss|ขาดทุน,อาคารพาณิชย์||
+อาคารพาณิชย์ควรถือยาว|Shophouses: hold long|ถือยาว,อาคารพาณิชย์||
+อาคารพาณิชย์ควรขายทำกำไร|Shophouses: take profit|ขายทำกำไร,อาคารพาณิชย์||
+อาคารพาณิชย์ควรตัดขาดทุน|Shophouses: cut the loss|ตัดขาดทุน,อาคารพาณิชย์||
+อาคารพาณิชย์ทุนจม|Shophouses: money tied up|ทุนจม,อาคารพาณิชย์||
+อาคารพาณิชย์ผันผวนสูง|Shophouses: very volatile|ผันผวน,อาคารพาณิชย์||
+ศึกษาอาคารพาณิชย์ให้ดีก่อน|Study shophouses first|ศึกษาก่อน,อาคารพาณิชย์||
+# กิจการและร้านค้า (1)
+เปิดร้านอาหารได้|Open a restaurant: go ahead|เปิดได้,ร้านอาหาร||
+ยังไม่ควรเปิดร้านอาหาร|Not yet for a restaurant|ยังไม่ควร,ร้านอาหาร||
+ร้านอาหารขายดี|A restaurant sells well|ขายดี,ร้านอาหาร||
+ร้านอาหารขายไม่ดี|A restaurant sells poorly|ขายไม่ดี,ร้านอาหาร||
+ร้านอาหารคืนทุนเร็ว|A restaurant pays back fast|คืนทุนเร็ว,ร้านอาหาร||
+ร้านอาหารคืนทุนช้า|A restaurant pays back slowly|คืนทุนช้า,ร้านอาหาร||
+ร้านอาหารควรขยายสาขา|A restaurant: expand|ขยายสาขา,ร้านอาหาร||
+ร้านอาหารควรเซ้งต่อ|A restaurant: sell the lease|เซ้ง,ร้านอาหาร||
+ร้านอาหารทำเลดี|A restaurant: good location|ทำเลดี,ร้านอาหาร||
+ร้านอาหารทำเลไม่ดี|A restaurant: poor location|ทำเลไม่ดี,ร้านอาหาร||
+ร้านอาหารควรมีหุ้นส่วน|A restaurant: take a partner|หุ้นส่วน,ร้านอาหาร||
+เปิดร้านกาแฟได้|Open a café: go ahead|เปิดได้,ร้านกาแฟ||
+ยังไม่ควรเปิดร้านกาแฟ|Not yet for a café|ยังไม่ควร,ร้านกาแฟ||
+ร้านกาแฟขายดี|A café sells well|ขายดี,ร้านกาแฟ||
+ร้านกาแฟขายไม่ดี|A café sells poorly|ขายไม่ดี,ร้านกาแฟ||
+ร้านกาแฟคืนทุนเร็ว|A café pays back fast|คืนทุนเร็ว,ร้านกาแฟ||
+ร้านกาแฟคืนทุนช้า|A café pays back slowly|คืนทุนช้า,ร้านกาแฟ||
+ร้านกาแฟควรขยายสาขา|A café: expand|ขยายสาขา,ร้านกาแฟ||
+ร้านกาแฟควรเซ้งต่อ|A café: sell the lease|เซ้ง,ร้านกาแฟ||
+ร้านกาแฟทำเลดี|A café: good location|ทำเลดี,ร้านกาแฟ||
+ร้านกาแฟทำเลไม่ดี|A café: poor location|ทำเลไม่ดี,ร้านกาแฟ||
+ร้านกาแฟควรมีหุ้นส่วน|A café: take a partner|หุ้นส่วน,ร้านกาแฟ||
+เปิดร้านนวดและสปาได้|Open a massage spa: go ahead|เปิดได้,ร้านนวดและสปา||
+ยังไม่ควรเปิดร้านนวดและสปา|Not yet for a massage spa|ยังไม่ควร,ร้านนวดและสปา||
+ร้านนวดและสปาขายดี|A massage spa sells well|ขายดี,ร้านนวดและสปา||
+ร้านนวดและสปาขายไม่ดี|A massage spa sells poorly|ขายไม่ดี,ร้านนวดและสปา||
+ร้านนวดและสปาคืนทุนเร็ว|A massage spa pays back fast|คืนทุนเร็ว,ร้านนวดและสปา||
+ร้านนวดและสปาคืนทุนช้า|A massage spa pays back slowly|คืนทุนช้า,ร้านนวดและสปา||
+ร้านนวดและสปาควรขยายสาขา|A massage spa: expand|ขยายสาขา,ร้านนวดและสปา||
+ร้านนวดและสปาควรเซ้งต่อ|A massage spa: sell the lease|เซ้ง,ร้านนวดและสปา||
+ร้านนวดและสปาทำเลดี|A massage spa: good location|ทำเลดี,ร้านนวดและสปา||
+ร้านนวดและสปาทำเลไม่ดี|A massage spa: poor location|ทำเลไม่ดี,ร้านนวดและสปา||
+ร้านนวดและสปาควรมีหุ้นส่วน|A massage spa: take a partner|หุ้นส่วน,ร้านนวดและสปา||
+เปิดร้านทำเล็บได้|Open a nail salon: go ahead|เปิดได้,ร้านทำเล็บ||
+ยังไม่ควรเปิดร้านทำเล็บ|Not yet for a nail salon|ยังไม่ควร,ร้านทำเล็บ||
+ร้านทำเล็บขายดี|A nail salon sells well|ขายดี,ร้านทำเล็บ||
+ร้านทำเล็บขายไม่ดี|A nail salon sells poorly|ขายไม่ดี,ร้านทำเล็บ||
+ร้านทำเล็บคืนทุนเร็ว|A nail salon pays back fast|คืนทุนเร็ว,ร้านทำเล็บ||
+ร้านทำเล็บคืนทุนช้า|A nail salon pays back slowly|คืนทุนช้า,ร้านทำเล็บ||
+ร้านทำเล็บควรขยายสาขา|A nail salon: expand|ขยายสาขา,ร้านทำเล็บ||
+ร้านทำเล็บควรเซ้งต่อ|A nail salon: sell the lease|เซ้ง,ร้านทำเล็บ||
+ร้านทำเล็บทำเลดี|A nail salon: good location|ทำเลดี,ร้านทำเล็บ||
+ร้านทำเล็บทำเลไม่ดี|A nail salon: poor location|ทำเลไม่ดี,ร้านทำเล็บ||
+ร้านทำเล็บควรมีหุ้นส่วน|A nail salon: take a partner|หุ้นส่วน,ร้านทำเล็บ||
+เปิดร้านเสริมสวยได้|Open a beauty salon: go ahead|เปิดได้,ร้านเสริมสวย||
+ยังไม่ควรเปิดร้านเสริมสวย|Not yet for a beauty salon|ยังไม่ควร,ร้านเสริมสวย||
+ร้านเสริมสวยขายดี|A beauty salon sells well|ขายดี,ร้านเสริมสวย||
+ร้านเสริมสวยขายไม่ดี|A beauty salon sells poorly|ขายไม่ดี,ร้านเสริมสวย||
+ร้านเสริมสวยคืนทุนเร็ว|A beauty salon pays back fast|คืนทุนเร็ว,ร้านเสริมสวย||
+ร้านเสริมสวยคืนทุนช้า|A beauty salon pays back slowly|คืนทุนช้า,ร้านเสริมสวย||
+ร้านเสริมสวยควรขยายสาขา|A beauty salon: expand|ขยายสาขา,ร้านเสริมสวย||
+ร้านเสริมสวยควรเซ้งต่อ|A beauty salon: sell the lease|เซ้ง,ร้านเสริมสวย||
+ร้านเสริมสวยทำเลดี|A beauty salon: good location|ทำเลดี,ร้านเสริมสวย||
+ร้านเสริมสวยทำเลไม่ดี|A beauty salon: poor location|ทำเลไม่ดี,ร้านเสริมสวย||
+ร้านเสริมสวยควรมีหุ้นส่วน|A beauty salon: take a partner|หุ้นส่วน,ร้านเสริมสวย||
+เปิดร้านขายของออนไลน์ได้|Open an online shop: go ahead|เปิดได้,ร้านขายของออนไลน์||
+ยังไม่ควรเปิดร้านขายของออนไลน์|Not yet for an online shop|ยังไม่ควร,ร้านขายของออนไลน์||
+ร้านขายของออนไลน์ขายดี|An online shop sells well|ขายดี,ร้านขายของออนไลน์||
+ร้านขายของออนไลน์ขายไม่ดี|An online shop sells poorly|ขายไม่ดี,ร้านขายของออนไลน์||
+ร้านขายของออนไลน์คืนทุนเร็ว|An online shop pays back fast|คืนทุนเร็ว,ร้านขายของออนไลน์||
+ร้านขายของออนไลน์คืนทุนช้า|An online shop pays back slowly|คืนทุนช้า,ร้านขายของออนไลน์||
+ร้านขายของออนไลน์ควรขยายสาขา|An online shop: expand|ขยายสาขา,ร้านขายของออนไลน์||
+ร้านขายของออนไลน์ควรเซ้งต่อ|An online shop: sell the lease|เซ้ง,ร้านขายของออนไลน์||
+ร้านขายของออนไลน์ทำเลดี|An online shop: good location|ทำเลดี,ร้านขายของออนไลน์||
+ร้านขายของออนไลน์ทำเลไม่ดี|An online shop: poor location|ทำเลไม่ดี,ร้านขายของออนไลน์||
+ร้านขายของออนไลน์ควรมีหุ้นส่วน|An online shop: take a partner|หุ้นส่วน,ร้านขายของออนไลน์||
+เปิดร้านขายของชำได้|Open a grocery: go ahead|เปิดได้,ร้านขายของชำ||
+ยังไม่ควรเปิดร้านขายของชำ|Not yet for a grocery|ยังไม่ควร,ร้านขายของชำ||
+ร้านขายของชำขายดี|A grocery sells well|ขายดี,ร้านขายของชำ||
+ร้านขายของชำขายไม่ดี|A grocery sells poorly|ขายไม่ดี,ร้านขายของชำ||
+ร้านขายของชำคืนทุนเร็ว|A grocery pays back fast|คืนทุนเร็ว,ร้านขายของชำ||
+ร้านขายของชำคืนทุนช้า|A grocery pays back slowly|คืนทุนช้า,ร้านขายของชำ||
+ร้านขายของชำควรขยายสาขา|A grocery: expand|ขยายสาขา,ร้านขายของชำ||
+ร้านขายของชำควรเซ้งต่อ|A grocery: sell the lease|เซ้ง,ร้านขายของชำ||
+ร้านขายของชำทำเลดี|A grocery: good location|ทำเลดี,ร้านขายของชำ||
+ร้านขายของชำทำเลไม่ดี|A grocery: poor location|ทำเลไม่ดี,ร้านขายของชำ||
+ร้านขายของชำควรมีหุ้นส่วน|A grocery: take a partner|หุ้นส่วน,ร้านขายของชำ||
+เปิดร้านเบเกอรี่ได้|Open a bakery: go ahead|เปิดได้,ร้านเบเกอรี่||
+ยังไม่ควรเปิดร้านเบเกอรี่|Not yet for a bakery|ยังไม่ควร,ร้านเบเกอรี่||
+ร้านเบเกอรี่ขายดี|A bakery sells well|ขายดี,ร้านเบเกอรี่||
+ร้านเบเกอรี่ขายไม่ดี|A bakery sells poorly|ขายไม่ดี,ร้านเบเกอรี่||
+ร้านเบเกอรี่คืนทุนเร็ว|A bakery pays back fast|คืนทุนเร็ว,ร้านเบเกอรี่||
+ร้านเบเกอรี่คืนทุนช้า|A bakery pays back slowly|คืนทุนช้า,ร้านเบเกอรี่||
+ร้านเบเกอรี่ควรขยายสาขา|A bakery: expand|ขยายสาขา,ร้านเบเกอรี่||
+ร้านเบเกอรี่ควรเซ้งต่อ|A bakery: sell the lease|เซ้ง,ร้านเบเกอรี่||
+ร้านเบเกอรี่ทำเลดี|A bakery: good location|ทำเลดี,ร้านเบเกอรี่||
+ร้านเบเกอรี่ทำเลไม่ดี|A bakery: poor location|ทำเลไม่ดี,ร้านเบเกอรี่||
+ร้านเบเกอรี่ควรมีหุ้นส่วน|A bakery: take a partner|หุ้นส่วน,ร้านเบเกอรี่||
+เปิดฟู้ดทรักได้|Open a food truck: go ahead|เปิดได้,ฟู้ดทรัก||
+ยังไม่ควรเปิดฟู้ดทรัก|Not yet for a food truck|ยังไม่ควร,ฟู้ดทรัก||
+ฟู้ดทรักขายดี|A food truck sells well|ขายดี,ฟู้ดทรัก||
+ฟู้ดทรักขายไม่ดี|A food truck sells poorly|ขายไม่ดี,ฟู้ดทรัก||
+ฟู้ดทรักคืนทุนเร็ว|A food truck pays back fast|คืนทุนเร็ว,ฟู้ดทรัก||
+ฟู้ดทรักคืนทุนช้า|A food truck pays back slowly|คืนทุนช้า,ฟู้ดทรัก||
+ฟู้ดทรักควรขยายสาขา|A food truck: expand|ขยายสาขา,ฟู้ดทรัก||
+ฟู้ดทรักควรเซ้งต่อ|A food truck: sell the lease|เซ้ง,ฟู้ดทรัก||
+ฟู้ดทรักทำเลดี|A food truck: good location|ทำเลดี,ฟู้ดทรัก||
+ฟู้ดทรักทำเลไม่ดี|A food truck: poor location|ทำเลไม่ดี,ฟู้ดทรัก||
+ฟู้ดทรักควรมีหุ้นส่วน|A food truck: take a partner|หุ้นส่วน,ฟู้ดทรัก||
+เปิดธุรกิจนำเข้าส่งออกได้|Open an import-export business: go ahead|เปิดได้,ธุรกิจนำเข้าส่งออก||
+ยังไม่ควรเปิดธุรกิจนำเข้าส่งออก|Not yet for an import-export business|ยังไม่ควร,ธุรกิจนำเข้าส่งออก||
+ธุรกิจนำเข้าส่งออกขายดี|An import-export business sells well|ขายดี,ธุรกิจนำเข้าส่งออก||
+ธุรกิจนำเข้าส่งออกขายไม่ดี|An import-export business sells poorly|ขายไม่ดี,ธุรกิจนำเข้าส่งออก||
+ธุรกิจนำเข้าส่งออกคืนทุนเร็ว|An import-export business pays back fast|คืนทุนเร็ว,ธุรกิจนำเข้าส่งออก||
+ธุรกิจนำเข้าส่งออกคืนทุนช้า|An import-export business pays back slowly|คืนทุนช้า,ธุรกิจนำเข้าส่งออก||
+ธุรกิจนำเข้าส่งออกควรขยายสาขา|An import-export business: expand|ขยายสาขา,ธุรกิจนำเข้าส่งออก||
+ธุรกิจนำเข้าส่งออกควรเซ้งต่อ|An import-export business: sell the lease|เซ้ง,ธุรกิจนำเข้าส่งออก||
+ธุรกิจนำเข้าส่งออกทำเลดี|An import-export business: good location|ทำเลดี,ธุรกิจนำเข้าส่งออก||
+ธุรกิจนำเข้าส่งออกทำเลไม่ดี|An import-export business: poor location|ทำเลไม่ดี,ธุรกิจนำเข้าส่งออก||
+ธุรกิจนำเข้าส่งออกควรมีหุ้นส่วน|An import-export business: take a partner|หุ้นส่วน,ธุรกิจนำเข้าส่งออก||
+# กิจการและร้านค้า (2)
+เปิดธุรกิจท่องเที่ยวได้|Open a travel business: go ahead|เปิดได้,ธุรกิจท่องเที่ยว||
+ยังไม่ควรเปิดธุรกิจท่องเที่ยว|Not yet for a travel business|ยังไม่ควร,ธุรกิจท่องเที่ยว||
+ธุรกิจท่องเที่ยวขายดี|A travel business sells well|ขายดี,ธุรกิจท่องเที่ยว||
+ธุรกิจท่องเที่ยวขายไม่ดี|A travel business sells poorly|ขายไม่ดี,ธุรกิจท่องเที่ยว||
+ธุรกิจท่องเที่ยวคืนทุนเร็ว|A travel business pays back fast|คืนทุนเร็ว,ธุรกิจท่องเที่ยว||
+ธุรกิจท่องเที่ยวคืนทุนช้า|A travel business pays back slowly|คืนทุนช้า,ธุรกิจท่องเที่ยว||
+ธุรกิจท่องเที่ยวควรขยายสาขา|A travel business: expand|ขยายสาขา,ธุรกิจท่องเที่ยว||
+ธุรกิจท่องเที่ยวควรเซ้งต่อ|A travel business: sell the lease|เซ้ง,ธุรกิจท่องเที่ยว||
+ธุรกิจท่องเที่ยวทำเลดี|A travel business: good location|ทำเลดี,ธุรกิจท่องเที่ยว||
+ธุรกิจท่องเที่ยวทำเลไม่ดี|A travel business: poor location|ทำเลไม่ดี,ธุรกิจท่องเที่ยว||
+ธุรกิจท่องเที่ยวควรมีหุ้นส่วน|A travel business: take a partner|หุ้นส่วน,ธุรกิจท่องเที่ยว||
+เปิดอพาร์ตเมนต์ให้เช่าได้|Open a rental apartment block: go ahead|เปิดได้,อพาร์ตเมนต์ให้เช่า||
+ยังไม่ควรเปิดอพาร์ตเมนต์ให้เช่า|Not yet for a rental apartment block|ยังไม่ควร,อพาร์ตเมนต์ให้เช่า||
+อพาร์ตเมนต์ให้เช่าขายดี|A rental apartment block sells well|ขายดี,อพาร์ตเมนต์ให้เช่า||
+อพาร์ตเมนต์ให้เช่าขายไม่ดี|A rental apartment block sells poorly|ขายไม่ดี,อพาร์ตเมนต์ให้เช่า||
+อพาร์ตเมนต์ให้เช่าคืนทุนเร็ว|A rental apartment block pays back fast|คืนทุนเร็ว,อพาร์ตเมนต์ให้เช่า||
+อพาร์ตเมนต์ให้เช่าคืนทุนช้า|A rental apartment block pays back slowly|คืนทุนช้า,อพาร์ตเมนต์ให้เช่า||
+อพาร์ตเมนต์ให้เช่าควรขยายสาขา|A rental apartment block: expand|ขยายสาขา,อพาร์ตเมนต์ให้เช่า||
+อพาร์ตเมนต์ให้เช่าควรเซ้งต่อ|A rental apartment block: sell the lease|เซ้ง,อพาร์ตเมนต์ให้เช่า||
+อพาร์ตเมนต์ให้เช่าทำเลดี|A rental apartment block: good location|ทำเลดี,อพาร์ตเมนต์ให้เช่า||
+อพาร์ตเมนต์ให้เช่าทำเลไม่ดี|A rental apartment block: poor location|ทำเลไม่ดี,อพาร์ตเมนต์ให้เช่า||
+อพาร์ตเมนต์ให้เช่าควรมีหุ้นส่วน|A rental apartment block: take a partner|หุ้นส่วน,อพาร์ตเมนต์ให้เช่า||
+เปิดธุรกิจขนส่งได้|Open a delivery business: go ahead|เปิดได้,ธุรกิจขนส่ง||
+ยังไม่ควรเปิดธุรกิจขนส่ง|Not yet for a delivery business|ยังไม่ควร,ธุรกิจขนส่ง||
+ธุรกิจขนส่งขายดี|A delivery business sells well|ขายดี,ธุรกิจขนส่ง||
+ธุรกิจขนส่งขายไม่ดี|A delivery business sells poorly|ขายไม่ดี,ธุรกิจขนส่ง||
+ธุรกิจขนส่งคืนทุนเร็ว|A delivery business pays back fast|คืนทุนเร็ว,ธุรกิจขนส่ง||
+ธุรกิจขนส่งคืนทุนช้า|A delivery business pays back slowly|คืนทุนช้า,ธุรกิจขนส่ง||
+ธุรกิจขนส่งควรขยายสาขา|A delivery business: expand|ขยายสาขา,ธุรกิจขนส่ง||
+ธุรกิจขนส่งควรเซ้งต่อ|A delivery business: sell the lease|เซ้ง,ธุรกิจขนส่ง||
+ธุรกิจขนส่งทำเลดี|A delivery business: good location|ทำเลดี,ธุรกิจขนส่ง||
+ธุรกิจขนส่งทำเลไม่ดี|A delivery business: poor location|ทำเลไม่ดี,ธุรกิจขนส่ง||
+ธุรกิจขนส่งควรมีหุ้นส่วน|A delivery business: take a partner|หุ้นส่วน,ธุรกิจขนส่ง||
+เปิดคลินิกความงามได้|Open a beauty clinic: go ahead|เปิดได้,คลินิกความงาม||
+ยังไม่ควรเปิดคลินิกความงาม|Not yet for a beauty clinic|ยังไม่ควร,คลินิกความงาม||
+คลินิกความงามขายดี|A beauty clinic sells well|ขายดี,คลินิกความงาม||
+คลินิกความงามขายไม่ดี|A beauty clinic sells poorly|ขายไม่ดี,คลินิกความงาม||
+คลินิกความงามคืนทุนเร็ว|A beauty clinic pays back fast|คืนทุนเร็ว,คลินิกความงาม||
+คลินิกความงามคืนทุนช้า|A beauty clinic pays back slowly|คืนทุนช้า,คลินิกความงาม||
+คลินิกความงามควรขยายสาขา|A beauty clinic: expand|ขยายสาขา,คลินิกความงาม||
+คลินิกความงามควรเซ้งต่อ|A beauty clinic: sell the lease|เซ้ง,คลินิกความงาม||
+คลินิกความงามทำเลดี|A beauty clinic: good location|ทำเลดี,คลินิกความงาม||
+คลินิกความงามทำเลไม่ดี|A beauty clinic: poor location|ทำเลไม่ดี,คลินิกความงาม||
+คลินิกความงามควรมีหุ้นส่วน|A beauty clinic: take a partner|หุ้นส่วน,คลินิกความงาม||
+เปิดโรงเรียนกวดวิชาได้|Open a tutoring school: go ahead|เปิดได้,โรงเรียนกวดวิชา||
+ยังไม่ควรเปิดโรงเรียนกวดวิชา|Not yet for a tutoring school|ยังไม่ควร,โรงเรียนกวดวิชา||
+โรงเรียนกวดวิชาขายดี|A tutoring school sells well|ขายดี,โรงเรียนกวดวิชา||
+โรงเรียนกวดวิชาขายไม่ดี|A tutoring school sells poorly|ขายไม่ดี,โรงเรียนกวดวิชา||
+โรงเรียนกวดวิชาคืนทุนเร็ว|A tutoring school pays back fast|คืนทุนเร็ว,โรงเรียนกวดวิชา||
+โรงเรียนกวดวิชาคืนทุนช้า|A tutoring school pays back slowly|คืนทุนช้า,โรงเรียนกวดวิชา||
+โรงเรียนกวดวิชาควรขยายสาขา|A tutoring school: expand|ขยายสาขา,โรงเรียนกวดวิชา||
+โรงเรียนกวดวิชาควรเซ้งต่อ|A tutoring school: sell the lease|เซ้ง,โรงเรียนกวดวิชา||
+โรงเรียนกวดวิชาทำเลดี|A tutoring school: good location|ทำเลดี,โรงเรียนกวดวิชา||
+โรงเรียนกวดวิชาทำเลไม่ดี|A tutoring school: poor location|ทำเลไม่ดี,โรงเรียนกวดวิชา||
+โรงเรียนกวดวิชาควรมีหุ้นส่วน|A tutoring school: take a partner|หุ้นส่วน,โรงเรียนกวดวิชา||
+เปิดร้านพระเครื่องได้|Open an amulet shop: go ahead|เปิดได้,ร้านพระเครื่อง||
+ยังไม่ควรเปิดร้านพระเครื่อง|Not yet for an amulet shop|ยังไม่ควร,ร้านพระเครื่อง||
+ร้านพระเครื่องขายดี|An amulet shop sells well|ขายดี,ร้านพระเครื่อง||
+ร้านพระเครื่องขายไม่ดี|An amulet shop sells poorly|ขายไม่ดี,ร้านพระเครื่อง||
+ร้านพระเครื่องคืนทุนเร็ว|An amulet shop pays back fast|คืนทุนเร็ว,ร้านพระเครื่อง||
+ร้านพระเครื่องคืนทุนช้า|An amulet shop pays back slowly|คืนทุนช้า,ร้านพระเครื่อง||
+ร้านพระเครื่องควรขยายสาขา|An amulet shop: expand|ขยายสาขา,ร้านพระเครื่อง||
+ร้านพระเครื่องควรเซ้งต่อ|An amulet shop: sell the lease|เซ้ง,ร้านพระเครื่อง||
+ร้านพระเครื่องทำเลดี|An amulet shop: good location|ทำเลดี,ร้านพระเครื่อง||
+ร้านพระเครื่องทำเลไม่ดี|An amulet shop: poor location|ทำเลไม่ดี,ร้านพระเครื่อง||
+ร้านพระเครื่องควรมีหุ้นส่วน|An amulet shop: take a partner|หุ้นส่วน,ร้านพระเครื่อง||
+เปิดร้านเสื้อผ้าได้|Open a clothing shop: go ahead|เปิดได้,ร้านเสื้อผ้า||
+ยังไม่ควรเปิดร้านเสื้อผ้า|Not yet for a clothing shop|ยังไม่ควร,ร้านเสื้อผ้า||
+ร้านเสื้อผ้าขายดี|A clothing shop sells well|ขายดี,ร้านเสื้อผ้า||
+ร้านเสื้อผ้าขายไม่ดี|A clothing shop sells poorly|ขายไม่ดี,ร้านเสื้อผ้า||
+ร้านเสื้อผ้าคืนทุนเร็ว|A clothing shop pays back fast|คืนทุนเร็ว,ร้านเสื้อผ้า||
+ร้านเสื้อผ้าคืนทุนช้า|A clothing shop pays back slowly|คืนทุนช้า,ร้านเสื้อผ้า||
+ร้านเสื้อผ้าควรขยายสาขา|A clothing shop: expand|ขยายสาขา,ร้านเสื้อผ้า||
+ร้านเสื้อผ้าควรเซ้งต่อ|A clothing shop: sell the lease|เซ้ง,ร้านเสื้อผ้า||
+ร้านเสื้อผ้าทำเลดี|A clothing shop: good location|ทำเลดี,ร้านเสื้อผ้า||
+ร้านเสื้อผ้าทำเลไม่ดี|A clothing shop: poor location|ทำเลไม่ดี,ร้านเสื้อผ้า||
+ร้านเสื้อผ้าควรมีหุ้นส่วน|A clothing shop: take a partner|หุ้นส่วน,ร้านเสื้อผ้า||
+เปิดธุรกิจรับจัดงานได้|Open an events business: go ahead|เปิดได้,ธุรกิจรับจัดงาน||
+ยังไม่ควรเปิดธุรกิจรับจัดงาน|Not yet for an events business|ยังไม่ควร,ธุรกิจรับจัดงาน||
+ธุรกิจรับจัดงานขายดี|An events business sells well|ขายดี,ธุรกิจรับจัดงาน||
+ธุรกิจรับจัดงานขายไม่ดี|An events business sells poorly|ขายไม่ดี,ธุรกิจรับจัดงาน||
+ธุรกิจรับจัดงานคืนทุนเร็ว|An events business pays back fast|คืนทุนเร็ว,ธุรกิจรับจัดงาน||
+ธุรกิจรับจัดงานคืนทุนช้า|An events business pays back slowly|คืนทุนช้า,ธุรกิจรับจัดงาน||
+ธุรกิจรับจัดงานควรขยายสาขา|An events business: expand|ขยายสาขา,ธุรกิจรับจัดงาน||
+ธุรกิจรับจัดงานควรเซ้งต่อ|An events business: sell the lease|เซ้ง,ธุรกิจรับจัดงาน||
+ธุรกิจรับจัดงานทำเลดี|An events business: good location|ทำเลดี,ธุรกิจรับจัดงาน||
+ธุรกิจรับจัดงานทำเลไม่ดี|An events business: poor location|ทำเลไม่ดี,ธุรกิจรับจัดงาน||
+ธุรกิจรับจัดงานควรมีหุ้นส่วน|An events business: take a partner|หุ้นส่วน,ธุรกิจรับจัดงาน||
+เปิดแฟรนไชส์ได้|Open a franchise: go ahead|เปิดได้,แฟรนไชส์||
+ยังไม่ควรเปิดแฟรนไชส์|Not yet for a franchise|ยังไม่ควร,แฟรนไชส์||
+แฟรนไชส์ขายดี|A franchise sells well|ขายดี,แฟรนไชส์||
+แฟรนไชส์ขายไม่ดี|A franchise sells poorly|ขายไม่ดี,แฟรนไชส์||
+แฟรนไชส์คืนทุนเร็ว|A franchise pays back fast|คืนทุนเร็ว,แฟรนไชส์||
+แฟรนไชส์คืนทุนช้า|A franchise pays back slowly|คืนทุนช้า,แฟรนไชส์||
+แฟรนไชส์ควรขยายสาขา|A franchise: expand|ขยายสาขา,แฟรนไชส์||
+แฟรนไชส์ควรเซ้งต่อ|A franchise: sell the lease|เซ้ง,แฟรนไชส์||
+แฟรนไชส์ทำเลดี|A franchise: good location|ทำเลดี,แฟรนไชส์||
+แฟรนไชส์ทำเลไม่ดี|A franchise: poor location|ทำเลไม่ดี,แฟรนไชส์||
+แฟรนไชส์ควรมีหุ้นส่วน|A franchise: take a partner|หุ้นส่วน,แฟรนไชส์||
+เปิดร้านซักรีดได้|Open a laundry: go ahead|เปิดได้,ร้านซักรีด||
+ยังไม่ควรเปิดร้านซักรีด|Not yet for a laundry|ยังไม่ควร,ร้านซักรีด||
+ร้านซักรีดขายดี|A laundry sells well|ขายดี,ร้านซักรีด||
+ร้านซักรีดขายไม่ดี|A laundry sells poorly|ขายไม่ดี,ร้านซักรีด||
+ร้านซักรีดคืนทุนเร็ว|A laundry pays back fast|คืนทุนเร็ว,ร้านซักรีด||
+ร้านซักรีดคืนทุนช้า|A laundry pays back slowly|คืนทุนช้า,ร้านซักรีด||
+ร้านซักรีดควรขยายสาขา|A laundry: expand|ขยายสาขา,ร้านซักรีด||
+ร้านซักรีดควรเซ้งต่อ|A laundry: sell the lease|เซ้ง,ร้านซักรีด||
+ร้านซักรีดทำเลดี|A laundry: good location|ทำเลดี,ร้านซักรีด||
+ร้านซักรีดทำเลไม่ดี|A laundry: poor location|ทำเลไม่ดี,ร้านซักรีด||
+ร้านซักรีดควรมีหุ้นส่วน|A laundry: take a partner|หุ้นส่วน,ร้านซักรีด||
+# กำไร ขาดทุน และผลลัพธ์
+ได้กำไรงาม|Good profit|กำไร,ผลลัพธ์||
+ได้กำไรเล็กน้อย|Small profit|กำไร,เล็กน้อย||
+ได้กำไรเกินคาด|Profit beyond expectations|กำไร,เกินคาด||
+กำไรต่ำกว่าเป้า|Profit below target|กำไร,ต่ำกว่าเป้า||
+เท่าทุน|Break even|เท่าทุน,ผลลัพธ์||
+ขาดทุนเล็กน้อย|Small loss|ขาดทุน,เล็กน้อย||
+ขาดทุนหนัก|Heavy loss|ขาดทุน,หนัก||
+ขาดทุนก่อนแล้วค่อยกำไร|Loss first, then profit|ขาดทุน,กลับตัว||
+กำไรก่อนแล้วค่อยขาดทุน|Profit first, then loss|กำไร,พลิกผัน||
+กำไรบนกระดาษ|Paper profit only|กำไร,ยังไม่ขาย||
+ขาดทุนบนกระดาษ|Paper loss only|ขาดทุน,ยังไม่ขาย||
+ได้เงินปันผล|Dividends come in|ปันผล,รายได้||
+ปันผลลดลง|Dividends fall|ปันผล,ลดลง||
+ได้ค่าเช่าสม่ำเสมอ|Steady rent comes in|ค่าเช่า,รายได้||
+รายได้ไม่สม่ำเสมอ|Uneven income|รายได้,ไม่แน่นอน||
+ผลตอบแทนสูงความเสี่ยงสูง|High return, high risk|ผลตอบแทน,ความเสี่ยง||
+ผลตอบแทนต่ำแต่มั่นคง|Low but steady return|ผลตอบแทน,มั่นคง||
+ได้คืนทุนครบ|You get your capital back|คืนทุน,ครบ||
+ได้ทุนคืนไม่ครบ|You don't get it all back|คืนทุน,ไม่ครบ||
+กำไรถูกกินด้วยค่าธรรมเนียม|Fees eat the profit|ค่าธรรมเนียม,กำไร||
+กำไรถูกกินด้วยภาษี|Tax eats the profit|ภาษี,กำไร||
+ขายดีแต่ไม่มีกำไร|Selling well but no profit|ขายดี,ไม่มีกำไร||
+ยอดขายพุ่ง|Sales surge|ยอดขาย,พุ่ง||
+ยอดขายตก|Sales drop|ยอดขาย,ตก||
+เงินหมุนคล่อง|Cash flows well|กระแสเงินสด,คล่อง||
+เงินหมุนไม่ทัน|Cash flow is tight|กระแสเงินสด,ติดขัด||
+ได้ลาภจากการลงทุน|A windfall from investing|ลาภ,ลงทุน||
+เสียเงินโดยไม่ได้อะไรกลับมา|Money lost for nothing|เสียเงิน,สูญเปล่า||
+ผลลัพธ์ดีกว่าที่กลัว|Better than you feared|ผลลัพธ์,ดีกว่าคาด||
+ผลลัพธ์แย่กว่าที่หวัง|Worse than you hoped|ผลลัพธ์,แย่กว่าคาด||
+พอร์ตเติบโต|The portfolio grows|พอร์ต,เติบโต||
+พอร์ตติดลบ|The portfolio is in the red|พอร์ต,ติดลบ||
+กำไรน้อยแต่ปลอดภัย|Small profit but safe|กำไร,ปลอดภัย||
+ได้กำไรแล้วรีบหยุด|Take the profit and stop|กำไร,หยุด||
+ทุนเดิมงอกเงย|Your capital grows|ทุน,งอกเงย||
+ทุนหดหาย|Your capital shrinks|ทุน,หดหาย||
+ได้เงินก้อน|A lump sum arrives|เงินก้อน,ลาภ||
+ได้เงินทีละน้อยแต่ต่อเนื่อง|Small but steady money|รายได้,ต่อเนื่อง||
+คุ้มค่าการลงทุน|Worth the investment|คุ้มค่า,ลงทุน||
+ไม่คุ้มค่าการลงทุน|Not worth it|ไม่คุ้มค่า,ลงทุน||
+ได้ไม่คุ้มเสีย|The loss outweighs the gain|ได้ไม่คุ้มเสีย,ความเสี่ยง||
+ผลตอบแทนตามเป้า|Return meets the target|ผลตอบแทน,ตามเป้า||
+มีกำไรแต่เงินยังไม่เข้า|Profit on paper, cash not in yet|กำไร,เงินยังไม่เข้า||
+ขาดทุนแต่ได้บทเรียน|A loss with a lesson|ขาดทุน,บทเรียน||
+กำไรจากจังหวะดี|Profit from good timing|กำไร,จังหวะ||
+# ทุนและแหล่งเงิน
+ทุนหนา|Deep pockets|ทุน,มาก||
+ทุนน้อย|Small capital|ทุน,น้อย||
+ทุนจม|Money tied up|ทุนจม,สภาพคล่อง||
+ทุนไม่พอ|Not enough capital|ทุน,ไม่พอ||
+ทุนพอดี|Just enough capital|ทุน,พอดี||
+มีทุนสำรองพอ|Enough in reserve|ทุนสำรอง,ปลอดภัย||
+ไม่มีทุนสำรอง|No reserve|ทุนสำรอง,เสี่ยง||
+ใช้เงินเย็นลงทุน|Invest only spare money|เงินเย็น,ปลอดภัย||
+ห้ามใช้เงินร้อนลงทุน|Never invest money you need|เงินร้อน,ความเสี่ยง||
+กู้มาลงทุน|Borrowing to invest|กู้,ความเสี่ยง||
+กู้ธนาคารผ่าน|The bank loan is approved|กู้,ผ่าน||
+กู้ธนาคารไม่ผ่าน|The bank loan is refused|กู้,ไม่ผ่าน||
+ยืมเงินญาติมาลงทุน|Borrowing from family|ยืมเงิน,ญาติ||
+ยืมเงินเพื่อนมาลงทุน|Borrowing from friends|ยืมเงิน,เพื่อน||
+มีผู้ใหญ่ให้ทุน|An elder backs you|ผู้ใหญ่,ทุน||
+มีนักลงทุนสนใจ|An investor is interested|นักลงทุน,ทุน||
+ได้ทุนสนับสนุน|You get funding|ทุนสนับสนุน,ได้||
+ไม่ได้ทุนสนับสนุน|No funding|ทุนสนับสนุน,ไม่ได้||
+เงินออมพอเริ่มต้น|Savings are enough to start|เงินออม,เริ่มต้น||
+ควรเก็บเงินเพิ่มก่อน|Save more first|เงินออม,รอ||
+ใช้เงินกู้นอกระบบ|Using loan-shark money|หนี้นอกระบบ,อันตราย||
+ภาระดอกเบี้ยหนัก|Heavy interest burden|ดอกเบี้ย,ภาระ||
+ดอกเบี้ยต่ำเป็นโอกาส|Low rates are a chance|ดอกเบี้ย,โอกาส||
+ดอกเบี้ยขึ้นกระทบทุน|Rising rates hit you|ดอกเบี้ย,ขึ้น||
+ขายทรัพย์สินมาลงทุน|Selling assets to invest|ขายทรัพย์,ทุน||
+จำนองทรัพย์สินมาลงทุน|Mortgaging to invest|จำนอง,ความเสี่ยง||
+ใช้บัตรเครดิตลงทุน|Investing on a credit card|บัตรเครดิต,อันตราย||
+แบ่งเงินลงทุนหลายก้อน|Split the money into parts|กระจายทุน,ปลอดภัย||
+ลงทุนทีละน้อยสม่ำเสมอ|Invest a little, regularly|ลงทุนสม่ำเสมอ,DCA||
+ทุ่มหมดหน้าตัก|All in|ทุ่มหมด,เสี่ยงสูง||
+เก็บเงินต้นไว้ ใช้แต่กำไร|Keep the capital, use only profit|เงินต้น,วินัย||
+เงินทุนติดค้างนาน|Capital stuck for long|ทุนจม,นาน||
+ถอนเงินทุนออกได้|You can pull your capital out|ถอนทุน,ได้||
+ถอนเงินทุนออกไม่ได้|Capital can't be withdrawn|ถอนทุน,ไม่ได้||
+ทุนมาจากหลายคน|Capital from many people|ทุน,หลายคน||
+มีคนพร้อมร่วมลงขัน|People ready to chip in|ร่วมลงขัน,ทุน||
+เงินทุนมาช้ากว่ากำหนด|Funding arrives late|ทุน,ล่าช้า||
+เงินทุนมาเร็วกว่าคาด|Funding arrives early|ทุน,เร็ว||
+ค่าใช้จ่ายแฝงทำให้ทุนบาน|Hidden costs swell the budget|ค่าใช้จ่ายแฝง,งบบาน||
+งบเกินกว่าที่วางไว้|Over budget|งบประมาณ,เกิน||
+คุมงบได้ดี|Budget well controlled|งบประมาณ,คุมได้||
+ต้นทุนสูงขึ้น|Costs rise|ต้นทุน,สูงขึ้น||
+ต้นทุนลดลง|Costs fall|ต้นทุน,ลดลง||
+มีเงินเย็นพอให้รอได้|Enough spare cash to wait|เงินเย็น,รอได้||
+หนี้เดิมยังไม่หมดอย่าเพิ่งลงทุน|Clear old debt before investing|หนี้,รอ||
+# จังหวะเวลา
+ลงทุนได้เลยตอนนี้|Invest now|จังหวะ,ตอนนี้||
+ควรรอก่อน|Wait for now|รอ,จังหวะ||
+ไม่ควรรอ|Don't wait|ไม่ควรรอ,จังหวะ||
+รอจังหวะราคาลง|Wait for a dip|รอ,ราคาลง||
+อย่าไล่ซื้อตอนราคาพุ่ง|Don't chase a spike|ไล่ราคา,ระวัง||
+ซื้อตอนคนกลัว|Buy when others are afraid|จังหวะ,สวนตลาด||
+ขายตอนคนโลภ|Sell when others are greedy|จังหวะ,ขาย||
+ช่วงนี้ตลาดขาขึ้น|The market is rising|ขาขึ้น,ตลาด||
+ช่วงนี้ตลาดขาลง|The market is falling|ขาลง,ตลาด||
+ตลาดออกข้าง|The market is flat|ออกข้าง,ตลาด||
+รอสัญญาณชัดก่อน|Wait for a clear signal|สัญญาณ,รอ||
+เข้าเร็วเกินไป|Too early|จังหวะ,เร็วไป||
+เข้าช้าเกินไป|Too late|จังหวะ,ช้าไป||
+จังหวะกำลังดี|The timing is right|จังหวะ,ดี||
+พลาดจังหวะไปแล้ว|You missed the moment|จังหวะ,พลาด||
+ยังมีโอกาสรอบหน้า|Another chance will come|โอกาส,รอบหน้า||
+ภายใน 3 เดือนเห็นผล|Results within 3 months|เวลา,3 เดือน||
+ภายใน 1 ปีเห็นผล|Results within a year|เวลา,1 ปี||
+ต้องรอ 3–5 ปี|Wait 3–5 years|เวลา,ระยะยาว||
+ระยะสั้นเสี่ยง ระยะยาวดี|Risky short term, good long term|ระยะยาว,อดทน||
+ระยะสั้นดี ระยะยาวไม่แน่|Good short term, unsure long term|ระยะสั้น,ไม่แน่นอน||
+ปลายปีดีกว่าต้นปี|Year-end beats the start|เวลา,ปลายปี||
+ต้นปีดีกว่าปลายปี|The start beats year-end|เวลา,ต้นปี||
+หลังเทศกาลค่อยเริ่ม|Start after the holidays|เวลา,เทศกาล||
+ก่อนเทศกาลรีบเปิดขาย|Open before the holidays|เวลา,เทศกาล||
+รอเอกสารครบก่อน|Wait until papers are complete|เอกสาร,รอ||
+รอหุ้นส่วนพร้อมก่อน|Wait for partners to be ready|หุ้นส่วน,รอ||
+รอข่าวสำคัญผ่านไปก่อน|Wait until big news passes|ข่าว,รอ||
+รอดอกเบี้ยลงก่อน|Wait for rates to fall|ดอกเบี้ย,รอ||
+ทยอยเข้า ไม่รีบ|Ease in slowly|ทยอยซื้อ,ไม่รีบ||
+ทยอยขาย ไม่ทิ้งหมด|Sell gradually|ทยอยขาย,วินัย||
+ถึงเวลาถอนตัว|Time to get out|ถอนตัว,จังหวะ||
+ยังไม่ถึงเวลาถอนตัว|Not time to exit yet|ถือต่อ,จังหวะ||
+อดทนอีกนิดจะดี|A little more patience pays|อดทน,รอ||
+รอนานเกินไปเสียโอกาส|Waiting too long costs you|รอนาน,เสียโอกาส||
+ช่วงนี้อย่าเพิ่งตัดสินใจ|Don't decide just now|ตัดสินใจ,รอ||
+ตัดสินใจเร็วได้เปรียบ|Deciding fast gives an edge|ตัดสินใจ,เร็ว||
+เปิดกิจการช่วงหน้าร้อนดี|Open in the hot season|เวลา,ฤดู||
+เปิดกิจการช่วงหน้าฝนดี|Open in the rainy season|เวลา,ฤดู||
+ฤกษ์ดีกำลังจะมา|A good time is coming|ฤกษ์,เร็วๆ นี้||
+อีกนานกว่าจะได้ผล|Results are a long way off|เวลา,นาน||
+เร็วๆ นี้มีข่าวดี|Good news soon|ข่าวดี,เร็วๆ นี้||
+รอบนี้ปล่อยผ่านไปก่อน|Let this round pass|ปล่อยผ่าน,รอ||
+เมื่อพร้อมจริงค่อยลงมือ|Act when truly ready|พร้อม,ลงมือ||
+จังหวะเปลี่ยนเร็ว ต้องตามให้ทัน|Things change fast, keep up|จังหวะ,ติดตาม||
+# ความเสี่ยงและสิ่งที่ต้องระวัง
+ระวังแชร์ลูกโซ่|Beware pyramid schemes|แชร์ลูกโซ่,หลอกลวง||
+ระวังผลตอบแทนที่ดีเกินจริง|Beware returns too good to be true|ดีเกินจริง,หลอกลวง||
+ระวังแอปลงทุนปลอม|Beware fake trading apps|แอปปลอม,หลอกลวง||
+ระวังคนชวนลงทุนในโซเชียล|Beware investment pitches on social media|โซเชียล,ชักชวน||
+ระวังโบรกเกอร์ไม่มีใบอนุญาต|Beware unlicensed brokers|ใบอนุญาต,โบรกเกอร์||
+ระวังเซ็นสัญญาโดยไม่อ่าน|Don't sign without reading|สัญญา,ระวัง||
+ระวังโดนหุ้นส่วนโกง|Beware a cheating partner|หุ้นส่วน,โกง||
+ระวังที่ดินมีปัญหาโฉนด|Beware land-title problems|โฉนด,ที่ดิน||
+ระวังซื้อทรัพย์ติดภาระ|Beware encumbered property|ภาระผูกพัน,อสังหา||
+ระวังเลเวอเรจสูง|Beware high leverage|เลเวอเรจ,เสี่ยงสูง||
+ระวังโดนบังคับขาย|Beware a margin call|มาร์จิ้น,บังคับขาย||
+ระวังกระจุกตัวลงทุนที่เดียว|Don't put it all in one place|กระจายความเสี่ยง,ระวัง||
+ระวังตามกระแสโดยไม่ศึกษา|Don't follow the hype blindly|ตามกระแส,ศึกษา||
+ระวังข่าวลือปั่นราคา|Beware rumours that pump prices|ข่าวลือ,ปั่น||
+ระวังสภาพคล่องต่ำ|Beware low liquidity|สภาพคล่อง,ขายยาก||
+ระวังขายไม่ออกเมื่ออยากขาย|You may not be able to sell|ขายยาก,สภาพคล่อง||
+ระวังค่าธรรมเนียมแฝง|Beware hidden fees|ค่าธรรมเนียม,แฝง||
+ระวังภาษีที่ไม่ได้คิดไว้|Beware unplanned taxes|ภาษี,วางแผน||
+ระวังกฎหมายเปลี่ยน|Rules may change|กฎหมาย,เปลี่ยนแปลง||
+ระวังค่าเงินผันผวน|Beware currency swings|ค่าเงิน,ผันผวน||
+ระวังเงินเฟ้อกินกำไร|Inflation may eat the gain|เงินเฟ้อ,กำไร||
+ระวังบัญชีถูกแฮก|Beware hacked accounts|แฮก,บัญชี||
+ระวังกระเป๋าคริปโตหาย|Beware losing your crypto wallet|กระเป๋าคริปโต,สูญหาย||
+ระวังแพลตฟอร์มปิดตัว|The platform may shut down|แพลตฟอร์ม,ปิดตัว||
+ระวังผู้เช่าไม่จ่ายค่าเช่า|Tenants may not pay|ผู้เช่า,ค้างค่าเช่า||
+ระวังทรัพย์เสียหายจากภัยธรรมชาติ|Property may be hit by disaster|ภัยธรรมชาติ,ประกัน||
+ระวังโครงการสร้างไม่เสร็จ|The project may not be finished|โครงการ,สร้างไม่เสร็จ||
+ระวังนายหน้าไม่ซื่อ|Beware a dishonest agent|นายหน้า,ไม่ซื่อ||
+ระวังลูกค้าค้างจ่าย|Customers may not pay|ลูกหนี้,ค้างจ่าย||
+ระวังสต็อกค้าง|Unsold stock may pile up|สต็อก,ค้าง||
+ระวังคู่แข่งเปิดใกล้|A rival may open nearby|คู่แข่ง,ทำเล||
+ระวังพนักงานโกง|Staff may steal|พนักงาน,โกง||
+ระวังโดนฟ้องร้อง|Beware lawsuits|คดี,ฟ้องร้อง||
+ระวังใบอนุญาตไม่ครบ|Permits may be incomplete|ใบอนุญาต,กฎหมาย||
+ระวังโลภจนลืมตัว|Don't let greed take over|โลภ,สติ||
+ระวังกลัวจนพลาดโอกาส|Don't let fear make you miss out|กลัว,โอกาส||
+ระวังเชื่อคนง่ายเรื่องเงิน|Don't trust easily with money|เชื่อใจ,เงิน||
+ระวังค้ำประกันให้คนอื่น|Think twice before guaranteeing|ค้ำประกัน,ความเสี่ยง||
+ระวังลงทุนตามเพื่อน|Don't invest just because friends do|ตามเพื่อน,ตัดสินใจเอง||
+ระวังทำเลดีแต่ค่าเช่าแพงเกิน|Good spot, rent too high|ค่าเช่า,ทำเล||
+ระวังสัญญาเช่าสั้นเกินไป|The lease may be too short|สัญญาเช่า,ระยะสั้น||
+ระวังต้นทุนวัตถุดิบขึ้น|Material costs may rise|วัตถุดิบ,ต้นทุน||
+ระวังขยายเร็วเกินไป|Don't expand too fast|ขยายกิจการ,เร็วเกิน||
+ระวังพึ่งลูกค้ารายเดียว|Don't rely on one customer|ลูกค้า,พึ่งพา||
+ระวังลงทุนในสิ่งที่ไม่เข้าใจ|Don't invest in what you don't understand|ความรู้,ระวัง||
+# หุ้นส่วนและคนร่วมลงทุน
+ควรลงทุนคนเดียว|Go it alone|ลงทุนคนเดียว,อิสระ||
+ควรมีหุ้นส่วน|Take a partner|หุ้นส่วน,ร่วมทุน||
+หุ้นส่วนหนึ่งคน|One partner|หุ้นส่วน,1 คน||
+หุ้นส่วนสองคน|Two partners|หุ้นส่วน,2 คน||
+หุ้นส่วนสามคนขึ้นไป|Three or more partners|หุ้นส่วน,หลายคน||
+หุ้นส่วนไว้ใจได้|A trustworthy partner|หุ้นส่วน,ไว้ใจได้||
+หุ้นส่วนไว้ใจไม่ได้|An untrustworthy partner|หุ้นส่วน,ไว้ใจไม่ได้||
+หุ้นส่วนทุนหนา|A partner with deep pockets|หุ้นส่วน,ทุนหนา||
+หุ้นส่วนมีฝีมือแต่ไม่มีทุน|A skilled partner with no money|หุ้นส่วน,ฝีมือ||
+หุ้นส่วนมีทุนแต่ไม่ลงแรง|A partner with money but no effort|หุ้นส่วน,ไม่ลงแรง||
+หุ้นส่วนเป็นญาติ|A partner who is family|หุ้นส่วน,ญาติ||
+หุ้นส่วนเป็นเพื่อน|A partner who is a friend|หุ้นส่วน,เพื่อน||
+หุ้นส่วนเป็นคนรัก|A partner who is your lover|หุ้นส่วน,คนรัก||
+หุ้นส่วนเป็นชาวต่างชาติ|A foreign partner|หุ้นส่วน,ต่างชาติ||
+หุ้นส่วนอายุมากกว่า|An older partner|หุ้นส่วน,อายุมากกว่า||
+หุ้นส่วนอายุน้อยกว่า|A younger partner|หุ้นส่วน,อายุน้อยกว่า||
+แบ่งหุ้นไม่ลงตัว|Shares split unfairly|แบ่งหุ้น,ไม่ลงตัว||
+แบ่งหุ้นลงตัว|Shares split fairly|แบ่งหุ้น,ลงตัว||
+ทำสัญญาหุ้นส่วนให้ชัด|Put the partnership in writing|สัญญา,หุ้นส่วน||
+หุ้นส่วนขอถอนตัว|A partner wants out|หุ้นส่วน,ถอนตัว||
+หุ้นส่วนใหม่เข้ามา|A new partner joins|หุ้นส่วน,ใหม่||
+ขัดแย้งกับหุ้นส่วน|Conflict with a partner|หุ้นส่วน,ขัดแย้ง||
+หุ้นส่วนช่วยกันดี|Partners work well together|หุ้นส่วน,สามัคคี||
+หุ้นส่วนเอาเปรียบ|A partner takes advantage|หุ้นส่วน,เอาเปรียบ||
+หุ้นส่วนนำลูกค้ามาให้|A partner brings customers|หุ้นส่วน,ลูกค้า||
+หุ้นส่วนมีคอนเนกชัน|A well-connected partner|หุ้นส่วน,คอนเนกชัน||
+หุ้นส่วนใช้เงินกิจการเป็นส่วนตัว|A partner uses business money privately|หุ้นส่วน,ปะปนเงิน||
+หุ้นส่วนตัดสินใจช้า|A slow-deciding partner|หุ้นส่วน,ตัดสินใจช้า||
+หุ้นส่วนใจร้อน|A hasty partner|หุ้นส่วน,ใจร้อน||
+ร่วมทุนกับบริษัทใหญ่|Join a big company|ร่วมทุน,บริษัทใหญ่||
+ร่วมทุนกับคนรู้จักใหม่|Partner with a new acquaintance|ร่วมทุน,คนใหม่||
+นักลงทุนอยากถือหุ้นมากเกินไป|An investor wants too big a share|นักลงทุน,สัดส่วน||
+มีคนอยากซื้อกิจการ|Someone wants to buy the business|ขายกิจการ,ผู้ซื้อ||
+ควรซื้อหุ้นส่วนออก|Buy your partner out|ซื้อหุ้นคืน,หุ้นส่วน||
+ควรขายหุ้นส่วนของตัวเอง|Sell your stake|ขายหุ้น,ถอนตัว||
+บัญชีกิจการต้องโปร่งใส|Keep the books open|บัญชี,โปร่งใส||
+หุ้นส่วนไม่ยอมเปิดบัญชีให้ดู|A partner hides the books|บัญชี,ปิดบัง||
+มีคนกลางช่วยไกล่เกลี่ย|A mediator helps|ไกล่เกลี่ย,คนกลาง||
+หุ้นส่วนเงียบ|A silent partner|หุ้นส่วน,ไม่ยุ่ง||
+หุ้นส่วนยุ่งทุกเรื่อง|A partner who meddles in everything|หุ้นส่วน,ก้าวก่าย||
+แยกเงินกิจการกับเงินส่วนตัว|Keep business and personal money apart|แยกบัญชี,วินัย||
+แบ่งงานชัด ไม่ทับซ้อน|Split the work clearly|แบ่งงาน,ชัดเจน||
+หุ้นส่วนเห็นตรงกัน|Partners agree|หุ้นส่วน,เห็นตรงกัน||
+หุ้นส่วนเป้าหมายไม่ตรงกัน|Partners want different things|หุ้นส่วน,เป้าหมายต่าง||
+จบหุ้นส่วนด้วยดี|Part ways on good terms|เลิกหุ้นส่วน,ด้วยดี||
+# ค้าขายและลูกค้า
+ลูกค้าเยอะ|Many customers|ลูกค้า,มาก||
+ลูกค้าน้อย|Few customers|ลูกค้า,น้อย||
+ลูกค้าประจำ|Loyal customers|ลูกค้าประจำ,ภักดี||
+ลูกค้าใหม่หลั่งไหล|New customers pour in|ลูกค้าใหม่,เพิ่มขึ้น||
+ลูกค้าติดใจ|Customers love it|ลูกค้า,ติดใจ||
+ลูกค้าบ่น|Customers complain|ลูกค้า,ร้องเรียน||
+ลูกค้าต่างชาติ|Foreign customers|ลูกค้า,ต่างชาติ||
+ลูกค้าคนไทย|Thai customers|ลูกค้า,คนไทย||
+ลูกค้าออนไลน์มากกว่าหน้าร้าน|More online than walk-in|ออนไลน์,หน้าร้าน||
+หน้าร้านดีกว่าออนไลน์|Walk-in beats online|หน้าร้าน,ออนไลน์||
+สินค้าขายดีเป็นเทน้ำเทท่า|Selling like hot cakes|ขายดี,สินค้า||
+สินค้าเฉพาะกลุ่ม|A niche product|สินค้า,เฉพาะกลุ่ม||
+สินค้าตลาดแมส|A mass-market product|สินค้า,แมส||
+ตั้งราคาสูงไป|Priced too high|ราคา,สูงไป||
+ตั้งราคาต่ำไป|Priced too low|ราคา,ต่ำไป||
+ราคาพอดีกับตลาด|Priced right for the market|ราคา,พอดี||
+ควรเพิ่มสินค้าใหม่|Add new products|สินค้าใหม่,เพิ่ม||
+ควรลดรายการสินค้า|Cut the product range|ลดสินค้า,โฟกัส||
+ควรทำการตลาดออนไลน์|Market online|การตลาด,ออนไลน์||
+ควรจ้างอินฟลูเอนเซอร์|Hire an influencer|อินฟลูเอนเซอร์,โปรโมต||
+โปรโมชันได้ผล|The promotion works|โปรโมชัน,ได้ผล||
+โปรโมชันไม่คุ้ม|The promotion doesn't pay|โปรโมชัน,ไม่คุ้ม||
+รีวิวดีช่วยขาย|Good reviews help sales|รีวิว,ดี||
+รีวิวแย่ทำยอดตก|Bad reviews hurt sales|รีวิว,แย่||
+ปากต่อปากดีมาก|Strong word of mouth|ปากต่อปาก,ชื่อเสียง||
+แบรนด์เป็นที่รู้จัก|The brand becomes known|แบรนด์,เป็นที่รู้จัก||
+แบรนด์ยังไม่ติดตลาด|The brand hasn't caught on|แบรนด์,ยังไม่ติด||
+บริการดีลูกค้ากลับมา|Good service brings them back|บริการ,ลูกค้ากลับมา||
+บริการแย่ลูกค้าหาย|Bad service drives them off|บริการ,ลูกค้าหาย||
+คุณภาพสินค้าต้องปรับ|Product quality needs work|คุณภาพ,ปรับปรุง||
+ซัพพลายเออร์ไว้ใจได้|A reliable supplier|ซัพพลายเออร์,ไว้ใจได้||
+ซัพพลายเออร์ส่งของช้า|A slow supplier|ซัพพลายเออร์,ล่าช้า||
+ได้ออเดอร์ใหญ่|A big order comes in|ออเดอร์,ใหญ่||
+ออเดอร์ถูกยกเลิก|An order is cancelled|ออเดอร์,ยกเลิก||
+ขายส่งดีกว่าขายปลีก|Wholesale beats retail|ขายส่ง,ขายปลีก||
+ขายปลีกดีกว่าขายส่ง|Retail beats wholesale|ขายปลีก,ขายส่ง||
+ส่งออกต่างประเทศได้|You can export|ส่งออก,ต่างประเทศ||
+นำเข้าสินค้ามาขายได้ดี|Imports sell well|นำเข้า,ขายดี||
+คู่แข่งเยอะ|Many rivals|คู่แข่ง,มาก||
+คู่แข่งน้อย|Few rivals|คู่แข่ง,น้อย||
+ตลาดยังไม่อิ่มตัว|The market isn't saturated|ตลาด,โอกาส||
+ตลาดอิ่มตัวแล้ว|The market is saturated|ตลาด,อิ่มตัว||
+หาลูกค้ากลุ่มใหม่|Find a new customer group|ลูกค้า,กลุ่มใหม่||
+ร่วมมือกับร้านอื่น|Team up with another shop|ร่วมมือ,พันธมิตร||
+พนักงานดีช่วยขาย|Good staff boost sales|พนักงาน,ขาย||
+# อสังหาริมทรัพย์และที่ดิน
+ซื้ออสังหาได้|Buy property|ซื้อ,อสังหา||
+ยังไม่ควรซื้ออสังหา|Not yet for property|ยังไม่ควร,อสังหา||
+เช่าดีกว่าซื้อ|Renting beats buying|เช่า,ซื้อ||
+ซื้อดีกว่าเช่า|Buying beats renting|ซื้อ,เช่า||
+ซื้อไว้ปล่อยเช่า|Buy to let|ปล่อยเช่า,รายได้||
+ซื้อไว้เก็งกำไร|Buy to flip|เก็งกำไร,อสังหา||
+ที่ดินราคาขึ้น|Land prices rise|ที่ดิน,ราคาขึ้น||
+ที่ดินราคานิ่ง|Land prices stay flat|ที่ดิน,ราคานิ่ง||
+ทำเลจะมีรถไฟฟ้า|A train line is coming|ทำเล,รถไฟฟ้า||
+ทำเลกำลังเติบโต|An up-and-coming area|ทำเล,เติบโต||
+ทำเลซบเซา|A sleepy area|ทำเล,ซบเซา||
+ผ่อนไหว|You can afford the payments|ผ่อน,ไหว||
+ผ่อนไม่ไหว|The payments are too much|ผ่อน,ไม่ไหว||
+ดาวน์ไหว|You can afford the down payment|เงินดาวน์,ไหว||
+ดาวน์ไม่ไหว|The down payment is too much|เงินดาวน์,ไม่ไหว||
+หาผู้เช่าได้เร็ว|Tenants come fast|ผู้เช่า,เร็ว||
+ห้องว่างนาน|Units sit empty|ห้องว่าง,นาน||
+ผู้เช่าดี|Good tenants|ผู้เช่า,ดี||
+ผู้เช่ามีปัญหา|Problem tenants|ผู้เช่า,ปัญหา||
+ขายบ้านได้ราคาดี|The house sells well|ขายบ้าน,ราคาดี||
+ขายบ้านไม่ออก|The house won't sell|ขายบ้าน,ขายไม่ออก||
+รีโนเวตแล้วขายได้ราคา|Renovate and sell higher|รีโนเวต,กำไร||
+ค่าซ่อมบำรุงสูง|High upkeep|ซ่อมบำรุง,ค่าใช้จ่าย||
+ค่าส่วนกลางแพง|High common fees|ค่าส่วนกลาง,ค่าใช้จ่าย||
+ภาษีที่ดินต้องวางแผน|Plan for land tax|ภาษีที่ดิน,วางแผน||
+โฉนดชัดเจน|A clear title|โฉนด,ชัดเจน||
+ที่ดินมีทางเข้าออกดี|Good road access|ที่ดิน,ทางเข้าออก||
+ที่ดินตาบอด|Landlocked land|ที่ดินตาบอด,ระวัง||
+ที่ดินน้ำท่วมถึง|Flood-prone land|น้ำท่วม,ที่ดิน||
+ซื้อทรัพย์ขายทอดตลาด|Buy at auction|ขายทอดตลาด,ทรัพย์||
+ซื้อมือสองคุ้มกว่ามือหนึ่ง|Second-hand beats new|มือสอง,คุ้มค่า||
+ซื้อโครงการใหม่ดีกว่า|New build is better|โครงการใหม่,ซื้อ||
+แบ่งแปลงขายได้กำไร|Subdivide and sell for profit|แบ่งแปลง,กำไร||
+ปลูกสร้างบนที่ดินตัวเอง|Build on your own land|ปลูกสร้าง,ที่ดิน||
+ทำที่พักรายวัน|Run short-stay rentals|ที่พักรายวัน,รายได้||
+กฎหมายจำกัดชาวต่างชาติถือครอง|Foreign ownership is restricted|กฎหมาย,ต่างชาติ||
+ลงทุนอสังหาร่วมกับครอบครัว|Buy property with family|ครอบครัว,อสังหา||
+ถือไว้ให้ลูกหลาน|Keep it for the next generation|มรดก,ถือยาว||
+ขายเพื่อเปลี่ยนเป็นเงินสด|Sell to raise cash|ขาย,เงินสด||
+ราคาประเมินต่ำกว่าที่คิด|The valuation comes in low|ราคาประเมิน,ต่ำ||
+# ตลาดและเศรษฐกิจ
+เศรษฐกิจกำลังฟื้น|The economy is recovering|เศรษฐกิจ,ฟื้นตัว||
+เศรษฐกิจชะลอตัว|The economy is slowing|เศรษฐกิจ,ชะลอ||
+เศรษฐกิจถดถอย|Recession|เศรษฐกิจ,ถดถอย||
+เงินเฟ้อสูง|High inflation|เงินเฟ้อ,สูง||
+ดอกเบี้ยขาขึ้น|Rates rising|ดอกเบี้ย,ขึ้น||
+ดอกเบี้ยขาลง|Rates falling|ดอกเบี้ย,ลง||
+ค่าเงินบาทแข็ง|A strong baht|ค่าเงินบาท,แข็ง||
+ค่าเงินบาทอ่อน|A weak baht|ค่าเงินบาท,อ่อน||
+ค่าเงินดอลลาร์แข็ง|A strong dollar|ดอลลาร์,แข็ง||
+ค่าเงินดอลลาร์อ่อน|A weak dollar|ดอลลาร์,อ่อน||
+ราคาทองขึ้น|Gold rises|ทองคำ,ขึ้น||
+ราคาทองลง|Gold falls|ทองคำ,ลง||
+ราคาน้ำมันขึ้น|Oil rises|น้ำมัน,ขึ้น||
+ราคาน้ำมันลง|Oil falls|น้ำมัน,ลง||
+ตลาดหุ้นคึกคัก|The stock market is busy|ตลาดหุ้น,คึกคัก||
+ตลาดหุ้นซบเซา|The stock market is quiet|ตลาดหุ้น,ซบเซา||
+คริปโตบูม|A crypto boom|คริปโต,บูม||
+คริปโตร่วงหนัก|A crypto crash|คริปโต,ร่วง||
+ข่าวการเมืองกระทบตลาด|Politics moves the market|การเมือง,ตลาด||
+นโยบายรัฐเอื้อการลงทุน|Policy favours investors|นโยบาย,เอื้อ||
+นโยบายรัฐเปลี่ยนกะทันหัน|Policy changes suddenly|นโยบาย,เปลี่ยน||
+ภาษีนำเข้าเปลี่ยน|Import tariffs change|ภาษีนำเข้า,การค้า||
+ท่องเที่ยวกลับมาคึกคัก|Tourism is back|ท่องเที่ยว,ฟื้นตัว||
+กำลังซื้อคนลดลง|Spending power falls|กำลังซื้อ,ลดลง||
+กำลังซื้อคนเพิ่มขึ้น|Spending power rises|กำลังซื้อ,เพิ่มขึ้น||
+เทคโนโลยีใหม่เปลี่ยนตลาด|New tech reshapes the market|เทคโนโลยี,เปลี่ยนแปลง||
+อุตสาหกรรมนี้กำลังมา|This industry is rising|อุตสาหกรรม,ขาขึ้น||
+อุตสาหกรรมนี้กำลังขาลง|This industry is fading|อุตสาหกรรม,ขาลง||
+ตลาดต่างประเทศดีกว่าในประเทศ|Abroad beats home|ตลาดต่างประเทศ,โอกาส||
+ตลาดในประเทศดีกว่าต่างประเทศ|Home beats abroad|ตลาดในประเทศ,โอกาส||
+สงครามการค้ากระทบ|A trade war hits|สงครามการค้า,ผลกระทบ||
+วิกฤตเป็นโอกาส|Crisis as opportunity|วิกฤต,โอกาส||
+ฟองสบู่ใกล้แตก|A bubble may burst|ฟองสบู่,ระวัง||
+ตลาดปรับฐาน|The market corrects|ปรับฐาน,ตลาด||
+ตลาดทำจุดสูงสุดใหม่|The market hits new highs|จุดสูงสุด,ตลาด||
+# นิสัยนักลงทุน
+มีวินัยการลงทุน|Disciplined investing|วินัย,นิสัย||
+ลงทุนตามอารมณ์|Investing on emotion|อารมณ์,ระวัง||
+ใจร้อนอยากรวยเร็ว|Impatient to get rich|ใจร้อน,รวยเร็ว||
+ใจเย็นรอได้|Patient enough to wait|ใจเย็น,อดทน||
+ชอบเสี่ยง|A risk-taker|เสี่ยง,นิสัย||
+ไม่ชอบเสี่ยง|Risk-averse|ปลอดภัย,นิสัย||
+ศึกษาก่อนลงทุนเสมอ|Always studies first|ศึกษา,รอบคอบ||
+ลงทุนตามคนอื่น|Copies others|ตามคนอื่น,ระวัง||
+ตัดสินใจเด็ดขาด|Decisive|ตัดสินใจ,เด็ดขาด||
+ลังเลจนพลาด|Hesitates and misses out|ลังเล,พลาด||
+ยอมรับขาดทุนเป็น|Can accept a loss|ตัดขาดทุน,วินัย||
+ไม่ยอมขายขาดทุน|Won't sell at a loss|ดื้อ,ขาดทุน||
+รู้จักพอ|Knows when enough is enough|พอเพียง,สติ||
+โลภไม่รู้จบ|Never satisfied|โลภ,ระวัง||
+มีแผนชัดเจน|Has a clear plan|แผน,ชัดเจน||
+ไม่มีแผน|No plan|ไร้แผน,ระวัง||
+ติดตามข่าวสม่ำเสมอ|Follows the news|ข่าวสาร,ติดตาม||
+เชื่อข่าวลือง่าย|Believes rumours|ข่าวลือ,หลงเชื่อ||
+จดบันทึกการลงทุน|Keeps an investment log|บันทึก,วินัย||
+ไม่เคยดูพอร์ต|Never checks the portfolio|พอร์ต,ละเลย||
+ดูพอร์ตทุกนาทีจนเครียด|Checks the portfolio nonstop|พอร์ต,เครียด||
+ขยันหาความรู้|Keen to learn|ความรู้,ขยัน||
+มีที่ปรึกษาดี|Has a good adviser|ที่ปรึกษา,ดี||
+ฟังคนผิด|Listens to the wrong people|คำแนะนำ,ผิดคน||
+ใช้เงินเกินตัวเพราะได้กำไร|Overspends after a win|ฟุ่มเฟือย,กำไร||
+เก็บกำไรไว้ต่อยอด|Reinvests the profit|ต่อยอด,กำไร||
+ขี้กลัวเกินไป|Too fearful|กลัว,พลาดโอกาส||
+มั่นใจเกินไป|Overconfident|มั่นใจเกิน,ระวัง||
+ถ่อมตัวและรับฟัง|Humble and listens|รับฟัง,ถ่อมตัว||
+ดื้อไม่ฟังใคร|Stubborn|ดื้อ,ไม่ฟัง||
+มีเป้าหมายระยะยาว|Has long-term goals|เป้าหมาย,ระยะยาว||
+คิดแค่ระยะสั้น|Thinks only short term|ระยะสั้น,ระวัง||
+กระจายความเสี่ยงเป็น|Knows how to diversify|กระจายความเสี่ยง,รอบคอบ||
+ทุ่มทุกอย่างกับสิ่งเดียว|Bets everything on one thing|ทุ่มหมด,เสี่ยง||
+มีหัวการค้า|A born trader|หัวการค้า,พรสวรรค์||
+ขายของไม่เก่งแต่ลงทุนเก่ง|Not a seller, but a good investor|ลงทุน,ถนัด||
+ทำธุรกิจเก่งกว่าลงทุนในตลาด|Better at business than markets|ธุรกิจ,ถนัด||
+ลงทุนในตลาดเก่งกว่าทำธุรกิจ|Better at markets than business|ตลาด,ถนัด||
+เรียนรู้จากความผิดพลาดได้ดี|Learns from mistakes|บทเรียน,เติบโต||
+ทำผิดซ้ำเดิม|Repeats the same mistake|ผิดซ้ำ,ระวัง||
+# มูเตลูและความเชื่อเรื่องการลงทุน
+ไหว้พระพิฆเนศก่อนเริ่มกิจการ|Pray to Ganesha before starting|ความเชื่อ,พระพิฆเนศ||
+ขอพรพระแม่ลักษมีเรื่องเงินทอง|Ask Lakshmi for wealth|ความเชื่อ,พระแม่ลักษมี||
+บูชาไฉ่ซิงเอี๊ยเทพเจ้าโชคลาภ|Honour the God of Wealth|ความเชื่อ,ไฉ่ซิงเอี๊ย||
+ไหว้เจ้าที่ก่อนเปิดร้าน|Honour the land spirit before opening|ความเชื่อ,เจ้าที่||
+ตั้งศาลพระภูมิให้ถูกทิศ|Place the spirit house facing right|ความเชื่อ,ศาลพระภูมิ||
+บูชานางกวักเรียกลูกค้า|Keep a Nang Kwak to call customers|ความเชื่อ,นางกวัก||
+แมวกวักหน้าร้าน|A beckoning cat at the shop front|ความเชื่อ,แมวกวัก||
+ไหว้ท้าวเวสสุวรรณเสริมทรัพย์|Pray to Vessavana for wealth|ความเชื่อ,ท้าวเวสสุวรรณ||
+บูชาพระสีวลีเรื่องลาภ|Honour Phra Sivali for fortune|ความเชื่อ,พระสีวลี||
+ไหว้ไอ้ไข่ขอโชค|Ask Ai Khai for luck|ความเชื่อ,ไอ้ไข่||
+ขอพรพ่อปู่ศรีสุทโธ|Ask Phor Pu Si Suttho for blessing|ความเชื่อ,พญานาค||
+ดูฤกษ์เปิดกิจการ|Pick an auspicious opening date|ความเชื่อ,ฤกษ์||
+ดูฤกษ์เซ็นสัญญา|Pick a date to sign|ความเชื่อ,ฤกษ์||
+ฤกษ์ซื้อขายวันพฤหัสดี|Thursday is good for deals|ความเชื่อ,วันพฤหัส||
+ฤกษ์ไม่ดี เลื่อนไปก่อน|A bad date, postpone|ความเชื่อ,เลื่อน||
+ทำบุญก่อนลงทุน|Make merit before investing|ความเชื่อ,ทำบุญ||
+ปล่อยปลาเสริมการเงินไหลลื่น|Release fish so money flows|ความเชื่อ,ปล่อยปลา||
+ถวายสังฆทานเสริมทรัพย์|Give to monks for prosperity|ความเชื่อ,สังฆทาน||
+บริจาคช่วยคนแล้วการเงินดี|Giving brings money back|ความเชื่อ,บริจาค||
+ใส่สีมงคลวันเซ็นสัญญา|Wear a lucky colour to sign|ความเชื่อ,สีมงคล||
+พกพระเครื่องสายโชคลาภ|Carry a luck amulet|ความเชื่อ,พระเครื่อง||
+ใช้กระเป๋าสตางค์สีมงคล|Use a lucky-coloured wallet|ความเชื่อ,กระเป๋าสตางค์||
+เบอร์โทรศัพท์มงคล|A lucky phone number|ความเชื่อ,เบอร์มงคล||
+เลขทะเบียนร้านมงคล|A lucky shop number|ความเชื่อ,เลขมงคล||
+ตั้งชื่อร้านตามหลักมงคล|Name the shop by lucky rules|ความเชื่อ,ชื่อมงคล||
+เปลี่ยนชื่อกิจการเสริมดวง|Rename the business for luck|ความเชื่อ,เปลี่ยนชื่อ||
+ปีชงระวังการลงทุนใหญ่|In a clash year, go easy on big bets|ความเชื่อ,ปีชง||
+แก้ชงก่อนลงทุน|Ease the clash year before investing|ความเชื่อ,แก้ชง||
+ดวงการเงินปีนี้ขึ้น|Money luck is rising this year|ความเชื่อ,ดวงการเงิน||
+ดวงการเงินปีนี้ต้องระวัง|Money luck needs care this year|ความเชื่อ,ดวงการเงิน||
+ดวงเหมาะทำธุรกิจ|Your chart suits business|ความเชื่อ,ดวงธุรกิจ||
+ดวงเหมาะเป็นลูกจ้างมากกว่า|Your chart suits employment|ความเชื่อ,ดวงลูกจ้าง||
+ดวงถูกกับหุ้นส่วนคนนี้|Your chart fits this partner|ความเชื่อ,ดวงสมพงศ์||
+ดวงไม่ถูกกับหุ้นส่วนคนนี้|Your chart clashes with this partner|ความเชื่อ,ดวงไม่สมพงศ์||
+ธาตุถูกกับธุรกิจนี้|Your element suits this business|ความเชื่อ,ธาตุ||
+ธาตุขัดกับธุรกิจนี้|Your element clashes with it|ความเชื่อ,ธาตุ||
+ราหูเข้า ระวังการเงิน|Rahu's influence, mind money|ความเชื่อ,ราหู||
+ดาวพฤหัสหนุนการลงทุน|Jupiter supports investing|ความเชื่อ,ดาวพฤหัส||
+มีคนมีบุญช่วยหนุน|A fortunate person backs you|ความเชื่อ,ผู้มีบุญ||
+บุญเก่าช่วยเรื่องเงิน|Past merit helps with money|ความเชื่อ,บุญเก่า||
+กรรมเก่าเรื่องเงินยังตามอยู่|Old money karma still follows|ความเชื่อ,กรรมเก่า||
+มูแล้วปังเรื่องเงิน|Mutelu pays off with money|ความเชื่อ,มูแล้วปัง||
+มูแล้วยังไม่ปัง ต้องลงมือด้วย|Mutelu alone isn't enough, act too|ความเชื่อ,ลงมือ||
+ขอพรแล้วต้องแก้บนให้ครบ|Fulfil your vow after a wish|ความเชื่อ,แก้บน||
+อย่าบนบานเกินตัว|Don't promise more than you can|ความเชื่อ,บนบาน||
+ไหว้พระประจำวันเกิดเสริมดวง|Pray to your birth-day Buddha|ความเชื่อ,พระประจำวันเกิด||
+สวดคาถาเงินล้านก่อนเปิดร้าน|Chant the money mantra before opening|ความเชื่อ,คาถา||
+สวดคาถาพระสีวลีทุกเช้า|Chant to Sivali each morning|ความเชื่อ,คาถา||
+ใช้เหรียญมงคลในลิ้นชักเงิน|Keep a lucky coin in the till|ความเชื่อ,เหรียญมงคล||
+วางคางคกสามขาในร้าน|Place a three-legged toad|ความเชื่อ,คางคก||
+วางปี่เซียะหันหน้าออกประตู|Face the Pixiu toward the door|ความเชื่อ,ปี่เซียะ||
+ต้นไม้มงคลหน้าร้าน|Lucky plants at the shop front|ความเชื่อ,ต้นไม้มงคล||
+ดูดวงก่อนตัดสินใจใหญ่|Read your chart before big moves|ความเชื่อ,ดูดวง||
+อย่าเชื่อดวงจนลืมข้อมูลจริง|Don't let a chart override the facts|ความเชื่อ,สติ||
+เลขเด็ดนำโชค|A lucky number tip|ความเชื่อ,เลขเด็ด||
+ฝันดีเรื่องเงินทอง|A good dream about money|ความเชื่อ,ความฝัน||
+ฝันร้ายเตือนเรื่องเงิน|A bad dream warns about money|ความเชื่อ,ความฝัน||
+ทำบุญวันเปิดร้าน|Make merit on opening day|ความเชื่อ,วันเปิดร้าน||
+ขอขมาเจ้าที่ก่อนรื้อสร้าง|Ask the land spirit's pardon before building|ความเชื่อ,ขอขมา||
+สิ่งศักดิ์สิทธิ์หนุนกิจการนี้|Sacred powers back this business|ความเชื่อ,สิ่งศักดิ์สิทธิ์||
+# ฮวงจุ้ยร้านและที่ทำกิน
+หน้าร้านหันทิศดี|The shop faces a good direction|ฮวงจุ้ย,ทิศ||
+หน้าร้านหันทิศไม่ดี|The shop faces a poor direction|ฮวงจุ้ย,ทิศ||
+ประตูร้านโล่งรับลูกค้า|An open, welcoming door|ฮวงจุ้ย,ประตู||
+มีเสาหรือต้นไม้บังหน้าร้าน|A post or tree blocks the front|ฮวงจุ้ย,สิ่งกีดขวาง||
+ร้านอยู่ปลายทางสามแพร่ง|The shop sits at a T-junction|ฮวงจุ้ย,ทางสามแพร่ง||
+ร้านอยู่หัวมุมดี|A good corner spot|ฮวงจุ้ย,หัวมุม||
+ร้านอยู่ในซอยลึก|Deep in a side street|ฮวงจุ้ย,ซอยลึก||
+ร้านติดถนนใหญ่|On a main road|ทำเล,ถนนใหญ่||
+ใกล้ตลาดเป็นมงคล|Near a market brings luck|ฮวงจุ้ย,ตลาด||
+ใกล้วัดค้าขายดี|Near a temple sells well|ฮวงจุ้ย,วัด||
+ใกล้โรงพยาบาลระวังพลังงาน|Near a hospital, mind the energy|ฮวงจุ้ย,โรงพยาบาล||
+แคชเชียร์วางผิดตำแหน่ง|The till is in the wrong place|ฮวงจุ้ย,แคชเชียร์||
+แคชเชียร์อยู่ตำแหน่งดี|The till is well placed|ฮวงจุ้ย,แคชเชียร์||
+โต๊ะทำงานหันหลังให้ประตู|The desk has its back to the door|ฮวงจุ้ย,โต๊ะทำงาน||
+โต๊ะทำงานมีพนักพิงดี|The desk has solid backing|ฮวงจุ้ย,โต๊ะทำงาน||
+แสงสว่างพอดี|Good lighting|ฮวงจุ้ย,แสง||
+ร้านมืดทึบ|The shop is too dark|ฮวงจุ้ย,มืด||
+ร้านรกต้องจัดใหม่|Cluttered, needs tidying|ฮวงจุ้ย,ความเป็นระเบียบ||
+กระจกวางผิดที่|A mirror in the wrong spot|ฮวงจุ้ย,กระจก||
+ตู้ปลาเสริมการเงิน|An aquarium for money flow|ฮวงจุ้ย,ตู้ปลา||
+น้ำพุหน้าร้านเรียกทรัพย์|A fountain at the front|ฮวงจุ้ย,น้ำพุ||
+ป้ายร้านสีมงคล|A lucky-coloured sign|ฮวงจุ้ย,ป้าย||
+ป้ายร้านเห็นชัด|A clearly visible sign|ป้าย,ทำเล||
+ห้องน้ำอยู่กลางร้าน|A toilet in the middle of the shop|ฮวงจุ้ย,ห้องน้ำ||
+บันไดตรงกับประตู|Stairs face the door|ฮวงจุ้ย,บันได||
+ทางเดินในร้านโล่ง|Clear aisles|ฮวงจุ้ย,ทางเดิน||
+ต้นไม้ตายในร้านต้องเปลี่ยน|Replace dead plants|ฮวงจุ้ย,ต้นไม้||
+ที่ดินหน้าแคบหลังกว้าง|Narrow front, wide back|ฮวงจุ้ย,รูปที่ดิน||
+ที่ดินหน้ากว้างหลังแคบ|Wide front, narrow back|ฮวงจุ้ย,รูปที่ดิน||
+ที่ดินสี่เหลี่ยมจัตุรัสดี|A square plot is good|ฮวงจุ้ย,รูปที่ดิน||
+มีน้ำไหลผ่านหน้าทรัพย์|Water flows past the front|ฮวงจุ้ย,ทางน้ำ||
+ภูเขาหรือตึกสูงหนุนหลัง|A hill or tall building behind|ฮวงจุ้ย,หนุนหลัง||
+ร้านเก่าเจ้าของเดิมเจ๊ง|The last owner here failed|ทำเล,ประวัติ||
+ร้านเก่าเจ้าของเดิมรุ่ง|The last owner here thrived|ทำเล,ประวัติ||
+ปรับฮวงจุ้ยแล้วยอดดีขึ้น|Better feng shui, better sales|ฮวงจุ้ย,ปรับปรุง||
+ทางเข้าร้านมีขั้นบันไดสูง|High steps at the entrance|ฮวงจุ้ย,ทางเข้า||
+ประตูหลังตรงกับประตูหน้า|Back door lines up with the front|ฮวงจุ้ย,ประตู||
+มุมเงินมุมทองของร้าน|The shop's wealth corner|ฮวงจุ้ย,มุมทรัพย์||
+หิ้งพระในร้านวางสูงพอดี|The shrine shelf sits at the right height|ฮวงจุ้ย,หิ้งพระ||
+ร้านอากาศถ่ายเทดี|Good airflow in the shop|ฮวงจุ้ย,อากาศ||
+# ความมั่งคั่งและเป้าหมายระยะยาว
+อิสรภาพทางการเงิน|Financial freedom|อิสรภาพ,เป้าหมาย||
+มีรายได้แบบพาสซีฟ|Passive income|พาสซีฟ,รายได้||
+เกษียณได้ตามแผน|Retire on plan|เกษียณ,แผน||
+เกษียณเร็วกว่ากำหนด|Retire early|เกษียณ,เร็ว||
+ต้องทำงานนานกว่าที่คิด|You'll work longer than planned|เกษียณ,ช้า||
+สร้างความมั่งคั่งช้าแต่มั่นคง|Wealth slowly but surely|มั่งคั่ง,มั่นคง||
+รวยเร็วแต่ไม่ยั่งยืน|Fast but fragile wealth|รวยเร็ว,ไม่ยั่งยืน||
+มีมรดกส่งต่อ|Something to pass on|มรดก,ส่งต่อ||
+ได้รับมรดก|An inheritance comes|มรดก,ได้รับ||
+วางแผนภาษีให้ดี|Plan your taxes|ภาษี,วางแผน||
+ทำประกันคุ้มครองทรัพย์สิน|Insure your assets|ประกัน,คุ้มครอง||
+มีกองทุนฉุกเฉินพอ|Enough emergency funds|เงินฉุกเฉิน,พอ||
+ปลดหนี้ได้|Debt-free|ปลดหนี้,อิสระ||
+หนี้เพิ่มขึ้น|Debt grows|หนี้,เพิ่มขึ้น||
+ฐานะดีขึ้นอย่างชัดเจน|Clearly better off|ฐานะ,ดีขึ้น||
+ฐานะทรงตัว|Holding steady|ฐานะ,ทรงตัว||
+ฐานะถดถอย|Falling behind|ฐานะ,ถดถอย||
+เป็นเศรษฐีในอนาคต|Wealthy in the future|เศรษฐี,อนาคต||
+มีพอใช้ไม่ลำบาก|Enough to live comfortably|พอเพียง,สบาย||
+ทรัพย์สินกระจายหลายที่|Assets spread widely|ทรัพย์สิน,กระจาย||
+ทรัพย์สินกระจุกที่เดียว|Assets in one place|ทรัพย์สิน,กระจุก||
+ลงทุนเพื่อการศึกษาลูก|Invest for your children's education|การศึกษา,ลูก||
+ลงทุนในตัวเองคุ้มที่สุด|Investing in yourself pays most|พัฒนาตัวเอง,ความรู้||
+ลงทุนในสุขภาพ|Invest in your health|สุขภาพ,ลงทุน||
+ซื้อบ้านหลังแรกได้|You can buy your first home|บ้านหลังแรก,ซื้อ||
+มีบ้านปลอดหนี้|A mortgage-free home|บ้าน,ปลอดหนี้||
+กิจการส่งต่อรุ่นลูกได้|The business can pass to your children|ธุรกิจครอบครัว,ส่งต่อ||
+ขายกิจการได้ราคาดี|Sell the business at a good price|ขายกิจการ,ราคาดี||
+ขยายกิจการไปต่างประเทศ|Expand abroad|ขยายกิจการ,ต่างประเทศ||
+มีหลายแหล่งรายได้|Many income streams|รายได้,หลายทาง||
+พึ่งรายได้ทางเดียว|One income stream|รายได้,ทางเดียว||
+เงินเก็บเติบโตทุกปี|Savings grow every year|เงินออม,เติบโต||
+ใช้จ่ายเกินรายได้|Spending more than you earn|ใช้จ่ายเกิน,ระวัง||
+ช่วยเหลือครอบครัวได้มากขึ้น|Able to help family more|ครอบครัว,ช่วยเหลือ||
+แบ่งเงินทำบุญสม่ำเสมอ|Give regularly|ทำบุญ,แบ่งปัน||
+มีที่ดินเป็นของตัวเอง|Own your own land|ที่ดิน,ครอบครอง||
+มีบ้านทั้งในไทยและต่างประเทศ|Homes in Thailand and abroad|บ้าน,สองประเทศ||
+ย้ายเงินไปลงทุนต่างประเทศ|Move money abroad to invest|ต่างประเทศ,ลงทุน||
+ดึงเงินกลับมาลงทุนในไทย|Bring money home to invest|ไทย,ลงทุน||
+เป้าหมายการเงินใกล้สำเร็จ|Your money goal is close|เป้าหมาย,ใกล้สำเร็จ||
+เป้าหมายการเงินต้องปรับใหม่|Reset your money goal|เป้าหมาย,ปรับใหม่||
+ความมั่งคั่งมาจากความอดทน|Wealth comes from patience|อดทน,มั่งคั่ง||
+ความมั่งคั่งมาจากโอกาสครั้งเดียว|Wealth from one big chance|โอกาส,ครั้งเดียว||
+รวยแล้วต้องรักษาให้เป็น|Keep wealth once you have it|รักษาทรัพย์,วินัย||
+ชีวิตบั้นปลายสบาย|A comfortable old age|บั้นปลาย,สบาย||

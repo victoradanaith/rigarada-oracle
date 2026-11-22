@@ -1,4 +1,4 @@
-"""Build index.html from data/ (24 decks) and tools/template.html.
+"""Build index.html from data/ (25 decks) and tools/template.html.
 
 Usage: python3 tools/build.py   (run from the repo root)
 """
@@ -38,12 +38,15 @@ DECKS = [
     ("Zodiac", "ZODI", "ปีนักษัตรและธาตุจีน", "Chinese Zodiac & Elements", "zodiac-draft01.txt", False),
     ("Daily Life", "DALY", "ปัญหาอุปสรรคในชีวิตประจำวัน", "Everyday Ups & Downs", "daily-draft01.txt", False),
     ("Caution", "WARN", "สิ่งที่ต้องระวังในชีวิต", "Cautions & Misfortunes", "caution-draft01.txt", False),
+    ("Investment", "INVT", "การลงทุน", "Investment", "investment-draft01.txt", False),
 ]
 
 # decks that get a category dropdown (every card, or one category at a time)
-CAT_PICK = {"USTH", "SACR", "KARM", "THSC", "REME", "LOVE", "JOBS", "VISA", "HOME", "STDY", "LOOK", "MIND", "GUID", "TIME", "NUMB", "ZODI", "DALY", "WARN"}
+CAT_PICK = {"USTH", "SACR", "KARM", "THSC", "REME", "LOVE", "JOBS", "VISA", "HOME", "STDY", "LOOK", "MIND", "GUID", "TIME", "NUMB", "ZODI", "DALY", "WARN", "INVT"}
 # decks whose one-line description (the meaning field) is printed on the card face
 SHOW_DESC = {"SACR"}
+# a short note shown under the deck name
+DECK_NOTE = {"INVT": "ไพ่สำหรับดูดวง ไม่ใช่คำแนะนำการลงทุน ก่อนลงเงินจริงควรศึกษาข้อมูลและปรึกษาผู้เชี่ยวชาญ"}
 # decks whose category is the opening phrase of every card name; the page colours that phrase differently
 LEAD_CAT = {"GUID"}
 
@@ -80,6 +83,8 @@ for label, prefix, th, en, src, show_cat in DECKS:
     deck = {"label": label, "th": th, "en": en, "showCat": show_cat, "cards": cards}
     if prefix in CAT_PICK:
         deck["catPick"] = True
+    if prefix in DECK_NOTE:
+        deck["note"] = DECK_NOTE[prefix]
     if prefix in SHOW_DESC:
         deck["showDesc"] = True
     if prefix in LEAD_CAT:
