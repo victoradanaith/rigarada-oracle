@@ -1,23 +1,23 @@
-INVT-001	หุ้นและกองทุน	ลงทุนหุ้นไทยได้	Investing in Thai stocks: go ahead	ลงทุนได้,หุ้นไทย		
-INVT-002	หุ้นและกองทุน	ยังไม่ควรลงทุนหุ้นไทย	Not yet for Thai stocks	ยังไม่ควร,หุ้นไทย		
-INVT-003	หุ้นและกองทุน	หุ้นไทยได้กำไร	Thai stocks: profit	กำไร,หุ้นไทย		
-INVT-004	หุ้นและกองทุน	หุ้นไทยขาดทุน	Thai stocks: loss	ขาดทุน,หุ้นไทย		
-INVT-005	หุ้นและกองทุน	หุ้นไทยควรถือยาว	Thai stocks: hold long	ถือยาว,หุ้นไทย		
-INVT-006	หุ้นและกองทุน	หุ้นไทยควรขายทำกำไร	Thai stocks: take profit	ขายทำกำไร,หุ้นไทย		
-INVT-007	หุ้นและกองทุน	หุ้นไทยควรตัดขาดทุน	Thai stocks: cut the loss	ตัดขาดทุน,หุ้นไทย		
-INVT-008	หุ้นและกองทุน	หุ้นไทยทุนจม	Thai stocks: money tied up	ทุนจม,หุ้นไทย		
-INVT-009	หุ้นและกองทุน	หุ้นไทยผันผวนสูง	Thai stocks: very volatile	ผันผวน,หุ้นไทย		
-INVT-010	หุ้นและกองทุน	ศึกษาหุ้นไทยให้ดีก่อน	Study Thai stocks first	ศึกษาก่อน,หุ้นไทย		
-INVT-011	หุ้นและกองทุน	ลงทุนหุ้นต่างประเทศได้	Investing in foreign stocks: go ahead	ลงทุนได้,หุ้นต่างประเทศ		
-INVT-012	หุ้นและกองทุน	ยังไม่ควรลงทุนหุ้นต่างประเทศ	Not yet for foreign stocks	ยังไม่ควร,หุ้นต่างประเทศ		
-INVT-013	หุ้นและกองทุน	หุ้นต่างประเทศได้กำไร	Foreign stocks: profit	กำไร,หุ้นต่างประเทศ		
-INVT-014	หุ้นและกองทุน	หุ้นต่างประเทศขาดทุน	Foreign stocks: loss	ขาดทุน,หุ้นต่างประเทศ		
-INVT-015	หุ้นและกองทุน	หุ้นต่างประเทศควรถือยาว	Foreign stocks: hold long	ถือยาว,หุ้นต่างประเทศ		
-INVT-016	หุ้นและกองทุน	หุ้นต่างประเทศควรขายทำกำไร	Foreign stocks: take profit	ขายทำกำไร,หุ้นต่างประเทศ		
-INVT-017	หุ้นและกองทุน	หุ้นต่างประเทศควรตัดขาดทุน	Foreign stocks: cut the loss	ตัดขาดทุน,หุ้นต่างประเทศ		
-INVT-018	หุ้นและกองทุน	หุ้นต่างประเทศทุนจม	Foreign stocks: money tied up	ทุนจม,หุ้นต่างประเทศ		
-INVT-019	หุ้นและกองทุน	หุ้นต่างประเทศผันผวนสูง	Foreign stocks: very volatile	ผันผวน,หุ้นต่างประเทศ		
-INVT-020	หุ้นและกองทุน	ศึกษาหุ้นต่างประเทศให้ดีก่อน	Study foreign stocks first	ศึกษาก่อน,หุ้นต่างประเทศ		
+INVT-001	หุ้นและกองทุน	ลงทุนหุ้นได้	Investing in stocks: go ahead	ลงทุนได้,หุ้น		
+INVT-002	หุ้นและกองทุน	ยังไม่ควรลงทุนหุ้น	Not yet for stocks	ยังไม่ควร,หุ้น		
+INVT-003	หุ้นและกองทุน	หุ้นได้กำไร	Stocks: profit	กำไร,หุ้น		
+INVT-004	หุ้นและกองทุน	หุ้นขาดทุน	Stocks: loss	ขาดทุน,หุ้น		
+INVT-005	หุ้นและกองทุน	หุ้นควรถือยาว	Stocks: hold long	ถือยาว,หุ้น		
+INVT-006	หุ้นและกองทุน	หุ้นควรขายทำกำไร	Stocks: take profit	ขายทำกำไร,หุ้น		
+INVT-007	หุ้นและกองทุน	หุ้นควรตัดขาดทุน	Stocks: cut the loss	ตัดขาดทุน,หุ้น		
+INVT-008	หุ้นและกองทุน	หุ้นทุนจม	Stocks: money tied up	ทุนจม,หุ้น		
+INVT-009	หุ้นและกองทุน	หุ้นผันผวนสูง	Stocks: very volatile	ผันผวน,หุ้น		
+INVT-010	หุ้นและกองทุน	ศึกษาหุ้นให้ดีก่อน	Study stocks first	ศึกษาก่อน,หุ้น		
+INVT-011	หุ้นและกองทุน	รอจังหวะซื้อหุ้น	Stocks: wait for the right moment to buy	รอจังหวะ,หุ้น		
+INVT-012	หุ้นและกองทุน	หุ้นกำลังฟื้นตัว	Stocks: recovering	ฟื้นตัว,หุ้น		
+INVT-013	หุ้นและกองทุน	ทยอยซื้อหุ้น	Stocks: buy a little at a time	ทยอยซื้อ,หุ้น		
+INVT-014	หุ้นและกองทุน	อย่าซื้อหุ้นตามข่าวลือ	Stocks: don't buy on rumours	ข่าวลือ,หุ้น		
+INVT-015	หุ้นและกองทุน	หุ้นติดดอย	Stocks: bought at the top	ติดดอย,หุ้น		
+INVT-016	หุ้นและกองทุน	หุ้นเด้งกลับ	Stocks: bounce back	เด้งกลับ,หุ้น		
+INVT-017	หุ้นและกองทุน	อย่ากู้เงินมาเล่นหุ้น	Stocks: don't borrow to buy	เงินกู้,หุ้น		
+INVT-018	หุ้นและกองทุน	กระจายหุ้นหลายตัว	Stocks: spread across several	กระจายความเสี่ยง,หุ้น		
+INVT-019	หุ้นและกองทุน	หุ้นพื้นฐานดีราคาถูก	Stocks: sound and cheap	พื้นฐานดี,หุ้น		
+INVT-020	หุ้นและกองทุน	ซื้อหุ้นตอนราคาตก	Stocks: buy on the dip	ซื้อตอนตก,หุ้น		
 INVT-021	หุ้นและกองทุน	ลงทุนหุ้นระยะยาวได้	Investing in long-term stocks: go ahead	ลงทุนได้,หุ้นระยะยาว		
 INVT-022	หุ้นและกองทุน	ยังไม่ควรลงทุนหุ้นระยะยาว	Not yet for long-term stocks	ยังไม่ควร,หุ้นระยะยาว		
 INVT-023	หุ้นและกองทุน	หุ้นระยะยาวได้กำไร	Long-term stocks: profit	กำไร,หุ้นระยะยาว		

@@ -1,24 +1,24 @@
 # หุ้นและกองทุน
-ลงทุนหุ้นไทยได้|Investing in Thai stocks: go ahead|ลงทุนได้,หุ้นไทย||
-ยังไม่ควรลงทุนหุ้นไทย|Not yet for Thai stocks|ยังไม่ควร,หุ้นไทย||
-หุ้นไทยได้กำไร|Thai stocks: profit|กำไร,หุ้นไทย||
-หุ้นไทยขาดทุน|Thai stocks: loss|ขาดทุน,หุ้นไทย||
-หุ้นไทยควรถือยาว|Thai stocks: hold long|ถือยาว,หุ้นไทย||
-หุ้นไทยควรขายทำกำไร|Thai stocks: take profit|ขายทำกำไร,หุ้นไทย||
-หุ้นไทยควรตัดขาดทุน|Thai stocks: cut the loss|ตัดขาดทุน,หุ้นไทย||
-หุ้นไทยทุนจม|Thai stocks: money tied up|ทุนจม,หุ้นไทย||
-หุ้นไทยผันผวนสูง|Thai stocks: very volatile|ผันผวน,หุ้นไทย||
-ศึกษาหุ้นไทยให้ดีก่อน|Study Thai stocks first|ศึกษาก่อน,หุ้นไทย||
-ลงทุนหุ้นต่างประเทศได้|Investing in foreign stocks: go ahead|ลงทุนได้,หุ้นต่างประเทศ||
-ยังไม่ควรลงทุนหุ้นต่างประเทศ|Not yet for foreign stocks|ยังไม่ควร,หุ้นต่างประเทศ||
-หุ้นต่างประเทศได้กำไร|Foreign stocks: profit|กำไร,หุ้นต่างประเทศ||
-หุ้นต่างประเทศขาดทุน|Foreign stocks: loss|ขาดทุน,หุ้นต่างประเทศ||
-หุ้นต่างประเทศควรถือยาว|Foreign stocks: hold long|ถือยาว,หุ้นต่างประเทศ||
-หุ้นต่างประเทศควรขายทำกำไร|Foreign stocks: take profit|ขายทำกำไร,หุ้นต่างประเทศ||
-หุ้นต่างประเทศควรตัดขาดทุน|Foreign stocks: cut the loss|ตัดขาดทุน,หุ้นต่างประเทศ||
-หุ้นต่างประเทศทุนจม|Foreign stocks: money tied up|ทุนจม,หุ้นต่างประเทศ||
-หุ้นต่างประเทศผันผวนสูง|Foreign stocks: very volatile|ผันผวน,หุ้นต่างประเทศ||
-ศึกษาหุ้นต่างประเทศให้ดีก่อน|Study foreign stocks first|ศึกษาก่อน,หุ้นต่างประเทศ||
+ลงทุนหุ้นได้|Investing in stocks: go ahead|ลงทุนได้,หุ้น||
+ยังไม่ควรลงทุนหุ้น|Not yet for stocks|ยังไม่ควร,หุ้น||
+หุ้นได้กำไร|Stocks: profit|กำไร,หุ้น||
+หุ้นขาดทุน|Stocks: loss|ขาดทุน,หุ้น||
+หุ้นควรถือยาว|Stocks: hold long|ถือยาว,หุ้น||
+หุ้นควรขายทำกำไร|Stocks: take profit|ขายทำกำไร,หุ้น||
+หุ้นควรตัดขาดทุน|Stocks: cut the loss|ตัดขาดทุน,หุ้น||
+หุ้นทุนจม|Stocks: money tied up|ทุนจม,หุ้น||
+หุ้นผันผวนสูง|Stocks: very volatile|ผันผวน,หุ้น||
+ศึกษาหุ้นให้ดีก่อน|Study stocks first|ศึกษาก่อน,หุ้น||
+รอจังหวะซื้อหุ้น|Stocks: wait for the right moment to buy|รอจังหวะ,หุ้น||
+หุ้นกำลังฟื้นตัว|Stocks: recovering|ฟื้นตัว,หุ้น||
+ทยอยซื้อหุ้น|Stocks: buy a little at a time|ทยอยซื้อ,หุ้น||
+อย่าซื้อหุ้นตามข่าวลือ|Stocks: don't buy on rumours|ข่าวลือ,หุ้น||
+หุ้นติดดอย|Stocks: bought at the top|ติดดอย,หุ้น||
+หุ้นเด้งกลับ|Stocks: bounce back|เด้งกลับ,หุ้น||
+อย่ากู้เงินมาเล่นหุ้น|Stocks: don't borrow to buy|เงินกู้,หุ้น||
+กระจายหุ้นหลายตัว|Stocks: spread across several|กระจายความเสี่ยง,หุ้น||
+หุ้นพื้นฐานดีราคาถูก|Stocks: sound and cheap|พื้นฐานดี,หุ้น||
+ซื้อหุ้นตอนราคาตก|Stocks: buy on the dip|ซื้อตอนตก,หุ้น||
 ลงทุนหุ้นระยะยาวได้|Investing in long-term stocks: go ahead|ลงทุนได้,หุ้นระยะยาว||
 ยังไม่ควรลงทุนหุ้นระยะยาว|Not yet for long-term stocks|ยังไม่ควร,หุ้นระยะยาว||
 หุ้นระยะยาวได้กำไร|Long-term stocks: profit|กำไร,หุ้นระยะยาว||
