@@ -1,0 +1,500 @@
+FACE-001	รูปหน้า	หน้ากลมมีเมตตา	Round face: kind-hearted	รูปหน้า,เมตตา		
+FACE-002	รูปหน้า	หน้าเหลี่ยมมุ่งมั่น	Square face: determined	รูปหน้า,มุ่งมั่น		
+FACE-003	รูปหน้า	หน้ายาวมีความคิด	Long face: thoughtful	รูปหน้า,ความคิด		
+FACE-004	รูปหน้า	หน้ารูปไข่มีเสน่ห์	Oval face: charming	รูปหน้า,เสน่ห์		
+FACE-005	รูปหน้า	หน้ารูปหัวใจช่างฝัน	Heart-shaped face: a dreamer	รูปหน้า,ช่างฝัน		
+FACE-006	รูปหน้า	หน้าสามเหลี่ยมหัวไว	Triangular face: quick-witted	รูปหน้า,หัวไว		
+FACE-007	รูปหน้า	หน้าเต็มอิ่มมีบุญ	Full face: blessed	รูปหน้า,มีบุญ		
+FACE-008	รูปหน้า	หน้าตอบต้องสร้างเอง	Hollow face: you build your own luck	รูปหน้า,สร้างเอง		
+FACE-009	รูปหน้า	สามส่วนของหน้าสมดุล	Balanced thirds of the face	รูปหน้า,สมดุล		
+FACE-010	รูปหน้า	ใบหน้าสมมาตรดวงนิ่ง	Symmetrical face: steady fortune	รูปหน้า,มั่นคง		
+FACE-011	หน้าผากและไรผม	หน้าผากกว้างมีวาสนา	Broad forehead: good fortune	หน้าผาก,วาสนา		
+FACE-012	หน้าผากและไรผม	หน้าผากแคบต้องพึ่งตัวเอง	Narrow forehead: rely on yourself	หน้าผาก,พึ่งตัวเอง		
+FACE-013	หน้าผากและไรผม	หน้าผากนูนเต็มผู้ใหญ่อุปถัมภ์	Full forehead: elders support you	หน้าผาก,ผู้ใหญ่		
+FACE-014	หน้าผากและไรผม	หน้าผากเรียบเกลี้ยงชีวิตราบรื่น	Smooth forehead: a smooth life	หน้าผาก,ราบรื่น		
+FACE-015	หน้าผากและไรผม	หน้าผากมีรอยย่นลึกคิดมาก	Deep forehead lines: you worry a lot	หน้าผาก,คิดมาก		
+FACE-016	หน้าผากและไรผม	หน้าผากมีแผลเป็นระวังอุปสรรควัยหนุ่มสาว	Forehead scar: obstacles in youth	หน้าผาก,อุปสรรค		
+FACE-017	หน้าผากและไรผม	ไรผมเรียบสวยพ่อแม่หนุน	Neat hairline: parents support you	ไรผม,ครอบครัว		
+FACE-018	หน้าผากและไรผม	ไรผมหยักเป็นฟันเลื่อยเหนื่อยตอนต้น	Jagged hairline: a hard start	ไรผม,อุปสรรค		
+FACE-019	หน้าผากและไรผม	ไรผมเถิกสูงฉลาด	High hairline: clever	ไรผม,ฉลาด		
+FACE-020	หน้าผากและไรผม	หน้าผากสว่างสดใสช่วงนี้ดวงขึ้น	Bright forehead: luck is rising	หน้าผาก,ดวงขึ้น		
+FACE-021	คิ้ว	คิ้วยาวเกินตาพี่น้องดี	Brows longer than the eyes: good siblings	คิ้ว,พี่น้อง		
+FACE-022	คิ้ว	คิ้วสั้นกว่าตาเดินทางคนเดียว	Brows shorter than the eyes: you walk alone	คิ้ว,พึ่งตัวเอง		
+FACE-023	คิ้ว	คิ้วหนาเด็ดเดี่ยว	Thick brows: decisive	คิ้ว,เด็ดขาด		
+FACE-024	คิ้ว	คิ้วบางอ่อนโยน	Thin brows: gentle	คิ้ว,อ่อนโยน		
+FACE-025	คิ้ว	คิ้วโก่งมีเสน่ห์	Arched brows: charming	คิ้ว,เสน่ห์		
+FACE-026	คิ้ว	คิ้วตรงตรงไปตรงมา	Straight brows: straightforward	คิ้ว,ตรงไปตรงมา		
+FACE-027	คิ้ว	คิ้วชนกันคิดมาก	Joined brows: a worrier	คิ้ว,คิดมาก		
+FACE-028	คิ้ว	หว่างคิ้วกว้างใจกว้าง	Wide gap between brows: open-minded	หว่างคิ้ว,ใจกว้าง		
+FACE-029	คิ้ว	หว่างคิ้วแคบใจร้อน	Narrow gap between brows: impatient	หว่างคิ้ว,ใจร้อน		
+FACE-030	คิ้ว	หางคิ้วตกใจดีเกินไป	Drooping brow tails: too kind for your own good	คิ้ว,ใจดี		
+FACE-031	ตา	ตาโตเปิดเผย	Big eyes: open	ตา,เปิดเผย		
+FACE-032	ตา	ตาเล็กรอบคอบ	Small eyes: careful	ตา,รอบคอบ		
+FACE-033	ตา	ตาสองชั้นอ่อนไหว	Double eyelids: sensitive	ตา,อ่อนไหว		
+FACE-034	ตา	ตาชั้นเดียวเก็บความรู้สึก	Single eyelids: reserved	ตา,เก็บความรู้สึก		
+FACE-035	ตา	ตาเป็นประกายมีพลัง	Sparkling eyes: full of energy	ตา,พลัง		
+FACE-036	ตา	ตาหวานเสน่ห์แรง	Sweet eyes: strong charm	ตา,เสน่ห์		
+FACE-037	ตา	ตาคมฉลาดเฉียบ	Sharp eyes: sharp mind	ตา,ฉลาด		
+FACE-038	ตา	ตาลอยใจไม่อยู่กับตัว	Absent eyes: your mind is elsewhere	ตา,ไม่มีสมาธิ		
+FACE-039	ตา	หางตาชี้ขึ้นมั่นใจ	Upturned eyes: confident	ตา,มั่นใจ		
+FACE-040	ตา	หางตาตกใจอ่อน	Downturned eyes: soft-hearted	ตา,ใจอ่อน		
+FACE-041	ตา	ถุงใต้ตาเต็มมีลูกหลานดี	Full under-eyes: good children	ใต้ตา,ลูกหลาน		
+FACE-042	ตา	ตีนกาเยอะคนรักมาก	Many crow's feet: much loved	หางตา,ความรัก		
+FACE-043	จมูก	จมูกโด่งมั่นใจ	High nose: confident	จมูก,มั่นใจ		
+FACE-044	จมูก	จมูกแบนเป็นมิตร	Flat nose: friendly	จมูก,เป็นมิตร		
+FACE-045	จมูก	ปลายจมูกกลมอิ่มเก็บเงินเก่ง	Round full nose tip: good saver	จมูก,เก็บเงิน		
+FACE-046	จมูก	ปลายจมูกแหลมคิดเร็ว	Pointed nose tip: quick thinker	จมูก,คิดเร็ว		
+FACE-047	จมูก	ปีกจมูกกว้างหาเงินเก่ง	Wide nostril wings: good earner	ปีกจมูก,หาเงิน		
+FACE-048	จมูก	รูจมูกเห็นชัดใช้เงินเก่ง	Visible nostrils: big spender	รูจมูก,ใช้เงิน		
+FACE-049	จมูก	สันจมูกตรงงานมั่นคง	Straight bridge: steady career	สันจมูก,การงาน		
+FACE-050	จมูก	สันจมูกคดมีเรื่องกลางทาง	Crooked bridge: bumps mid-life	สันจมูก,อุปสรรค		
+FACE-051	จมูก	จมูกงุ้มเจ้าเล่ห์	Hooked nose: crafty	จมูก,เจ้าเล่ห์		
+FACE-052	จมูก	จมูกรับกับหน้าดวงสมดุล	Nose suits the face: balanced fortune	จมูก,สมดุล		
+FACE-053	จมูก	ดั้งจมูกต่ำพึ่งตัวเอง	Low bridge: self-reliant	ดั้งจมูก,พึ่งตัวเอง		
+FACE-054	จมูก	จมูกคือตำแหน่งเงินในโหงวเฮ้ง	The nose is the wealth palace	จมูก,การเงิน		
+FACE-055	แก้ม โหนกแก้ม และปาก	โหนกแก้มสูงมีอำนาจ	High cheekbones: authority	โหนกแก้ม,อำนาจ		
+FACE-056	แก้ม โหนกแก้ม และปาก	โหนกแก้มสูงเกินไปคุมคนรัก	Very high cheekbones: controlling in love	โหนกแก้ม,ความรัก		
+FACE-057	แก้ม โหนกแก้ม และปาก	แก้มอิ่มคนรักใคร่	Full cheeks: well liked	แก้ม,เสน่ห์		
+FACE-058	แก้ม โหนกแก้ม และปาก	แก้มตอบเหนื่อยตอนกลางชีวิต	Hollow cheeks: a tiring middle age	แก้ม,เหนื่อย		
+FACE-059	แก้ม โหนกแก้ม และปาก	ลักยิ้มเสน่ห์แรง	Dimples: strong charm	ลักยิ้ม,เสน่ห์		
+FACE-060	แก้ม โหนกแก้ม และปาก	ปากกว้างใจกว้าง	Wide mouth: generous	ปาก,ใจกว้าง		
+FACE-061	แก้ม โหนกแก้ม และปาก	ปากเล็กพูดน้อย	Small mouth: quiet	ปาก,พูดน้อย		
+FACE-062	แก้ม โหนกแก้ม และปาก	ปากหนาเจ้าเสน่ห์	Full lips: alluring	ปาก,เสน่ห์		
+FACE-063	แก้ม โหนกแก้ม และปาก	ปากบางพูดเก่ง	Thin lips: articulate	ปาก,พูดเก่ง		
+FACE-064	แก้ม โหนกแก้ม และปาก	มุมปากยกเชิดมองโลกบวก	Upturned mouth corners: optimistic	มุมปาก,มองโลกบวก		
+FACE-065	แก้ม โหนกแก้ม และปาก	มุมปากตกน้อยใจง่าย	Downturned mouth corners: easily hurt	มุมปาก,น้อยใจ		
+FACE-066	แก้ม โหนกแก้ม และปาก	ปากกระจับมีวาสนา	Cupid's-bow lips: lucky	ปาก,วาสนา		
+FACE-067	แก้ม โหนกแก้ม และปาก	ร่องเหนือริมฝีปากลึกอายุยืน	Deep philtrum: long life	ร่องเหนือปาก,อายุยืน		
+FACE-068	แก้ม โหนกแก้ม และปาก	ร่องเหนือริมฝีปากตื้นต้องดูแลสุขภาพ	Shallow philtrum: look after your health	ร่องเหนือปาก,สุขภาพ		
+FACE-069	แก้ม โหนกแก้ม และปาก	ฟันเรียงสวยพูดแล้วคนเชื่อ	Even teeth: people trust your word	ฟัน,น่าเชื่อถือ		
+FACE-070	แก้ม โหนกแก้ม และปาก	ฟันห่างเงินรั่ว	Gapped teeth: money slips away	ฟัน,การเงิน		
+FACE-071	แก้ม โหนกแก้ม และปาก	ฟันกระต่ายมีเสน่ห์	Bunny teeth: endearing	ฟัน,เสน่ห์		
+FACE-072	แก้ม โหนกแก้ม และปาก	ยิ้มเห็นเหงือกจริงใจ	Gummy smile: sincere	รอยยิ้ม,จริงใจ		
+FACE-073	คาง กราม และหู	คางเต็มบั้นปลายดี	Full chin: a good old age	คาง,บั้นปลาย		
+FACE-074	คาง กราม และหู	คางแหลมช่างคิด	Pointed chin: imaginative	คาง,ช่างคิด		
+FACE-075	คาง กราม และหู	คางสั้นใจร้อน	Short chin: impatient	คาง,ใจร้อน		
+FACE-076	คาง กราม และหู	คางยื่นดื้อ	Jutting chin: stubborn	คาง,ดื้อ		
+FACE-077	คาง กราม และหู	คางบุ๋มมีเสน่ห์	Cleft chin: charismatic	คาง,เสน่ห์		
+FACE-078	คาง กราม และหู	กรามกว้างอดทน	Wide jaw: enduring	กราม,อดทน		
+FACE-079	คาง กราม และหู	กรามเห็นจากด้านหลังเจ้าคิดเจ้าแค้น	Jaw visible from behind: holds grudges	กราม,ระวัง		
+FACE-080	คาง กราม และหู	คางสองชั้นมีบริวาร	Double chin: many helpers	คาง,บริวาร		
+FACE-081	คาง กราม และหู	ใบหูใหญ่อายุยืน	Large ears: long life	หู,อายุยืน		
+FACE-082	คาง กราม และหู	ติ่งหูยาวมีบุญ	Long earlobes: blessed	ติ่งหู,มีบุญ		
+FACE-083	คาง กราม และหู	ติ่งหูเล็กต้องเก็บเงิน	Small earlobes: save your money	ติ่งหู,การเงิน		
+FACE-084	คาง กราม และหู	หูกางหัวขบถ	Protruding ears: a rebel	หู,ขบถ		
+FACE-085	คาง กราม และหู	หูแนบหัวว่าง่าย	Flat ears: easy-going	หู,ว่าง่าย		
+FACE-086	คาง กราม และหู	หูสูงกว่าคิ้วฉลาดเร็ว	Ears above the brows: early bright	หู,ฉลาด		
+FACE-087	คาง กราม และหู	หูต่ำกว่าตาสุกงอมช้า	Ears below the eyes: a late bloomer	หู,ช้าแต่ดี		
+FACE-088	คาง กราม และหู	หูสีชมพูสุขภาพดี	Pink ears: good health	หู,สุขภาพ		
+FACE-089	ไฝและจุดบนหน้า	ไฝกลางหน้าผากผู้ใหญ่เมตตา	Mole mid-forehead: favoured by elders	ไฝ,ผู้ใหญ่		
+FACE-090	ไฝและจุดบนหน้า	ไฝบนคิ้วเก็บทรัพย์	Mole in the brow: hidden wealth	ไฝ,ทรัพย์		
+FACE-091	ไฝและจุดบนหน้า	ไฝหางตาเจ้าเสน่ห์	Mole at the eye corner: romantic charm	ไฝ,เสน่ห์		
+FACE-092	ไฝและจุดบนหน้า	ไฝใต้ตาน้ำตาไหล	Mole under the eye: tears in love	ไฝ,ความรัก		
+FACE-093	ไฝและจุดบนหน้า	ไฝบนจมูกเงินเข้าออกเร็ว	Mole on the nose: money comes and goes	ไฝ,การเงิน		
+FACE-094	ไฝและจุดบนหน้า	ไฝปลายจมูกโชคทรัพย์	Mole on the nose tip: windfall luck	ไฝ,โชคลาภ		
+FACE-095	ไฝและจุดบนหน้า	ไฝบนแก้มเหนื่อยเพื่อคนอื่น	Mole on the cheek: you toil for others	ไฝ,เหนื่อย		
+FACE-096	ไฝและจุดบนหน้า	ไฝเหนือริมฝีปากกินดีอยู่ดี	Mole above the lip: you eat well	ไฝ,อยู่ดีกินดี		
+FACE-097	ไฝและจุดบนหน้า	ไฝใต้ริมฝีปากพูดเก่ง	Mole below the lip: a good talker	ไฝ,พูดเก่ง		
+FACE-098	ไฝและจุดบนหน้า	ไฝบนคางมีที่ดิน	Mole on the chin: land and property	ไฝ,ที่ดิน		
+FACE-099	ไฝและจุดบนหน้า	ไฝบนหูฉลาด	Mole on the ear: clever	ไฝ,ฉลาด		
+FACE-100	ไฝและจุดบนหน้า	ไฝสีดำเงาดี	Shiny black mole: a good sign	ไฝ,ดี		
+FACE-101	ไฝและจุดบนหน้า	ไฝสีซีดไม่มีผล	Faded mole: no effect	ไฝ,เป็นกลาง		
+FACE-102	ไฝและจุดบนหน้า	ไฝบนติ่งหูมีโชค	Mole on the earlobe: lucky	ไฝ,โชค		
+FACE-103	ไฝและจุดบนหน้า	ไฝหว่างคิ้วมีบุญ	Mole between the brows: blessed	ไฝ,มีบุญ		
+FACE-104	ไฝและจุดบนหน้า	ไฝร้ายควรพิจารณาลบ	A bad-luck mole: consider removing it	ไฝ,ลบไฝ		
+FACE-105	ไฝและจุดบนหน้า	ไฝดีอย่าลบ	A good-luck mole: keep it	ไฝ,เก็บไว้		
+FACE-106	สีหน้าและราศี	หน้ามีราศีจับ	Your face glows with luck	ราศี,ดวงขึ้น		
+FACE-107	สีหน้าและราศี	หน้าหมองช่วงนี้ระวัง	A dull face: be careful now	ราศี,ระวัง		
+FACE-108	สีหน้าและราศี	หน้าแดงเรื่อมีข่าวดี	Rosy face: good news	สีหน้า,ข่าวดี		
+FACE-109	สีหน้าและราศี	หน้าเหลืองซีดพักผ่อนด้วย	Pale face: rest more	สีหน้า,สุขภาพ		
+FACE-110	สีหน้าและราศี	หน้าคล้ำงานหนัก	Dark tired face: overworked	สีหน้า,งานหนัก		
+FACE-111	สีหน้าและราศี	หว่างคิ้วสว่างได้สมหวัง	Bright between the brows: wishes come true	หว่างคิ้ว,สมหวัง		
+FACE-112	สีหน้าและราศี	หว่างคิ้วหมองมีเรื่องค้างใจ	Dull between the brows: something weighs on you	หว่างคิ้ว,กังวล		
+FACE-113	สีหน้าและราศี	ปลายจมูกสว่างเงินเข้า	Bright nose tip: money coming	ปลายจมูก,การเงิน		
+FACE-114	สีหน้าและราศี	แก้มเปล่งปลั่งความรักดี	Glowing cheeks: love is good	แก้ม,ความรัก		
+FACE-115	สีหน้าและราศี	ใต้ตาคล้ำเหนื่อยใจ	Dark under-eyes: weary heart	ใต้ตา,เหนื่อย		
+FACE-116	สีหน้าและราศี	ยิ้มบ่อยหน้าเปลี่ยนดวงเปลี่ยน	Smile more: your face and luck change	รอยยิ้ม,ดวงดี		
+FACE-117	สีหน้าและราศี	หน้าตาสดชื่นคนเข้าหา	A fresh face draws people in	สีหน้า,เสน่ห์		
+FACE-118	ตำแหน่งทั้ง 12 บนใบหน้า	หว่างคิ้วคือตำแหน่งชีวิต	Between the brows: the life palace	ตำแหน่ง,ชีวิต		
+FACE-119	ตำแหน่งทั้ง 12 บนใบหน้า	จมูกคือตำแหน่งทรัพย์	The nose: the wealth palace	ตำแหน่ง,ทรัพย์		
+FACE-120	ตำแหน่งทั้ง 12 บนใบหน้า	คิ้วคือตำแหน่งพี่น้อง	The brows: the siblings palace	ตำแหน่ง,พี่น้อง		
+FACE-121	ตำแหน่งทั้ง 12 บนใบหน้า	เปลือกตาบนคือตำแหน่งบ้านที่ดิน	Upper eyelids: the property palace	ตำแหน่ง,บ้านที่ดิน		
+FACE-122	ตำแหน่งทั้ง 12 บนใบหน้า	ใต้ตาคือตำแหน่งลูก	Under the eyes: the children palace	ตำแหน่ง,ลูก		
+FACE-123	ตำแหน่งทั้ง 12 บนใบหน้า	คางและกรามคือตำแหน่งบริวาร	Chin and jaw: the helpers palace	ตำแหน่ง,บริวาร		
+FACE-124	ตำแหน่งทั้ง 12 บนใบหน้า	หางตาคือตำแหน่งคู่ครอง	Eye corners: the marriage palace	ตำแหน่ง,คู่ครอง		
+FACE-125	ตำแหน่งทั้ง 12 บนใบหน้า	ดั้งจมูกคือตำแหน่งสุขภาพ	Bridge of the nose: the health palace	ตำแหน่ง,สุขภาพ		
+FACE-126	ตำแหน่งทั้ง 12 บนใบหน้า	ขมับคือตำแหน่งเดินทาง	The temples: the travel palace	ตำแหน่ง,เดินทาง		
+FACE-127	ตำแหน่งทั้ง 12 บนใบหน้า	กลางหน้าผากคือตำแหน่งการงาน	Mid-forehead: the career palace	ตำแหน่ง,การงาน		
+FACE-128	ตำแหน่งทั้ง 12 บนใบหน้า	เหนือคิ้วคือตำแหน่งบุญวาสนา	Above the brows: the fortune palace	ตำแหน่ง,บุญ		
+FACE-129	ตำแหน่งทั้ง 12 บนใบหน้า	หน้าผากสองข้างคือตำแหน่งพ่อแม่	Upper forehead sides: the parents palace	ตำแหน่ง,พ่อแม่		
+FACE-130	คู่ครองดูจากหน้า	คู่ครองหน้ากลมใจดี	A round-faced, kind partner	คู่ครอง,ใจดี		
+FACE-131	คู่ครองดูจากหน้า	คู่ครองหน้าเหลี่ยมพึ่งพาได้	A square-faced, dependable partner	คู่ครอง,พึ่งพาได้		
+FACE-132	คู่ครองดูจากหน้า	คู่ครองตาโตจริงใจ	A big-eyed, sincere partner	คู่ครอง,จริงใจ		
+FACE-133	คู่ครองดูจากหน้า	คู่ครองจมูกอิ่มมีฐานะ	A full-nosed, well-off partner	คู่ครอง,ฐานะ		
+FACE-134	คู่ครองดูจากหน้า	คู่ครองคางเต็มอยู่ด้วยกันยาว	A full-chinned partner for life	คู่ครอง,ยาวนาน		
+FACE-135	คู่ครองดูจากหน้า	คู่ครองยิ้มง่ายบ้านอบอุ่น	A smiling partner, a warm home	คู่ครอง,อบอุ่น		
+FACE-136	คู่ครองดูจากหน้า	คู่ครองคิ้วหนาเป็นผู้นำ	A thick-browed partner who leads	คู่ครอง,ผู้นำ		
+FACE-137	คู่ครองดูจากหน้า	คู่ครองหน้าผากกว้างมีผู้ใหญ่หนุน	A partner with patrons	คู่ครอง,ผู้ใหญ่		
+FACE-138	คู่ครองดูจากหน้า	หน้าเราสองคนเข้ากันดี	Your two faces match well	คู่ครอง,เข้ากัน		
+FACE-139	คู่ครองดูจากหน้า	หน้าเราสองคนขัดกัน	Your two faces clash	คู่ครอง,ขัดกัน		
+FACE-140	คู่ครองดูจากหน้า	หางตามีเส้นตัดระวังมือที่สาม	Lines across the eye corners: watch for a third party	คู่ครอง,มือที่สาม		
+FACE-141	คู่ครองดูจากหน้า	หางตาเต็มเรียบคู่ครองดี	Smooth eye corners: a good marriage	คู่ครอง,ดี		
+FACE-142	คู่ครองดูจากหน้า	แต่งงานช้าแต่ได้คนดี	You marry late but well	คู่ครอง,ช้าแต่ดี		
+FACE-143	คู่ครองดูจากหน้า	พบคู่หลังเปลี่ยนลุค	You meet someone after a new look	คู่ครอง,เปลี่ยนลุค		
+FACE-144	คู่ครองดูจากหน้า	หน้าตาไม่สำคัญเท่าใจ	The heart matters more than the face	คู่ครอง,ใจ		
+FACE-145	โหงวเฮ้งตามวัย	อายุ 15–30 ดวงอยู่ที่หน้าผาก	Ages 15–30: fortune sits in the forehead	ตามวัย,หน้าผาก		
+FACE-146	โหงวเฮ้งตามวัย	อายุ 31–40 ดวงอยู่ที่คิ้วและตา	Ages 31–40: brows and eyes	ตามวัย,คิ้วและตา		
+FACE-147	โหงวเฮ้งตามวัย	อายุ 41–50 ดวงอยู่ที่จมูกและโหนกแก้ม	Ages 41–50: nose and cheekbones	ตามวัย,จมูก		
+FACE-148	โหงวเฮ้งตามวัย	อายุ 51–60 ดวงอยู่ที่ปากและร่องเหนือปาก	Ages 51–60: mouth and philtrum	ตามวัย,ปาก		
+FACE-149	โหงวเฮ้งตามวัย	อายุ 61 ขึ้นไปดวงอยู่ที่คางและกราม	Ages 61 and up: chin and jaw	ตามวัย,คาง		
+FACE-150	โหงวเฮ้งตามวัย	วัยเด็กดวงอยู่ที่ใบหู	Childhood: fortune sits in the ears	ตามวัย,หู		
+FACE-151	โหงวเฮ้งตามวัย	ช่วงวัยนี้ดวงกำลังขึ้น	Your current age range is rising	ตามวัย,ดวงขึ้น		
+FACE-152	โหงวเฮ้งตามวัย	ช่วงวัยนี้ต้องระวัง	Your current age range needs care	ตามวัย,ระวัง		
+FACE-153	โหงวเฮ้งตามวัย	บั้นปลายดีกว่าตอนต้น	Later life beats the early years	ตามวัย,บั้นปลาย		
+FACE-154	โหงวเฮ้งตามวัย	ตอนต้นดีกว่าบั้นปลาย	The early years beat later life	ตามวัย,วัยหนุ่มสาว		
+FACE-155	โหงวเฮ้งกับเรื่องในชีวิต	หน้ามีโชคเรื่องเงิน	A face lucky with money	การเงิน,โหงวเฮ้งดี		
+FACE-156	โหงวเฮ้งกับเรื่องในชีวิต	หน้ามีโชคเรื่องงาน	A face lucky at work	การงาน,โหงวเฮ้งดี		
+FACE-157	โหงวเฮ้งกับเรื่องในชีวิต	หน้ามีโชคเรื่องความรัก	A face lucky in love	ความรัก,โหงวเฮ้งดี		
+FACE-158	โหงวเฮ้งกับเรื่องในชีวิต	หน้าเป็นเจ้าคนนายคน	A leader's face	ผู้นำ,อำนาจ		
+FACE-159	โหงวเฮ้งกับเรื่องในชีวิต	หน้าเหมาะทำธุรกิจ	A face for business	ธุรกิจ,เหมาะ		
+FACE-160	โหงวเฮ้งกับเรื่องในชีวิต	หน้าเหมาะงานบริการ	A face for service work	การงาน,บริการ		
+FACE-161	โหงวเฮ้งกับเรื่องในชีวิต	หน้าเหมาะงานศิลปะ	A face for the arts	ศิลปะ,เหมาะ		
+FACE-162	โหงวเฮ้งกับเรื่องในชีวิต	หน้าคนมีเมตตามหานิยม	A face people adore	มหานิยม,เสน่ห์		
+FACE-163	โหงวเฮ้งกับเรื่องในชีวิต	หน้าคู่ครองดี	A face for a good marriage	คู่ครอง,ดี		
+FACE-164	โหงวเฮ้งกับเรื่องในชีวิต	หน้าเจ้าชู้	A flirt's face	ความรัก,เจ้าชู้		
+FACE-165	โหงวเฮ้งกับเรื่องในชีวิต	หน้ารักเดียวใจเดียว	A faithful face	ความรัก,ซื่อสัตย์		
+FACE-166	โหงวเฮ้งกับเรื่องในชีวิต	หน้าคู่ครองมีฐานะ	Your face shows a well-off partner	คู่ครอง,ฐานะ		
+FACE-167	โหงวเฮ้งกับเรื่องในชีวิต	หน้าลูกหลานกตัญญู	Your face shows grateful children	ลูกหลาน,กตัญญู		
+FACE-168	โหงวเฮ้งกับเรื่องในชีวิต	หน้าพี่น้องช่วยเหลือ	Your face shows helpful siblings	พี่น้อง,ช่วยเหลือ		
+FACE-169	โหงวเฮ้งกับเรื่องในชีวิต	หน้ามีผู้ใหญ่อุปถัมภ์	Your face shows patrons	ผู้ใหญ่,อุปถัมภ์		
+FACE-170	โหงวเฮ้งกับเรื่องในชีวิต	หน้ามีบริวารดี	Your face shows good helpers	บริวาร,ดี		
+FACE-171	โหงวเฮ้งกับเรื่องในชีวิต	หน้าต้องระวังคนรอบตัว	Your face warns about people around you	คนรอบตัว,ระวัง		
+FACE-172	โหงวเฮ้งกับเรื่องในชีวิต	หน้าเดินทางไกลได้ดี	Your face shows good travel	เดินทาง,ดี		
+FACE-173	โหงวเฮ้งกับเรื่องในชีวิต	หน้ามีบ้านที่ดิน	Your face shows home and land	ที่ดิน,ทรัพย์		
+FACE-174	โหงวเฮ้งกับเรื่องในชีวิต	หน้าอายุยืน	A long-life face	อายุยืน,สุขภาพ		
+FACE-175	โหงวเฮ้งกับเรื่องในชีวิต	หน้าเก็บเงินอยู่	A face that keeps money	การเงิน,เก็บเงิน		
+FACE-176	โหงวเฮ้งกับเรื่องในชีวิต	หน้าเงินรั่วไหล	A face where money leaks away	การเงิน,ระวัง		
+FACE-177	โหงวเฮ้งกับเรื่องในชีวิต	หน้าดื้อเงียบ	Quietly stubborn face	นิสัย,ดื้อ		
+FACE-178	โหงวเฮ้งกับเรื่องในชีวิต	หน้าใจอ่อน	A soft-hearted face	นิสัย,ใจอ่อน		
+FACE-179	โหงวเฮ้งกับเรื่องในชีวิต	หน้าคิดมากเครียดง่าย	An anxious face	นิสัย,เครียด		
+FACE-180	โหงวเฮ้งกับเรื่องในชีวิต	หน้าดวงต่างประเทศ	A face for life abroad	ต่างประเทศ,ดวง		
+FACE-181	โหงวเฮ้งกับเรื่องในชีวิต	หน้ามีคนอิจฉา	A face others envy	อิจฉา,ระวัง		
+FACE-182	โหงวเฮ้งกับเรื่องในชีวิต	หน้าได้มรดก	A face that inherits	มรดก,โชคลาภ		
+FACE-183	โหงวเฮ้งกับเรื่องในชีวิต	หน้ารวยช้าแต่มั่นคง	A face for slow, steady wealth	การเงิน,มั่นคง		
+FACE-184	โหงวเฮ้งกับเรื่องในชีวิต	โหงวเฮ้งเปลี่ยนได้ตามใจและการกระทำ	Your face changes with your heart and deeds	โหงวเฮ้ง,เปลี่ยนได้		
+FACE-185	ศัลยกรรมแต่ละแบบ	ควรทำจมูก	Go ahead with the nose job	ควรทำ,ทำจมูก		
+FACE-186	ศัลยกรรมแต่ละแบบ	ยังไม่ควรทำจมูก	Not yet for the nose job	ยังไม่ควร,ทำจมูก		
+FACE-187	ศัลยกรรมแต่ละแบบ	ทำจมูกแล้วผลออกมาสวย	The nose job turns out beautifully	ผลดี,ทำจมูก		
+FACE-188	ศัลยกรรมแต่ละแบบ	ทำจมูกแล้วอาจต้องแก้ซ้ำ	The nose job may need redoing	แก้ซ้ำ,ทำจมูก		
+FACE-189	ศัลยกรรมแต่ละแบบ	ทำจมูกเสริมโหงวเฮ้ง	The nose job improves your face reading	เสริมดวง,ทำจมูก		
+FACE-190	ศัลยกรรมแต่ละแบบ	ทำจมูกขัดโหงวเฮ้งเดิม	The nose job works against your face reading	ขัดดวง,ทำจมูก		
+FACE-191	ศัลยกรรมแต่ละแบบ	ควรทำตาสองชั้น	Go ahead with the double-eyelid surgery	ควรทำ,ทำตาสองชั้น		
+FACE-192	ศัลยกรรมแต่ละแบบ	ยังไม่ควรทำตาสองชั้น	Not yet for the double-eyelid surgery	ยังไม่ควร,ทำตาสองชั้น		
+FACE-193	ศัลยกรรมแต่ละแบบ	ทำตาสองชั้นแล้วผลออกมาสวย	The double-eyelid surgery turns out beautifully	ผลดี,ทำตาสองชั้น		
+FACE-194	ศัลยกรรมแต่ละแบบ	ทำตาสองชั้นแล้วอาจต้องแก้ซ้ำ	The double-eyelid surgery may need redoing	แก้ซ้ำ,ทำตาสองชั้น		
+FACE-195	ศัลยกรรมแต่ละแบบ	ทำตาสองชั้นเสริมโหงวเฮ้ง	The double-eyelid surgery improves your face reading	เสริมดวง,ทำตาสองชั้น		
+FACE-196	ศัลยกรรมแต่ละแบบ	ทำตาสองชั้นขัดโหงวเฮ้งเดิม	The double-eyelid surgery works against your face reading	ขัดดวง,ทำตาสองชั้น		
+FACE-197	ศัลยกรรมแต่ละแบบ	ควรเสริมคาง	Go ahead with the chin implant	ควรทำ,เสริมคาง		
+FACE-198	ศัลยกรรมแต่ละแบบ	ยังไม่ควรเสริมคาง	Not yet for the chin implant	ยังไม่ควร,เสริมคาง		
+FACE-199	ศัลยกรรมแต่ละแบบ	เสริมคางแล้วผลออกมาสวย	The chin implant turns out beautifully	ผลดี,เสริมคาง		
+FACE-200	ศัลยกรรมแต่ละแบบ	เสริมคางแล้วอาจต้องแก้ซ้ำ	The chin implant may need redoing	แก้ซ้ำ,เสริมคาง		
+FACE-201	ศัลยกรรมแต่ละแบบ	เสริมคางเสริมโหงวเฮ้ง	The chin implant improves your face reading	เสริมดวง,เสริมคาง		
+FACE-202	ศัลยกรรมแต่ละแบบ	เสริมคางขัดโหงวเฮ้งเดิม	The chin implant works against your face reading	ขัดดวง,เสริมคาง		
+FACE-203	ศัลยกรรมแต่ละแบบ	ควรฉีดฟิลเลอร์	Go ahead with the filler	ควรทำ,ฉีดฟิลเลอร์		
+FACE-204	ศัลยกรรมแต่ละแบบ	ยังไม่ควรฉีดฟิลเลอร์	Not yet for the filler	ยังไม่ควร,ฉีดฟิลเลอร์		
+FACE-205	ศัลยกรรมแต่ละแบบ	ฉีดฟิลเลอร์แล้วผลออกมาสวย	The filler turns out beautifully	ผลดี,ฉีดฟิลเลอร์		
+FACE-206	ศัลยกรรมแต่ละแบบ	ฉีดฟิลเลอร์แล้วอาจต้องแก้ซ้ำ	The filler may need redoing	แก้ซ้ำ,ฉีดฟิลเลอร์		
+FACE-207	ศัลยกรรมแต่ละแบบ	ฉีดฟิลเลอร์เสริมโหงวเฮ้ง	The filler improves your face reading	เสริมดวง,ฉีดฟิลเลอร์		
+FACE-208	ศัลยกรรมแต่ละแบบ	ฉีดฟิลเลอร์ขัดโหงวเฮ้งเดิม	The filler works against your face reading	ขัดดวง,ฉีดฟิลเลอร์		
+FACE-209	ศัลยกรรมแต่ละแบบ	ควรฉีดโบท็อกซ์	Go ahead with the Botox	ควรทำ,ฉีดโบท็อกซ์		
+FACE-210	ศัลยกรรมแต่ละแบบ	ยังไม่ควรฉีดโบท็อกซ์	Not yet for the Botox	ยังไม่ควร,ฉีดโบท็อกซ์		
+FACE-211	ศัลยกรรมแต่ละแบบ	ฉีดโบท็อกซ์แล้วผลออกมาสวย	The Botox turns out beautifully	ผลดี,ฉีดโบท็อกซ์		
+FACE-212	ศัลยกรรมแต่ละแบบ	ฉีดโบท็อกซ์แล้วอาจต้องแก้ซ้ำ	The Botox may need redoing	แก้ซ้ำ,ฉีดโบท็อกซ์		
+FACE-213	ศัลยกรรมแต่ละแบบ	ฉีดโบท็อกซ์เสริมโหงวเฮ้ง	The Botox improves your face reading	เสริมดวง,ฉีดโบท็อกซ์		
+FACE-214	ศัลยกรรมแต่ละแบบ	ฉีดโบท็อกซ์ขัดโหงวเฮ้งเดิม	The Botox works against your face reading	ขัดดวง,ฉีดโบท็อกซ์		
+FACE-215	ศัลยกรรมแต่ละแบบ	ควรร้อยไหม	Go ahead with the thread lift	ควรทำ,ร้อยไหม		
+FACE-216	ศัลยกรรมแต่ละแบบ	ยังไม่ควรร้อยไหม	Not yet for the thread lift	ยังไม่ควร,ร้อยไหม		
+FACE-217	ศัลยกรรมแต่ละแบบ	ร้อยไหมแล้วผลออกมาสวย	The thread lift turns out beautifully	ผลดี,ร้อยไหม		
+FACE-218	ศัลยกรรมแต่ละแบบ	ร้อยไหมแล้วอาจต้องแก้ซ้ำ	The thread lift may need redoing	แก้ซ้ำ,ร้อยไหม		
+FACE-219	ศัลยกรรมแต่ละแบบ	ร้อยไหมเสริมโหงวเฮ้ง	The thread lift improves your face reading	เสริมดวง,ร้อยไหม		
+FACE-220	ศัลยกรรมแต่ละแบบ	ร้อยไหมขัดโหงวเฮ้งเดิม	The thread lift works against your face reading	ขัดดวง,ร้อยไหม		
+FACE-221	ศัลยกรรมแต่ละแบบ	ควรตัดกราม	Go ahead with the jaw reduction	ควรทำ,ตัดกราม		
+FACE-222	ศัลยกรรมแต่ละแบบ	ยังไม่ควรตัดกราม	Not yet for the jaw reduction	ยังไม่ควร,ตัดกราม		
+FACE-223	ศัลยกรรมแต่ละแบบ	ตัดกรามแล้วผลออกมาสวย	The jaw reduction turns out beautifully	ผลดี,ตัดกราม		
+FACE-224	ศัลยกรรมแต่ละแบบ	ตัดกรามแล้วอาจต้องแก้ซ้ำ	The jaw reduction may need redoing	แก้ซ้ำ,ตัดกราม		
+FACE-225	ศัลยกรรมแต่ละแบบ	ตัดกรามเสริมโหงวเฮ้ง	The jaw reduction improves your face reading	เสริมดวง,ตัดกราม		
+FACE-226	ศัลยกรรมแต่ละแบบ	ตัดกรามขัดโหงวเฮ้งเดิม	The jaw reduction works against your face reading	ขัดดวง,ตัดกราม		
+FACE-227	ศัลยกรรมแต่ละแบบ	ควรเหลาโหนกแก้ม	Go ahead with the cheekbone reduction	ควรทำ,เหลาโหนกแก้ม		
+FACE-228	ศัลยกรรมแต่ละแบบ	ยังไม่ควรเหลาโหนกแก้ม	Not yet for the cheekbone reduction	ยังไม่ควร,เหลาโหนกแก้ม		
+FACE-229	ศัลยกรรมแต่ละแบบ	เหลาโหนกแก้มแล้วผลออกมาสวย	The cheekbone reduction turns out beautifully	ผลดี,เหลาโหนกแก้ม		
+FACE-230	ศัลยกรรมแต่ละแบบ	เหลาโหนกแก้มแล้วอาจต้องแก้ซ้ำ	The cheekbone reduction may need redoing	แก้ซ้ำ,เหลาโหนกแก้ม		
+FACE-231	ศัลยกรรมแต่ละแบบ	เหลาโหนกแก้มเสริมโหงวเฮ้ง	The cheekbone reduction improves your face reading	เสริมดวง,เหลาโหนกแก้ม		
+FACE-232	ศัลยกรรมแต่ละแบบ	เหลาโหนกแก้มขัดโหงวเฮ้งเดิม	The cheekbone reduction works against your face reading	ขัดดวง,เหลาโหนกแก้ม		
+FACE-233	ศัลยกรรมแต่ละแบบ	ควรทำปาก	Go ahead with the lip surgery	ควรทำ,ทำปาก		
+FACE-234	ศัลยกรรมแต่ละแบบ	ยังไม่ควรทำปาก	Not yet for the lip surgery	ยังไม่ควร,ทำปาก		
+FACE-235	ศัลยกรรมแต่ละแบบ	ทำปากแล้วผลออกมาสวย	The lip surgery turns out beautifully	ผลดี,ทำปาก		
+FACE-236	ศัลยกรรมแต่ละแบบ	ทำปากแล้วอาจต้องแก้ซ้ำ	The lip surgery may need redoing	แก้ซ้ำ,ทำปาก		
+FACE-237	ศัลยกรรมแต่ละแบบ	ทำปากเสริมโหงวเฮ้ง	The lip surgery improves your face reading	เสริมดวง,ทำปาก		
+FACE-238	ศัลยกรรมแต่ละแบบ	ทำปากขัดโหงวเฮ้งเดิม	The lip surgery works against your face reading	ขัดดวง,ทำปาก		
+FACE-239	ศัลยกรรมแต่ละแบบ	ควรยกคิ้ว	Go ahead with the brow lift	ควรทำ,ยกคิ้ว		
+FACE-240	ศัลยกรรมแต่ละแบบ	ยังไม่ควรยกคิ้ว	Not yet for the brow lift	ยังไม่ควร,ยกคิ้ว		
+FACE-241	ศัลยกรรมแต่ละแบบ	ยกคิ้วแล้วผลออกมาสวย	The brow lift turns out beautifully	ผลดี,ยกคิ้ว		
+FACE-242	ศัลยกรรมแต่ละแบบ	ยกคิ้วแล้วอาจต้องแก้ซ้ำ	The brow lift may need redoing	แก้ซ้ำ,ยกคิ้ว		
+FACE-243	ศัลยกรรมแต่ละแบบ	ยกคิ้วเสริมโหงวเฮ้ง	The brow lift improves your face reading	เสริมดวง,ยกคิ้ว		
+FACE-244	ศัลยกรรมแต่ละแบบ	ยกคิ้วขัดโหงวเฮ้งเดิม	The brow lift works against your face reading	ขัดดวง,ยกคิ้ว		
+FACE-245	ศัลยกรรมแต่ละแบบ	ควรปลูกผม	Go ahead with the hair transplant	ควรทำ,ปลูกผม		
+FACE-246	ศัลยกรรมแต่ละแบบ	ยังไม่ควรปลูกผม	Not yet for the hair transplant	ยังไม่ควร,ปลูกผม		
+FACE-247	ศัลยกรรมแต่ละแบบ	ปลูกผมแล้วผลออกมาสวย	The hair transplant turns out beautifully	ผลดี,ปลูกผม		
+FACE-248	ศัลยกรรมแต่ละแบบ	ปลูกผมแล้วอาจต้องแก้ซ้ำ	The hair transplant may need redoing	แก้ซ้ำ,ปลูกผม		
+FACE-249	ศัลยกรรมแต่ละแบบ	ปลูกผมเสริมโหงวเฮ้ง	The hair transplant improves your face reading	เสริมดวง,ปลูกผม		
+FACE-250	ศัลยกรรมแต่ละแบบ	ปลูกผมขัดโหงวเฮ้งเดิม	The hair transplant works against your face reading	ขัดดวง,ปลูกผม		
+FACE-251	ศัลยกรรมแต่ละแบบ	ควรดึงหน้า	Go ahead with the facelift	ควรทำ,ดึงหน้า		
+FACE-252	ศัลยกรรมแต่ละแบบ	ยังไม่ควรดึงหน้า	Not yet for the facelift	ยังไม่ควร,ดึงหน้า		
+FACE-253	ศัลยกรรมแต่ละแบบ	ดึงหน้าแล้วผลออกมาสวย	The facelift turns out beautifully	ผลดี,ดึงหน้า		
+FACE-254	ศัลยกรรมแต่ละแบบ	ดึงหน้าแล้วอาจต้องแก้ซ้ำ	The facelift may need redoing	แก้ซ้ำ,ดึงหน้า		
+FACE-255	ศัลยกรรมแต่ละแบบ	ดึงหน้าเสริมโหงวเฮ้ง	The facelift improves your face reading	เสริมดวง,ดึงหน้า		
+FACE-256	ศัลยกรรมแต่ละแบบ	ดึงหน้าขัดโหงวเฮ้งเดิม	The facelift works against your face reading	ขัดดวง,ดึงหน้า		
+FACE-257	ศัลยกรรมแต่ละแบบ	ควรทำวีเนียร์ฟัน	Go ahead with the veneers	ควรทำ,ทำวีเนียร์ฟัน		
+FACE-258	ศัลยกรรมแต่ละแบบ	ยังไม่ควรทำวีเนียร์ฟัน	Not yet for the veneers	ยังไม่ควร,ทำวีเนียร์ฟัน		
+FACE-259	ศัลยกรรมแต่ละแบบ	ทำวีเนียร์ฟันแล้วผลออกมาสวย	The veneers turns out beautifully	ผลดี,ทำวีเนียร์ฟัน		
+FACE-260	ศัลยกรรมแต่ละแบบ	ทำวีเนียร์ฟันแล้วอาจต้องแก้ซ้ำ	The veneers may need redoing	แก้ซ้ำ,ทำวีเนียร์ฟัน		
+FACE-261	ศัลยกรรมแต่ละแบบ	ทำวีเนียร์ฟันเสริมโหงวเฮ้ง	The veneers improves your face reading	เสริมดวง,ทำวีเนียร์ฟัน		
+FACE-262	ศัลยกรรมแต่ละแบบ	ทำวีเนียร์ฟันขัดโหงวเฮ้งเดิม	The veneers works against your face reading	ขัดดวง,ทำวีเนียร์ฟัน		
+FACE-263	ศัลยกรรมแต่ละแบบ	ควรเลเซอร์ผิวหน้า	Go ahead with the laser skin treatment	ควรทำ,เลเซอร์ผิวหน้า		
+FACE-264	ศัลยกรรมแต่ละแบบ	ยังไม่ควรเลเซอร์ผิวหน้า	Not yet for the laser skin treatment	ยังไม่ควร,เลเซอร์ผิวหน้า		
+FACE-265	ศัลยกรรมแต่ละแบบ	เลเซอร์ผิวหน้าแล้วผลออกมาสวย	The laser skin treatment turns out beautifully	ผลดี,เลเซอร์ผิวหน้า		
+FACE-266	ศัลยกรรมแต่ละแบบ	เลเซอร์ผิวหน้าแล้วอาจต้องแก้ซ้ำ	The laser skin treatment may need redoing	แก้ซ้ำ,เลเซอร์ผิวหน้า		
+FACE-267	ศัลยกรรมแต่ละแบบ	เลเซอร์ผิวหน้าเสริมโหงวเฮ้ง	The laser skin treatment improves your face reading	เสริมดวง,เลเซอร์ผิวหน้า		
+FACE-268	ศัลยกรรมแต่ละแบบ	เลเซอร์ผิวหน้าขัดโหงวเฮ้งเดิม	The laser skin treatment works against your face reading	ขัดดวง,เลเซอร์ผิวหน้า		
+FACE-269	ศัลยกรรมแต่ละแบบ	ควรลบไฝ	Go ahead with the mole removal	ควรทำ,ลบไฝ		
+FACE-270	ศัลยกรรมแต่ละแบบ	ยังไม่ควรลบไฝ	Not yet for the mole removal	ยังไม่ควร,ลบไฝ		
+FACE-271	ศัลยกรรมแต่ละแบบ	ลบไฝแล้วผลออกมาสวย	The mole removal turns out beautifully	ผลดี,ลบไฝ		
+FACE-272	ศัลยกรรมแต่ละแบบ	ลบไฝแล้วอาจต้องแก้ซ้ำ	The mole removal may need redoing	แก้ซ้ำ,ลบไฝ		
+FACE-273	ศัลยกรรมแต่ละแบบ	ลบไฝเสริมโหงวเฮ้ง	The mole removal improves your face reading	เสริมดวง,ลบไฝ		
+FACE-274	ศัลยกรรมแต่ละแบบ	ลบไฝขัดโหงวเฮ้งเดิม	The mole removal works against your face reading	ขัดดวง,ลบไฝ		
+FACE-275	ศัลยกรรมแต่ละแบบ	ควรเติมหน้าผาก	Go ahead with the forehead filler	ควรทำ,เติมหน้าผาก		
+FACE-276	ศัลยกรรมแต่ละแบบ	ยังไม่ควรเติมหน้าผาก	Not yet for the forehead filler	ยังไม่ควร,เติมหน้าผาก		
+FACE-277	ศัลยกรรมแต่ละแบบ	เติมหน้าผากแล้วผลออกมาสวย	The forehead filler turns out beautifully	ผลดี,เติมหน้าผาก		
+FACE-278	ศัลยกรรมแต่ละแบบ	เติมหน้าผากแล้วอาจต้องแก้ซ้ำ	The forehead filler may need redoing	แก้ซ้ำ,เติมหน้าผาก		
+FACE-279	ศัลยกรรมแต่ละแบบ	เติมหน้าผากเสริมโหงวเฮ้ง	The forehead filler improves your face reading	เสริมดวง,เติมหน้าผาก		
+FACE-280	ศัลยกรรมแต่ละแบบ	เติมหน้าผากขัดโหงวเฮ้งเดิม	The forehead filler works against your face reading	ขัดดวง,เติมหน้าผาก		
+FACE-281	ศัลยกรรมแต่ละแบบ	ควรทำลักยิ้ม	Go ahead with the dimple surgery	ควรทำ,ทำลักยิ้ม		
+FACE-282	ศัลยกรรมแต่ละแบบ	ยังไม่ควรทำลักยิ้ม	Not yet for the dimple surgery	ยังไม่ควร,ทำลักยิ้ม		
+FACE-283	ศัลยกรรมแต่ละแบบ	ทำลักยิ้มแล้วผลออกมาสวย	The dimple surgery turns out beautifully	ผลดี,ทำลักยิ้ม		
+FACE-284	ศัลยกรรมแต่ละแบบ	ทำลักยิ้มแล้วอาจต้องแก้ซ้ำ	The dimple surgery may need redoing	แก้ซ้ำ,ทำลักยิ้ม		
+FACE-285	ศัลยกรรมแต่ละแบบ	ทำลักยิ้มเสริมโหงวเฮ้ง	The dimple surgery improves your face reading	เสริมดวง,ทำลักยิ้ม		
+FACE-286	ศัลยกรรมแต่ละแบบ	ทำลักยิ้มขัดโหงวเฮ้งเดิม	The dimple surgery works against your face reading	ขัดดวง,ทำลักยิ้ม		
+FACE-287	ศัลยกรรมแต่ละแบบ	ควรตัดถุงใต้ตา	Go ahead with the under-eye bag removal	ควรทำ,ตัดถุงใต้ตา		
+FACE-288	ศัลยกรรมแต่ละแบบ	ยังไม่ควรตัดถุงใต้ตา	Not yet for the under-eye bag removal	ยังไม่ควร,ตัดถุงใต้ตา		
+FACE-289	ศัลยกรรมแต่ละแบบ	ตัดถุงใต้ตาแล้วผลออกมาสวย	The under-eye bag removal turns out beautifully	ผลดี,ตัดถุงใต้ตา		
+FACE-290	ศัลยกรรมแต่ละแบบ	ตัดถุงใต้ตาแล้วอาจต้องแก้ซ้ำ	The under-eye bag removal may need redoing	แก้ซ้ำ,ตัดถุงใต้ตา		
+FACE-291	ศัลยกรรมแต่ละแบบ	ตัดถุงใต้ตาเสริมโหงวเฮ้ง	The under-eye bag removal improves your face reading	เสริมดวง,ตัดถุงใต้ตา		
+FACE-292	ศัลยกรรมแต่ละแบบ	ตัดถุงใต้ตาขัดโหงวเฮ้งเดิม	The under-eye bag removal works against your face reading	ขัดดวง,ตัดถุงใต้ตา		
+FACE-293	ศัลยกรรมแต่ละแบบ	ควรเสริมหน้าอก	Go ahead with the breast augmentation	ควรทำ,เสริมหน้าอก		
+FACE-294	ศัลยกรรมแต่ละแบบ	ยังไม่ควรเสริมหน้าอก	Not yet for the breast augmentation	ยังไม่ควร,เสริมหน้าอก		
+FACE-295	ศัลยกรรมแต่ละแบบ	เสริมหน้าอกแล้วผลออกมาสวย	The breast augmentation turns out beautifully	ผลดี,เสริมหน้าอก		
+FACE-296	ศัลยกรรมแต่ละแบบ	เสริมหน้าอกแล้วอาจต้องแก้ซ้ำ	The breast augmentation may need redoing	แก้ซ้ำ,เสริมหน้าอก		
+FACE-297	ศัลยกรรมแต่ละแบบ	เสริมหน้าอกเสริมโหงวเฮ้ง	The breast augmentation improves your face reading	เสริมดวง,เสริมหน้าอก		
+FACE-298	ศัลยกรรมแต่ละแบบ	เสริมหน้าอกขัดโหงวเฮ้งเดิม	The breast augmentation works against your face reading	ขัดดวง,เสริมหน้าอก		
+FACE-299	ศัลยกรรมแต่ละแบบ	ควรดูดไขมัน	Go ahead with the liposuction	ควรทำ,ดูดไขมัน		
+FACE-300	ศัลยกรรมแต่ละแบบ	ยังไม่ควรดูดไขมัน	Not yet for the liposuction	ยังไม่ควร,ดูดไขมัน		
+FACE-301	ศัลยกรรมแต่ละแบบ	ดูดไขมันแล้วผลออกมาสวย	The liposuction turns out beautifully	ผลดี,ดูดไขมัน		
+FACE-302	ศัลยกรรมแต่ละแบบ	ดูดไขมันแล้วอาจต้องแก้ซ้ำ	The liposuction may need redoing	แก้ซ้ำ,ดูดไขมัน		
+FACE-303	ศัลยกรรมแต่ละแบบ	ดูดไขมันเสริมโหงวเฮ้ง	The liposuction improves your face reading	เสริมดวง,ดูดไขมัน		
+FACE-304	ศัลยกรรมแต่ละแบบ	ดูดไขมันขัดโหงวเฮ้งเดิม	The liposuction works against your face reading	ขัดดวง,ดูดไขมัน		
+FACE-305	ศัลยกรรมแต่ละแบบ	ควรศัลยกรรมหน้าท้อง	Go ahead with the tummy tuck	ควรทำ,ศัลยกรรมหน้าท้อง		
+FACE-306	ศัลยกรรมแต่ละแบบ	ยังไม่ควรศัลยกรรมหน้าท้อง	Not yet for the tummy tuck	ยังไม่ควร,ศัลยกรรมหน้าท้อง		
+FACE-307	ศัลยกรรมแต่ละแบบ	ศัลยกรรมหน้าท้องแล้วผลออกมาสวย	The tummy tuck turns out beautifully	ผลดี,ศัลยกรรมหน้าท้อง		
+FACE-308	ศัลยกรรมแต่ละแบบ	ศัลยกรรมหน้าท้องแล้วอาจต้องแก้ซ้ำ	The tummy tuck may need redoing	แก้ซ้ำ,ศัลยกรรมหน้าท้อง		
+FACE-309	ศัลยกรรมแต่ละแบบ	ศัลยกรรมหน้าท้องเสริมโหงวเฮ้ง	The tummy tuck improves your face reading	เสริมดวง,ศัลยกรรมหน้าท้อง		
+FACE-310	ศัลยกรรมแต่ละแบบ	ศัลยกรรมหน้าท้องขัดโหงวเฮ้งเดิม	The tummy tuck works against your face reading	ขัดดวง,ศัลยกรรมหน้าท้อง		
+FACE-311	ศัลยกรรมแต่ละแบบ	ควรเสริมสะโพก	Go ahead with the hip augmentation	ควรทำ,เสริมสะโพก		
+FACE-312	ศัลยกรรมแต่ละแบบ	ยังไม่ควรเสริมสะโพก	Not yet for the hip augmentation	ยังไม่ควร,เสริมสะโพก		
+FACE-313	ศัลยกรรมแต่ละแบบ	เสริมสะโพกแล้วผลออกมาสวย	The hip augmentation turns out beautifully	ผลดี,เสริมสะโพก		
+FACE-314	ศัลยกรรมแต่ละแบบ	เสริมสะโพกแล้วอาจต้องแก้ซ้ำ	The hip augmentation may need redoing	แก้ซ้ำ,เสริมสะโพก		
+FACE-315	ศัลยกรรมแต่ละแบบ	เสริมสะโพกเสริมโหงวเฮ้ง	The hip augmentation improves your face reading	เสริมดวง,เสริมสะโพก		
+FACE-316	ศัลยกรรมแต่ละแบบ	เสริมสะโพกขัดโหงวเฮ้งเดิม	The hip augmentation works against your face reading	ขัดดวง,เสริมสะโพก		
+FACE-317	ศัลยกรรมแต่ละแบบ	ควรผ่าตัดตาโต	Go ahead with the eye-opening surgery	ควรทำ,ผ่าตัดตาโต		
+FACE-318	ศัลยกรรมแต่ละแบบ	ยังไม่ควรผ่าตัดตาโต	Not yet for the eye-opening surgery	ยังไม่ควร,ผ่าตัดตาโต		
+FACE-319	ศัลยกรรมแต่ละแบบ	ผ่าตัดตาโตแล้วผลออกมาสวย	The eye-opening surgery turns out beautifully	ผลดี,ผ่าตัดตาโต		
+FACE-320	ศัลยกรรมแต่ละแบบ	ผ่าตัดตาโตแล้วอาจต้องแก้ซ้ำ	The eye-opening surgery may need redoing	แก้ซ้ำ,ผ่าตัดตาโต		
+FACE-321	ศัลยกรรมแต่ละแบบ	ผ่าตัดตาโตเสริมโหงวเฮ้ง	The eye-opening surgery improves your face reading	เสริมดวง,ผ่าตัดตาโต		
+FACE-322	ศัลยกรรมแต่ละแบบ	ผ่าตัดตาโตขัดโหงวเฮ้งเดิม	The eye-opening surgery works against your face reading	ขัดดวง,ผ่าตัดตาโต		
+FACE-323	ศัลยกรรมแต่ละแบบ	ควรเปิดหัวตา	Go ahead with the inner-corner eye surgery	ควรทำ,เปิดหัวตา		
+FACE-324	ศัลยกรรมแต่ละแบบ	ยังไม่ควรเปิดหัวตา	Not yet for the inner-corner eye surgery	ยังไม่ควร,เปิดหัวตา		
+FACE-325	ศัลยกรรมแต่ละแบบ	เปิดหัวตาแล้วผลออกมาสวย	The inner-corner eye surgery turns out beautifully	ผลดี,เปิดหัวตา		
+FACE-326	ศัลยกรรมแต่ละแบบ	เปิดหัวตาแล้วอาจต้องแก้ซ้ำ	The inner-corner eye surgery may need redoing	แก้ซ้ำ,เปิดหัวตา		
+FACE-327	ศัลยกรรมแต่ละแบบ	เปิดหัวตาเสริมโหงวเฮ้ง	The inner-corner eye surgery improves your face reading	เสริมดวง,เปิดหัวตา		
+FACE-328	ศัลยกรรมแต่ละแบบ	เปิดหัวตาขัดโหงวเฮ้งเดิม	The inner-corner eye surgery works against your face reading	ขัดดวง,เปิดหัวตา		
+FACE-329	ศัลยกรรมแต่ละแบบ	ควรฉีดไขมันตัวเอง	Go ahead with the fat grafting	ควรทำ,ฉีดไขมันตัวเอง		
+FACE-330	ศัลยกรรมแต่ละแบบ	ยังไม่ควรฉีดไขมันตัวเอง	Not yet for the fat grafting	ยังไม่ควร,ฉีดไขมันตัวเอง		
+FACE-331	ศัลยกรรมแต่ละแบบ	ฉีดไขมันตัวเองแล้วผลออกมาสวย	The fat grafting turns out beautifully	ผลดี,ฉีดไขมันตัวเอง		
+FACE-332	ศัลยกรรมแต่ละแบบ	ฉีดไขมันตัวเองแล้วอาจต้องแก้ซ้ำ	The fat grafting may need redoing	แก้ซ้ำ,ฉีดไขมันตัวเอง		
+FACE-333	ศัลยกรรมแต่ละแบบ	ฉีดไขมันตัวเองเสริมโหงวเฮ้ง	The fat grafting improves your face reading	เสริมดวง,ฉีดไขมันตัวเอง		
+FACE-334	ศัลยกรรมแต่ละแบบ	ฉีดไขมันตัวเองขัดโหงวเฮ้งเดิม	The fat grafting works against your face reading	ขัดดวง,ฉีดไขมันตัวเอง		
+FACE-335	ศัลยกรรมแต่ละแบบ	ควรเติมใต้ตา	Go ahead with the under-eye filler	ควรทำ,เติมใต้ตา		
+FACE-336	ศัลยกรรมแต่ละแบบ	ยังไม่ควรเติมใต้ตา	Not yet for the under-eye filler	ยังไม่ควร,เติมใต้ตา		
+FACE-337	ศัลยกรรมแต่ละแบบ	เติมใต้ตาแล้วผลออกมาสวย	The under-eye filler turns out beautifully	ผลดี,เติมใต้ตา		
+FACE-338	ศัลยกรรมแต่ละแบบ	เติมใต้ตาแล้วอาจต้องแก้ซ้ำ	The under-eye filler may need redoing	แก้ซ้ำ,เติมใต้ตา		
+FACE-339	ศัลยกรรมแต่ละแบบ	เติมใต้ตาเสริมโหงวเฮ้ง	The under-eye filler improves your face reading	เสริมดวง,เติมใต้ตา		
+FACE-340	ศัลยกรรมแต่ละแบบ	เติมใต้ตาขัดโหงวเฮ้งเดิม	The under-eye filler works against your face reading	ขัดดวง,เติมใต้ตา		
+FACE-341	คลินิกและหมอ	เจอหมอที่ใช่	You find the right doctor	หมอ,ดี		
+FACE-342	คลินิกและหมอ	หมอฝีมือดีมีประสบการณ์	A skilled, experienced surgeon	หมอ,ฝีมือ		
+FACE-343	คลินิกและหมอ	หมอเข้าใจสิ่งที่คุณต้องการ	The doctor understands what you want	หมอ,เข้าใจ		
+FACE-344	คลินิกและหมอ	หมอเร่งให้ตัดสินใจ	The doctor rushes you	หมอ,ระวัง		
+FACE-345	คลินิกและหมอ	ตรวจใบอนุญาตหมอก่อน	Check the doctor's licence	ใบอนุญาต,ข้อเท็จจริง		
+FACE-346	คลินิกและหมอ	ตรวจใบอนุญาตคลินิกก่อน	Check the clinic's licence	ใบอนุญาต,ข้อเท็จจริง		
+FACE-347	คลินิกและหมอ	คลินิกได้มาตรฐาน	An accredited clinic	คลินิก,ดี		
+FACE-348	คลินิกและหมอ	คลินิกเถื่อน	An unlicensed clinic	คลินิก,อันตราย		
+FACE-349	คลินิกและหมอ	คลินิกใกล้บ้านสะดวกติดตามผล	A clinic near home makes follow-ups easy	คลินิก,ติดตามผล		
+FACE-350	คลินิกและหมอ	ทำที่โรงพยาบาลปลอดภัยกว่า	A hospital is safer	โรงพยาบาล,ความปลอดภัย		
+FACE-351	คลินิกและหมอ	ทำที่เกาหลี	Have it done in Korea	ต่างประเทศ,เกาหลี		
+FACE-352	คลินิกและหมอ	ทำที่ไทยดีกว่า	Better done in Thailand	ไทย,ทางเลือก		
+FACE-353	คลินิกและหมอ	ราคาถูกเกินไประวัง	Too cheap is a warning	ราคา,ระวัง		
+FACE-354	คลินิกและหมอ	ราคาแพงไม่ได้แปลว่าดี	Expensive isn't always better	ราคา,ทางเลือก		
+FACE-355	คลินิกและหมอ	โปรโมชันล่อใจอย่าเพิ่งรีบ	Don't rush for a promotion	โปรโมชัน,ระวัง		
+FACE-356	คลินิกและหมอ	ปรึกษาหลายหมอก่อน	Get several opinions	ปรึกษา,รอบคอบ		
+FACE-357	คลินิกและหมอ	ดูผลงานจริงของหมอ	Look at real before-and-afters	ผลงาน,ตรวจสอบ		
+FACE-358	คลินิกและหมอ	รีวิวจริงน่าเชื่อถือ	The reviews are genuine	รีวิว,ดี		
+FACE-359	คลินิกและหมอ	รีวิวจ้างระวัง	Paid reviews: be careful	รีวิว,ระวัง		
+FACE-360	คลินิกและหมอ	คนรู้จักแนะนำหมอดี	A friend recommends a good doctor	คนแนะนำ,ดี		
+FACE-361	คลินิกและหมอ	ทำกับหมอคนเดิมดีกว่า	Stay with the same doctor	หมอ,ต่อเนื่อง		
+FACE-362	คลินิกและหมอ	เปลี่ยนหมอดีกว่า	Better change doctors	หมอ,เปลี่ยน		
+FACE-363	คลินิกและหมอ	ถามวัสดุและยาที่ใช้ให้ชัด	Ask exactly what materials and drugs are used	วัสดุ,ข้อเท็จจริง		
+FACE-364	คลินิกและหมอ	เซ็นใบยินยอมอย่างเข้าใจ	Understand the consent form before signing	ใบยินยอม,ข้อเท็จจริง		
+FACE-365	คลินิกและหมอ	มีวิสัญญีแพทย์ดูแล	An anaesthetist is present	ความปลอดภัย,ข้อเท็จจริง		
+FACE-366	คลินิกและหมอ	ฉีดสารในร้านเสริมสวยอันตราย	Injections at a beauty salon are dangerous	อันตราย,ข้อเท็จจริง		
+FACE-367	คลินิกและหมอ	ระวังฟิลเลอร์ปลอม	Watch for fake filler	ฟิลเลอร์,ระวัง		
+FACE-368	คลินิกและหมอ	นัดติดตามผลครบ	Keep every follow-up visit	ติดตามผล,ดี		
+FACE-369	คลินิกและหมอ	คลินิกรับผิดชอบเมื่อมีปัญหา	The clinic takes responsibility	คลินิก,รับผิดชอบ		
+FACE-370	คลินิกและหมอ	คลินิกปัดความรับผิดชอบ	The clinic dodges responsibility	คลินิก,ระวัง		
+FACE-371	ใจและเหตุผลก่อนทำ	ทำเพื่อตัวเอง	Do it for yourself	เหตุผล,ตัวเอง		
+FACE-372	ใจและเหตุผลก่อนทำ	ทำเพราะคนอื่นกดดัน	Doing it under pressure	เหตุผล,ระวัง		
+FACE-373	ใจและเหตุผลก่อนทำ	ทำเพื่อเอาใจแฟน	Doing it to please a partner	เหตุผล,ความรัก		
+FACE-374	ใจและเหตุผลก่อนทำ	ทำเพื่องาน	Doing it for work	เหตุผล,การงาน		
+FACE-375	ใจและเหตุผลก่อนทำ	ทำเพื่อเสริมดวง	Doing it to improve your luck	เหตุผล,ความเชื่อ		
+FACE-376	ใจและเหตุผลก่อนทำ	ทำเพราะอยากเหมือนดารา	Wanting to look like a celebrity	เหตุผล,ระวัง		
+FACE-377	ใจและเหตุผลก่อนทำ	หน้าเดิมสวยอยู่แล้ว	Your face is already lovely	ธรรมชาติ,ดี		
+FACE-378	ใจและเหตุผลก่อนทำ	รักหน้าตัวเองให้มากขึ้น	Love your own face more	รักตัวเอง,ใจ		
+FACE-379	ใจและเหตุผลก่อนทำ	เปลี่ยนนิดเดียวพอ	A small change is enough	พอดี,ธรรมชาติ		
+FACE-380	ใจและเหตุผลก่อนทำ	อยากเปลี่ยนมากเกินไป	Wanting to change too much	มากเกินไป,ระวัง		
+FACE-381	ใจและเหตุผลก่อนทำ	ทำแล้วจะมั่นใจขึ้น	You'll feel more confident	มั่นใจ,ผลดี		
+FACE-382	ใจและเหตุผลก่อนทำ	ทำแล้วจะยังไม่พอใจ	You still won't be satisfied	ไม่พอใจ,ใจ		
+FACE-383	ใจและเหตุผลก่อนทำ	ติดศัลยกรรม	Hooked on surgery	มากเกินไป,ระวัง		
+FACE-384	ใจและเหตุผลก่อนทำ	ปรึกษาคนในครอบครัวก่อน	Talk to your family first	ครอบครัว,ปรึกษา		
+FACE-385	ใจและเหตุผลก่อนทำ	ครอบครัวไม่เห็นด้วย	Your family disagrees	ครอบครัว,ไม่เห็นด้วย		
+FACE-386	ใจและเหตุผลก่อนทำ	แฟนสนับสนุน	Your partner supports you	ความรัก,สนับสนุน		
+FACE-387	ใจและเหตุผลก่อนทำ	เพื่อนสนิทให้กำลังใจ	Close friends encourage you	เพื่อน,กำลังใจ		
+FACE-388	ใจและเหตุผลก่อนทำ	เก็บเงินให้พอก่อน	Save enough first	การเงิน,ควรรอ		
+FACE-389	ใจและเหตุผลก่อนทำ	อย่ากู้เงินมาทำศัลยกรรม	Don't borrow for surgery	การเงิน,ระวัง		
+FACE-390	ใจและเหตุผลก่อนทำ	อายุยังน้อยเกินไป	You're too young for this	อายุ,ควรรอ		
+FACE-391	ใจและเหตุผลก่อนทำ	อายุกำลังเหมาะ	The age is right	อายุ,เหมาะ		
+FACE-392	ใจและเหตุผลก่อนทำ	คิดให้รอบคอบอีกครั้ง	Think it over once more	รอบคอบ,ควรรอ		
+FACE-393	ใจและเหตุผลก่อนทำ	ตัดสินใจได้แล้ว	You're ready to decide	ตัดสินใจ,พร้อม		
+FACE-394	ใจและเหตุผลก่อนทำ	ทำตามใจตัวเองได้	Follow your own heart	ตัดสินใจ,ใจ		
+FACE-395	ใจและเหตุผลก่อนทำ	เปลี่ยนหน้าไม่เปลี่ยนใจ	A new face won't change your heart	ใจ,ความจริง		
+FACE-396	ความเสี่ยงและการพักฟื้น	พักฟื้นเร็ว	Quick recovery	พักฟื้น,ดี		
+FACE-397	ความเสี่ยงและการพักฟื้น	พักฟื้นนานกว่าที่คิด	Recovery takes longer than expected	พักฟื้น,ช้า		
+FACE-398	ความเสี่ยงและการพักฟื้น	บวมช้ำไม่นาน	Swelling and bruising fade fast	พักฟื้น,ดี		
+FACE-399	ความเสี่ยงและการพักฟื้น	บวมช้ำนาน	Swelling and bruising linger	พักฟื้น,ช้า		
+FACE-400	ความเสี่ยงและการพักฟื้น	ระวังติดเชื้อ	Watch for infection	ความเสี่ยง,ข้อเท็จจริง		
+FACE-401	ความเสี่ยงและการพักฟื้น	ระวังแพ้ยาชา	Watch for anaesthetic reactions	ความเสี่ยง,ข้อเท็จจริง		
+FACE-402	ความเสี่ยงและการพักฟื้น	ระวังแผลเป็นนูน	Watch for raised scars	แผลเป็น,ความเสี่ยง		
+FACE-403	ความเสี่ยงและการพักฟื้น	แผลหายสวย	The wound heals nicely	แผล,ดี		
+FACE-404	ความเสี่ยงและการพักฟื้น	ผลไม่สมมาตร	Uneven results	ผลลัพธ์,ความเสี่ยง		
+FACE-405	ความเสี่ยงและการพักฟื้น	ซิลิโคนเคลื่อน	Implant shifts	ซิลิโคน,ความเสี่ยง		
+FACE-406	ความเสี่ยงและการพักฟื้น	ฟิลเลอร์อุดหลอดเลือดอันตราย	Filler blocking a blood vessel is an emergency	ฟิลเลอร์,ข้อเท็จจริง		
+FACE-407	ความเสี่ยงและการพักฟื้น	มีอาการผิดปกติรีบกลับไปหาหมอ	Unusual symptoms: see the doctor at once	อาการผิดปกติ,ข้อเท็จจริง		
+FACE-408	ความเสี่ยงและการพักฟื้น	งดบุหรี่ช่วยให้แผลหายดี	Not smoking helps healing	พักฟื้น,ข้อเท็จจริง		
+FACE-409	ความเสี่ยงและการพักฟื้น	ทำตามคำสั่งหมอเคร่งครัด	Follow the doctor's instructions	พักฟื้น,ข้อเท็จจริง		
+FACE-410	ความเสี่ยงและการพักฟื้น	ลาพักงานให้พอ	Take enough time off work	พักฟื้น,การงาน		
+FACE-411	ความเสี่ยงและการพักฟื้น	มีคนดูแลหลังผ่าตัด	Someone looks after you after surgery	พักฟื้น,คนดูแล		
+FACE-412	ความเสี่ยงและการพักฟื้น	อย่าเดินทางไกลหลังผ่าตัดทันที	Don't travel far right after surgery	เดินทาง,ข้อเท็จจริง		
+FACE-413	ความเสี่ยงและการพักฟื้น	ผลจริงเห็นหลังหลายเดือน	The real result shows after months	ผลลัพธ์,รอ		
+FACE-414	ความเสี่ยงและการพักฟื้น	ใจร้อนอยากเห็นผลเร็ว	Impatient for results	ใจ,รอ		
+FACE-415	ความเสี่ยงและการพักฟื้น	ปัญหาเล็กแก้ได้	A small problem can be fixed	แก้ไข,ดี		
+FACE-416	ความเสี่ยงและการพักฟื้น	ต้องผ่าตัดแก้ใหม่	A corrective operation is needed	แก้ไข,ผ่าตัด		
+FACE-417	ความเสี่ยงและการพักฟื้น	เอาซิลิโคนออกดีกว่า	Better to remove the implant	ซิลิโคน,แก้ไข		
+FACE-418	ความเสี่ยงและการพักฟื้น	ผลข้างเคียงน้อย	Few side effects	ผลข้างเคียง,ดี		
+FACE-419	ความเสี่ยงและการพักฟื้น	ผลข้างเคียงมากกว่าคาด	More side effects than expected	ผลข้างเคียง,ระวัง		
+FACE-420	ความเสี่ยงและการพักฟื้น	มีโรคประจำตัวต้องบอกหมอ	Tell the doctor about any conditions	สุขภาพ,ข้อเท็จจริง		
+FACE-421	ความเสี่ยงและการพักฟื้น	ไม่ควรทำตอนตั้งครรภ์	Not during pregnancy	สุขภาพ,ข้อเท็จจริง		
+FACE-422	ความเสี่ยงและการพักฟื้น	สุขภาพพร้อมผ่าตัด	You're healthy enough for surgery	สุขภาพ,พร้อม		
+FACE-423	ความเสี่ยงและการพักฟื้น	สุขภาพยังไม่พร้อม	Your health isn't ready	สุขภาพ,ควรรอ		
+FACE-424	ความเสี่ยงและการพักฟื้น	ดวงสุขภาพช่วงนี้ดี	Your health luck is good now	สุขภาพ,ดวง		
+FACE-425	ความเสี่ยงและการพักฟื้น	ดวงช่วงนี้ระวังเลือดตกยางออก	Your chart warns of bleeding now	ดวง,ระวัง		
+FACE-426	ฤกษ์และความเชื่อ	ดูฤกษ์ก่อนผ่าตัด	Pick an auspicious day for surgery	ฤกษ์,ความเชื่อ		
+FACE-427	ฤกษ์และความเชื่อ	ฤกษ์ดีกำลังจะมา	A good date is coming	ฤกษ์,ความเชื่อ		
+FACE-428	ฤกษ์และความเชื่อ	เลื่อนวันผ่าตัดดีกว่า	Better to move the date	ฤกษ์,ความเชื่อ		
+FACE-429	ฤกษ์และความเชื่อ	เลี่ยงผ่าตัดวันอังคาร	Avoid surgery on a Tuesday	ฤกษ์,ความเชื่อ		
+FACE-430	ฤกษ์และความเชื่อ	เลี่ยงผ่าตัดวันเกิด	Avoid surgery on your birthday	ฤกษ์,ความเชื่อ		
+FACE-431	ฤกษ์และความเชื่อ	ปีชงงดเลือดตกยางออก	Clash year: avoid bleeding procedures	ปีชง,ความเชื่อ		
+FACE-432	ฤกษ์และความเชื่อ	ทำบุญบริจาคเลือดก่อนผ่าตัด	Donate blood beforehand as merit	ทำบุญ,ความเชื่อ		
+FACE-433	ฤกษ์และความเชื่อ	ไหว้พระก่อนเข้าห้องผ่าตัด	Pray before going into surgery	ไหว้พระ,ความเชื่อ		
+FACE-434	ฤกษ์และความเชื่อ	ขอพรพระแม่ลักษมีเรื่องความงาม	Pray to Lakshmi for beauty	พระแม่ลักษมี,ความเชื่อ		
+FACE-435	ฤกษ์และความเชื่อ	ขอพรเจ้าแม่กวนอิมให้ปลอดภัย	Pray to Guanyin for safety	เจ้าแม่กวนอิม,ความเชื่อ		
+FACE-436	ฤกษ์และความเชื่อ	ทำจมูกตามโหงวเฮ้งเรียกทรัพย์	A nose shaped to draw wealth	จมูก,ความเชื่อ		
+FACE-437	ฤกษ์และความเชื่อ	ปลายจมูกอิ่มเก็บเงินอยู่	A fuller nose tip keeps money	จมูก,ความเชื่อ		
+FACE-438	ฤกษ์และความเชื่อ	อย่าทำจมูกแหลมเกินไปเงินรั่ว	Too sharp a nose lets money leak	จมูก,ความเชื่อ		
+FACE-439	ฤกษ์และความเชื่อ	เติมหน้าผากเสริมผู้ใหญ่อุปถัมภ์	A fuller forehead brings patrons	หน้าผาก,ความเชื่อ		
+FACE-440	ฤกษ์และความเชื่อ	เสริมคางให้บั้นปลายมั่นคง	A fuller chin steadies later life	คาง,ความเชื่อ		
+FACE-441	ฤกษ์และความเชื่อ	ตัดกรามมากไประวังบริวารหนี	Too much jaw reduction drives helpers away	กราม,ความเชื่อ		
+FACE-442	ฤกษ์และความเชื่อ	เหลาโหนกแก้มลดอำนาจ	Shaving cheekbones lowers authority	โหนกแก้ม,ความเชื่อ		
+FACE-443	ฤกษ์และความเชื่อ	ทำปากกระจับเสริมเสน่ห์	Cupid's-bow lips add charm	ปาก,ความเชื่อ		
+FACE-444	ฤกษ์และความเชื่อ	ยกมุมปากให้ยิ้มเสริมโชค	Lifted mouth corners bring luck	มุมปาก,ความเชื่อ		
+FACE-445	ฤกษ์และความเชื่อ	เปิดหว่างคิ้วให้โล่งดวงเปิด	A clear brow gap opens your luck	หว่างคิ้ว,ความเชื่อ		
+FACE-446	ฤกษ์และความเชื่อ	ลบไฝร้ายแก้ดวง	Removing a bad mole changes your luck	ไฝ,ความเชื่อ		
+FACE-447	ฤกษ์และความเชื่อ	สักคิ้วให้ยาวเสริมพี่น้อง	Tattoo longer brows for sibling luck	คิ้ว,ความเชื่อ		
+FACE-448	ฤกษ์และความเชื่อ	ทำฟันให้เรียงพูดแล้วคนเชื่อ	Straight teeth make your word trusted	ฟัน,ความเชื่อ		
+FACE-449	ฤกษ์และความเชื่อ	ศัลยกรรมเปลี่ยนดวงได้บางส่วน	Surgery changes your luck only in part	ดวง,ความเชื่อ		
+FACE-450	ฤกษ์และความเชื่อ	ใจและการกระทำเปลี่ยนดวงมากกว่าหน้า	Heart and deeds change luck more than a face	ดวง,ความเชื่อ		
+FACE-451	ฤกษ์และความเชื่อ	ดวงช่วงนี้เหมาะกับการเปลี่ยนแปลง	Your chart favours change now	ดวง,เปลี่ยนแปลง		
+FACE-452	ฤกษ์และความเชื่อ	ดวงช่วงนี้ยังไม่เหมาะ	Your chart says not yet	ดวง,ควรรอ		
+FACE-453	ฤกษ์และความเชื่อ	ดูดวงคู่กับหมอดูโหงวเฮ้ง	See a face reader as well	หมอดู,ความเชื่อ		
+FACE-454	ฤกษ์และความเชื่อ	ฝันดีก่อนผ่าตัด	A good dream before surgery	ฝัน,ความเชื่อ		
+FACE-455	ฤกษ์และความเชื่อ	ฝันร้ายก่อนผ่าตัดเลื่อนก่อน	A bad dream before surgery: postpone	ฝัน,ความเชื่อ		
+FACE-456	ผลต่อความรัก งาน และเงิน	ทำแล้วความรักเข้ามา	Love arrives after surgery	ความรัก,ผลดี		
+FACE-457	ผลต่อความรัก งาน และเงิน	ทำแล้วแฟนชอบ	Your partner loves the result	ความรัก,ผลดี		
+FACE-458	ผลต่อความรัก งาน และเงิน	ทำแล้วแฟนไม่ชอบ	Your partner dislikes the result	ความรัก,ผลเสีย		
+FACE-459	ผลต่อความรัก งาน และเงิน	คนรักชอบหน้าเดิมมากกว่า	Your partner prefers your old face	ความรัก,ธรรมชาติ		
+FACE-460	ผลต่อความรัก งาน และเงิน	ทำแล้วมีคนเข้ามาจีบ	Admirers appear	ความรัก,เสน่ห์		
+FACE-461	ผลต่อความรัก งาน และเงิน	ทำแล้วงานรุ่ง	Your career takes off	การงาน,ผลดี		
+FACE-462	ผลต่อความรัก งาน และเงิน	หน้าใหม่เหมาะกับงานหน้ากล้อง	The new look suits on-camera work	การงาน,หน้ากล้อง		
+FACE-463	ผลต่อความรัก งาน และเงิน	ทำแล้วขายของดีขึ้น	Sales improve	การเงิน,ขายของ		
+FACE-464	ผลต่อความรัก งาน และเงิน	ทำแล้วรายได้เพิ่ม	Income rises	การเงิน,ผลดี		
+FACE-465	ผลต่อความรัก งาน และเงิน	ทำแล้วเงินหมดไปกับการแก้	Money drains away on revisions	การเงิน,ผลเสีย		
+FACE-466	ผลต่อความรัก งาน และเงิน	คุ้มกับเงินที่จ่าย	Worth the money	คุ้มค่า,ผลดี		
+FACE-467	ผลต่อความรัก งาน และเงิน	ไม่คุ้มกับเงินที่จ่าย	Not worth the money	ไม่คุ้มค่า,ผลเสีย		
+FACE-468	ผลต่อความรัก งาน และเงิน	ทำแล้วมั่นใจเข้าสังคม	More confident socially	สังคม,มั่นใจ		
+FACE-469	ผลต่อความรัก งาน และเงิน	มีคนนินทา	People gossip	สังคม,นินทา		
+FACE-470	ผลต่อความรัก งาน และเงิน	คนรอบตัวชมว่าสวยขึ้น	People say you look better	คนรอบตัว,ชม		
+FACE-471	ผลต่อความรัก งาน และเงิน	คนรอบตัวจำไม่ได้	People don't recognise you	คนรอบตัว,เปลี่ยน		
+FACE-472	ผลต่อความรัก งาน และเงิน	ครอบครัวรับได้	Your family accepts it	ครอบครัว,ยอมรับ		
+FACE-473	ผลต่อความรัก งาน และเงิน	ทำแล้วดูเป็นธรรมชาติ	It looks natural	ผลลัพธ์,ธรรมชาติ		
+FACE-474	ผลต่อความรัก งาน และเงิน	ทำแล้วดูเกินจริง	It looks overdone	ผลลัพธ์,มากเกินไป		
+FACE-475	ผลต่อความรัก งาน และเงิน	ทำแล้วดูอ่อนกว่าวัย	You look younger	ผลลัพธ์,อ่อนวัย		
+FACE-476	ผลต่อความรัก งาน และเงิน	ทำแล้วโหงวเฮ้งดีขึ้น	Your face reading improves	โหงวเฮ้ง,ดีขึ้น		
+FACE-477	ผลต่อความรัก งาน และเงิน	ทำแล้วโหงวเฮ้งแย่ลง	Your face reading gets worse	โหงวเฮ้ง,แย่ลง		
+FACE-478	ผลต่อความรัก งาน และเงิน	ทำแล้วชีวิตเหมือนเดิม	Life stays the same	ผลลัพธ์,เหมือนเดิม		
+FACE-479	ผลต่อความรัก งาน และเงิน	ทำแล้วได้เริ่มต้นใหม่	A fresh start	ผลลัพธ์,เริ่มใหม่		
+FACE-480	ผลต่อความรัก งาน และเงิน	ทำแล้วรักตัวเองมากขึ้น	You love yourself more	ใจ,รักตัวเอง		
+FACE-481	ดูแลหน้าแบบไม่ผ่าตัด	ดูแลผิวดีกว่าผ่าตัด	Skincare beats surgery	ไม่ผ่าตัด,ผิว		
+FACE-482	ดูแลหน้าแบบไม่ผ่าตัด	นอนพอหน้าใสดวงดี	Enough sleep brightens face and luck	นอน,สุขภาพ		
+FACE-483	ดูแลหน้าแบบไม่ผ่าตัด	ดื่มน้ำมากหน้าสดใส	More water, fresher face	น้ำ,สุขภาพ		
+FACE-484	ดูแลหน้าแบบไม่ผ่าตัด	ทาครีมกันแดดทุกวัน	Sunscreen every day	กันแดด,ข้อเท็จจริง		
+FACE-485	ดูแลหน้าแบบไม่ผ่าตัด	แต่งหน้าเสริมโหงวเฮ้งแทน	Use makeup to enhance your features	แต่งหน้า,ทางเลือก		
+FACE-486	ดูแลหน้าแบบไม่ผ่าตัด	ทรงผมใหม่เปลี่ยนหน้า	A new hairstyle changes your face	ทรงผม,ทางเลือก		
+FACE-487	ดูแลหน้าแบบไม่ผ่าตัด	เปิดหน้าผากให้ดวงเปิด	Show your forehead to open your luck	ทรงผม,ความเชื่อ		
+FACE-488	ดูแลหน้าแบบไม่ผ่าตัด	กันคิ้วให้เรียบดวงดี	Tidy brows, better luck	คิ้ว,ความเชื่อ		
+FACE-489	ดูแลหน้าแบบไม่ผ่าตัด	นวดหน้ายกกระชับ	Facial massage firms the face	นวดหน้า,ทางเลือก		
+FACE-490	ดูแลหน้าแบบไม่ผ่าตัด	กายบริหารใบหน้า	Face exercises	บริหารหน้า,ทางเลือก		
+FACE-491	ดูแลหน้าแบบไม่ผ่าตัด	ออกกำลังกายหน้าเปล่งปลั่ง	Exercise gives you a glow	ออกกำลังกาย,สุขภาพ		
+FACE-492	ดูแลหน้าแบบไม่ผ่าตัด	กินอาหารดีผิวดี	Good food, good skin	อาหาร,สุขภาพ		
+FACE-493	ดูแลหน้าแบบไม่ผ่าตัด	ลดหวานลดมันหน้าไม่บวม	Less sugar and fat, less puffiness	อาหาร,สุขภาพ		
+FACE-494	ดูแลหน้าแบบไม่ผ่าตัด	จัดฟันแทนวีเนียร์	Braces instead of veneers	ฟัน,ทางเลือก		
+FACE-495	ดูแลหน้าแบบไม่ผ่าตัด	ยิ้มบ่อยเปลี่ยนโหงวเฮ้ง	Smiling often changes your face reading	รอยยิ้ม,ความเชื่อ		
+FACE-496	ดูแลหน้าแบบไม่ผ่าตัด	ใจสงบหน้าก็สวย	A calm mind shows on your face	ใจ,ความงาม		
+FACE-497	ดูแลหน้าแบบไม่ผ่าตัด	นั่งสมาธิหน้ามีราศี	Meditation brings a radiant face	สมาธิ,ความเชื่อ		
+FACE-498	ดูแลหน้าแบบไม่ผ่าตัด	พบแพทย์ผิวหนังก่อน	See a dermatologist first	แพทย์ผิวหนัง,ข้อเท็จจริง		
+FACE-499	ดูแลหน้าแบบไม่ผ่าตัด	รอให้สิวหายก่อนทำ	Clear your acne first	ผิว,ควรรอ		
+FACE-500	ดูแลหน้าแบบไม่ผ่าตัด	ความงามจากข้างในสำคัญที่สุด	Inner beauty matters most	ใจ,ความงาม		

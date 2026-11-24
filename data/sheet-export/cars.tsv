@@ -1,0 +1,500 @@
+CARS-001	มือหนึ่งหรือมือสอง	ควรซื้อรถมือหนึ่ง	Buy a new car	มือหนึ่ง,ควรซื้อ		
+CARS-002	มือหนึ่งหรือมือสอง	ควรซื้อรถมือสอง	Buy a used car	มือสอง,ควรซื้อ		
+CARS-003	มือหนึ่งหรือมือสอง	มือหนึ่งคุ้มกว่า	A new car is better value	มือหนึ่ง,คุ้มค่า		
+CARS-004	มือหนึ่งหรือมือสอง	มือสองคุ้มกว่า	A used car is better value	มือสอง,คุ้มค่า		
+CARS-005	มือหนึ่งหรือมือสอง	รถมือสองสภาพดีรออยู่	A good used car is waiting	มือสอง,โอกาสดี		
+CARS-006	มือหนึ่งหรือมือสอง	รถมือสองมีประวัติซ่อมหนัก	The used car has a heavy repair history	มือสอง,ระวัง		
+CARS-007	มือหนึ่งหรือมือสอง	รถมือสองเคยจมน้ำ	The used car was once flooded	มือสอง,ระวัง		
+CARS-008	มือหนึ่งหรือมือสอง	รถมือสองเคยชนหนัก	The used car was in a bad crash	มือสอง,ระวัง		
+CARS-009	มือหนึ่งหรือมือสอง	รถมือสองเจ้าของเดียว	One-owner used car	มือสอง,ดี		
+CARS-010	มือหนึ่งหรือมือสอง	รถมือสองเปลี่ยนมือหลายครั้ง	The used car has had many owners	มือสอง,ระวัง		
+CARS-011	มือหนึ่งหรือมือสอง	รถมือสองไมล์น้อย	Low-mileage used car	มือสอง,ดี		
+CARS-012	มือหนึ่งหรือมือสอง	รถมือสองไมล์ถูกกรอ	The odometer was wound back	มือสอง,ระวัง		
+CARS-013	มือหนึ่งหรือมือสอง	รถมือสองราคาดีกว่าตลาด	Used car priced below market	มือสอง,คุ้มค่า		
+CARS-014	มือหนึ่งหรือมือสอง	รถมือสองราคาถูกผิดปกติ	Suspiciously cheap used car	มือสอง,ระวัง		
+CARS-015	มือหนึ่งหรือมือสอง	รถป้ายแดงได้เปรียบ	A brand-new car has the edge	มือหนึ่ง,ดี		
+CARS-016	มือหนึ่งหรือมือสอง	รถมือหนึ่งราคาตกเร็ว	A new car loses value fast	มือหนึ่ง,ข้อเสีย		
+CARS-017	มือหนึ่งหรือมือสอง	รถมือหนึ่งได้ของแถมเยอะ	Lots of extras with a new car	มือหนึ่ง,โปรโมชัน		
+CARS-018	มือหนึ่งหรือมือสอง	รถมือหนึ่งรอคิวนาน	Long wait for the new car	มือหนึ่ง,รอ		
+CARS-019	มือหนึ่งหรือมือสอง	รถมือหนึ่งมีประกันจากศูนย์	New car comes with dealer warranty	มือหนึ่ง,ประกัน		
+CARS-020	มือหนึ่งหรือมือสอง	รถมือสองยังเหลือประกันศูนย์	Used car still under warranty	มือสอง,ประกัน		
+CARS-021	มือหนึ่งหรือมือสอง	รถมือสองจากคนรู้จัก	Used car from someone you know	มือสอง,คนรู้จัก		
+CARS-022	มือหนึ่งหรือมือสอง	รถมือสองจากเต็นท์	Used car from a dealer lot	มือสอง,เต็นท์		
+CARS-023	มือหนึ่งหรือมือสอง	รถมือสองประมูล	Auction car	มือสอง,ประมูล		
+CARS-024	มือหนึ่งหรือมือสอง	รถมือสองนำเข้า	Imported used car	มือสอง,นำเข้า		
+CARS-025	มือหนึ่งหรือมือสอง	รถป้ายแดงตัวโชว์	Showroom demo car	มือหนึ่ง,ราคาพิเศษ		
+CARS-026	มือหนึ่งหรือมือสอง	รถค้างสต็อกปีเก่า	Last year's unsold stock	มือหนึ่ง,ราคาพิเศษ		
+CARS-027	มือหนึ่งหรือมือสอง	รถรุ่นใหม่เพิ่งเปิดตัว	Model just launched	มือหนึ่ง,รุ่นใหม่		
+CARS-028	มือหนึ่งหรือมือสอง	รถรุ่นเก่าใกล้เปลี่ยนโฉม	Old model about to be replaced	มือหนึ่ง,รอ		
+CARS-029	มือหนึ่งหรือมือสอง	ซื้อรถต่อจากญาติ	Take over a relative's car	มือสอง,ครอบครัว		
+CARS-030	มือหนึ่งหรือมือสอง	เช่าขับก่อนตัดสินใจ	Rent one before you decide	ลองก่อน,ควรรอ		
+CARS-031	ประเภทรถ	ซื้อรถเก๋งได้	Go ahead and buy a sedan	ควรซื้อ,รถเก๋ง		
+CARS-032	ประเภทรถ	ยังไม่ควรซื้อรถเก๋ง	Not yet for a sedan	ยังไม่ควร,รถเก๋ง		
+CARS-033	ประเภทรถ	รถเก๋งเหมาะกับคุณ	A sedan suits you	เหมาะ,รถเก๋ง		
+CARS-034	ประเภทรถ	รถเก๋งไม่เหมาะกับคุณ	A sedan does not suit you	ไม่เหมาะ,รถเก๋ง		
+CARS-035	ประเภทรถ	รถเก๋งคุ้มค่า	A sedan is good value	คุ้มค่า,รถเก๋ง		
+CARS-036	ประเภทรถ	ซื้อรถกระบะได้	Go ahead and buy a pickup	ควรซื้อ,รถกระบะ		
+CARS-037	ประเภทรถ	ยังไม่ควรซื้อรถกระบะ	Not yet for a pickup	ยังไม่ควร,รถกระบะ		
+CARS-038	ประเภทรถ	รถกระบะเหมาะกับคุณ	A pickup suits you	เหมาะ,รถกระบะ		
+CARS-039	ประเภทรถ	รถกระบะไม่เหมาะกับคุณ	A pickup does not suit you	ไม่เหมาะ,รถกระบะ		
+CARS-040	ประเภทรถ	รถกระบะคุ้มค่า	A pickup is good value	คุ้มค่า,รถกระบะ		
+CARS-041	ประเภทรถ	ซื้อรถ SUVได้	Go ahead and buy an SUV	ควรซื้อ,รถ SUV		
+CARS-042	ประเภทรถ	ยังไม่ควรซื้อรถ SUV	Not yet for an SUV	ยังไม่ควร,รถ SUV		
+CARS-043	ประเภทรถ	รถ SUVเหมาะกับคุณ	An SUV suits you	เหมาะ,รถ SUV		
+CARS-044	ประเภทรถ	รถ SUVไม่เหมาะกับคุณ	An SUV does not suit you	ไม่เหมาะ,รถ SUV		
+CARS-045	ประเภทรถ	รถ SUVคุ้มค่า	An SUV is good value	คุ้มค่า,รถ SUV		
+CARS-046	ประเภทรถ	ซื้อรถตู้ได้	Go ahead and buy a van	ควรซื้อ,รถตู้		
+CARS-047	ประเภทรถ	ยังไม่ควรซื้อรถตู้	Not yet for a van	ยังไม่ควร,รถตู้		
+CARS-048	ประเภทรถ	รถตู้เหมาะกับคุณ	A van suits you	เหมาะ,รถตู้		
+CARS-049	ประเภทรถ	รถตู้ไม่เหมาะกับคุณ	A van does not suit you	ไม่เหมาะ,รถตู้		
+CARS-050	ประเภทรถ	รถตู้คุ้มค่า	A van is good value	คุ้มค่า,รถตู้		
+CARS-051	ประเภทรถ	ซื้อรถไฟฟ้าได้	Go ahead and buy an electric car	ควรซื้อ,รถไฟฟ้า		
+CARS-052	ประเภทรถ	ยังไม่ควรซื้อรถไฟฟ้า	Not yet for an electric car	ยังไม่ควร,รถไฟฟ้า		
+CARS-053	ประเภทรถ	รถไฟฟ้าเหมาะกับคุณ	An electric car suits you	เหมาะ,รถไฟฟ้า		
+CARS-054	ประเภทรถ	รถไฟฟ้าไม่เหมาะกับคุณ	An electric car does not suit you	ไม่เหมาะ,รถไฟฟ้า		
+CARS-055	ประเภทรถ	รถไฟฟ้าคุ้มค่า	An electric car is good value	คุ้มค่า,รถไฟฟ้า		
+CARS-056	ประเภทรถ	ซื้อรถไฮบริดได้	Go ahead and buy a hybrid	ควรซื้อ,รถไฮบริด		
+CARS-057	ประเภทรถ	ยังไม่ควรซื้อรถไฮบริด	Not yet for a hybrid	ยังไม่ควร,รถไฮบริด		
+CARS-058	ประเภทรถ	รถไฮบริดเหมาะกับคุณ	A hybrid suits you	เหมาะ,รถไฮบริด		
+CARS-059	ประเภทรถ	รถไฮบริดไม่เหมาะกับคุณ	A hybrid does not suit you	ไม่เหมาะ,รถไฮบริด		
+CARS-060	ประเภทรถ	รถไฮบริดคุ้มค่า	A hybrid is good value	คุ้มค่า,รถไฮบริด		
+CARS-061	ประเภทรถ	ซื้อรถอีโคคาร์ได้	Go ahead and buy an eco car	ควรซื้อ,รถอีโคคาร์		
+CARS-062	ประเภทรถ	ยังไม่ควรซื้อรถอีโคคาร์	Not yet for an eco car	ยังไม่ควร,รถอีโคคาร์		
+CARS-063	ประเภทรถ	รถอีโคคาร์เหมาะกับคุณ	An eco car suits you	เหมาะ,รถอีโคคาร์		
+CARS-064	ประเภทรถ	รถอีโคคาร์ไม่เหมาะกับคุณ	An eco car does not suit you	ไม่เหมาะ,รถอีโคคาร์		
+CARS-065	ประเภทรถ	รถอีโคคาร์คุ้มค่า	An eco car is good value	คุ้มค่า,รถอีโคคาร์		
+CARS-066	ประเภทรถ	ซื้อรถสปอร์ตได้	Go ahead and buy a sports car	ควรซื้อ,รถสปอร์ต		
+CARS-067	ประเภทรถ	ยังไม่ควรซื้อรถสปอร์ต	Not yet for a sports car	ยังไม่ควร,รถสปอร์ต		
+CARS-068	ประเภทรถ	รถสปอร์ตเหมาะกับคุณ	A sports car suits you	เหมาะ,รถสปอร์ต		
+CARS-069	ประเภทรถ	รถสปอร์ตไม่เหมาะกับคุณ	A sports car does not suit you	ไม่เหมาะ,รถสปอร์ต		
+CARS-070	ประเภทรถ	รถสปอร์ตคุ้มค่า	A sports car is good value	คุ้มค่า,รถสปอร์ต		
+CARS-071	ประเภทรถ	ซื้อรถหรูได้	Go ahead and buy a luxury car	ควรซื้อ,รถหรู		
+CARS-072	ประเภทรถ	ยังไม่ควรซื้อรถหรู	Not yet for a luxury car	ยังไม่ควร,รถหรู		
+CARS-073	ประเภทรถ	รถหรูเหมาะกับคุณ	A luxury car suits you	เหมาะ,รถหรู		
+CARS-074	ประเภทรถ	รถหรูไม่เหมาะกับคุณ	A luxury car does not suit you	ไม่เหมาะ,รถหรู		
+CARS-075	ประเภทรถ	รถหรูคุ้มค่า	A luxury car is good value	คุ้มค่า,รถหรู		
+CARS-076	ประเภทรถ	ซื้อรถ 7 ที่นั่งได้	Go ahead and buy a seven-seater	ควรซื้อ,รถ 7 ที่นั่ง		
+CARS-077	ประเภทรถ	ยังไม่ควรซื้อรถ 7 ที่นั่ง	Not yet for a seven-seater	ยังไม่ควร,รถ 7 ที่นั่ง		
+CARS-078	ประเภทรถ	รถ 7 ที่นั่งเหมาะกับคุณ	A seven-seater suits you	เหมาะ,รถ 7 ที่นั่ง		
+CARS-079	ประเภทรถ	รถ 7 ที่นั่งไม่เหมาะกับคุณ	A seven-seater does not suit you	ไม่เหมาะ,รถ 7 ที่นั่ง		
+CARS-080	ประเภทรถ	รถ 7 ที่นั่งคุ้มค่า	A seven-seater is good value	คุ้มค่า,รถ 7 ที่นั่ง		
+CARS-081	ประเภทรถ	ซื้อรถญี่ปุ่นได้	Go ahead and buy a Japanese car	ควรซื้อ,รถญี่ปุ่น		
+CARS-082	ประเภทรถ	ยังไม่ควรซื้อรถญี่ปุ่น	Not yet for a Japanese car	ยังไม่ควร,รถญี่ปุ่น		
+CARS-083	ประเภทรถ	รถญี่ปุ่นเหมาะกับคุณ	A Japanese car suits you	เหมาะ,รถญี่ปุ่น		
+CARS-084	ประเภทรถ	รถญี่ปุ่นไม่เหมาะกับคุณ	A Japanese car does not suit you	ไม่เหมาะ,รถญี่ปุ่น		
+CARS-085	ประเภทรถ	รถญี่ปุ่นคุ้มค่า	A Japanese car is good value	คุ้มค่า,รถญี่ปุ่น		
+CARS-086	ประเภทรถ	ซื้อรถยุโรปได้	Go ahead and buy a European car	ควรซื้อ,รถยุโรป		
+CARS-087	ประเภทรถ	ยังไม่ควรซื้อรถยุโรป	Not yet for a European car	ยังไม่ควร,รถยุโรป		
+CARS-088	ประเภทรถ	รถยุโรปเหมาะกับคุณ	A European car suits you	เหมาะ,รถยุโรป		
+CARS-089	ประเภทรถ	รถยุโรปไม่เหมาะกับคุณ	A European car does not suit you	ไม่เหมาะ,รถยุโรป		
+CARS-090	ประเภทรถ	รถยุโรปคุ้มค่า	A European car is good value	คุ้มค่า,รถยุโรป		
+CARS-091	ประเภทรถ	ซื้อรถจีนได้	Go ahead and buy a Chinese car	ควรซื้อ,รถจีน		
+CARS-092	ประเภทรถ	ยังไม่ควรซื้อรถจีน	Not yet for a Chinese car	ยังไม่ควร,รถจีน		
+CARS-093	ประเภทรถ	รถจีนเหมาะกับคุณ	A Chinese car suits you	เหมาะ,รถจีน		
+CARS-094	ประเภทรถ	รถจีนไม่เหมาะกับคุณ	A Chinese car does not suit you	ไม่เหมาะ,รถจีน		
+CARS-095	ประเภทรถ	รถจีนคุ้มค่า	A Chinese car is good value	คุ้มค่า,รถจีน		
+CARS-096	จังหวะเวลา ควรซื้อ ควรรอ	ซื้อได้เลยตอนนี้	Buy now	ควรซื้อ,จังหวะ		
+CARS-097	จังหวะเวลา ควรซื้อ ควรรอ	ควรรอก่อน	Wait for now	ควรรอ,จังหวะ		
+CARS-098	จังหวะเวลา ควรซื้อ ควรรอ	ไม่ควรรอ	Don't wait	ไม่ควรรอ,จังหวะ		
+CARS-099	จังหวะเวลา ควรซื้อ ควรรอ	รองานมอเตอร์โชว์	Wait for the motor show	ควรรอ,โปรโมชัน		
+CARS-100	จังหวะเวลา ควรซื้อ ควรรอ	รอโปรปลายปี	Wait for year-end deals	ควรรอ,โปรโมชัน		
+CARS-101	จังหวะเวลา ควรซื้อ ควรรอ	ซื้อช่วงต้นปีดี	Early in the year is good	จังหวะ,ต้นปี		
+CARS-102	จังหวะเวลา ควรซื้อ ควรรอ	ซื้อช่วงกลางปีดี	Mid-year is good	จังหวะ,กลางปี		
+CARS-103	จังหวะเวลา ควรซื้อ ควรรอ	ซื้อช่วงปลายปีดี	Late in the year is good	จังหวะ,ปลายปี		
+CARS-104	จังหวะเวลา ควรซื้อ ควรรอ	รอรุ่นใหม่ออกก่อน	Wait for the new model	ควรรอ,รุ่นใหม่		
+CARS-105	จังหวะเวลา ควรซื้อ ควรรอ	ซื้อก่อนราคาขึ้น	Buy before the price goes up	ไม่ควรรอ,ราคา		
+CARS-106	จังหวะเวลา ควรซื้อ ควรรอ	รอราคาลง	Wait for the price to drop	ควรรอ,ราคา		
+CARS-107	จังหวะเวลา ควรซื้อ ควรรอ	รอให้เงินเก็บพอก่อน	Save enough first	ควรรอ,การเงิน		
+CARS-108	จังหวะเวลา ควรซื้อ ควรรอ	รองานมั่นคงก่อน	Wait until your job is steady	ควรรอ,งาน		
+CARS-109	จังหวะเวลา ควรซื้อ ควรรอ	รอย้ายบ้านเสร็จก่อน	Wait until the move is done	ควรรอ,บ้าน		
+CARS-110	จังหวะเวลา ควรซื้อ ควรรอ	ซื้อก่อนลูกเข้าโรงเรียน	Buy before the kids start school	จังหวะ,ครอบครัว		
+CARS-111	จังหวะเวลา ควรซื้อ ควรรอ	ซื้อก่อนแต่งงาน	Buy before the wedding	จังหวะ,ความรัก		
+CARS-112	จังหวะเวลา ควรซื้อ ควรรอ	รอหลังแต่งงาน	Wait until after the wedding	ควรรอ,ความรัก		
+CARS-113	จังหวะเวลา ควรซื้อ ควรรอ	จังหวะกำลังดี	The timing is right	จังหวะ,ดี		
+CARS-114	จังหวะเวลา ควรซื้อ ควรรอ	พลาดจังหวะไปแล้ว	You missed the moment	จังหวะ,พลาด		
+CARS-115	จังหวะเวลา ควรซื้อ ควรรอ	อีกไม่นานได้รถ	A car is coming soon	เร็วๆ นี้,ได้รถ		
+CARS-116	จังหวะเวลา ควรซื้อ ควรรอ	ภายใน 3 เดือนได้รถ	A car within 3 months	ระยะเวลา,ได้รถ		
+CARS-117	จังหวะเวลา ควรซื้อ ควรรอ	ภายใน 1 ปีได้รถ	A car within a year	ระยะเวลา,ได้รถ		
+CARS-118	จังหวะเวลา ควรซื้อ ควรรอ	รถคันเดิมยังใช้ได้อีกนาน	Your car has years left	ควรรอ,รถเดิม		
+CARS-119	จังหวะเวลา ควรซื้อ ควรรอ	ถึงเวลาเปลี่ยนรถ	Time for a new car	ควรซื้อ,เปลี่ยนรถ		
+CARS-120	จังหวะเวลา ควรซื้อ ควรรอ	รอนโยบายรถไฟฟ้าชัดก่อน	Wait for clear EV policy	ควรรอ,รถไฟฟ้า		
+CARS-121	จังหวะเวลา ควรซื้อ ควรรอ	อย่าตัดสินใจตอนอารมณ์ร้อน	Don't decide in the heat of the moment	ควรรอ,สติ		
+CARS-122	จังหวะเวลา ควรซื้อ ควรรอ	ตัดสินใจเร็วได้ของดี	A quick decision lands a good one	ไม่ควรรอ,โอกาส		
+CARS-123	จังหวะเวลา ควรซื้อ ควรรอ	รอคนในบ้านเห็นด้วยก่อน	Wait until the family agrees	ควรรอ,ครอบครัว		
+CARS-124	จังหวะเวลา ควรซื้อ ควรรอ	ไปดูรถหลายที่ก่อน	Look at several places first	ควรรอ,เปรียบเทียบ		
+CARS-125	จังหวะเวลา ควรซื้อ ควรรอ	คันที่ใช่ยังไม่มา	The right car hasn't come yet	ควรรอ,รถที่ใช่		
+CARS-126	จังหวะเวลา ควรซื้อ ควรรอ	คันที่ใช่อยู่ตรงหน้า	The right car is right here	ควรซื้อ,รถที่ใช่		
+CARS-127	จังหวะเวลา ควรซื้อ ควรรอ	จองไว้ก่อนได้	You can book it now	ควรซื้อ,จอง		
+CARS-128	จังหวะเวลา ควรซื้อ ควรรอ	ยกเลิกการจองดีกว่า	Better to cancel the booking	ยกเลิก,ระวัง		
+CARS-129	จังหวะเวลา ควรซื้อ ควรรอ	รอให้ปีชงผ่านไปก่อน	Wait until your clash year passes	ควรรอ,ความเชื่อ		
+CARS-130	จังหวะเวลา ควรซื้อ ควรรอ	รอวันฤกษ์ดีค่อยรับรถ	Take delivery on an auspicious day	ควรรอ,ความเชื่อ		
+CARS-131	การเงิน ซื้อสด ผ่อน ดาวน์	ควรซื้อสด	Pay cash	ซื้อสด,การเงิน		
+CARS-132	การเงิน ซื้อสด ผ่อน ดาวน์	ควรผ่อน	Pay in instalments	ผ่อน,การเงิน		
+CARS-133	การเงิน ซื้อสด ผ่อน ดาวน์	ซื้อสดได้ส่วนลด	Cash gets a discount	ซื้อสด,ส่วนลด		
+CARS-134	การเงิน ซื้อสด ผ่อน ดาวน์	ผ่อนแล้วสบายกว่า	Instalments are easier on you	ผ่อน,ดี		
+CARS-135	การเงิน ซื้อสด ผ่อน ดาวน์	ผ่อนไหว	You can afford the payments	ผ่อน,ไหว		
+CARS-136	การเงิน ซื้อสด ผ่อน ดาวน์	ผ่อนไม่ไหว	You can't afford the payments	ผ่อน,ไม่ไหว		
+CARS-137	การเงิน ซื้อสด ผ่อน ดาวน์	ดาวน์ไหว	You can manage the down payment	ดาวน์,ไหว		
+CARS-138	การเงิน ซื้อสด ผ่อน ดาวน์	ดาวน์ไม่ไหว	The down payment is too much	ดาวน์,ไม่ไหว		
+CARS-139	การเงิน ซื้อสด ผ่อน ดาวน์	ดาวน์เยอะผ่อนน้อย	Big deposit, small payments	ดาวน์,ผ่อน		
+CARS-140	การเงิน ซื้อสด ผ่อน ดาวน์	ดาวน์น้อยผ่อนนาน	Small deposit, long loan	ดาวน์,ผ่อน		
+CARS-141	การเงิน ซื้อสด ผ่อน ดาวน์	ไฟแนนซ์อนุมัติ	The car loan is approved	ไฟแนนซ์,ผ่าน		
+CARS-142	การเงิน ซื้อสด ผ่อน ดาวน์	ไฟแนนซ์ไม่อนุมัติ	The car loan is turned down	ไฟแนนซ์,ไม่ผ่าน		
+CARS-143	การเงิน ซื้อสด ผ่อน ดาวน์	ได้ดอกเบี้ยต่ำ	You get a low rate	ดอกเบี้ย,ดี		
+CARS-144	การเงิน ซื้อสด ผ่อน ดาวน์	ดอกเบี้ยแพงเกินไป	The rate is too high	ดอกเบี้ย,ระวัง		
+CARS-145	การเงิน ซื้อสด ผ่อน ดาวน์	ผ่อนศูนย์เปอร์เซ็นต์	Zero-interest deal	ดอกเบี้ย,โปรโมชัน		
+CARS-146	การเงิน ซื้อสด ผ่อน ดาวน์	ผ่อนสั้นดีกว่า	A shorter loan is better	ผ่อน,ระยะเวลา		
+CARS-147	การเงิน ซื้อสด ผ่อน ดาวน์	ผ่อนยาวสบายกระเป๋า	A longer loan is easier	ผ่อน,ระยะเวลา		
+CARS-148	การเงิน ซื้อสด ผ่อน ดาวน์	ปิดไฟแนนซ์ก่อนกำหนดได้	You can pay off early	ไฟแนนซ์,ปิดยอด		
+CARS-149	การเงิน ซื้อสด ผ่อน ดาวน์	ต้องมีคนค้ำประกัน	You need a guarantor	ไฟแนนซ์,คนค้ำ		
+CARS-150	การเงิน ซื้อสด ผ่อน ดาวน์	อย่าค้ำประกันรถให้ใคร	Don't guarantee anyone's car loan	คนค้ำ,ระวัง		
+CARS-151	การเงิน ซื้อสด ผ่อน ดาวน์	ใช้เงินเก็บซื้อ	Buy with savings	ซื้อสด,เงินเก็บ		
+CARS-152	การเงิน ซื้อสด ผ่อน ดาวน์	อย่าใช้เงินฉุกเฉินซื้อรถ	Don't use your emergency fund	เงินเก็บ,ระวัง		
+CARS-153	การเงิน ซื้อสด ผ่อน ดาวน์	มีผู้ใหญ่ช่วยออกเงิน	An elder helps pay	การเงิน,ผู้ใหญ่		
+CARS-154	การเงิน ซื้อสด ผ่อน ดาวน์	ได้เงินก้อนมาซื้อรถ	A lump sum comes for the car	การเงิน,โชคลาภ		
+CARS-155	การเงิน ซื้อสด ผ่อน ดาวน์	งบเกินที่ตั้งไว้	Over budget	งบ,ระวัง		
+CARS-156	การเงิน ซื้อสด ผ่อน ดาวน์	อยู่ในงบพอดี	Right on budget	งบ,ดี		
+CARS-157	การเงิน ซื้อสด ผ่อน ดาวน์	ลดสเปกแล้วคุ้มกว่า	A lower trim is better value	งบ,คุ้มค่า		
+CARS-158	การเงิน ซื้อสด ผ่อน ดาวน์	เพิ่มงบอีกนิดได้คันที่ดีกว่า	A bit more buys a better car	งบ,คุ้มค่า		
+CARS-159	การเงิน ซื้อสด ผ่อน ดาวน์	ค่าผ่อนกินเงินเดือนเกินไป	Payments eat too much of your pay	ผ่อน,ระวัง		
+CARS-160	การเงิน ซื้อสด ผ่อน ดาวน์	ต่อรองราคาได้	You can bargain	ต่อรอง,ส่วนลด		
+CARS-161	การเงิน ซื้อสด ผ่อน ดาวน์	ต่อรองไม่ได้	No room to bargain	ต่อรอง,ราคา		
+CARS-162	การเงิน ซื้อสด ผ่อน ดาวน์	ได้ของแถมคุ้ม	Worthwhile extras	โปรโมชัน,คุ้มค่า		
+CARS-163	การเงิน ซื้อสด ผ่อน ดาวน์	ของแถมไม่คุ้ม	The extras aren't worth it	โปรโมชัน,ไม่คุ้ม		
+CARS-164	การเงิน ซื้อสด ผ่อน ดาวน์	รีไฟแนนซ์ช่วยได้	Refinancing helps	ไฟแนนซ์,รีไฟแนนซ์		
+CARS-165	การเงิน ซื้อสด ผ่อน ดาวน์	ระวังค่าธรรมเนียมแฝง	Watch for hidden fees	ค่าธรรมเนียม,ระวัง		
+CARS-166	การเงิน ซื้อสด ผ่อน ดาวน์	ลีสซิ่งดีกว่าซื้อ	Leasing beats buying	ลีสซิ่ง,ทางเลือก		
+CARS-167	การเงิน ซื้อสด ผ่อน ดาวน์	ซื้อดีกว่าลีสซิ่ง	Buying beats leasing	ลีสซิ่ง,ทางเลือก		
+CARS-168	การเงิน ซื้อสด ผ่อน ดาวน์	เช่ารถรายเดือนคุ้มกว่า	Monthly rental is better value	เช่า,ทางเลือก		
+CARS-169	การเงิน ซื้อสด ผ่อน ดาวน์	ยังไม่ต้องมีรถก็ได้	You don't need a car yet	ทางเลือก,ควรรอ		
+CARS-170	การเงิน ซื้อสด ผ่อน ดาวน์	ใช้รถร่วมกับคนในบ้าน	Share a car with family	ทางเลือก,ครอบครัว		
+CARS-171	สภาพรถดีหรือไม่ดี	รถคันนี้ดี	This car is good	รถดี,ตัดสินใจ		
+CARS-172	สภาพรถดีหรือไม่ดี	รถคันนี้ไม่ดี	This car is not good	รถไม่ดี,ตัดสินใจ		
+CARS-173	สภาพรถดีหรือไม่ดี	เครื่องยนต์แข็งแรง	Strong engine	รถดี,เครื่องยนต์		
+CARS-174	สภาพรถดีหรือไม่ดี	เครื่องยนต์มีปัญหา	Engine trouble	รถไม่ดี,เครื่องยนต์		
+CARS-175	สภาพรถดีหรือไม่ดี	เกียร์นุ่ม	Smooth gearbox	รถดี,เกียร์		
+CARS-176	สภาพรถดีหรือไม่ดี	เกียร์กระตุก	Jerky gearbox	รถไม่ดี,เกียร์		
+CARS-177	สภาพรถดีหรือไม่ดี	ช่วงล่างแน่น	Solid suspension	รถดี,ช่วงล่าง		
+CARS-178	สภาพรถดีหรือไม่ดี	ช่วงล่างหลวม	Loose suspension	รถไม่ดี,ช่วงล่าง		
+CARS-179	สภาพรถดีหรือไม่ดี	เบรกดี	Good brakes	รถดี,เบรก		
+CARS-180	สภาพรถดีหรือไม่ดี	เบรกต้องซ่อม	Brakes need work	รถไม่ดี,เบรก		
+CARS-181	สภาพรถดีหรือไม่ดี	แอร์เย็นฉ่ำ	Ice-cold air-con	รถดี,แอร์		
+CARS-182	สภาพรถดีหรือไม่ดี	แอร์ไม่เย็น	Air-con doesn't cool	รถไม่ดี,แอร์		
+CARS-183	สภาพรถดีหรือไม่ดี	ระบบไฟฟ้าปกติ	Electrics are fine	รถดี,ระบบไฟ		
+CARS-184	สภาพรถดีหรือไม่ดี	ระบบไฟฟ้ารวน	Electrical faults	รถไม่ดี,ระบบไฟ		
+CARS-185	สภาพรถดีหรือไม่ดี	แบตเตอรี่รถไฟฟ้ายังดี	EV battery still healthy	รถดี,แบตเตอรี่		
+CARS-186	สภาพรถดีหรือไม่ดี	แบตเตอรี่รถไฟฟ้าเสื่อม	EV battery worn	รถไม่ดี,แบตเตอรี่		
+CARS-187	สภาพรถดีหรือไม่ดี	ตัวถังเดิมไม่เคยทำสี	Original paint, never resprayed	รถดี,ตัวถัง		
+CARS-188	สภาพรถดีหรือไม่ดี	ตัวถังมีสนิม	Rust on the body	รถไม่ดี,ตัวถัง		
+CARS-189	สภาพรถดีหรือไม่ดี	ห้องโดยสารสะอาด	Clean cabin	รถดี,ภายใน		
+CARS-190	สภาพรถดีหรือไม่ดี	ห้องโดยสารมีกลิ่นอับ	Musty cabin	รถไม่ดี,ภายใน		
+CARS-191	สภาพรถดีหรือไม่ดี	ยางยังใหม่	Tyres still new	รถดี,ยาง		
+CARS-192	สภาพรถดีหรือไม่ดี	ยางต้องเปลี่ยน	Tyres need replacing	รถไม่ดี,ยาง		
+CARS-193	สภาพรถดีหรือไม่ดี	ประหยัดน้ำมัน	Easy on fuel	รถดี,ประหยัด		
+CARS-194	สภาพรถดีหรือไม่ดี	กินน้ำมัน	Thirsty	รถไม่ดี,สิ้นเปลือง		
+CARS-195	สภาพรถดีหรือไม่ดี	ขับนิ่ม	Comfortable ride	รถดี,การขับขี่		
+CARS-196	สภาพรถดีหรือไม่ดี	ขับแข็งกระด้าง	Harsh ride	รถไม่ดี,การขับขี่		
+CARS-197	สภาพรถดีหรือไม่ดี	เสียงเงียบ	Quiet	รถดี,เสียง		
+CARS-198	สภาพรถดีหรือไม่ดี	มีเสียงแปลก	Strange noises	รถไม่ดี,เสียง		
+CARS-199	สภาพรถดีหรือไม่ดี	อะไหล่หาง่าย	Parts are easy to find	รถดี,อะไหล่		
+CARS-200	สภาพรถดีหรือไม่ดี	อะไหล่หายาก	Parts are hard to find	รถไม่ดี,อะไหล่		
+CARS-201	สภาพรถดีหรือไม่ดี	ศูนย์บริการใกล้บ้าน	Service centre near home	รถดี,ศูนย์บริการ		
+CARS-202	สภาพรถดีหรือไม่ดี	ศูนย์บริการไกล	Service centre is far away	รถไม่ดี,ศูนย์บริการ		
+CARS-203	สภาพรถดีหรือไม่ดี	ระบบความปลอดภัยครบ	Full safety kit	รถดี,ความปลอดภัย		
+CARS-204	สภาพรถดีหรือไม่ดี	ระบบความปลอดภัยน้อย	Few safety features	รถไม่ดี,ความปลอดภัย		
+CARS-205	สภาพรถดีหรือไม่ดี	ราคาขายต่อดี	Holds its resale value	รถดี,ขายต่อ		
+CARS-206	สภาพรถดีหรือไม่ดี	ราคาขายต่อตก	Poor resale value	รถไม่ดี,ขายต่อ		
+CARS-207	สภาพรถดีหรือไม่ดี	รุ่นนี้ทนทาน	This model is durable	รถดี,ทนทาน		
+CARS-208	สภาพรถดีหรือไม่ดี	รุ่นนี้มีปัญหาจุกจิก	This model has niggles	รถไม่ดี,จุกจิก		
+CARS-209	สภาพรถดีหรือไม่ดี	ห้องโดยสารกว้าง	Roomy cabin	รถดี,พื้นที่		
+CARS-210	สภาพรถดีหรือไม่ดี	ห้องโดยสารคับแคบ	Cramped cabin	รถไม่ดี,พื้นที่		
+CARS-211	สภาพรถดีหรือไม่ดี	ขับง่ายจอดง่าย	Easy to drive and park	รถดี,ขับง่าย		
+CARS-212	สภาพรถดีหรือไม่ดี	คันใหญ่เกินไปสำหรับคุณ	Too big for you	รถไม่ดี,ขนาด		
+CARS-213	สภาพรถดีหรือไม่ดี	ผ่านการตรวจสภาพ	Passes inspection	รถดี,ตรวจสภาพ		
+CARS-214	สภาพรถดีหรือไม่ดี	ควรให้ช่างตรวจก่อน	Have a mechanic check it first	ตรวจสภาพ,ระวัง		
+CARS-215	สภาพรถดีหรือไม่ดี	ลองขับแล้วใช่	The test drive feels right	ทดลองขับ,ดี		
+CARS-216	ผู้ขาย เต็นท์ และเอกสาร	เซลส์จริงใจ	An honest salesperson	ผู้ขาย,ดี		
+CARS-217	ผู้ขาย เต็นท์ และเอกสาร	เซลส์พูดเกินจริง	The salesperson oversells	ผู้ขาย,ระวัง		
+CARS-218	ผู้ขาย เต็นท์ และเอกสาร	เต็นท์น่าเชื่อถือ	A trustworthy lot	เต็นท์,ดี		
+CARS-219	ผู้ขาย เต็นท์ และเอกสาร	เต็นท์ไม่น่าไว้ใจ	An untrustworthy lot	เต็นท์,ระวัง		
+CARS-220	ผู้ขาย เต็นท์ และเอกสาร	โชว์รูมให้ดีลดี	The showroom gives a good deal	โชว์รูม,ส่วนลด		
+CARS-221	ผู้ขาย เต็นท์ และเอกสาร	ไปอีกโชว์รูมได้ราคาดีกว่า	Another showroom is cheaper	โชว์รูม,เปรียบเทียบ		
+CARS-222	ผู้ขาย เต็นท์ และเอกสาร	ซื้อจากเจ้าของโดยตรงดี	Buy straight from the owner	ผู้ขาย,มือสอง		
+CARS-223	ผู้ขาย เต็นท์ และเอกสาร	ผู้ขายรีบขายผิดสังเกต	The seller is oddly in a hurry	ผู้ขาย,ระวัง		
+CARS-224	ผู้ขาย เต็นท์ และเอกสาร	เล่มทะเบียนครบถ้วน	Registration book in order	เอกสาร,ดี		
+CARS-225	ผู้ขาย เต็นท์ และเอกสาร	เล่มทะเบียนมีปัญหา	Problem with the registration book	เอกสาร,ระวัง		
+CARS-226	ผู้ขาย เต็นท์ และเอกสาร	รถติดไฟแนนซ์เดิม	Car still has a loan on it	เอกสาร,ระวัง		
+CARS-227	ผู้ขาย เต็นท์ และเอกสาร	ตรวจเลขตัวถังให้ตรง	Check the chassis number matches	เอกสาร,ตรวจสอบ		
+CARS-228	ผู้ขาย เต็นท์ และเอกสาร	ภาษีรถยังไม่ขาด	Road tax is up to date	เอกสาร,ดี		
+CARS-229	ผู้ขาย เต็นท์ และเอกสาร	ภาษีรถค้างจ่าย	Road tax is overdue	เอกสาร,ระวัง		
+CARS-230	ผู้ขาย เต็นท์ และเอกสาร	โอนรถเรียบร้อย	Transfer goes smoothly	โอน,ดี		
+CARS-231	ผู้ขาย เต็นท์ และเอกสาร	โอนรถล่าช้า	Transfer is delayed	โอน,ล่าช้า		
+CARS-232	ผู้ขาย เต็นท์ และเอกสาร	อ่านสัญญาให้ละเอียด	Read the contract carefully	สัญญา,ระวัง		
+CARS-233	ผู้ขาย เต็นท์ และเอกสาร	สัญญาเป็นธรรม	A fair contract	สัญญา,ดี		
+CARS-234	ผู้ขาย เต็นท์ และเอกสาร	ระวังรถโจรกรรม	Watch out for stolen cars	ผิดกฎหมาย,ระวัง		
+CARS-235	ผู้ขาย เต็นท์ และเอกสาร	ระวังรถสวมทะเบียน	Watch out for cloned plates	ผิดกฎหมาย,ระวัง		
+CARS-236	ผู้ขาย เต็นท์ และเอกสาร	ระวังโอนเงินมัดจำออนไลน์	Careful with online deposits	มิจฉาชีพ,ระวัง		
+CARS-237	ผู้ขาย เต็นท์ และเอกสาร	ได้รถตรงตามสเปก	The car matches the spec	รับรถ,ดี		
+CARS-238	ผู้ขาย เต็นท์ และเอกสาร	รับรถแล้วไม่ตรงปก	The car isn't as described	รับรถ,ระวัง		
+CARS-239	ผู้ขาย เต็นท์ และเอกสาร	ตรวจรถก่อนเซ็นรับ	Inspect before you sign	รับรถ,ตรวจสอบ		
+CARS-240	ผู้ขาย เต็นท์ และเอกสาร	ได้รับรถตรงเวลา	Delivered on time	รับรถ,ตรงเวลา		
+CARS-241	ผู้ขาย เต็นท์ และเอกสาร	รับรถล่าช้า	Late delivery	รับรถ,ล่าช้า		
+CARS-242	ผู้ขาย เต็นท์ และเอกสาร	มีคนรู้จักช่วยดูรถ	Someone you know helps you look	คนช่วย,ดี		
+CARS-243	ผู้ขาย เต็นท์ และเอกสาร	คนแนะนำได้ค่าคอมแอบแฝง	The person recommending gets a cut	คนกลาง,ระวัง		
+CARS-244	ผู้ขาย เต็นท์ และเอกสาร	ประกันชั้นหนึ่งแถมฟรี	Free first-class insurance	ประกัน,โปรโมชัน		
+CARS-245	ผู้ขาย เต็นท์ และเอกสาร	รับประกันหลังการขายดี	Good after-sales warranty	ประกัน,ดี		
+CARS-246	สีรถ	รถสีขาว	White car	สีรถ,ขาว		
+CARS-247	สีรถ	รถสีดำ	Black car	สีรถ,ดำ		
+CARS-248	สีรถ	รถสีเทา	Grey car	สีรถ,เทา		
+CARS-249	สีรถ	รถสีบรอนซ์เงิน	Silver car	สีรถ,เงิน		
+CARS-250	สีรถ	รถสีแดง	Red car	สีรถ,แดง		
+CARS-251	สีรถ	รถสีน้ำเงิน	Dark blue car	สีรถ,น้ำเงิน		
+CARS-252	สีรถ	รถสีฟ้า	Light blue car	สีรถ,ฟ้า		
+CARS-253	สีรถ	รถสีเขียว	Green car	สีรถ,เขียว		
+CARS-254	สีรถ	รถสีเหลือง	Yellow car	สีรถ,เหลือง		
+CARS-255	สีรถ	รถสีส้ม	Orange car	สีรถ,ส้ม		
+CARS-256	สีรถ	รถสีชมพู	Pink car	สีรถ,ชมพู		
+CARS-257	สีรถ	รถสีม่วง	Purple car	สีรถ,ม่วง		
+CARS-258	สีรถ	รถสีน้ำตาล	Brown car	สีรถ,น้ำตาล		
+CARS-259	สีรถ	รถสีทอง	Gold car	สีรถ,ทอง		
+CARS-260	สีรถ	รถสีครีม	Cream car	สีรถ,ครีม		
+CARS-261	สีรถ	สีรถเป็นมงคลกับคุณ	The colour is lucky for you	สีรถ,มงคล		
+CARS-262	สีรถ	สีรถไม่ถูกโฉลกกับคุณ	The colour isn't lucky for you	สีรถ,ไม่ถูกโฉลก		
+CARS-263	สีรถ	สีนี้ขายต่อได้ราคา	This colour resells well	สีรถ,ขายต่อ		
+CARS-264	สีรถ	สีนี้ขายต่อยาก	This colour is hard to resell	สีรถ,ขายต่อ		
+CARS-265	สีรถ	สีนี้ดูแลง่าย	This colour is easy to keep clean	สีรถ,ดูแล		
+CARS-266	สีรถ	สีนี้เห็นรอยง่าย	This colour shows every mark	สีรถ,ดูแล		
+CARS-267	สีรถ	สีอ่อนไม่ร้อน	A light colour stays cool	สีรถ,ร้อน		
+CARS-268	สีรถ	สีเข้มเก็บความร้อน	A dark colour gets hot	สีรถ,ร้อน		
+CARS-269	สีรถ	สีสดเห็นชัดปลอดภัย	A bright colour is easier to see	สีรถ,ความปลอดภัย		
+CARS-270	สีรถ	สีที่ใจชอบที่สุดคือสีที่ใช่	The colour you love most is the one	สีรถ,ใจ		
+CARS-271	สีรถ	สีที่คนในบ้านชอบ	The colour your family likes	สีรถ,ครอบครัว		
+CARS-272	สีรถ	ติดฟิล์มสีมงคล	Lucky-coloured window tint	สีรถ,ความเชื่อ		
+CARS-273	สีถูกโฉลกตามวันเกิด	คนเกิดวันอาทิตย์รถสีแดงเสริมบริวาร	Sunday-born: a red car brings helpers	สีถูกโฉลก,บริวาร		
+CARS-274	สีถูกโฉลกตามวันเกิด	คนเกิดวันอาทิตย์รถสีชมพูเสริมเดช	Sunday-born: a pink car brings power	สีถูกโฉลก,เดช		
+CARS-275	สีถูกโฉลกตามวันเกิด	คนเกิดวันอาทิตย์รถสีเขียวเสริมศรี	Sunday-born: a green car brings fortune	สีถูกโฉลก,ศรี		
+CARS-276	สีถูกโฉลกตามวันเกิด	คนเกิดวันอาทิตย์รถสีเทาดำเสริมมนตรี	Sunday-born: a grey or black car brings support	สีถูกโฉลก,มนตรี		
+CARS-277	สีถูกโฉลกตามวันเกิด	คนเกิดวันอาทิตย์เลี่ยงรถสีฟ้า	Sunday-born: avoid a light blue car (bad luck)	สีถูกโฉลก,กาลกิณี		
+CARS-278	สีถูกโฉลกตามวันเกิด	คนเกิดวันจันทร์รถสีเหลืองครีมเสริมบริวาร	Monday-born: a yellow or cream car brings helpers	สีถูกโฉลก,บริวาร		
+CARS-279	สีถูกโฉลกตามวันเกิด	คนเกิดวันจันทร์รถสีเขียวเสริมเดช	Monday-born: a green car brings power	สีถูกโฉลก,เดช		
+CARS-280	สีถูกโฉลกตามวันเกิด	คนเกิดวันจันทร์รถสีม่วงเสริมศรี	Monday-born: a purple car brings fortune	สีถูกโฉลก,ศรี		
+CARS-281	สีถูกโฉลกตามวันเกิด	คนเกิดวันจันทร์รถสีฟ้าเสริมมนตรี	Monday-born: a light blue car brings support	สีถูกโฉลก,มนตรี		
+CARS-282	สีถูกโฉลกตามวันเกิด	คนเกิดวันจันทร์เลี่ยงรถสีแดง	Monday-born: avoid a red car (bad luck)	สีถูกโฉลก,กาลกิณี		
+CARS-283	สีถูกโฉลกตามวันเกิด	คนเกิดวันอังคารรถสีชมพูเสริมบริวาร	Tuesday-born: a pink car brings helpers	สีถูกโฉลก,บริวาร		
+CARS-284	สีถูกโฉลกตามวันเกิด	คนเกิดวันอังคารรถสีม่วงเสริมเดช	Tuesday-born: a purple car brings power	สีถูกโฉลก,เดช		
+CARS-285	สีถูกโฉลกตามวันเกิด	คนเกิดวันอังคารรถสีส้มเสริมศรี	Tuesday-born: a orange car brings fortune	สีถูกโฉลก,ศรี		
+CARS-286	สีถูกโฉลกตามวันเกิด	คนเกิดวันอังคารรถสีแดงเสริมมนตรี	Tuesday-born: a red car brings support	สีถูกโฉลก,มนตรี		
+CARS-287	สีถูกโฉลกตามวันเกิด	คนเกิดวันอังคารเลี่ยงรถสีเหลืองครีม	Tuesday-born: avoid a yellow or cream car (bad luck)	สีถูกโฉลก,กาลกิณี		
+CARS-288	สีถูกโฉลกตามวันเกิด	คนเกิดวันพุธกลางวันรถสีเขียวเสริมบริวาร	Wednesday daytime-born: a green car brings helpers	สีถูกโฉลก,บริวาร		
+CARS-289	สีถูกโฉลกตามวันเกิด	คนเกิดวันพุธกลางวันรถสีส้มเสริมเดช	Wednesday daytime-born: a orange car brings power	สีถูกโฉลก,เดช		
+CARS-290	สีถูกโฉลกตามวันเกิด	คนเกิดวันพุธกลางวันรถสีเทาดำเสริมศรี	Wednesday daytime-born: a grey or black car brings fortune	สีถูกโฉลก,ศรี		
+CARS-291	สีถูกโฉลกตามวันเกิด	คนเกิดวันพุธกลางวันรถสีเหลืองครีมเสริมมนตรี	Wednesday daytime-born: a yellow or cream car brings support	สีถูกโฉลก,มนตรี		
+CARS-292	สีถูกโฉลกตามวันเกิด	คนเกิดวันพุธกลางวันเลี่ยงรถสีชมพู	Wednesday daytime-born: avoid a pink car (bad luck)	สีถูกโฉลก,กาลกิณี		
+CARS-293	สีถูกโฉลกตามวันเกิด	คนเกิดวันพุธกลางคืนรถสีเทาดำเสริมบริวาร	Wednesday night-born: a grey or black car brings helpers	สีถูกโฉลก,บริวาร		
+CARS-294	สีถูกโฉลกตามวันเกิด	คนเกิดวันพุธกลางคืนรถสีแดงเสริมเดช	Wednesday night-born: a red car brings power	สีถูกโฉลก,เดช		
+CARS-295	สีถูกโฉลกตามวันเกิด	คนเกิดวันพุธกลางคืนรถสีเหลืองครีมเสริมศรี	Wednesday night-born: a yellow or cream car brings fortune	สีถูกโฉลก,ศรี		
+CARS-296	สีถูกโฉลกตามวันเกิด	คนเกิดวันพุธกลางคืนรถสีม่วงเสริมมนตรี	Wednesday night-born: a purple car brings support	สีถูกโฉลก,มนตรี		
+CARS-297	สีถูกโฉลกตามวันเกิด	คนเกิดวันพุธกลางคืนเลี่ยงรถสีส้ม	Wednesday night-born: avoid a orange car (bad luck)	สีถูกโฉลก,กาลกิณี		
+CARS-298	สีถูกโฉลกตามวันเกิด	คนเกิดวันพฤหัสบดีรถสีส้มเสริมบริวาร	Thursday-born: a orange car brings helpers	สีถูกโฉลก,บริวาร		
+CARS-299	สีถูกโฉลกตามวันเกิด	คนเกิดวันพฤหัสบดีรถสีฟ้าเสริมเดช	Thursday-born: a light blue car brings power	สีถูกโฉลก,เดช		
+CARS-300	สีถูกโฉลกตามวันเกิด	คนเกิดวันพฤหัสบดีรถสีแดงเสริมศรี	Thursday-born: a red car brings fortune	สีถูกโฉลก,ศรี		
+CARS-301	สีถูกโฉลกตามวันเกิด	คนเกิดวันพฤหัสบดีรถสีเขียวเสริมมนตรี	Thursday-born: a green car brings support	สีถูกโฉลก,มนตรี		
+CARS-302	สีถูกโฉลกตามวันเกิด	คนเกิดวันพฤหัสบดีเลี่ยงรถสีม่วง	Thursday-born: avoid a purple car (bad luck)	สีถูกโฉลก,กาลกิณี		
+CARS-303	สีถูกโฉลกตามวันเกิด	คนเกิดวันศุกร์รถสีฟ้าเสริมบริวาร	Friday-born: a light blue car brings helpers	สีถูกโฉลก,บริวาร		
+CARS-304	สีถูกโฉลกตามวันเกิด	คนเกิดวันศุกร์รถสีเหลืองครีมเสริมเดช	Friday-born: a yellow or cream car brings power	สีถูกโฉลก,เดช		
+CARS-305	สีถูกโฉลกตามวันเกิด	คนเกิดวันศุกร์รถสีชมพูเสริมศรี	Friday-born: a pink car brings fortune	สีถูกโฉลก,ศรี		
+CARS-306	สีถูกโฉลกตามวันเกิด	คนเกิดวันศุกร์รถสีส้มเสริมมนตรี	Friday-born: a orange car brings support	สีถูกโฉลก,มนตรี		
+CARS-307	สีถูกโฉลกตามวันเกิด	คนเกิดวันศุกร์เลี่ยงรถสีเทาดำ	Friday-born: avoid a grey or black car (bad luck)	สีถูกโฉลก,กาลกิณี		
+CARS-308	สีถูกโฉลกตามวันเกิด	คนเกิดวันเสาร์รถสีม่วงเสริมบริวาร	Saturday-born: a purple car brings helpers	สีถูกโฉลก,บริวาร		
+CARS-309	สีถูกโฉลกตามวันเกิด	คนเกิดวันเสาร์รถสีเทาดำเสริมเดช	Saturday-born: a grey or black car brings power	สีถูกโฉลก,เดช		
+CARS-310	สีถูกโฉลกตามวันเกิด	คนเกิดวันเสาร์รถสีฟ้าเสริมศรี	Saturday-born: a light blue car brings fortune	สีถูกโฉลก,ศรี		
+CARS-311	สีถูกโฉลกตามวันเกิด	คนเกิดวันเสาร์รถสีชมพูเสริมมนตรี	Saturday-born: a pink car brings support	สีถูกโฉลก,มนตรี		
+CARS-312	สีถูกโฉลกตามวันเกิด	คนเกิดวันเสาร์เลี่ยงรถสีเขียว	Saturday-born: avoid a green car (bad luck)	สีถูกโฉลก,กาลกิณี		
+CARS-313	สีตามธาตุจีน	ธาตุไม้เสริมด้วยรถสีเขียว	Wood element: a green car helps	ธาตุ,ไม้		
+CARS-314	สีตามธาตุจีน	ธาตุไม้เสริมด้วยรถสีดำหรือน้ำเงิน	Wood element: black or blue helps	ธาตุ,ไม้		
+CARS-315	สีตามธาตุจีน	ธาตุไม้เลี่ยงรถสีขาวหรือเงิน	Wood element: avoid white or silver	ธาตุ,ไม้		
+CARS-316	สีตามธาตุจีน	ธาตุไฟเสริมด้วยรถสีแดง	Fire element: a red car helps	ธาตุ,ไฟ		
+CARS-317	สีตามธาตุจีน	ธาตุไฟเสริมด้วยรถสีเขียว	Fire element: green helps	ธาตุ,ไฟ		
+CARS-318	สีตามธาตุจีน	ธาตุไฟเลี่ยงรถสีดำหรือน้ำเงิน	Fire element: avoid black or blue	ธาตุ,ไฟ		
+CARS-319	สีตามธาตุจีน	ธาตุดินเสริมด้วยรถสีเหลืองหรือน้ำตาล	Earth element: yellow or brown helps	ธาตุ,ดิน		
+CARS-320	สีตามธาตุจีน	ธาตุดินเสริมด้วยรถสีแดง	Earth element: red helps	ธาตุ,ดิน		
+CARS-321	สีตามธาตุจีน	ธาตุดินเลี่ยงรถสีเขียว	Earth element: avoid green	ธาตุ,ดิน		
+CARS-322	สีตามธาตุจีน	ธาตุทองเสริมด้วยรถสีขาวหรือเงิน	Metal element: white or silver helps	ธาตุ,ทอง		
+CARS-323	สีตามธาตุจีน	ธาตุทองเสริมด้วยรถสีเหลืองหรือน้ำตาล	Metal element: yellow or brown helps	ธาตุ,ทอง		
+CARS-324	สีตามธาตุจีน	ธาตุทองเลี่ยงรถสีแดง	Metal element: avoid red	ธาตุ,ทอง		
+CARS-325	สีตามธาตุจีน	ธาตุน้ำเสริมด้วยรถสีดำหรือน้ำเงิน	Water element: black or blue helps	ธาตุ,น้ำ		
+CARS-326	สีตามธาตุจีน	ธาตุน้ำเสริมด้วยรถสีขาวหรือเงิน	Water element: white or silver helps	ธาตุ,น้ำ		
+CARS-327	สีตามธาตุจีน	ธาตุน้ำเลี่ยงรถสีเหลืองหรือน้ำตาล	Water element: avoid yellow or brown	ธาตุ,น้ำ		
+CARS-328	สีตามธาตุจีน	ปีนักษัตรถูกกับรถคันนี้	Your zodiac year suits this car	นักษัตร,ถูกโฉลก		
+CARS-329	สีตามธาตุจีน	ปีนักษัตรชงกับวันรับรถ	Delivery day clashes with your sign	นักษัตร,ปีชง		
+CARS-330	ทะเบียนและเลขมงคล	ได้ทะเบียนเลขสวย	You get a nice plate number	ทะเบียน,เลขมงคล		
+CARS-331	ทะเบียนและเลขมงคล	ประมูลทะเบียนได้	You win the plate auction	ทะเบียน,ประมูล		
+CARS-332	ทะเบียนและเลขมงคล	ทะเบียนผลรวมดี	The plate digits add up well	ทะเบียน,ผลรวม		
+CARS-333	ทะเบียนและเลขมงคล	ทะเบียนผลรวมไม่ดี	The plate digits add up badly	ทะเบียน,ผลรวม		
+CARS-334	ทะเบียนและเลขมงคล	ทะเบียนมีเลขเก้า	A plate with nine	ทะเบียน,เลข 9		
+CARS-335	ทะเบียนและเลขมงคล	ทะเบียนมีเลขแปด	A plate with eight	ทะเบียน,เลข 8		
+CARS-336	ทะเบียนและเลขมงคล	ทะเบียนมีเลขหก	A plate with six	ทะเบียน,เลข 6		
+CARS-337	ทะเบียนและเลขมงคล	ทะเบียนเลขเบิ้ล	A plate with repeated digits	ทะเบียน,เลขเบิ้ล		
+CARS-338	ทะเบียนและเลขมงคล	ทะเบียนเลขเรียง	A plate with a sequence	ทะเบียน,เลขเรียง		
+CARS-339	ทะเบียนและเลขมงคล	ทะเบียนตรงวันเกิด	Plate matches your birthday	ทะเบียน,วันเกิด		
+CARS-340	ทะเบียนและเลขมงคล	หมวดอักษรทะเบียนดี	Lucky plate letters	ทะเบียน,อักษร		
+CARS-341	ทะเบียนและเลขมงคล	หมวดอักษรทะเบียนเป็นกาลกิณี	Plate letters are your bad-luck letters	ทะเบียน,กาลกิณี		
+CARS-342	ทะเบียนและเลขมงคล	เลขทะเบียนไม่ต้องสนใจมาก	Don't worry much about the plate	ทะเบียน,ไม่สำคัญ		
+CARS-343	ทะเบียนและเลขมงคล	ทะเบียนนำโชค	A lucky plate	ทะเบียน,โชค		
+CARS-344	ทะเบียนและเลขมงคล	ได้เลขเด็ดจากทะเบียนรถ	A lucky number from the plate	ทะเบียน,เลขเด็ด		
+CARS-345	ทะเบียนและเลขมงคล	เลขไมล์ตอนรับรถเป็นมงคล	The odometer at delivery is a lucky number	เลขมงคล,ไมล์		
+CARS-346	ทะเบียนและเลขมงคล	ป้ายทะเบียนจังหวัดบ้านเกิด	Plate from your home province	ทะเบียน,จังหวัด		
+CARS-347	ทะเบียนและเลขมงคล	เปลี่ยนทะเบียนแล้วดวงดีขึ้น	New plate, better luck	ทะเบียน,ความเชื่อ		
+CARS-348	ทะเบียนและเลขมงคล	ทะเบียนเก่ามีเรื่องไม่ดี	The old plate carries bad history	ทะเบียน,ระวัง		
+CARS-349	ทะเบียนและเลขมงคล	ทะเบียนสวยช่วยขายต่อ	A nice plate helps resale	ทะเบียน,ขายต่อ		
+CARS-350	ทะเบียนและเลขมงคล	เลขทะเบียนถูกกับเบอร์โทร	Plate matches your phone number	ทะเบียน,เลขมงคล		
+CARS-351	ทะเบียนและเลขมงคล	ไม่ควรจ่ายแพงเพื่อทะเบียน	Don't overpay for a plate	ทะเบียน,คุ้มค่า		
+CARS-352	ทะเบียนและเลขมงคล	ใช้ทะเบียนเลขธรรมดาก็ดี	An ordinary plate is fine	ทะเบียน,พอดี		
+CARS-353	ทะเบียนและเลขมงคล	ดูเลขทะเบียนตามวันเกิด	Pick a plate by your birth day	ทะเบียน,วันเกิด		
+CARS-354	ทะเบียนและเลขมงคล	เลขศาสตร์ทะเบียนเสริมการงาน	Plate numerology helps your work	ทะเบียน,การงาน		
+CARS-355	ฤกษ์และความเชื่อ	ดูฤกษ์ออกรถ	Find an auspicious delivery time	ฤกษ์,ความเชื่อ		
+CARS-356	ฤกษ์และความเชื่อ	ออกรถวันพฤหัสดี	Thursday is good for delivery	ฤกษ์,ความเชื่อ		
+CARS-357	ฤกษ์และความเชื่อ	ออกรถวันศุกร์ดี	Friday is good for delivery	ฤกษ์,ความเชื่อ		
+CARS-358	ฤกษ์และความเชื่อ	เลี่ยงออกรถวันเสาร์	Avoid Saturday for delivery	ฤกษ์,ความเชื่อ		
+CARS-359	ฤกษ์และความเชื่อ	เลี่ยงออกรถวันอังคาร	Avoid Tuesday for delivery	ฤกษ์,ความเชื่อ		
+CARS-360	ฤกษ์และความเชื่อ	ออกรถตรงวันเกิด	Take delivery on your birthday	ฤกษ์,ความเชื่อ		
+CARS-361	ฤกษ์และความเชื่อ	เจิมรถก่อนใช้	Have the car blessed first	เจิมรถ,ความเชื่อ		
+CARS-362	ฤกษ์และความเชื่อ	ให้พระเจิมรถ	Have a monk bless the car	เจิมรถ,ความเชื่อ		
+CARS-363	ฤกษ์และความเชื่อ	ผูกผ้าสามสีหน้ารถ	Tie three-colour cloth on the front	ผ้าสามสี,ความเชื่อ		
+CARS-364	ฤกษ์และความเชื่อ	ไหว้แม่ย่านางรถ	Pay respect to the car's guardian spirit	แม่ย่านาง,ความเชื่อ		
+CARS-365	ฤกษ์และความเชื่อ	ถวายพวงมาลัยแม่ย่านาง	Offer a garland to the guardian spirit	แม่ย่านาง,ความเชื่อ		
+CARS-366	ฤกษ์และความเชื่อ	ไหว้เจ้าที่ก่อนนำรถเข้าบ้าน	Pay respect to the house spirit first	เจ้าที่,ความเชื่อ		
+CARS-367	ฤกษ์และความเชื่อ	ทำบุญก่อนรับรถ	Make merit before delivery	ทำบุญ,ความเชื่อ		
+CARS-368	ฤกษ์และความเชื่อ	ขับไปไหว้พระวัดแรก	Drive to a temple first	ไหว้พระ,ความเชื่อ		
+CARS-369	ฤกษ์และความเชื่อ	ห้อยพระในรถ	Hang an amulet in the car	พระเครื่อง,ความเชื่อ		
+CARS-370	ฤกษ์และความเชื่อ	ติดยันต์ในรถ	Put a yantra in the car	ยันต์,ความเชื่อ		
+CARS-371	ฤกษ์และความเชื่อ	วางพระบนคอนโซล	Place a Buddha image on the dash	พระพุทธรูป,ความเชื่อ		
+CARS-372	ฤกษ์และความเชื่อ	พวงมาลัยหน้ารถเสริมสิริมงคล	A garland on the mirror brings blessings	พวงมาลัย,ความเชื่อ		
+CARS-373	ฤกษ์และความเชื่อ	ไหว้พระประจำวันเกิดก่อนขับ	Pray to your birth-day Buddha before driving	ไหว้พระ,ความเชื่อ		
+CARS-374	ฤกษ์และความเชื่อ	สวดคาถาก่อนออกเดินทาง	Say a protective chant before trips	คาถา,ความเชื่อ		
+CARS-375	ฤกษ์และความเชื่อ	ปีชงระวังรถใหม่	Clash year: careful with a new car	ปีชง,ความเชื่อ		
+CARS-376	ฤกษ์และความเชื่อ	แก้ชงก่อนออกรถ	Ward off the clash year before buying	ปีชง,ความเชื่อ		
+CARS-377	ฤกษ์และความเชื่อ	ดวงมีโชคเรื่องยานพาหนะ	Your chart is lucky with vehicles	ดวง,ยานพาหนะ		
+CARS-378	ฤกษ์และความเชื่อ	ดวงต้องระวังยานพาหนะ	Your chart warns about vehicles	ดวง,ระวัง		
+CARS-379	ฤกษ์และความเชื่อ	ราหูเข้า ระวังรถ	Rahu is on you: careful with cars	ราหู,ระวัง		
+CARS-380	ฤกษ์และความเชื่อ	ดาวพฤหัสหนุนได้รถ	Jupiter helps you get a car	ดาวพฤหัส,ได้รถ		
+CARS-381	ฤกษ์และความเชื่อ	รถคันนี้ถูกชะตา	This car is your fate	ถูกชะตา,ความเชื่อ		
+CARS-382	ฤกษ์และความเชื่อ	รถคันนี้ไม่ถูกชะตา	This car isn't meant for you	ไม่ถูกชะตา,ความเชื่อ		
+CARS-383	ฤกษ์และความเชื่อ	รถเก่าเคยมีอุบัติเหตุร้ายแรง	The old car had a serious accident	ประวัติรถ,ความเชื่อ		
+CARS-384	ฤกษ์และความเชื่อ	ขอขมาแม่ย่านางรถเก่า	Ask forgiveness of the old car's spirit	แม่ย่านาง,ความเชื่อ		
+CARS-385	ฤกษ์และความเชื่อ	ฝันว่าได้รถใหม่	You dream of a new car	ฝัน,ความเชื่อ		
+CARS-386	ฤกษ์และความเชื่อ	ฝันว่ารถหาย	You dream your car is lost	ฝัน,ความเชื่อ		
+CARS-387	ฤกษ์และความเชื่อ	รถคันแรกนำโชค	Your first car brings luck	โชค,ความเชื่อ		
+CARS-388	ฤกษ์และความเชื่อ	ได้รถจากการชิงโชค	You win a car in a draw	โชค,โชคลาภ		
+CARS-389	ฤกษ์และความเชื่อ	ได้รถเป็นของขวัญ	You get a car as a gift	ของขวัญ,โชคลาภ		
+CARS-390	ฤกษ์และความเชื่อ	ตั้งชื่อรถเสริมดวง	Give the car a lucky name	ชื่อรถ,ความเชื่อ		
+CARS-391	ฤกษ์และความเชื่อ	ทิศจอดรถหน้าบ้านดี	Good direction for parking at home	ทิศ,ฮวงจุ้ย		
+CARS-392	ฤกษ์และความเชื่อ	จอดรถหันหัวออกดี	Park facing out	ทิศ,ฮวงจุ้ย		
+CARS-393	ฤกษ์และความเชื่อ	โรงจอดรถฮวงจุ้ยดี	Good feng shui for the garage	ฮวงจุ้ย,บ้าน		
+CARS-394	ฤกษ์และความเชื่อ	ทำบุญให้แม่ย่านางทุกปี	Make merit for the car spirit every year	แม่ย่านาง,ความเชื่อ		
+CARS-395	ฤกษ์และความเชื่อ	อย่าเชื่อฤกษ์จนลืมตรวจสภาพ	Don't let rituals replace an inspection	ความเชื่อ,สติ		
+CARS-396	ฤกษ์และความเชื่อ	มูแล้วต้องขับดีด้วย	Blessings still need careful driving	ความเชื่อ,ความปลอดภัย		
+CARS-397	ความปลอดภัยและการใช้งาน	ขับปลอดภัยตลอดปี	Safe driving all year	ความปลอดภัย,ดี		
+CARS-398	ความปลอดภัยและการใช้งาน	ระวังอุบัติเหตุช่วงแรก	Careful in the first months	อุบัติเหตุ,ระวัง		
+CARS-399	ความปลอดภัยและการใช้งาน	ระวังขับเร็ว	Watch your speed	ขับเร็ว,ระวัง		
+CARS-400	ความปลอดภัยและการใช้งาน	ระวังขับกลางคืน	Careful driving at night	กลางคืน,ระวัง		
+CARS-401	ความปลอดภัยและการใช้งาน	ระวังเดินทางไกลช่วงเทศกาล	Careful on long holiday trips	เดินทาง,ระวัง		
+CARS-402	ความปลอดภัยและการใช้งาน	ระวังรถถูกขโมย	Watch for car theft	ขโมย,ระวัง		
+CARS-403	ความปลอดภัยและการใช้งาน	ระวังของในรถหาย	Watch for theft from the car	ขโมย,ระวัง		
+CARS-404	ความปลอดภัยและการใช้งาน	ระวังน้ำท่วมจอดรถ	Watch for flooding where you park	น้ำท่วม,ระวัง		
+CARS-405	ความปลอดภัยและการใช้งาน	ระวังรถถูกขูด	Watch for scratches	รอยขีดข่วน,ระวัง		
+CARS-406	ความปลอดภัยและการใช้งาน	ขับทางไกลได้สบาย	Comfortable on long drives	เดินทาง,ดี		
+CARS-407	ความปลอดภัยและการใช้งาน	เหมาะใช้ในเมือง	Suits city driving	ในเมือง,เหมาะ		
+CARS-408	ความปลอดภัยและการใช้งาน	เหมาะขับต่างจังหวัด	Suits country driving	ต่างจังหวัด,เหมาะ		
+CARS-409	ความปลอดภัยและการใช้งาน	เหมาะกับครอบครัว	Suits the family	ครอบครัว,เหมาะ		
+CARS-410	ความปลอดภัยและการใช้งาน	เหมาะกับการทำงาน	Suits your work	การงาน,เหมาะ		
+CARS-411	ความปลอดภัยและการใช้งาน	ใช้รถทำมาหากินได้	Use it to earn a living	การงาน,รายได้		
+CARS-412	ความปลอดภัยและการใช้งาน	ปล่อยรถให้เช่าได้รายได้	Renting it out earns money	รายได้,เช่า		
+CARS-413	ความปลอดภัยและการใช้งาน	ขับรับส่งผู้โดยสารได้	Good for ride-hailing	รายได้,การงาน		
+CARS-414	ความปลอดภัยและการใช้งาน	คนในบ้านได้ใช้ด้วย	The whole family uses it	ครอบครัว,ใช้งาน		
+CARS-415	ความปลอดภัยและการใช้งาน	ให้คนอื่นยืมรถไม่ดี	Don't lend the car out	ยืมรถ,ระวัง		
+CARS-416	ความปลอดภัยและการใช้งาน	ติดกล้องหน้ารถไว้	Fit a dash cam	กล้อง,ความปลอดภัย		
+CARS-417	ความปลอดภัยและการใช้งาน	พักให้พอก่อนขับไกล	Rest well before long drives	พักผ่อน,ความปลอดภัย		
+CARS-418	ความปลอดภัยและการใช้งาน	คาดเข็มขัดทุกที่นั่ง	Belt up in every seat	เข็มขัด,ความปลอดภัย		
+CARS-419	ความปลอดภัยและการใช้งาน	ใช้คาร์ซีตสำหรับเด็ก	Use a child seat	เด็ก,ความปลอดภัย		
+CARS-420	ความปลอดภัยและการใช้งาน	ไม่ขับหลังดื่ม	Never drive after drinking	ความปลอดภัย,ข้อห้าม		
+CARS-421	ความปลอดภัยและการใช้งาน	ไม่เล่นมือถือขณะขับ	No phone while driving	ความปลอดภัย,ข้อห้าม		
+CARS-422	ความปลอดภัยและการใช้งาน	ที่จอดรถที่บ้านพอ	Enough parking at home	ที่จอด,ดี		
+CARS-423	ความปลอดภัยและการใช้งาน	ที่จอดรถไม่พอ	Not enough parking	ที่จอด,ปัญหา		
+CARS-424	ความปลอดภัยและการใช้งาน	ที่ชาร์จรถไฟฟ้าสะดวก	Easy EV charging	ชาร์จ,รถไฟฟ้า		
+CARS-425	ความปลอดภัยและการใช้งาน	ที่ชาร์จรถไฟฟ้าไม่สะดวก	EV charging is a hassle	ชาร์จ,รถไฟฟ้า		
+CARS-426	ความปลอดภัยและการใช้งาน	ขับรถคู่ใจไปเที่ยวบ่อย	Many road trips ahead	เดินทาง,ความสุข		
+CARS-427	ค่าใช้จ่ายหลังซื้อ	ค่าประกันไม่แพง	Insurance is affordable	ประกัน,ค่าใช้จ่าย		
+CARS-428	ค่าใช้จ่ายหลังซื้อ	ค่าประกันแพง	Insurance is expensive	ประกัน,ค่าใช้จ่าย		
+CARS-429	ค่าใช้จ่ายหลังซื้อ	ทำประกันชั้นหนึ่งดีกว่า	First-class insurance is better	ประกัน,แนะนำ		
+CARS-430	ค่าใช้จ่ายหลังซื้อ	ประกันชั้นสองบวกก็พอ	Class 2+ is enough	ประกัน,พอดี		
+CARS-431	ค่าใช้จ่ายหลังซื้อ	เคลมประกันง่าย	Claims are easy	ประกัน,เคลม		
+CARS-432	ค่าใช้จ่ายหลังซื้อ	เคลมประกันยุ่งยาก	Claims are a hassle	ประกัน,เคลม		
+CARS-433	ค่าใช้จ่ายหลังซื้อ	ค่าบำรุงรักษาต่ำ	Low upkeep	บำรุงรักษา,ประหยัด		
+CARS-434	ค่าใช้จ่ายหลังซื้อ	ค่าบำรุงรักษาสูง	High upkeep	บำรุงรักษา,แพง		
+CARS-435	ค่าใช้จ่ายหลังซื้อ	ค่าซ่อมไม่คาดคิด	Unexpected repair bill	ซ่อม,ระวัง		
+CARS-436	ค่าใช้จ่ายหลังซื้อ	เข้าศูนย์ตามระยะ	Service on schedule	บำรุงรักษา,ดี		
+CARS-437	ค่าใช้จ่ายหลังซื้อ	อู่นอกดีกว่าศูนย์	An independent garage is better	อู่,ทางเลือก		
+CARS-438	ค่าใช้จ่ายหลังซื้อ	หาอู่ประจำที่ไว้ใจได้	Find a garage you trust	อู่,ดี		
+CARS-439	ค่าใช้จ่ายหลังซื้อ	ค่าน้ำมันกินงบ	Fuel eats the budget	น้ำมัน,ค่าใช้จ่าย		
+CARS-440	ค่าใช้จ่ายหลังซื้อ	ค่าไฟชาร์จถูกกว่าน้ำมัน	Charging is cheaper than fuel	รถไฟฟ้า,ประหยัด		
+CARS-441	ค่าใช้จ่ายหลังซื้อ	ค่าทางด่วนเพิ่มขึ้น	More spent on tolls	ค่าใช้จ่าย,ทางด่วน		
+CARS-442	ค่าใช้จ่ายหลังซื้อ	ค่าที่จอดรถแพง	Parking is expensive	ที่จอด,ค่าใช้จ่าย		
+CARS-443	ค่าใช้จ่ายหลังซื้อ	ภาษีรถประจำปีไม่แพง	Annual road tax is low	ภาษี,ค่าใช้จ่าย		
+CARS-444	ค่าใช้จ่ายหลังซื้อ	ต้องเปลี่ยนแบตเตอรี่เร็วๆ นี้	The battery needs replacing soon	แบตเตอรี่,ซ่อม		
+CARS-445	ค่าใช้จ่ายหลังซื้อ	ต้องเปลี่ยนยางเร็วๆ นี้	The tyres need replacing soon	ยาง,ซ่อม		
+CARS-446	ค่าใช้จ่ายหลังซื้อ	ค่าแต่งรถบานปลาย	Mods get out of hand	แต่งรถ,ระวัง		
+CARS-447	ค่าใช้จ่ายหลังซื้อ	แต่งรถพอดีๆ ก็สวย	A few tasteful mods are enough	แต่งรถ,พอดี		
+CARS-448	ค่าใช้จ่ายหลังซื้อ	ติดฟิล์มกรองแสงดี	Good window tint	ฟิล์ม,ดี		
+CARS-449	ค่าใช้จ่ายหลังซื้อ	เคลือบสีรถคุ้ม	Paint protection is worth it	ดูแล,คุ้มค่า		
+CARS-450	ค่าใช้จ่ายหลังซื้อ	เก็บเงินสำรองค่ารถไว้	Keep a car fund	เงินสำรอง,การเงิน		
+CARS-451	ค่าใช้จ่ายหลังซื้อ	ค่าใช้จ่ายรวมเกินคาด	Total cost is more than expected	ค่าใช้จ่าย,ระวัง		
+CARS-452	ค่าใช้จ่ายหลังซื้อ	ค่าใช้จ่ายรวมพอดีกับรายได้	Total cost fits your income	ค่าใช้จ่าย,ดี		
+CARS-453	ค่าใช้จ่ายหลังซื้อ	ได้ส่วนลดเข้าศูนย์ฟรี	Free servicing included	บำรุงรักษา,โปรโมชัน		
+CARS-454	ค่าใช้จ่ายหลังซื้อ	ประกันรถหมดอย่าลืมต่อ	Don't let insurance lapse	ประกัน,ระวัง		
+CARS-455	ค่าใช้จ่ายหลังซื้อ	พ.ร.บ. ต้องต่อให้ทัน	Renew compulsory insurance on time	พ.ร.บ.,ระวัง		
+CARS-456	ขายรถเก่าและเทิร์น	ขายรถเก่าได้ราคาดี	The old car sells well	ขายรถ,ดี		
+CARS-457	ขายรถเก่าและเทิร์น	ขายรถเก่าไม่ออก	The old car won't sell	ขายรถ,ยาก		
+CARS-458	ขายรถเก่าและเทิร์น	เทิร์นรถเก่าคุ้ม	Trading in is worth it	เทิร์น,คุ้มค่า		
+CARS-459	ขายรถเก่าและเทิร์น	ขายเองได้ราคากว่าเทิร์น	Selling it yourself pays more	ขายรถ,ทางเลือก		
+CARS-460	ขายรถเก่าและเทิร์น	เก็บรถเก่าไว้ใช้คู่กัน	Keep the old car too	รถเดิม,เก็บไว้		
+CARS-461	ขายรถเก่าและเทิร์น	ยกรถเก่าให้คนในบ้าน	Give the old car to family	รถเดิม,ครอบครัว		
+CARS-462	ขายรถเก่าและเทิร์น	รถเก่ามีความหลังดี	The old car holds good memories	รถเดิม,ความทรงจำ		
+CARS-463	ขายรถเก่าและเทิร์น	ปล่อยรถเก่าไปเพื่อเริ่มใหม่	Let the old car go and start fresh	รถเดิม,เริ่มใหม่		
+CARS-464	ขายรถเก่าและเทิร์น	ผู้ซื้อรถเก่าจริงใจ	An honest buyer for the old car	ขายรถ,ผู้ซื้อ		
+CARS-465	ขายรถเก่าและเทิร์น	ระวังผู้ซื้อเบี้ยวเงิน	Watch for a buyer who won't pay	ขายรถ,ระวัง		
+CARS-466	ขายรถเก่าและเทิร์น	โอนรถเก่าให้เรียบร้อย	Finish transferring the old car	โอน,เอกสาร		
+CARS-467	ขายรถเก่าและเทิร์น	ปิดไฟแนนซ์คันเก่าก่อน	Pay off the old loan first	ไฟแนนซ์,รถเดิม		
+CARS-468	ขายรถเก่าและเทิร์น	ราคาเทิร์นต่ำกว่าคาด	Trade-in offer is low	เทิร์น,ราคา		
+CARS-469	ขายรถเก่าและเทิร์น	ราคาเทิร์นสูงกว่าคาด	Trade-in offer is high	เทิร์น,ราคา		
+CARS-470	ขายรถเก่าและเทิร์น	ขายรถตอนนี้ได้จังหวะ	Now is the time to sell	ขายรถ,จังหวะ		
+CARS-471	ขายรถเก่าและเทิร์น	รอขายรถทีหลังดีกว่า	Better to sell later	ขายรถ,ควรรอ		
+CARS-472	ขายรถเก่าและเทิร์น	ไม่ต้องมีรถสองคัน	You don't need two cars	รถเดิม,พอดี		
+CARS-473	ขายรถเก่าและเทิร์น	มีรถสองคันสะดวกขึ้น	Two cars make life easier	รถเดิม,สะดวก		
+CARS-474	ขายรถเก่าและเทิร์น	รถเก่าถึงเวลาปลดระวาง	The old car's time is up	รถเดิม,เปลี่ยน		
+CARS-475	ขายรถเก่าและเทิร์น	ซ่อมรถเก่าคุ้มกว่าซื้อใหม่	Fixing the old car beats buying	ซ่อม,คุ้มค่า		
+CARS-476	ผลลัพธ์หลังได้รถ	ได้รถแล้วชีวิตสะดวกขึ้น	Life gets easier with the car	ผลลัพธ์,สะดวก		
+CARS-477	ผลลัพธ์หลังได้รถ	ได้รถแล้วงานดีขึ้น	Work improves with the car	ผลลัพธ์,การงาน		
+CARS-478	ผลลัพธ์หลังได้รถ	ได้รถแล้วเงินตึง	Money gets tight after buying	ผลลัพธ์,การเงิน		
+CARS-479	ผลลัพธ์หลังได้รถ	ได้รถแล้วครอบครัวมีความสุข	The family is happier	ผลลัพธ์,ครอบครัว		
+CARS-480	ผลลัพธ์หลังได้รถ	ได้รถแล้วความรักดี	Love life improves	ผลลัพธ์,ความรัก		
+CARS-481	ผลลัพธ์หลังได้รถ	ได้รถแล้วเดินทางบ่อยขึ้น	You travel more	ผลลัพธ์,เดินทาง		
+CARS-482	ผลลัพธ์หลังได้รถ	ได้รถแล้วมีโชคลาภ	Good fortune comes with the car	ผลลัพธ์,โชคลาภ		
+CARS-483	ผลลัพธ์หลังได้รถ	รถพาไปเจอโอกาสใหม่	The car leads to new chances	ผลลัพธ์,โอกาส		
+CARS-484	ผลลัพธ์หลังได้รถ	รถคันนี้อยู่ด้วยกันนาน	You'll keep this car a long time	ผลลัพธ์,ยาวนาน		
+CARS-485	ผลลัพธ์หลังได้รถ	เปลี่ยนใจขายเร็วกว่าที่คิด	You'll sell it sooner than planned	ผลลัพธ์,เปลี่ยนใจ		
+CARS-486	ผลลัพธ์หลังได้รถ	พอใจกับรถคันนี้มาก	Very happy with this car	ผลลัพธ์,พอใจ		
+CARS-487	ผลลัพธ์หลังได้รถ	เสียดายที่ไม่ได้เลือกคันอื่น	You'll wish you'd chosen another	ผลลัพธ์,เสียดาย		
+CARS-488	ผลลัพธ์หลังได้รถ	รถคันนี้เป็นที่อิจฉา	People will envy this car	ผลลัพธ์,ภาพลักษณ์		
+CARS-489	ผลลัพธ์หลังได้รถ	รถเสริมภาพลักษณ์	The car lifts your image	ผลลัพธ์,ภาพลักษณ์		
+CARS-490	ผลลัพธ์หลังได้รถ	อย่าซื้อรถเพื่ออวด	Don't buy a car to show off	ใจ,ระวัง		
+CARS-491	ผลลัพธ์หลังได้รถ	ซื้อเพราะจำเป็นจริง	Buy because you truly need it	ใจ,จำเป็น		
+CARS-492	ผลลัพธ์หลังได้รถ	ซื้อเพราะอยากให้รางวัลตัวเอง	Buy it as a reward to yourself	ใจ,รางวัล		
+CARS-493	ผลลัพธ์หลังได้รถ	คนรอบตัวช่วยเลือกได้ดี	People around you help you choose well	คนรอบตัว,ดี		
+CARS-494	ผลลัพธ์หลังได้รถ	คนรอบตัวค้าน	People around you object	คนรอบตัว,ค้าน		
+CARS-495	ผลลัพธ์หลังได้รถ	คู่ครองเห็นด้วย	Your partner agrees	ความรัก,เห็นด้วย		
+CARS-496	ผลลัพธ์หลังได้รถ	คู่ครองไม่เห็นด้วย	Your partner disagrees	ความรัก,ไม่เห็นด้วย		
+CARS-497	ผลลัพธ์หลังได้รถ	พ่อแม่สนับสนุน	Your parents back you	ครอบครัว,สนับสนุน		
+CARS-498	ผลลัพธ์หลังได้รถ	ได้รถคันในฝัน	You get your dream car	ผลลัพธ์,ความฝัน		
+CARS-499	ผลลัพธ์หลังได้รถ	ยังไม่ใช่รถคันในฝัน	Not your dream car yet	ผลลัพธ์,ความฝัน		
+CARS-500	ผลลัพธ์หลังได้รถ	รถคันต่อไปจะดีกว่านี้	Your next car will be better	อนาคต,ดีขึ้น		

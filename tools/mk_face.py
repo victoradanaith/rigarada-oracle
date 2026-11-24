@@ -1,0 +1,432 @@
+import sys, collections
+out = []
+def cat(name, lines):
+    out.append('# ' + name)
+    for l in lines.strip().split('\n'):
+        l = l.strip()
+        if not l: continue
+        th, en, kw = l.split('|')
+        out.append(f'{th}|{en}|{kw}||')
+
+cat('รูปหน้า', """
+หน้ากลมมีเมตตา|Round face: kind-hearted|รูปหน้า,เมตตา
+หน้าเหลี่ยมมุ่งมั่น|Square face: determined|รูปหน้า,มุ่งมั่น
+หน้ายาวมีความคิด|Long face: thoughtful|รูปหน้า,ความคิด
+หน้ารูปไข่มีเสน่ห์|Oval face: charming|รูปหน้า,เสน่ห์
+หน้ารูปหัวใจช่างฝัน|Heart-shaped face: a dreamer|รูปหน้า,ช่างฝัน
+หน้าสามเหลี่ยมหัวไว|Triangular face: quick-witted|รูปหน้า,หัวไว
+หน้าเต็มอิ่มมีบุญ|Full face: blessed|รูปหน้า,มีบุญ
+หน้าตอบต้องสร้างเอง|Hollow face: you build your own luck|รูปหน้า,สร้างเอง
+สามส่วนของหน้าสมดุล|Balanced thirds of the face|รูปหน้า,สมดุล
+ใบหน้าสมมาตรดวงนิ่ง|Symmetrical face: steady fortune|รูปหน้า,มั่นคง
+""")
+
+cat('หน้าผากและไรผม', """
+หน้าผากกว้างมีวาสนา|Broad forehead: good fortune|หน้าผาก,วาสนา
+หน้าผากแคบต้องพึ่งตัวเอง|Narrow forehead: rely on yourself|หน้าผาก,พึ่งตัวเอง
+หน้าผากนูนเต็มผู้ใหญ่อุปถัมภ์|Full forehead: elders support you|หน้าผาก,ผู้ใหญ่
+หน้าผากเรียบเกลี้ยงชีวิตราบรื่น|Smooth forehead: a smooth life|หน้าผาก,ราบรื่น
+หน้าผากมีรอยย่นลึกคิดมาก|Deep forehead lines: you worry a lot|หน้าผาก,คิดมาก
+หน้าผากมีแผลเป็นระวังอุปสรรควัยหนุ่มสาว|Forehead scar: obstacles in youth|หน้าผาก,อุปสรรค
+ไรผมเรียบสวยพ่อแม่หนุน|Neat hairline: parents support you|ไรผม,ครอบครัว
+ไรผมหยักเป็นฟันเลื่อยเหนื่อยตอนต้น|Jagged hairline: a hard start|ไรผม,อุปสรรค
+ไรผมเถิกสูงฉลาด|High hairline: clever|ไรผม,ฉลาด
+หน้าผากสว่างสดใสช่วงนี้ดวงขึ้น|Bright forehead: luck is rising|หน้าผาก,ดวงขึ้น
+""")
+
+cat('คิ้ว', """
+คิ้วยาวเกินตาพี่น้องดี|Brows longer than the eyes: good siblings|คิ้ว,พี่น้อง
+คิ้วสั้นกว่าตาเดินทางคนเดียว|Brows shorter than the eyes: you walk alone|คิ้ว,พึ่งตัวเอง
+คิ้วหนาเด็ดเดี่ยว|Thick brows: decisive|คิ้ว,เด็ดขาด
+คิ้วบางอ่อนโยน|Thin brows: gentle|คิ้ว,อ่อนโยน
+คิ้วโก่งมีเสน่ห์|Arched brows: charming|คิ้ว,เสน่ห์
+คิ้วตรงตรงไปตรงมา|Straight brows: straightforward|คิ้ว,ตรงไปตรงมา
+คิ้วชนกันคิดมาก|Joined brows: a worrier|คิ้ว,คิดมาก
+หว่างคิ้วกว้างใจกว้าง|Wide gap between brows: open-minded|หว่างคิ้ว,ใจกว้าง
+หว่างคิ้วแคบใจร้อน|Narrow gap between brows: impatient|หว่างคิ้ว,ใจร้อน
+หางคิ้วตกใจดีเกินไป|Drooping brow tails: too kind for your own good|คิ้ว,ใจดี
+""")
+
+cat('ตา', """
+ตาโตเปิดเผย|Big eyes: open|ตา,เปิดเผย
+ตาเล็กรอบคอบ|Small eyes: careful|ตา,รอบคอบ
+ตาสองชั้นอ่อนไหว|Double eyelids: sensitive|ตา,อ่อนไหว
+ตาชั้นเดียวเก็บความรู้สึก|Single eyelids: reserved|ตา,เก็บความรู้สึก
+ตาเป็นประกายมีพลัง|Sparkling eyes: full of energy|ตา,พลัง
+ตาหวานเสน่ห์แรง|Sweet eyes: strong charm|ตา,เสน่ห์
+ตาคมฉลาดเฉียบ|Sharp eyes: sharp mind|ตา,ฉลาด
+ตาลอยใจไม่อยู่กับตัว|Absent eyes: your mind is elsewhere|ตา,ไม่มีสมาธิ
+หางตาชี้ขึ้นมั่นใจ|Upturned eyes: confident|ตา,มั่นใจ
+หางตาตกใจอ่อน|Downturned eyes: soft-hearted|ตา,ใจอ่อน
+ถุงใต้ตาเต็มมีลูกหลานดี|Full under-eyes: good children|ใต้ตา,ลูกหลาน
+ตีนกาเยอะคนรักมาก|Many crow's feet: much loved|หางตา,ความรัก
+""")
+
+cat('จมูก', """
+จมูกโด่งมั่นใจ|High nose: confident|จมูก,มั่นใจ
+จมูกแบนเป็นมิตร|Flat nose: friendly|จมูก,เป็นมิตร
+ปลายจมูกกลมอิ่มเก็บเงินเก่ง|Round full nose tip: good saver|จมูก,เก็บเงิน
+ปลายจมูกแหลมคิดเร็ว|Pointed nose tip: quick thinker|จมูก,คิดเร็ว
+ปีกจมูกกว้างหาเงินเก่ง|Wide nostril wings: good earner|ปีกจมูก,หาเงิน
+รูจมูกเห็นชัดใช้เงินเก่ง|Visible nostrils: big spender|รูจมูก,ใช้เงิน
+สันจมูกตรงงานมั่นคง|Straight bridge: steady career|สันจมูก,การงาน
+สันจมูกคดมีเรื่องกลางทาง|Crooked bridge: bumps mid-life|สันจมูก,อุปสรรค
+จมูกงุ้มเจ้าเล่ห์|Hooked nose: crafty|จมูก,เจ้าเล่ห์
+จมูกรับกับหน้าดวงสมดุล|Nose suits the face: balanced fortune|จมูก,สมดุล
+ดั้งจมูกต่ำพึ่งตัวเอง|Low bridge: self-reliant|ดั้งจมูก,พึ่งตัวเอง
+จมูกคือตำแหน่งเงินในโหงวเฮ้ง|The nose is the wealth palace|จมูก,การเงิน
+""")
+
+cat('แก้ม โหนกแก้ม และปาก', """
+โหนกแก้มสูงมีอำนาจ|High cheekbones: authority|โหนกแก้ม,อำนาจ
+โหนกแก้มสูงเกินไปคุมคนรัก|Very high cheekbones: controlling in love|โหนกแก้ม,ความรัก
+แก้มอิ่มคนรักใคร่|Full cheeks: well liked|แก้ม,เสน่ห์
+แก้มตอบเหนื่อยตอนกลางชีวิต|Hollow cheeks: a tiring middle age|แก้ม,เหนื่อย
+ลักยิ้มเสน่ห์แรง|Dimples: strong charm|ลักยิ้ม,เสน่ห์
+ปากกว้างใจกว้าง|Wide mouth: generous|ปาก,ใจกว้าง
+ปากเล็กพูดน้อย|Small mouth: quiet|ปาก,พูดน้อย
+ปากหนาเจ้าเสน่ห์|Full lips: alluring|ปาก,เสน่ห์
+ปากบางพูดเก่ง|Thin lips: articulate|ปาก,พูดเก่ง
+มุมปากยกเชิดมองโลกบวก|Upturned mouth corners: optimistic|มุมปาก,มองโลกบวก
+มุมปากตกน้อยใจง่าย|Downturned mouth corners: easily hurt|มุมปาก,น้อยใจ
+ปากกระจับมีวาสนา|Cupid's-bow lips: lucky|ปาก,วาสนา
+ร่องเหนือริมฝีปากลึกอายุยืน|Deep philtrum: long life|ร่องเหนือปาก,อายุยืน
+ร่องเหนือริมฝีปากตื้นต้องดูแลสุขภาพ|Shallow philtrum: look after your health|ร่องเหนือปาก,สุขภาพ
+ฟันเรียงสวยพูดแล้วคนเชื่อ|Even teeth: people trust your word|ฟัน,น่าเชื่อถือ
+ฟันห่างเงินรั่ว|Gapped teeth: money slips away|ฟัน,การเงิน
+ฟันกระต่ายมีเสน่ห์|Bunny teeth: endearing|ฟัน,เสน่ห์
+ยิ้มเห็นเหงือกจริงใจ|Gummy smile: sincere|รอยยิ้ม,จริงใจ
+""")
+
+cat('คาง กราม และหู', """
+คางเต็มบั้นปลายดี|Full chin: a good old age|คาง,บั้นปลาย
+คางแหลมช่างคิด|Pointed chin: imaginative|คาง,ช่างคิด
+คางสั้นใจร้อน|Short chin: impatient|คาง,ใจร้อน
+คางยื่นดื้อ|Jutting chin: stubborn|คาง,ดื้อ
+คางบุ๋มมีเสน่ห์|Cleft chin: charismatic|คาง,เสน่ห์
+กรามกว้างอดทน|Wide jaw: enduring|กราม,อดทน
+กรามเห็นจากด้านหลังเจ้าคิดเจ้าแค้น|Jaw visible from behind: holds grudges|กราม,ระวัง
+คางสองชั้นมีบริวาร|Double chin: many helpers|คาง,บริวาร
+ใบหูใหญ่อายุยืน|Large ears: long life|หู,อายุยืน
+ติ่งหูยาวมีบุญ|Long earlobes: blessed|ติ่งหู,มีบุญ
+ติ่งหูเล็กต้องเก็บเงิน|Small earlobes: save your money|ติ่งหู,การเงิน
+หูกางหัวขบถ|Protruding ears: a rebel|หู,ขบถ
+หูแนบหัวว่าง่าย|Flat ears: easy-going|หู,ว่าง่าย
+หูสูงกว่าคิ้วฉลาดเร็ว|Ears above the brows: early bright|หู,ฉลาด
+หูต่ำกว่าตาสุกงอมช้า|Ears below the eyes: a late bloomer|หู,ช้าแต่ดี
+หูสีชมพูสุขภาพดี|Pink ears: good health|หู,สุขภาพ
+""")
+
+cat('ไฝและจุดบนหน้า', """
+ไฝกลางหน้าผากผู้ใหญ่เมตตา|Mole mid-forehead: favoured by elders|ไฝ,ผู้ใหญ่
+ไฝบนคิ้วเก็บทรัพย์|Mole in the brow: hidden wealth|ไฝ,ทรัพย์
+ไฝหางตาเจ้าเสน่ห์|Mole at the eye corner: romantic charm|ไฝ,เสน่ห์
+ไฝใต้ตาน้ำตาไหล|Mole under the eye: tears in love|ไฝ,ความรัก
+ไฝบนจมูกเงินเข้าออกเร็ว|Mole on the nose: money comes and goes|ไฝ,การเงิน
+ไฝปลายจมูกโชคทรัพย์|Mole on the nose tip: windfall luck|ไฝ,โชคลาภ
+ไฝบนแก้มเหนื่อยเพื่อคนอื่น|Mole on the cheek: you toil for others|ไฝ,เหนื่อย
+ไฝเหนือริมฝีปากกินดีอยู่ดี|Mole above the lip: you eat well|ไฝ,อยู่ดีกินดี
+ไฝใต้ริมฝีปากพูดเก่ง|Mole below the lip: a good talker|ไฝ,พูดเก่ง
+ไฝบนคางมีที่ดิน|Mole on the chin: land and property|ไฝ,ที่ดิน
+ไฝบนหูฉลาด|Mole on the ear: clever|ไฝ,ฉลาด
+ไฝสีดำเงาดี|Shiny black mole: a good sign|ไฝ,ดี
+ไฝสีซีดไม่มีผล|Faded mole: no effect|ไฝ,เป็นกลาง
+ไฝบนติ่งหูมีโชค|Mole on the earlobe: lucky|ไฝ,โชค
+ไฝหว่างคิ้วมีบุญ|Mole between the brows: blessed|ไฝ,มีบุญ
+ไฝร้ายควรพิจารณาลบ|A bad-luck mole: consider removing it|ไฝ,ลบไฝ
+ไฝดีอย่าลบ|A good-luck mole: keep it|ไฝ,เก็บไว้
+""")
+
+cat('สีหน้าและราศี', """
+หน้ามีราศีจับ|Your face glows with luck|ราศี,ดวงขึ้น
+หน้าหมองช่วงนี้ระวัง|A dull face: be careful now|ราศี,ระวัง
+หน้าแดงเรื่อมีข่าวดี|Rosy face: good news|สีหน้า,ข่าวดี
+หน้าเหลืองซีดพักผ่อนด้วย|Pale face: rest more|สีหน้า,สุขภาพ
+หน้าคล้ำงานหนัก|Dark tired face: overworked|สีหน้า,งานหนัก
+หว่างคิ้วสว่างได้สมหวัง|Bright between the brows: wishes come true|หว่างคิ้ว,สมหวัง
+หว่างคิ้วหมองมีเรื่องค้างใจ|Dull between the brows: something weighs on you|หว่างคิ้ว,กังวล
+ปลายจมูกสว่างเงินเข้า|Bright nose tip: money coming|ปลายจมูก,การเงิน
+แก้มเปล่งปลั่งความรักดี|Glowing cheeks: love is good|แก้ม,ความรัก
+ใต้ตาคล้ำเหนื่อยใจ|Dark under-eyes: weary heart|ใต้ตา,เหนื่อย
+ยิ้มบ่อยหน้าเปลี่ยนดวงเปลี่ยน|Smile more: your face and luck change|รอยยิ้ม,ดวงดี
+หน้าตาสดชื่นคนเข้าหา|A fresh face draws people in|สีหน้า,เสน่ห์
+""")
+
+cat('ตำแหน่งทั้ง 12 บนใบหน้า', """
+หว่างคิ้วคือตำแหน่งชีวิต|Between the brows: the life palace|ตำแหน่ง,ชีวิต
+จมูกคือตำแหน่งทรัพย์|The nose: the wealth palace|ตำแหน่ง,ทรัพย์
+คิ้วคือตำแหน่งพี่น้อง|The brows: the siblings palace|ตำแหน่ง,พี่น้อง
+เปลือกตาบนคือตำแหน่งบ้านที่ดิน|Upper eyelids: the property palace|ตำแหน่ง,บ้านที่ดิน
+ใต้ตาคือตำแหน่งลูก|Under the eyes: the children palace|ตำแหน่ง,ลูก
+คางและกรามคือตำแหน่งบริวาร|Chin and jaw: the helpers palace|ตำแหน่ง,บริวาร
+หางตาคือตำแหน่งคู่ครอง|Eye corners: the marriage palace|ตำแหน่ง,คู่ครอง
+ดั้งจมูกคือตำแหน่งสุขภาพ|Bridge of the nose: the health palace|ตำแหน่ง,สุขภาพ
+ขมับคือตำแหน่งเดินทาง|The temples: the travel palace|ตำแหน่ง,เดินทาง
+กลางหน้าผากคือตำแหน่งการงาน|Mid-forehead: the career palace|ตำแหน่ง,การงาน
+เหนือคิ้วคือตำแหน่งบุญวาสนา|Above the brows: the fortune palace|ตำแหน่ง,บุญ
+หน้าผากสองข้างคือตำแหน่งพ่อแม่|Upper forehead sides: the parents palace|ตำแหน่ง,พ่อแม่
+""")
+
+cat('คู่ครองดูจากหน้า', """
+คู่ครองหน้ากลมใจดี|A round-faced, kind partner|คู่ครอง,ใจดี
+คู่ครองหน้าเหลี่ยมพึ่งพาได้|A square-faced, dependable partner|คู่ครอง,พึ่งพาได้
+คู่ครองตาโตจริงใจ|A big-eyed, sincere partner|คู่ครอง,จริงใจ
+คู่ครองจมูกอิ่มมีฐานะ|A full-nosed, well-off partner|คู่ครอง,ฐานะ
+คู่ครองคางเต็มอยู่ด้วยกันยาว|A full-chinned partner for life|คู่ครอง,ยาวนาน
+คู่ครองยิ้มง่ายบ้านอบอุ่น|A smiling partner, a warm home|คู่ครอง,อบอุ่น
+คู่ครองคิ้วหนาเป็นผู้นำ|A thick-browed partner who leads|คู่ครอง,ผู้นำ
+คู่ครองหน้าผากกว้างมีผู้ใหญ่หนุน|A partner with patrons|คู่ครอง,ผู้ใหญ่
+หน้าเราสองคนเข้ากันดี|Your two faces match well|คู่ครอง,เข้ากัน
+หน้าเราสองคนขัดกัน|Your two faces clash|คู่ครอง,ขัดกัน
+หางตามีเส้นตัดระวังมือที่สาม|Lines across the eye corners: watch for a third party|คู่ครอง,มือที่สาม
+หางตาเต็มเรียบคู่ครองดี|Smooth eye corners: a good marriage|คู่ครอง,ดี
+แต่งงานช้าแต่ได้คนดี|You marry late but well|คู่ครอง,ช้าแต่ดี
+พบคู่หลังเปลี่ยนลุค|You meet someone after a new look|คู่ครอง,เปลี่ยนลุค
+หน้าตาไม่สำคัญเท่าใจ|The heart matters more than the face|คู่ครอง,ใจ
+""")
+
+cat('โหงวเฮ้งตามวัย', """
+อายุ 15–30 ดวงอยู่ที่หน้าผาก|Ages 15–30: fortune sits in the forehead|ตามวัย,หน้าผาก
+อายุ 31–40 ดวงอยู่ที่คิ้วและตา|Ages 31–40: brows and eyes|ตามวัย,คิ้วและตา
+อายุ 41–50 ดวงอยู่ที่จมูกและโหนกแก้ม|Ages 41–50: nose and cheekbones|ตามวัย,จมูก
+อายุ 51–60 ดวงอยู่ที่ปากและร่องเหนือปาก|Ages 51–60: mouth and philtrum|ตามวัย,ปาก
+อายุ 61 ขึ้นไปดวงอยู่ที่คางและกราม|Ages 61 and up: chin and jaw|ตามวัย,คาง
+วัยเด็กดวงอยู่ที่ใบหู|Childhood: fortune sits in the ears|ตามวัย,หู
+ช่วงวัยนี้ดวงกำลังขึ้น|Your current age range is rising|ตามวัย,ดวงขึ้น
+ช่วงวัยนี้ต้องระวัง|Your current age range needs care|ตามวัย,ระวัง
+บั้นปลายดีกว่าตอนต้น|Later life beats the early years|ตามวัย,บั้นปลาย
+ตอนต้นดีกว่าบั้นปลาย|The early years beat later life|ตามวัย,วัยหนุ่มสาว
+""")
+
+cat('โหงวเฮ้งกับเรื่องในชีวิต', """
+หน้ามีโชคเรื่องเงิน|A face lucky with money|การเงิน,โหงวเฮ้งดี
+หน้ามีโชคเรื่องงาน|A face lucky at work|การงาน,โหงวเฮ้งดี
+หน้ามีโชคเรื่องความรัก|A face lucky in love|ความรัก,โหงวเฮ้งดี
+หน้าเป็นเจ้าคนนายคน|A leader's face|ผู้นำ,อำนาจ
+หน้าเหมาะทำธุรกิจ|A face for business|ธุรกิจ,เหมาะ
+หน้าเหมาะงานบริการ|A face for service work|การงาน,บริการ
+หน้าเหมาะงานศิลปะ|A face for the arts|ศิลปะ,เหมาะ
+หน้าคนมีเมตตามหานิยม|A face people adore|มหานิยม,เสน่ห์
+หน้าคู่ครองดี|A face for a good marriage|คู่ครอง,ดี
+หน้าเจ้าชู้|A flirt's face|ความรัก,เจ้าชู้
+หน้ารักเดียวใจเดียว|A faithful face|ความรัก,ซื่อสัตย์
+หน้าคู่ครองมีฐานะ|Your face shows a well-off partner|คู่ครอง,ฐานะ
+หน้าลูกหลานกตัญญู|Your face shows grateful children|ลูกหลาน,กตัญญู
+หน้าพี่น้องช่วยเหลือ|Your face shows helpful siblings|พี่น้อง,ช่วยเหลือ
+หน้ามีผู้ใหญ่อุปถัมภ์|Your face shows patrons|ผู้ใหญ่,อุปถัมภ์
+หน้ามีบริวารดี|Your face shows good helpers|บริวาร,ดี
+หน้าต้องระวังคนรอบตัว|Your face warns about people around you|คนรอบตัว,ระวัง
+หน้าเดินทางไกลได้ดี|Your face shows good travel|เดินทาง,ดี
+หน้ามีบ้านที่ดิน|Your face shows home and land|ที่ดิน,ทรัพย์
+หน้าอายุยืน|A long-life face|อายุยืน,สุขภาพ
+หน้าเก็บเงินอยู่|A face that keeps money|การเงิน,เก็บเงิน
+หน้าเงินรั่วไหล|A face where money leaks away|การเงิน,ระวัง
+หน้าดื้อเงียบ|Quietly stubborn face|นิสัย,ดื้อ
+หน้าใจอ่อน|A soft-hearted face|นิสัย,ใจอ่อน
+หน้าคิดมากเครียดง่าย|An anxious face|นิสัย,เครียด
+หน้าดวงต่างประเทศ|A face for life abroad|ต่างประเทศ,ดวง
+หน้ามีคนอิจฉา|A face others envy|อิจฉา,ระวัง
+หน้าได้มรดก|A face that inherits|มรดก,โชคลาภ
+หน้ารวยช้าแต่มั่นคง|A face for slow, steady wealth|การเงิน,มั่นคง
+โหงวเฮ้งเปลี่ยนได้ตามใจและการกระทำ|Your face changes with your heart and deeds|โหงวเฮ้ง,เปลี่ยนได้
+""")
+
+procs = [('ทำจมูก','nose job'),('ทำตาสองชั้น','double-eyelid surgery'),('เสริมคาง','chin implant'),
+         ('ฉีดฟิลเลอร์','filler'),('ฉีดโบท็อกซ์','Botox'),('ร้อยไหม','thread lift'),
+         ('ตัดกราม','jaw reduction'),('เหลาโหนกแก้ม','cheekbone reduction'),('ทำปาก','lip surgery'),
+         ('ยกคิ้ว','brow lift'),('ปลูกผม','hair transplant'),('ดึงหน้า','facelift'),
+         ('ทำวีเนียร์ฟัน','veneers'),('เลเซอร์ผิวหน้า','laser skin treatment'),('ลบไฝ','mole removal'),
+         ('เติมหน้าผาก','forehead filler'),('ทำลักยิ้ม','dimple surgery'),('ตัดถุงใต้ตา','under-eye bag removal'),
+         ('เสริมหน้าอก','breast augmentation'),('ดูดไขมัน','liposuction'),('ศัลยกรรมหน้าท้อง','tummy tuck'),
+         ('เสริมสะโพก','hip augmentation'),
+         ('ผ่าตัดตาโต','eye-opening surgery'),('เปิดหัวตา','inner-corner eye surgery'),('ฉีดไขมันตัวเอง','fat grafting'),('เติมใต้ตา','under-eye filler')]
+vs = [('ควร{p}','Go ahead with the {e}','ควรทำ'),('ยังไม่ควร{p}','Not yet for the {e}','ยังไม่ควร'),
+      ('{p}แล้วผลออกมาสวย','The {e} turns out beautifully','ผลดี'),('{p}แล้วอาจต้องแก้ซ้ำ','The {e} may need redoing','แก้ซ้ำ'),
+      ('{p}เสริมโหงวเฮ้ง','The {e} improves your face reading','เสริมดวง'),('{p}ขัดโหงวเฮ้งเดิม','The {e} works against your face reading','ขัดดวง')]
+out.append('# ศัลยกรรมแต่ละแบบ')
+for p, e in procs:
+    for th, en, k in vs:
+        out.append(f"{th.format(p=p)}|{en.format(e=e)}|{k},{p}||")
+
+cat('คลินิกและหมอ', """
+เจอหมอที่ใช่|You find the right doctor|หมอ,ดี
+หมอฝีมือดีมีประสบการณ์|A skilled, experienced surgeon|หมอ,ฝีมือ
+หมอเข้าใจสิ่งที่คุณต้องการ|The doctor understands what you want|หมอ,เข้าใจ
+หมอเร่งให้ตัดสินใจ|The doctor rushes you|หมอ,ระวัง
+ตรวจใบอนุญาตหมอก่อน|Check the doctor's licence|ใบอนุญาต,ข้อเท็จจริง
+ตรวจใบอนุญาตคลินิกก่อน|Check the clinic's licence|ใบอนุญาต,ข้อเท็จจริง
+คลินิกได้มาตรฐาน|An accredited clinic|คลินิก,ดี
+คลินิกเถื่อน|An unlicensed clinic|คลินิก,อันตราย
+คลินิกใกล้บ้านสะดวกติดตามผล|A clinic near home makes follow-ups easy|คลินิก,ติดตามผล
+ทำที่โรงพยาบาลปลอดภัยกว่า|A hospital is safer|โรงพยาบาล,ความปลอดภัย
+ทำที่เกาหลี|Have it done in Korea|ต่างประเทศ,เกาหลี
+ทำที่ไทยดีกว่า|Better done in Thailand|ไทย,ทางเลือก
+ราคาถูกเกินไประวัง|Too cheap is a warning|ราคา,ระวัง
+ราคาแพงไม่ได้แปลว่าดี|Expensive isn't always better|ราคา,ทางเลือก
+โปรโมชันล่อใจอย่าเพิ่งรีบ|Don't rush for a promotion|โปรโมชัน,ระวัง
+ปรึกษาหลายหมอก่อน|Get several opinions|ปรึกษา,รอบคอบ
+ดูผลงานจริงของหมอ|Look at real before-and-afters|ผลงาน,ตรวจสอบ
+รีวิวจริงน่าเชื่อถือ|The reviews are genuine|รีวิว,ดี
+รีวิวจ้างระวัง|Paid reviews: be careful|รีวิว,ระวัง
+คนรู้จักแนะนำหมอดี|A friend recommends a good doctor|คนแนะนำ,ดี
+ทำกับหมอคนเดิมดีกว่า|Stay with the same doctor|หมอ,ต่อเนื่อง
+เปลี่ยนหมอดีกว่า|Better change doctors|หมอ,เปลี่ยน
+ถามวัสดุและยาที่ใช้ให้ชัด|Ask exactly what materials and drugs are used|วัสดุ,ข้อเท็จจริง
+เซ็นใบยินยอมอย่างเข้าใจ|Understand the consent form before signing|ใบยินยอม,ข้อเท็จจริง
+มีวิสัญญีแพทย์ดูแล|An anaesthetist is present|ความปลอดภัย,ข้อเท็จจริง
+ฉีดสารในร้านเสริมสวยอันตราย|Injections at a beauty salon are dangerous|อันตราย,ข้อเท็จจริง
+ระวังฟิลเลอร์ปลอม|Watch for fake filler|ฟิลเลอร์,ระวัง
+นัดติดตามผลครบ|Keep every follow-up visit|ติดตามผล,ดี
+คลินิกรับผิดชอบเมื่อมีปัญหา|The clinic takes responsibility|คลินิก,รับผิดชอบ
+คลินิกปัดความรับผิดชอบ|The clinic dodges responsibility|คลินิก,ระวัง
+""")
+
+cat('ใจและเหตุผลก่อนทำ', """
+ทำเพื่อตัวเอง|Do it for yourself|เหตุผล,ตัวเอง
+ทำเพราะคนอื่นกดดัน|Doing it under pressure|เหตุผล,ระวัง
+ทำเพื่อเอาใจแฟน|Doing it to please a partner|เหตุผล,ความรัก
+ทำเพื่องาน|Doing it for work|เหตุผล,การงาน
+ทำเพื่อเสริมดวง|Doing it to improve your luck|เหตุผล,ความเชื่อ
+ทำเพราะอยากเหมือนดารา|Wanting to look like a celebrity|เหตุผล,ระวัง
+หน้าเดิมสวยอยู่แล้ว|Your face is already lovely|ธรรมชาติ,ดี
+รักหน้าตัวเองให้มากขึ้น|Love your own face more|รักตัวเอง,ใจ
+เปลี่ยนนิดเดียวพอ|A small change is enough|พอดี,ธรรมชาติ
+อยากเปลี่ยนมากเกินไป|Wanting to change too much|มากเกินไป,ระวัง
+ทำแล้วจะมั่นใจขึ้น|You'll feel more confident|มั่นใจ,ผลดี
+ทำแล้วจะยังไม่พอใจ|You still won't be satisfied|ไม่พอใจ,ใจ
+ติดศัลยกรรม|Hooked on surgery|มากเกินไป,ระวัง
+ปรึกษาคนในครอบครัวก่อน|Talk to your family first|ครอบครัว,ปรึกษา
+ครอบครัวไม่เห็นด้วย|Your family disagrees|ครอบครัว,ไม่เห็นด้วย
+แฟนสนับสนุน|Your partner supports you|ความรัก,สนับสนุน
+เพื่อนสนิทให้กำลังใจ|Close friends encourage you|เพื่อน,กำลังใจ
+เก็บเงินให้พอก่อน|Save enough first|การเงิน,ควรรอ
+อย่ากู้เงินมาทำศัลยกรรม|Don't borrow for surgery|การเงิน,ระวัง
+อายุยังน้อยเกินไป|You're too young for this|อายุ,ควรรอ
+อายุกำลังเหมาะ|The age is right|อายุ,เหมาะ
+คิดให้รอบคอบอีกครั้ง|Think it over once more|รอบคอบ,ควรรอ
+ตัดสินใจได้แล้ว|You're ready to decide|ตัดสินใจ,พร้อม
+ทำตามใจตัวเองได้|Follow your own heart|ตัดสินใจ,ใจ
+เปลี่ยนหน้าไม่เปลี่ยนใจ|A new face won't change your heart|ใจ,ความจริง
+""")
+
+cat('ความเสี่ยงและการพักฟื้น', """
+พักฟื้นเร็ว|Quick recovery|พักฟื้น,ดี
+พักฟื้นนานกว่าที่คิด|Recovery takes longer than expected|พักฟื้น,ช้า
+บวมช้ำไม่นาน|Swelling and bruising fade fast|พักฟื้น,ดี
+บวมช้ำนาน|Swelling and bruising linger|พักฟื้น,ช้า
+ระวังติดเชื้อ|Watch for infection|ความเสี่ยง,ข้อเท็จจริง
+ระวังแพ้ยาชา|Watch for anaesthetic reactions|ความเสี่ยง,ข้อเท็จจริง
+ระวังแผลเป็นนูน|Watch for raised scars|แผลเป็น,ความเสี่ยง
+แผลหายสวย|The wound heals nicely|แผล,ดี
+ผลไม่สมมาตร|Uneven results|ผลลัพธ์,ความเสี่ยง
+ซิลิโคนเคลื่อน|Implant shifts|ซิลิโคน,ความเสี่ยง
+ฟิลเลอร์อุดหลอดเลือดอันตราย|Filler blocking a blood vessel is an emergency|ฟิลเลอร์,ข้อเท็จจริง
+มีอาการผิดปกติรีบกลับไปหาหมอ|Unusual symptoms: see the doctor at once|อาการผิดปกติ,ข้อเท็จจริง
+งดบุหรี่ช่วยให้แผลหายดี|Not smoking helps healing|พักฟื้น,ข้อเท็จจริง
+ทำตามคำสั่งหมอเคร่งครัด|Follow the doctor's instructions|พักฟื้น,ข้อเท็จจริง
+ลาพักงานให้พอ|Take enough time off work|พักฟื้น,การงาน
+มีคนดูแลหลังผ่าตัด|Someone looks after you after surgery|พักฟื้น,คนดูแล
+อย่าเดินทางไกลหลังผ่าตัดทันที|Don't travel far right after surgery|เดินทาง,ข้อเท็จจริง
+ผลจริงเห็นหลังหลายเดือน|The real result shows after months|ผลลัพธ์,รอ
+ใจร้อนอยากเห็นผลเร็ว|Impatient for results|ใจ,รอ
+ปัญหาเล็กแก้ได้|A small problem can be fixed|แก้ไข,ดี
+ต้องผ่าตัดแก้ใหม่|A corrective operation is needed|แก้ไข,ผ่าตัด
+เอาซิลิโคนออกดีกว่า|Better to remove the implant|ซิลิโคน,แก้ไข
+ผลข้างเคียงน้อย|Few side effects|ผลข้างเคียง,ดี
+ผลข้างเคียงมากกว่าคาด|More side effects than expected|ผลข้างเคียง,ระวัง
+มีโรคประจำตัวต้องบอกหมอ|Tell the doctor about any conditions|สุขภาพ,ข้อเท็จจริง
+ไม่ควรทำตอนตั้งครรภ์|Not during pregnancy|สุขภาพ,ข้อเท็จจริง
+สุขภาพพร้อมผ่าตัด|You're healthy enough for surgery|สุขภาพ,พร้อม
+สุขภาพยังไม่พร้อม|Your health isn't ready|สุขภาพ,ควรรอ
+ดวงสุขภาพช่วงนี้ดี|Your health luck is good now|สุขภาพ,ดวง
+ดวงช่วงนี้ระวังเลือดตกยางออก|Your chart warns of bleeding now|ดวง,ระวัง
+""")
+
+cat('ฤกษ์และความเชื่อ', """
+ดูฤกษ์ก่อนผ่าตัด|Pick an auspicious day for surgery|ฤกษ์,ความเชื่อ
+ฤกษ์ดีกำลังจะมา|A good date is coming|ฤกษ์,ความเชื่อ
+เลื่อนวันผ่าตัดดีกว่า|Better to move the date|ฤกษ์,ความเชื่อ
+เลี่ยงผ่าตัดวันอังคาร|Avoid surgery on a Tuesday|ฤกษ์,ความเชื่อ
+เลี่ยงผ่าตัดวันเกิด|Avoid surgery on your birthday|ฤกษ์,ความเชื่อ
+ปีชงงดเลือดตกยางออก|Clash year: avoid bleeding procedures|ปีชง,ความเชื่อ
+ทำบุญบริจาคเลือดก่อนผ่าตัด|Donate blood beforehand as merit|ทำบุญ,ความเชื่อ
+ไหว้พระก่อนเข้าห้องผ่าตัด|Pray before going into surgery|ไหว้พระ,ความเชื่อ
+ขอพรพระแม่ลักษมีเรื่องความงาม|Pray to Lakshmi for beauty|พระแม่ลักษมี,ความเชื่อ
+ขอพรเจ้าแม่กวนอิมให้ปลอดภัย|Pray to Guanyin for safety|เจ้าแม่กวนอิม,ความเชื่อ
+ทำจมูกตามโหงวเฮ้งเรียกทรัพย์|A nose shaped to draw wealth|จมูก,ความเชื่อ
+ปลายจมูกอิ่มเก็บเงินอยู่|A fuller nose tip keeps money|จมูก,ความเชื่อ
+อย่าทำจมูกแหลมเกินไปเงินรั่ว|Too sharp a nose lets money leak|จมูก,ความเชื่อ
+เติมหน้าผากเสริมผู้ใหญ่อุปถัมภ์|A fuller forehead brings patrons|หน้าผาก,ความเชื่อ
+เสริมคางให้บั้นปลายมั่นคง|A fuller chin steadies later life|คาง,ความเชื่อ
+ตัดกรามมากไประวังบริวารหนี|Too much jaw reduction drives helpers away|กราม,ความเชื่อ
+เหลาโหนกแก้มลดอำนาจ|Shaving cheekbones lowers authority|โหนกแก้ม,ความเชื่อ
+ทำปากกระจับเสริมเสน่ห์|Cupid's-bow lips add charm|ปาก,ความเชื่อ
+ยกมุมปากให้ยิ้มเสริมโชค|Lifted mouth corners bring luck|มุมปาก,ความเชื่อ
+เปิดหว่างคิ้วให้โล่งดวงเปิด|A clear brow gap opens your luck|หว่างคิ้ว,ความเชื่อ
+ลบไฝร้ายแก้ดวง|Removing a bad mole changes your luck|ไฝ,ความเชื่อ
+สักคิ้วให้ยาวเสริมพี่น้อง|Tattoo longer brows for sibling luck|คิ้ว,ความเชื่อ
+ทำฟันให้เรียงพูดแล้วคนเชื่อ|Straight teeth make your word trusted|ฟัน,ความเชื่อ
+ศัลยกรรมเปลี่ยนดวงได้บางส่วน|Surgery changes your luck only in part|ดวง,ความเชื่อ
+ใจและการกระทำเปลี่ยนดวงมากกว่าหน้า|Heart and deeds change luck more than a face|ดวง,ความเชื่อ
+ดวงช่วงนี้เหมาะกับการเปลี่ยนแปลง|Your chart favours change now|ดวง,เปลี่ยนแปลง
+ดวงช่วงนี้ยังไม่เหมาะ|Your chart says not yet|ดวง,ควรรอ
+ดูดวงคู่กับหมอดูโหงวเฮ้ง|See a face reader as well|หมอดู,ความเชื่อ
+ฝันดีก่อนผ่าตัด|A good dream before surgery|ฝัน,ความเชื่อ
+ฝันร้ายก่อนผ่าตัดเลื่อนก่อน|A bad dream before surgery: postpone|ฝัน,ความเชื่อ
+""")
+
+cat('ผลต่อความรัก งาน และเงิน', """
+ทำแล้วความรักเข้ามา|Love arrives after surgery|ความรัก,ผลดี
+ทำแล้วแฟนชอบ|Your partner loves the result|ความรัก,ผลดี
+ทำแล้วแฟนไม่ชอบ|Your partner dislikes the result|ความรัก,ผลเสีย
+คนรักชอบหน้าเดิมมากกว่า|Your partner prefers your old face|ความรัก,ธรรมชาติ
+ทำแล้วมีคนเข้ามาจีบ|Admirers appear|ความรัก,เสน่ห์
+ทำแล้วงานรุ่ง|Your career takes off|การงาน,ผลดี
+หน้าใหม่เหมาะกับงานหน้ากล้อง|The new look suits on-camera work|การงาน,หน้ากล้อง
+ทำแล้วขายของดีขึ้น|Sales improve|การเงิน,ขายของ
+ทำแล้วรายได้เพิ่ม|Income rises|การเงิน,ผลดี
+ทำแล้วเงินหมดไปกับการแก้|Money drains away on revisions|การเงิน,ผลเสีย
+คุ้มกับเงินที่จ่าย|Worth the money|คุ้มค่า,ผลดี
+ไม่คุ้มกับเงินที่จ่าย|Not worth the money|ไม่คุ้มค่า,ผลเสีย
+ทำแล้วมั่นใจเข้าสังคม|More confident socially|สังคม,มั่นใจ
+มีคนนินทา|People gossip|สังคม,นินทา
+คนรอบตัวชมว่าสวยขึ้น|People say you look better|คนรอบตัว,ชม
+คนรอบตัวจำไม่ได้|People don't recognise you|คนรอบตัว,เปลี่ยน
+ครอบครัวรับได้|Your family accepts it|ครอบครัว,ยอมรับ
+ทำแล้วดูเป็นธรรมชาติ|It looks natural|ผลลัพธ์,ธรรมชาติ
+ทำแล้วดูเกินจริง|It looks overdone|ผลลัพธ์,มากเกินไป
+ทำแล้วดูอ่อนกว่าวัย|You look younger|ผลลัพธ์,อ่อนวัย
+ทำแล้วโหงวเฮ้งดีขึ้น|Your face reading improves|โหงวเฮ้ง,ดีขึ้น
+ทำแล้วโหงวเฮ้งแย่ลง|Your face reading gets worse|โหงวเฮ้ง,แย่ลง
+ทำแล้วชีวิตเหมือนเดิม|Life stays the same|ผลลัพธ์,เหมือนเดิม
+ทำแล้วได้เริ่มต้นใหม่|A fresh start|ผลลัพธ์,เริ่มใหม่
+ทำแล้วรักตัวเองมากขึ้น|You love yourself more|ใจ,รักตัวเอง
+""")
+
+cat('ดูแลหน้าแบบไม่ผ่าตัด', """
+ดูแลผิวดีกว่าผ่าตัด|Skincare beats surgery|ไม่ผ่าตัด,ผิว
+นอนพอหน้าใสดวงดี|Enough sleep brightens face and luck|นอน,สุขภาพ
+ดื่มน้ำมากหน้าสดใส|More water, fresher face|น้ำ,สุขภาพ
+ทาครีมกันแดดทุกวัน|Sunscreen every day|กันแดด,ข้อเท็จจริง
+แต่งหน้าเสริมโหงวเฮ้งแทน|Use makeup to enhance your features|แต่งหน้า,ทางเลือก
+ทรงผมใหม่เปลี่ยนหน้า|A new hairstyle changes your face|ทรงผม,ทางเลือก
+เปิดหน้าผากให้ดวงเปิด|Show your forehead to open your luck|ทรงผม,ความเชื่อ
+กันคิ้วให้เรียบดวงดี|Tidy brows, better luck|คิ้ว,ความเชื่อ
+นวดหน้ายกกระชับ|Facial massage firms the face|นวดหน้า,ทางเลือก
+กายบริหารใบหน้า|Face exercises|บริหารหน้า,ทางเลือก
+ออกกำลังกายหน้าเปล่งปลั่ง|Exercise gives you a glow|ออกกำลังกาย,สุขภาพ
+กินอาหารดีผิวดี|Good food, good skin|อาหาร,สุขภาพ
+ลดหวานลดมันหน้าไม่บวม|Less sugar and fat, less puffiness|อาหาร,สุขภาพ
+จัดฟันแทนวีเนียร์|Braces instead of veneers|ฟัน,ทางเลือก
+ยิ้มบ่อยเปลี่ยนโหงวเฮ้ง|Smiling often changes your face reading|รอยยิ้ม,ความเชื่อ
+ใจสงบหน้าก็สวย|A calm mind shows on your face|ใจ,ความงาม
+นั่งสมาธิหน้ามีราศี|Meditation brings a radiant face|สมาธิ,ความเชื่อ
+พบแพทย์ผิวหนังก่อน|See a dermatologist first|แพทย์ผิวหนัง,ข้อเท็จจริง
+รอให้สิวหายก่อนทำ|Clear your acne first|ผิว,ควรรอ
+ความงามจากข้างในสำคัญที่สุด|Inner beauty matters most|ใจ,ความงาม
+""")
+
+open(sys.argv[1], 'w', encoding='utf-8').write('\n'.join(out) + '\n')
+names = [l.split('|')[0] for l in out if not l.startswith('#')]
+d = [n for n, c in collections.Counter(names).items() if c > 1]
+print(len(names), 'dups', d)

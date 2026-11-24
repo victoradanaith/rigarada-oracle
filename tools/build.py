@@ -1,4 +1,4 @@
-"""Build index.html from data/ (25 decks) and tools/template.html.
+"""Build index.html from data/ (27 decks) and tools/template.html.
 
 Usage: python3 tools/build.py   (run from the repo root)
 """
@@ -39,14 +39,19 @@ DECKS = [
     ("Daily Life", "DALY", "ปัญหาอุปสรรคในชีวิตประจำวัน", "Everyday Ups & Downs", "daily-draft01.txt", False),
     ("Caution", "WARN", "สิ่งที่ต้องระวังในชีวิต", "Cautions & Misfortunes", "caution-draft01.txt", False),
     ("Investment", "INVT", "การลงทุน", "Investment", "investment-draft01.txt", False),
+    ("Car", "CARS", "ซื้อรถยนต์", "Buying a Car", "car-draft01.txt", False),
+    ("Face & Surgery", "FACE", "โหงวเฮ้งและศัลยกรรม", "Face Reading & Cosmetic Surgery", "face-draft01.txt", False),
 ]
 
 # decks that get a category dropdown (every card, or one category at a time)
-CAT_PICK = {"USTH", "SACR", "KARM", "THSC", "REME", "LOVE", "JOBS", "VISA", "HOME", "STDY", "LOOK", "MIND", "GUID", "TIME", "NUMB", "ZODI", "DALY", "WARN", "INVT"}
+CAT_PICK = {"USTH", "SACR", "KARM", "THSC", "REME", "LOVE", "JOBS", "VISA", "HOME", "STDY", "LOOK", "MIND", "GUID", "TIME", "NUMB", "ZODI", "DALY", "WARN", "INVT", "CARS", "FACE"}
 # decks whose one-line description (the meaning field) is printed on the card face
 SHOW_DESC = {"SACR"}
 # a short note shown under the deck name
-DECK_NOTE = {"INVT": "ไพ่สำหรับดูดวง ไม่ใช่คำแนะนำการลงทุน ก่อนลงเงินจริงควรศึกษาข้อมูลและปรึกษาผู้เชี่ยวชาญ"}
+DECK_NOTE = {
+    "INVT": "ไพ่สำหรับดูดวง ไม่ใช่คำแนะนำการลงทุน ก่อนลงเงินจริงควรศึกษาข้อมูลและปรึกษาผู้เชี่ยวชาญ",
+    "FACE": "ไพ่สำหรับดูดวง ไม่ใช่คำแนะนำทางการแพทย์ ก่อนทำศัลยกรรมควรปรึกษาแพทย์ที่มีใบอนุญาต",
+}
 # decks whose category is the opening phrase of every card name; the page colours that phrase differently
 LEAD_CAT = {"GUID"}
 
