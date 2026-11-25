@@ -1,0 +1,330 @@
+# ได้ / ไม่ได้
+ได้|Yes, you can|ได้,ฟันธง||
+ได้แน่นอน|Yes, for sure|ได้,ฟันธง||
+ได้ตามที่หวัง|Yes, as you hoped|ได้,ฟันธง||
+ได้แต่ต้องรอ|Yes, but you must wait|ได้,มีเงื่อนไข||
+ได้ถ้าลงมือเอง|Yes, if you do it yourself|ได้,มีเงื่อนไข||
+ไม่ได้|No, you can't|ไม่ได้,ฟันธง||
+ไม่ได้แน่นอน|No, for sure|ไม่ได้,ฟันธง||
+ไม่ได้ในตอนนี้|Not now|ไม่ได้,มีเงื่อนไข||
+ไม่ได้ตามที่หวัง|Not as you hoped|ไม่ได้,ค่อนข้าง||
+ได้ไม่ครบ|You get only part of it|ไม่ได้,ค่อนข้าง||
+# ควร / ไม่ควร
+ควร|You should|ควร,ฟันธง||
+ควรทำ|You should do it|ควร,ฟันธง||
+ควรอย่างยิ่ง|You really should|ควร,ฟันธง||
+ควรแต่ต้องระวัง|You should, but carefully|ควร,มีเงื่อนไข||
+ควรถ้าใจพร้อม|You should, if your heart is ready|ควร,มีเงื่อนไข||
+ไม่ควร|You shouldn't|ไม่ควร,ฟันธง||
+ไม่ควรทำ|Don't do it|ไม่ควร,ฟันธง||
+ไม่ควรเด็ดขาด|Absolutely not|ไม่ควร,ฟันธง||
+ไม่ควรในตอนนี้|Not right now|ไม่ควร,มีเงื่อนไข||
+ไม่ควรทำคนเดียว|Don't do it alone|ไม่ควร,มีเงื่อนไข||
+# ดี / ไม่ดี
+ดี|Good|ดี,ฟันธง||
+ดีมาก|Very good|ดี,ฟันธง||
+ดีกว่าที่คิด|Better than you think|ดี,ฟันธง||
+ดีขึ้นเรื่อยๆ|Getting better|ดี,ค่อนข้าง||
+ดีในระยะยาว|Good in the long run|ดี,มีเงื่อนไข||
+ไม่ดี|Not good|ไม่ดี,ฟันธง||
+ไม่ดีเลย|Not good at all|ไม่ดี,ฟันธง||
+แย่กว่าที่คิด|Worse than you think|ไม่ดี,ฟันธง||
+ไม่ดีในระยะยาว|Bad in the long run|ไม่ดี,มีเงื่อนไข||
+ดีแค่ตอนแรก|Good only at first|ไม่ดี,ค่อนข้าง||
+# ควรรอ / ทำเลย
+ควรรอ|Wait|ควรรอ,ฟันธง||
+รอก่อน|Hold on|ควรรอ,ฟันธง||
+รออีกนิด|Wait a little longer|ควรรอ,ค่อนข้าง||
+รอให้พร้อมกว่านี้|Wait until you're more ready|ควรรอ,มีเงื่อนไข||
+รอจังหวะที่ดีกว่า|Wait for a better moment|ควรรอ,มีเงื่อนไข||
+ทำเลย|Do it now|ทำเลย,ฟันธง||
+ลงมือได้ทันที|Go ahead right away|ทำเลย,ฟันธง||
+อย่ารอนาน|Don't wait long|ทำเลย,ค่อนข้าง||
+ทำตอนนี้ดีที่สุด|Now is the best time|ทำเลย,ฟันธง||
+ทำเลยแต่ค่อยๆ ไป|Start now, go slowly|ทำเลย,มีเงื่อนไข||
+# ยาก / ง่าย
+ยาก|Hard|ยาก,ฟันธง||
+ยากมาก|Very hard|ยาก,ฟันธง||
+ยากกว่าที่คิด|Harder than you think|ยาก,ฟันธง||
+ยากตอนแรก|Hard at first|ยาก,มีเงื่อนไข||
+ยากแต่ไม่เกินตัว|Hard but within reach|ยาก,ค่อนข้าง||
+ง่าย|Easy|ง่าย,ฟันธง||
+ง่ายมาก|Very easy|ง่าย,ฟันธง||
+ง่ายกว่าที่คิด|Easier than you think|ง่าย,ฟันธง||
+ง่ายถ้ามีคนช่วย|Easy with help|ง่าย,มีเงื่อนไข||
+ง่ายแต่อย่าประมาท|Easy, but don't be careless|ง่าย,ค่อนข้าง||
+# เหนื่อย / ไม่เหนื่อย
+เหนื่อย|Tiring|เหนื่อย,ฟันธง||
+เหนื่อยมาก|Very tiring|เหนื่อย,ฟันธง||
+เหนื่อยกาย|Tiring for the body|เหนื่อย,ค่อนข้าง||
+เหนื่อยใจ|Tiring for the heart|เหนื่อย,ค่อนข้าง||
+เหนื่อยแต่คุ้ม|Tiring but worth it|เหนื่อย,มีเงื่อนไข||
+ไม่เหนื่อย|Not tiring|ไม่เหนื่อย,ฟันธง||
+สบาย|Easy going|ไม่เหนื่อย,ฟันธง||
+ไม่เหนื่อยอย่างที่กลัว|Less tiring than you feared|ไม่เหนื่อย,ค่อนข้าง||
+เหนื่อยแค่ช่วงแรก|Tiring only at the start|ไม่เหนื่อย,มีเงื่อนไข||
+มีคนช่วยแบ่งเบา|Someone shares the load|ไม่เหนื่อย,ค่อนข้าง||
+# จบ / ไม่จบ
+จบ|It ends|จบ,ฟันธง||
+จบแน่นอน|It surely ends|จบ,ฟันธง||
+จบด้วยดี|It ends well|จบ,ฟันธง||
+จบเร็วกว่าที่คิด|It ends sooner than you think|จบ,ค่อนข้าง||
+จบแบบไม่สวย|It ends, but not nicely|จบ,มีเงื่อนไข||
+ไม่จบ|It doesn't end|ไม่จบ,ฟันธง||
+ยังไม่จบ|Not over yet|ไม่จบ,ฟันธง||
+ไม่จบง่ายๆ|It won't end easily|ไม่จบ,ค่อนข้าง||
+จบแล้วกลับมาใหม่|It ends, then comes back|ไม่จบ,มีเงื่อนไข||
+ยืดเยื้อ|It drags on|ไม่จบ,ค่อนข้าง||
+# นาน / ไม่นาน
+นาน|A long time|นาน,ฟันธง||
+นานมาก|A very long time|นาน,ฟันธง||
+นานกว่าที่คิด|Longer than you think|นาน,ฟันธง||
+นานเป็นปี|Years|นาน,ค่อนข้าง||
+นานเป็นเดือน|Months|นาน,ค่อนข้าง||
+ไม่นาน|Not long|ไม่นาน,ฟันธง||
+เร็วๆ นี้|Soon|ไม่นาน,ฟันธง||
+ไม่นานเกินรอ|Not too long to wait|ไม่นาน,ค่อนข้าง||
+ไม่กี่วัน|A few days|ไม่นาน,ค่อนข้าง||
+ไม่กี่สัปดาห์|A few weeks|ไม่นาน,ค่อนข้าง||
+# เสียเวลา / ไม่เสียเวลา
+เสียเวลา|A waste of time|เสียเวลา,ฟันธง||
+เสียเวลาเปล่า|Time wasted for nothing|เสียเวลา,ฟันธง||
+เสียเวลามากกว่าที่คิด|Takes more time than you think|เสียเวลา,ค่อนข้าง||
+เสียเวลาไปกับคนผิด|Time spent on the wrong person|เสียเวลา,ค่อนข้าง||
+เสียเวลาแต่ได้บทเรียน|Time lost, lesson learned|เสียเวลา,มีเงื่อนไข||
+ไม่เสียเวลา|Not a waste of time|ไม่เสียเวลา,ฟันธง||
+คุ้มเวลา|Worth the time|ไม่เสียเวลา,ฟันธง||
+ใช้เวลาน้อย|Takes little time|ไม่เสียเวลา,ค่อนข้าง||
+เวลาที่ใช้ไม่สูญเปล่า|The time isn't wasted|ไม่เสียเวลา,ฟันธง||
+ไม่เสียเวลาถ้าตั้งใจ|Not wasted if you commit|ไม่เสียเวลา,มีเงื่อนไข||
+# เปลือง / ไม่เปลือง
+เปลือง|Costly|เปลือง,ฟันธง||
+เปลืองมาก|Very costly|เปลือง,ฟันธง||
+เปลืองเงิน|Costs money|เปลือง,ค่อนข้าง||
+เปลืองแรง|Costs effort|เปลือง,ค่อนข้าง||
+เปลืองกว่างบที่ตั้งไว้|Over budget|เปลือง,มีเงื่อนไข||
+ไม่เปลือง|Not costly|ไม่เปลือง,ฟันธง||
+ประหยัด|Saves money|ไม่เปลือง,ฟันธง||
+อยู่ในงบ|Within budget|ไม่เปลือง,ค่อนข้าง||
+จ่ายน้อยได้มาก|Pay little, get a lot|ไม่เปลือง,ฟันธง||
+ไม่เปลืองถ้าวางแผนดี|Not costly if you plan well|ไม่เปลือง,มีเงื่อนไข||
+# เบื่อ / ไม่เบื่อ
+เบื่อ|Boring|เบื่อ,ฟันธง||
+เบื่อมาก|Very boring|เบื่อ,ฟันธง||
+เบื่อเร็ว|You get bored fast|เบื่อ,ค่อนข้าง||
+เบื่อแต่ต้องทน|Boring but you must stick with it|เบื่อ,มีเงื่อนไข||
+หมดไฟ|Burned out|เบื่อ,ค่อนข้าง||
+ไม่เบื่อ|Not boring|ไม่เบื่อ,ฟันธง||
+สนุก|Fun|ไม่เบื่อ,ฟันธง||
+ยิ่งทำยิ่งชอบ|The more you do it, the more you like it|ไม่เบื่อ,ค่อนข้าง||
+มีเรื่องใหม่ให้ตื่นเต้น|Something new to enjoy|ไม่เบื่อ,ค่อนข้าง||
+ไม่เบื่อถ้าเปลี่ยนวิธี|Not boring if you change your way|ไม่เบื่อ,มีเงื่อนไข||
+# เจ็บ / ไม่เจ็บ
+เจ็บ|It hurts|เจ็บ,ฟันธง||
+เจ็บมาก|It hurts a lot|เจ็บ,ฟันธง||
+เจ็บใจ|It hurts your feelings|เจ็บ,ค่อนข้าง||
+เจ็บแต่ไม่นาน|It hurts, but not for long|เจ็บ,มีเงื่อนไข||
+เจ็บแต่ได้เรียนรู้|It hurts, but you learn|เจ็บ,มีเงื่อนไข||
+ไม่เจ็บ|It doesn't hurt|ไม่เจ็บ,ฟันธง||
+ไม่เจ็บตัว|No harm to you|ไม่เจ็บ,ฟันธง||
+ไม่เจ็บใจ|No hurt feelings|ไม่เจ็บ,ค่อนข้าง||
+เจ็บน้อยกว่าที่กลัว|Hurts less than you feared|ไม่เจ็บ,ค่อนข้าง||
+ไม่เจ็บถ้ารู้ทัน|No hurt if you see it coming|ไม่เจ็บ,มีเงื่อนไข||
+# ทน / ไม่ทน
+ทน|You can endure it|ทน,ฟันธง||
+ทนได้|You can bear it|ทน,ฟันธง||
+ทนได้อีกนาน|You can bear it a long while|ทน,ค่อนข้าง||
+ทนไปก่อน|Hold on for now|ทน,มีเงื่อนไข||
+ใจแข็งพอ|Your heart is strong enough|ทน,ค่อนข้าง||
+ไม่ทน|You can't endure it|ไม่ทน,ฟันธง||
+ทนไม่ไหว|Too much to bear|ไม่ทน,ฟันธง||
+ไม่ต้องทน|You don't have to put up with it|ไม่ทน,ฟันธง||
+ทนได้อีกไม่นาน|You can't bear it much longer|ไม่ทน,ค่อนข้าง||
+ทนแล้วเสียมากกว่าได้|Enduring costs more than it gives|ไม่ทน,มีเงื่อนไข||
+# แพ้ / ชนะ
+ชนะ|You win|ชนะ,ฟันธง||
+ชนะขาด|A clear win|ชนะ,ฟันธง||
+ชนะแบบเฉียดฉิว|A narrow win|ชนะ,ค่อนข้าง||
+ชนะในที่สุด|You win in the end|ชนะ,มีเงื่อนไข||
+ชนะใจคน|You win people over|ชนะ,ค่อนข้าง||
+แพ้|You lose|แพ้,ฟันธง||
+แพ้ขาด|A clear loss|แพ้,ฟันธง||
+แพ้แบบเฉียดฉิว|A narrow loss|แพ้,ค่อนข้าง||
+แพ้ก่อนแล้วชนะทีหลัง|Lose first, win later|แพ้,มีเงื่อนไข||
+เสมอ|A draw|เสมอ,กลาง||
+# ใช่ / ไม่ใช่
+ใช่|Yes|ใช่,ฟันธง||
+ใช่เลย|That's it|ใช่,ฟันธง||
+ใช่แน่นอน|Definitely yes|ใช่,ฟันธง||
+น่าจะใช่|Probably yes|ใช่,ค่อนข้าง||
+ใช่แต่ยังไม่ทั้งหมด|Yes, but not all of it|ใช่,มีเงื่อนไข||
+ไม่ใช่|No|ไม่ใช่,ฟันธง||
+ไม่ใช่เลย|Not at all|ไม่ใช่,ฟันธง||
+ไม่ใช่แน่นอน|Definitely not|ไม่ใช่,ฟันธง||
+น่าจะไม่ใช่|Probably not|ไม่ใช่,ค่อนข้าง||
+ไม่ใช่สิ่งที่คิด|Not what you think|ไม่ใช่,ค่อนข้าง||
+# จริง / ไม่จริง
+จริง|True|จริง,ฟันธง||
+จริงทุกอย่าง|All true|จริง,ฟันธง||
+จริงใจ|Sincere|จริง,ค่อนข้าง||
+จริงแค่ครึ่งเดียว|Only half true|จริง,มีเงื่อนไข||
+เรื่องจริงจะเปิดเผย|The truth will come out|จริง,ค่อนข้าง||
+ไม่จริง|Not true|ไม่จริง,ฟันธง||
+โกหก|A lie|ไม่จริง,ฟันธง||
+มีเรื่องปิดบัง|Something is hidden|ไม่จริง,ค่อนข้าง||
+พูดเกินจริง|Exaggerated|ไม่จริง,ค่อนข้าง||
+ไม่จริงใจ|Not sincere|ไม่จริง,ฟันธง||
+# สำเร็จ / ไม่สำเร็จ
+สำเร็จ|Success|สำเร็จ,ฟันธง||
+สำเร็จแน่นอน|Sure success|สำเร็จ,ฟันธง||
+สำเร็จเกินคาด|Success beyond hopes|สำเร็จ,ฟันธง||
+สำเร็จช้าแต่ชัวร์|Slow but sure success|สำเร็จ,มีเงื่อนไข||
+สำเร็จถ้าไม่ล้มเลิก|Success if you don't give up|สำเร็จ,มีเงื่อนไข||
+ไม่สำเร็จ|No success|ไม่สำเร็จ,ฟันธง||
+ล้มเหลว|It fails|ไม่สำเร็จ,ฟันธง||
+ไม่สำเร็จรอบนี้|Not this time|ไม่สำเร็จ,มีเงื่อนไข||
+สำเร็จแค่บางส่วน|Partial success|ไม่สำเร็จ,ค่อนข้าง||
+ค้างครึ่งทาง|Stuck halfway|ไม่สำเร็จ,ค่อนข้าง||
+# คุ้ม / ไม่คุ้ม
+คุ้ม|Worth it|คุ้ม,ฟันธง||
+คุ้มมาก|Very worth it|คุ้ม,ฟันธง||
+คุ้มค่าทุกบาท|Worth every baht|คุ้ม,ฟันธง||
+คุ้มในระยะยาว|Worth it in the long run|คุ้ม,มีเงื่อนไข||
+คุ้มเสี่ยง|Worth the risk|คุ้ม,ค่อนข้าง||
+ไม่คุ้ม|Not worth it|ไม่คุ้ม,ฟันธง||
+ไม่คุ้มเลย|Not worth it at all|ไม่คุ้ม,ฟันธง||
+ไม่คุ้มเสี่ยง|Not worth the risk|ไม่คุ้ม,ค่อนข้าง||
+ได้ไม่คุ้มเสีย|You lose more than you gain|ไม่คุ้ม,ฟันธง||
+คุ้มแค่ช่วงสั้น|Worth it only briefly|ไม่คุ้ม,มีเงื่อนไข||
+# เร็ว / ช้า
+เร็ว|Fast|เร็ว,ฟันธง||
+เร็วมาก|Very fast|เร็ว,ฟันธง||
+เร็วกว่าที่คิด|Faster than you think|เร็ว,ฟันธง||
+เร็วทันใจ|As fast as you want|เร็ว,ค่อนข้าง||
+เร็วถ้ารีบลงมือ|Fast if you start now|เร็ว,มีเงื่อนไข||
+ช้า|Slow|ช้า,ฟันธง||
+ช้ามาก|Very slow|ช้า,ฟันธง||
+ช้ากว่าที่คิด|Slower than you think|ช้า,ฟันธง||
+ช้าแต่มาแน่|Slow but it will come|ช้า,มีเงื่อนไข||
+ติดขัดล่าช้า|Delayed by obstacles|ช้า,ค่อนข้าง||
+# รอด / ไม่รอด
+รอด|You get through|รอด,ฟันธง||
+รอดแน่นอน|You surely get through|รอด,ฟันธง||
+รอดหวุดหวิด|You barely get through|รอด,ค่อนข้าง||
+รอดเพราะมีคนช่วย|You get through with help|รอด,มีเงื่อนไข||
+รอดถ้าตั้งสติ|You get through if you stay calm|รอด,มีเงื่อนไข||
+ไม่รอด|You don't get through|ไม่รอด,ฟันธง||
+ไปไม่รอด|It won't survive|ไม่รอด,ฟันธง||
+รอดยาก|Hard to get through|ไม่รอด,ค่อนข้าง||
+ไม่รอดถ้าไม่เปลี่ยน|Won't survive unless something changes|ไม่รอด,มีเงื่อนไข||
+รอดตัวแต่เสียหาย|You get out, with losses|ไม่รอด,ค่อนข้าง||
+# ไป / ไม่ไป
+ไป|Go|ไป,ฟันธง||
+ไปเลย|Just go|ไป,ฟันธง||
+ไปแล้วดี|Going is good|ไป,ฟันธง||
+ไปได้แต่อย่าไปคนเดียว|Go, but not alone|ไป,มีเงื่อนไข||
+ไปแล้วได้เจอสิ่งดี|You'll find something good there|ไป,ค่อนข้าง||
+ไม่ไป|Don't go|ไม่ไป,ฟันธง||
+อย่าไป|Stay away|ไม่ไป,ฟันธง||
+อยู่ที่เดิมดีกว่า|Better to stay where you are|ไม่ไป,ค่อนข้าง||
+ยังไม่ถึงเวลาไป|Not time to go yet|ไม่ไป,มีเงื่อนไข||
+ไปแล้วเสียมากกว่าได้|Going costs more than it gives|ไม่ไป,ค่อนข้าง||
+# เอา / ไม่เอา
+เอา|Take it|เอา,ฟันธง||
+เอาเลย|Go for it|เอา,ฟันธง||
+รับไว้|Accept it|เอา,ฟันธง||
+เอาแต่ต่อรองก่อน|Take it, but negotiate first|เอา,มีเงื่อนไข||
+เอาถ้ายังอยากได้อยู่|Take it if you still want it|เอา,มีเงื่อนไข||
+ไม่เอา|Don't take it|ไม่เอา,ฟันธง||
+ปฏิเสธ|Say no|ไม่เอา,ฟันธง||
+ปล่อยไป|Let it go|ไม่เอา,ฟันธง||
+ยังไม่เอา|Not for now|ไม่เอา,มีเงื่อนไข||
+มีของที่ดีกว่ารออยู่|Something better is coming|ไม่เอา,ค่อนข้าง||
+# ทำต่อ / พอแค่นี้
+ทำต่อ|Keep going|ทำต่อ,ฟันธง||
+อย่าเพิ่งยอมแพ้|Don't give up yet|ทำต่อ,ฟันธง||
+ใกล้ถึงแล้ว|You're almost there|ทำต่อ,ฟันธง||
+ทำต่อแต่ปรับวิธี|Keep going, but change your way|ทำต่อ,มีเงื่อนไข||
+พักแล้วค่อยทำต่อ|Rest, then go on|ทำต่อ,มีเงื่อนไข||
+พอแค่นี้|Stop here|พอ,ฟันธง||
+พอได้แล้ว|Enough|พอ,ฟันธง||
+ถอยดีกว่า|Better to step back|พอ,ฟันธง||
+หยุดก่อนจะเสียมากกว่านี้|Stop before you lose more|พอ,ค่อนข้าง||
+จบแค่นี้แล้วเริ่มใหม่|End it here and start fresh|พอ,มีเงื่อนไข||
+# มา / ไม่มา
+มา|It comes|มา,ฟันธง||
+มาแน่|It will surely come|มา,ฟันธง||
+มาเร็วๆ นี้|Coming soon|มา,ฟันธง||
+มาแต่ช้า|It comes, but late|มา,มีเงื่อนไข||
+มาไม่ครบ|Only part of it comes|มา,ค่อนข้าง||
+ไม่มา|It doesn't come|ไม่มา,ฟันธง||
+ไม่มาแน่นอน|It surely won't come|ไม่มา,ฟันธง||
+ยังไม่มา|Not yet|ไม่มา,มีเงื่อนไข||
+เลื่อนออกไป|Postponed|ไม่มา,ค่อนข้าง||
+มาแล้วไปเร็ว|Comes and goes quickly|ไม่มา,ค่อนข้าง||
+# กลับมา / ไม่กลับมา
+กลับมา|It comes back|กลับมา,ฟันธง||
+กลับมาแน่|It will surely come back|กลับมา,ฟันธง||
+กลับมาดีกว่าเดิม|Comes back better than before|กลับมา,ฟันธง||
+กลับมาแต่ไม่เหมือนเดิม|Comes back, but not the same|กลับมา,มีเงื่อนไข||
+กลับมาเมื่อพร้อม|Comes back when ready|กลับมา,มีเงื่อนไข||
+ไม่กลับมา|It doesn't come back|ไม่กลับมา,ฟันธง||
+ไม่กลับมาแล้ว|Gone for good|ไม่กลับมา,ฟันธง||
+อย่ารอ|Don't wait for it|ไม่กลับมา,ฟันธง||
+ไปแล้วไปเลย|Once gone, it's gone|ไม่กลับมา,ค่อนข้าง||
+กลับมาแค่ชั่วคราว|Back only for a while|ไม่กลับมา,ค่อนข้าง||
+# ผ่าน / ไม่ผ่าน
+ผ่าน|You pass|ผ่าน,ฟันธง||
+ผ่านฉลุย|You pass with ease|ผ่าน,ฟันธง||
+ผ่านแน่นอน|You surely pass|ผ่าน,ฟันธง||
+ผ่านแบบเฉียดฉิว|You just pass|ผ่าน,ค่อนข้าง||
+ผ่านถ้าเตรียมตัวดี|You pass if well prepared|ผ่าน,มีเงื่อนไข||
+ไม่ผ่าน|You don't pass|ไม่ผ่าน,ฟันธง||
+ตก|You fail|ไม่ผ่าน,ฟันธง||
+ไม่ผ่านรอบนี้|Not this round|ไม่ผ่าน,มีเงื่อนไข||
+ต้องแก้ไขก่อน|Needs fixing first|ไม่ผ่าน,ค่อนข้าง||
+ติดเงื่อนไข|Held up by conditions|ไม่ผ่าน,ค่อนข้าง||
+# รุ่ง / ร่วง
+รุ่ง|Rising|รุ่ง,ฟันธง||
+รุ่งเรือง|Thriving|รุ่ง,ฟันธง||
+ขาขึ้น|On the way up|รุ่ง,ฟันธง||
+รุ่งช้าแต่มั่นคง|Slow, steady rise|รุ่ง,มีเงื่อนไข||
+รุ่งหลังจากลำบาก|Rising after hardship|รุ่ง,มีเงื่อนไข||
+ร่วง|Falling|ร่วง,ฟันธง||
+ขาลง|On the way down|ร่วง,ฟันธง||
+ทรงตัว|Holding steady|ทรงตัว,กลาง||
+ร่วงแล้วลุกได้|Falls, then rises again|ร่วง,มีเงื่อนไข||
+รุ่งแค่ชั่วคราว|Rises only for a while|ร่วง,ค่อนข้าง||
+# เปลี่ยน / ไม่เปลี่ยน
+เปลี่ยน|Change|เปลี่ยน,ฟันธง||
+เปลี่ยนเลย|Change now|เปลี่ยน,ฟันธง||
+ถึงเวลาเปลี่ยน|Time for a change|เปลี่ยน,ฟันธง||
+เปลี่ยนแล้วดีขึ้น|Change brings better things|เปลี่ยน,ค่อนข้าง||
+เปลี่ยนทีละนิด|Change little by little|เปลี่ยน,มีเงื่อนไข||
+ไม่เปลี่ยน|Don't change|ไม่เปลี่ยน,ฟันธง||
+อยู่แบบเดิม|Stay as you are|ไม่เปลี่ยน,ฟันธง||
+ของเดิมดีอยู่แล้ว|What you have is already good|ไม่เปลี่ยน,ฟันธง||
+เขาไม่เปลี่ยน|They won't change|ไม่เปลี่ยน,ค่อนข้าง||
+ยังไม่ถึงเวลาเปลี่ยน|Not time to change yet|ไม่เปลี่ยน,มีเงื่อนไข||
+# พูด / เงียบ
+พูด|Speak up|พูด,ฟันธง||
+บอกไปเลย|Tell them|พูด,ฟันธง||
+พูดตรงๆ|Say it straight|พูด,ฟันธง||
+พูดแต่เลือกคำ|Speak, but choose your words|พูด,มีเงื่อนไข||
+พูดเมื่อใจเย็น|Speak when you're calm|พูด,มีเงื่อนไข||
+เงียบ|Stay quiet|เงียบ,ฟันธง||
+อย่าเพิ่งบอก|Don't tell yet|เงียบ,ฟันธง||
+เก็บไว้ในใจ|Keep it to yourself|เงียบ,ฟันธง||
+ฟังก่อนพูด|Listen before speaking|เงียบ,ค่อนข้าง||
+รอให้เขาพูดก่อน|Let them speak first|เงียบ,มีเงื่อนไข||
+# เมื่อไร
+วันนี้|Today|เวลา,เร็ว||
+พรุ่งนี้|Tomorrow|เวลา,เร็ว||
+สัปดาห์นี้|This week|เวลา,เร็ว||
+เดือนนี้|This month|เวลา,เร็ว||
+ภายใน 3 เดือน|Within 3 months|เวลา,กลาง||
+ภายใน 6 เดือน|Within 6 months|เวลา,กลาง||
+ปีนี้|This year|เวลา,กลาง||
+ปีหน้า|Next year|เวลา,นาน||
+อีกหลายปี|Many years from now|เวลา,นาน||
+ยังไม่ถึงเวลา|Not time yet|เวลา,นาน||

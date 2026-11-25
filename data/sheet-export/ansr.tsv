@@ -1,0 +1,300 @@
+ANSR-001	ได้ / ไม่ได้	ได้	Yes, you can	ได้,ฟันธง		
+ANSR-002	ได้ / ไม่ได้	ได้แน่นอน	Yes, for sure	ได้,ฟันธง		
+ANSR-003	ได้ / ไม่ได้	ได้ตามที่หวัง	Yes, as you hoped	ได้,ฟันธง		
+ANSR-004	ได้ / ไม่ได้	ได้แต่ต้องรอ	Yes, but you must wait	ได้,มีเงื่อนไข		
+ANSR-005	ได้ / ไม่ได้	ได้ถ้าลงมือเอง	Yes, if you do it yourself	ได้,มีเงื่อนไข		
+ANSR-006	ได้ / ไม่ได้	ไม่ได้	No, you can't	ไม่ได้,ฟันธง		
+ANSR-007	ได้ / ไม่ได้	ไม่ได้แน่นอน	No, for sure	ไม่ได้,ฟันธง		
+ANSR-008	ได้ / ไม่ได้	ไม่ได้ในตอนนี้	Not now	ไม่ได้,มีเงื่อนไข		
+ANSR-009	ได้ / ไม่ได้	ไม่ได้ตามที่หวัง	Not as you hoped	ไม่ได้,ค่อนข้าง		
+ANSR-010	ได้ / ไม่ได้	ได้ไม่ครบ	You get only part of it	ไม่ได้,ค่อนข้าง		
+ANSR-011	ควร / ไม่ควร	ควร	You should	ควร,ฟันธง		
+ANSR-012	ควร / ไม่ควร	ควรทำ	You should do it	ควร,ฟันธง		
+ANSR-013	ควร / ไม่ควร	ควรอย่างยิ่ง	You really should	ควร,ฟันธง		
+ANSR-014	ควร / ไม่ควร	ควรแต่ต้องระวัง	You should, but carefully	ควร,มีเงื่อนไข		
+ANSR-015	ควร / ไม่ควร	ควรถ้าใจพร้อม	You should, if your heart is ready	ควร,มีเงื่อนไข		
+ANSR-016	ควร / ไม่ควร	ไม่ควร	You shouldn't	ไม่ควร,ฟันธง		
+ANSR-017	ควร / ไม่ควร	ไม่ควรทำ	Don't do it	ไม่ควร,ฟันธง		
+ANSR-018	ควร / ไม่ควร	ไม่ควรเด็ดขาด	Absolutely not	ไม่ควร,ฟันธง		
+ANSR-019	ควร / ไม่ควร	ไม่ควรในตอนนี้	Not right now	ไม่ควร,มีเงื่อนไข		
+ANSR-020	ควร / ไม่ควร	ไม่ควรทำคนเดียว	Don't do it alone	ไม่ควร,มีเงื่อนไข		
+ANSR-021	ดี / ไม่ดี	ดี	Good	ดี,ฟันธง		
+ANSR-022	ดี / ไม่ดี	ดีมาก	Very good	ดี,ฟันธง		
+ANSR-023	ดี / ไม่ดี	ดีกว่าที่คิด	Better than you think	ดี,ฟันธง		
+ANSR-024	ดี / ไม่ดี	ดีขึ้นเรื่อยๆ	Getting better	ดี,ค่อนข้าง		
+ANSR-025	ดี / ไม่ดี	ดีในระยะยาว	Good in the long run	ดี,มีเงื่อนไข		
+ANSR-026	ดี / ไม่ดี	ไม่ดี	Not good	ไม่ดี,ฟันธง		
+ANSR-027	ดี / ไม่ดี	ไม่ดีเลย	Not good at all	ไม่ดี,ฟันธง		
+ANSR-028	ดี / ไม่ดี	แย่กว่าที่คิด	Worse than you think	ไม่ดี,ฟันธง		
+ANSR-029	ดี / ไม่ดี	ไม่ดีในระยะยาว	Bad in the long run	ไม่ดี,มีเงื่อนไข		
+ANSR-030	ดี / ไม่ดี	ดีแค่ตอนแรก	Good only at first	ไม่ดี,ค่อนข้าง		
+ANSR-031	ควรรอ / ทำเลย	ควรรอ	Wait	ควรรอ,ฟันธง		
+ANSR-032	ควรรอ / ทำเลย	รอก่อน	Hold on	ควรรอ,ฟันธง		
+ANSR-033	ควรรอ / ทำเลย	รออีกนิด	Wait a little longer	ควรรอ,ค่อนข้าง		
+ANSR-034	ควรรอ / ทำเลย	รอให้พร้อมกว่านี้	Wait until you're more ready	ควรรอ,มีเงื่อนไข		
+ANSR-035	ควรรอ / ทำเลย	รอจังหวะที่ดีกว่า	Wait for a better moment	ควรรอ,มีเงื่อนไข		
+ANSR-036	ควรรอ / ทำเลย	ทำเลย	Do it now	ทำเลย,ฟันธง		
+ANSR-037	ควรรอ / ทำเลย	ลงมือได้ทันที	Go ahead right away	ทำเลย,ฟันธง		
+ANSR-038	ควรรอ / ทำเลย	อย่ารอนาน	Don't wait long	ทำเลย,ค่อนข้าง		
+ANSR-039	ควรรอ / ทำเลย	ทำตอนนี้ดีที่สุด	Now is the best time	ทำเลย,ฟันธง		
+ANSR-040	ควรรอ / ทำเลย	ทำเลยแต่ค่อยๆ ไป	Start now, go slowly	ทำเลย,มีเงื่อนไข		
+ANSR-041	ยาก / ง่าย	ยาก	Hard	ยาก,ฟันธง		
+ANSR-042	ยาก / ง่าย	ยากมาก	Very hard	ยาก,ฟันธง		
+ANSR-043	ยาก / ง่าย	ยากกว่าที่คิด	Harder than you think	ยาก,ฟันธง		
+ANSR-044	ยาก / ง่าย	ยากตอนแรก	Hard at first	ยาก,มีเงื่อนไข		
+ANSR-045	ยาก / ง่าย	ยากแต่ไม่เกินตัว	Hard but within reach	ยาก,ค่อนข้าง		
+ANSR-046	ยาก / ง่าย	ง่าย	Easy	ง่าย,ฟันธง		
+ANSR-047	ยาก / ง่าย	ง่ายมาก	Very easy	ง่าย,ฟันธง		
+ANSR-048	ยาก / ง่าย	ง่ายกว่าที่คิด	Easier than you think	ง่าย,ฟันธง		
+ANSR-049	ยาก / ง่าย	ง่ายถ้ามีคนช่วย	Easy with help	ง่าย,มีเงื่อนไข		
+ANSR-050	ยาก / ง่าย	ง่ายแต่อย่าประมาท	Easy, but don't be careless	ง่าย,ค่อนข้าง		
+ANSR-051	เหนื่อย / ไม่เหนื่อย	เหนื่อย	Tiring	เหนื่อย,ฟันธง		
+ANSR-052	เหนื่อย / ไม่เหนื่อย	เหนื่อยมาก	Very tiring	เหนื่อย,ฟันธง		
+ANSR-053	เหนื่อย / ไม่เหนื่อย	เหนื่อยกาย	Tiring for the body	เหนื่อย,ค่อนข้าง		
+ANSR-054	เหนื่อย / ไม่เหนื่อย	เหนื่อยใจ	Tiring for the heart	เหนื่อย,ค่อนข้าง		
+ANSR-055	เหนื่อย / ไม่เหนื่อย	เหนื่อยแต่คุ้ม	Tiring but worth it	เหนื่อย,มีเงื่อนไข		
+ANSR-056	เหนื่อย / ไม่เหนื่อย	ไม่เหนื่อย	Not tiring	ไม่เหนื่อย,ฟันธง		
+ANSR-057	เหนื่อย / ไม่เหนื่อย	สบาย	Easy going	ไม่เหนื่อย,ฟันธง		
+ANSR-058	เหนื่อย / ไม่เหนื่อย	ไม่เหนื่อยอย่างที่กลัว	Less tiring than you feared	ไม่เหนื่อย,ค่อนข้าง		
+ANSR-059	เหนื่อย / ไม่เหนื่อย	เหนื่อยแค่ช่วงแรก	Tiring only at the start	ไม่เหนื่อย,มีเงื่อนไข		
+ANSR-060	เหนื่อย / ไม่เหนื่อย	มีคนช่วยแบ่งเบา	Someone shares the load	ไม่เหนื่อย,ค่อนข้าง		
+ANSR-061	จบ / ไม่จบ	จบ	It ends	จบ,ฟันธง		
+ANSR-062	จบ / ไม่จบ	จบแน่นอน	It surely ends	จบ,ฟันธง		
+ANSR-063	จบ / ไม่จบ	จบด้วยดี	It ends well	จบ,ฟันธง		
+ANSR-064	จบ / ไม่จบ	จบเร็วกว่าที่คิด	It ends sooner than you think	จบ,ค่อนข้าง		
+ANSR-065	จบ / ไม่จบ	จบแบบไม่สวย	It ends, but not nicely	จบ,มีเงื่อนไข		
+ANSR-066	จบ / ไม่จบ	ไม่จบ	It doesn't end	ไม่จบ,ฟันธง		
+ANSR-067	จบ / ไม่จบ	ยังไม่จบ	Not over yet	ไม่จบ,ฟันธง		
+ANSR-068	จบ / ไม่จบ	ไม่จบง่ายๆ	It won't end easily	ไม่จบ,ค่อนข้าง		
+ANSR-069	จบ / ไม่จบ	จบแล้วกลับมาใหม่	It ends, then comes back	ไม่จบ,มีเงื่อนไข		
+ANSR-070	จบ / ไม่จบ	ยืดเยื้อ	It drags on	ไม่จบ,ค่อนข้าง		
+ANSR-071	นาน / ไม่นาน	นาน	A long time	นาน,ฟันธง		
+ANSR-072	นาน / ไม่นาน	นานมาก	A very long time	นาน,ฟันธง		
+ANSR-073	นาน / ไม่นาน	นานกว่าที่คิด	Longer than you think	นาน,ฟันธง		
+ANSR-074	นาน / ไม่นาน	นานเป็นปี	Years	นาน,ค่อนข้าง		
+ANSR-075	นาน / ไม่นาน	นานเป็นเดือน	Months	นาน,ค่อนข้าง		
+ANSR-076	นาน / ไม่นาน	ไม่นาน	Not long	ไม่นาน,ฟันธง		
+ANSR-077	นาน / ไม่นาน	เร็วๆ นี้	Soon	ไม่นาน,ฟันธง		
+ANSR-078	นาน / ไม่นาน	ไม่นานเกินรอ	Not too long to wait	ไม่นาน,ค่อนข้าง		
+ANSR-079	นาน / ไม่นาน	ไม่กี่วัน	A few days	ไม่นาน,ค่อนข้าง		
+ANSR-080	นาน / ไม่นาน	ไม่กี่สัปดาห์	A few weeks	ไม่นาน,ค่อนข้าง		
+ANSR-081	เสียเวลา / ไม่เสียเวลา	เสียเวลา	A waste of time	เสียเวลา,ฟันธง		
+ANSR-082	เสียเวลา / ไม่เสียเวลา	เสียเวลาเปล่า	Time wasted for nothing	เสียเวลา,ฟันธง		
+ANSR-083	เสียเวลา / ไม่เสียเวลา	เสียเวลามากกว่าที่คิด	Takes more time than you think	เสียเวลา,ค่อนข้าง		
+ANSR-084	เสียเวลา / ไม่เสียเวลา	เสียเวลาไปกับคนผิด	Time spent on the wrong person	เสียเวลา,ค่อนข้าง		
+ANSR-085	เสียเวลา / ไม่เสียเวลา	เสียเวลาแต่ได้บทเรียน	Time lost, lesson learned	เสียเวลา,มีเงื่อนไข		
+ANSR-086	เสียเวลา / ไม่เสียเวลา	ไม่เสียเวลา	Not a waste of time	ไม่เสียเวลา,ฟันธง		
+ANSR-087	เสียเวลา / ไม่เสียเวลา	คุ้มเวลา	Worth the time	ไม่เสียเวลา,ฟันธง		
+ANSR-088	เสียเวลา / ไม่เสียเวลา	ใช้เวลาน้อย	Takes little time	ไม่เสียเวลา,ค่อนข้าง		
+ANSR-089	เสียเวลา / ไม่เสียเวลา	เวลาที่ใช้ไม่สูญเปล่า	The time isn't wasted	ไม่เสียเวลา,ฟันธง		
+ANSR-090	เสียเวลา / ไม่เสียเวลา	ไม่เสียเวลาถ้าตั้งใจ	Not wasted if you commit	ไม่เสียเวลา,มีเงื่อนไข		
+ANSR-091	เปลือง / ไม่เปลือง	เปลือง	Costly	เปลือง,ฟันธง		
+ANSR-092	เปลือง / ไม่เปลือง	เปลืองมาก	Very costly	เปลือง,ฟันธง		
+ANSR-093	เปลือง / ไม่เปลือง	เปลืองเงิน	Costs money	เปลือง,ค่อนข้าง		
+ANSR-094	เปลือง / ไม่เปลือง	เปลืองแรง	Costs effort	เปลือง,ค่อนข้าง		
+ANSR-095	เปลือง / ไม่เปลือง	เปลืองกว่างบที่ตั้งไว้	Over budget	เปลือง,มีเงื่อนไข		
+ANSR-096	เปลือง / ไม่เปลือง	ไม่เปลือง	Not costly	ไม่เปลือง,ฟันธง		
+ANSR-097	เปลือง / ไม่เปลือง	ประหยัด	Saves money	ไม่เปลือง,ฟันธง		
+ANSR-098	เปลือง / ไม่เปลือง	อยู่ในงบ	Within budget	ไม่เปลือง,ค่อนข้าง		
+ANSR-099	เปลือง / ไม่เปลือง	จ่ายน้อยได้มาก	Pay little, get a lot	ไม่เปลือง,ฟันธง		
+ANSR-100	เปลือง / ไม่เปลือง	ไม่เปลืองถ้าวางแผนดี	Not costly if you plan well	ไม่เปลือง,มีเงื่อนไข		
+ANSR-101	เบื่อ / ไม่เบื่อ	เบื่อ	Boring	เบื่อ,ฟันธง		
+ANSR-102	เบื่อ / ไม่เบื่อ	เบื่อมาก	Very boring	เบื่อ,ฟันธง		
+ANSR-103	เบื่อ / ไม่เบื่อ	เบื่อเร็ว	You get bored fast	เบื่อ,ค่อนข้าง		
+ANSR-104	เบื่อ / ไม่เบื่อ	เบื่อแต่ต้องทน	Boring but you must stick with it	เบื่อ,มีเงื่อนไข		
+ANSR-105	เบื่อ / ไม่เบื่อ	หมดไฟ	Burned out	เบื่อ,ค่อนข้าง		
+ANSR-106	เบื่อ / ไม่เบื่อ	ไม่เบื่อ	Not boring	ไม่เบื่อ,ฟันธง		
+ANSR-107	เบื่อ / ไม่เบื่อ	สนุก	Fun	ไม่เบื่อ,ฟันธง		
+ANSR-108	เบื่อ / ไม่เบื่อ	ยิ่งทำยิ่งชอบ	The more you do it, the more you like it	ไม่เบื่อ,ค่อนข้าง		
+ANSR-109	เบื่อ / ไม่เบื่อ	มีเรื่องใหม่ให้ตื่นเต้น	Something new to enjoy	ไม่เบื่อ,ค่อนข้าง		
+ANSR-110	เบื่อ / ไม่เบื่อ	ไม่เบื่อถ้าเปลี่ยนวิธี	Not boring if you change your way	ไม่เบื่อ,มีเงื่อนไข		
+ANSR-111	เจ็บ / ไม่เจ็บ	เจ็บ	It hurts	เจ็บ,ฟันธง		
+ANSR-112	เจ็บ / ไม่เจ็บ	เจ็บมาก	It hurts a lot	เจ็บ,ฟันธง		
+ANSR-113	เจ็บ / ไม่เจ็บ	เจ็บใจ	It hurts your feelings	เจ็บ,ค่อนข้าง		
+ANSR-114	เจ็บ / ไม่เจ็บ	เจ็บแต่ไม่นาน	It hurts, but not for long	เจ็บ,มีเงื่อนไข		
+ANSR-115	เจ็บ / ไม่เจ็บ	เจ็บแต่ได้เรียนรู้	It hurts, but you learn	เจ็บ,มีเงื่อนไข		
+ANSR-116	เจ็บ / ไม่เจ็บ	ไม่เจ็บ	It doesn't hurt	ไม่เจ็บ,ฟันธง		
+ANSR-117	เจ็บ / ไม่เจ็บ	ไม่เจ็บตัว	No harm to you	ไม่เจ็บ,ฟันธง		
+ANSR-118	เจ็บ / ไม่เจ็บ	ไม่เจ็บใจ	No hurt feelings	ไม่เจ็บ,ค่อนข้าง		
+ANSR-119	เจ็บ / ไม่เจ็บ	เจ็บน้อยกว่าที่กลัว	Hurts less than you feared	ไม่เจ็บ,ค่อนข้าง		
+ANSR-120	เจ็บ / ไม่เจ็บ	ไม่เจ็บถ้ารู้ทัน	No hurt if you see it coming	ไม่เจ็บ,มีเงื่อนไข		
+ANSR-121	ทน / ไม่ทน	ทน	You can endure it	ทน,ฟันธง		
+ANSR-122	ทน / ไม่ทน	ทนได้	You can bear it	ทน,ฟันธง		
+ANSR-123	ทน / ไม่ทน	ทนได้อีกนาน	You can bear it a long while	ทน,ค่อนข้าง		
+ANSR-124	ทน / ไม่ทน	ทนไปก่อน	Hold on for now	ทน,มีเงื่อนไข		
+ANSR-125	ทน / ไม่ทน	ใจแข็งพอ	Your heart is strong enough	ทน,ค่อนข้าง		
+ANSR-126	ทน / ไม่ทน	ไม่ทน	You can't endure it	ไม่ทน,ฟันธง		
+ANSR-127	ทน / ไม่ทน	ทนไม่ไหว	Too much to bear	ไม่ทน,ฟันธง		
+ANSR-128	ทน / ไม่ทน	ไม่ต้องทน	You don't have to put up with it	ไม่ทน,ฟันธง		
+ANSR-129	ทน / ไม่ทน	ทนได้อีกไม่นาน	You can't bear it much longer	ไม่ทน,ค่อนข้าง		
+ANSR-130	ทน / ไม่ทน	ทนแล้วเสียมากกว่าได้	Enduring costs more than it gives	ไม่ทน,มีเงื่อนไข		
+ANSR-131	แพ้ / ชนะ	ชนะ	You win	ชนะ,ฟันธง		
+ANSR-132	แพ้ / ชนะ	ชนะขาด	A clear win	ชนะ,ฟันธง		
+ANSR-133	แพ้ / ชนะ	ชนะแบบเฉียดฉิว	A narrow win	ชนะ,ค่อนข้าง		
+ANSR-134	แพ้ / ชนะ	ชนะในที่สุด	You win in the end	ชนะ,มีเงื่อนไข		
+ANSR-135	แพ้ / ชนะ	ชนะใจคน	You win people over	ชนะ,ค่อนข้าง		
+ANSR-136	แพ้ / ชนะ	แพ้	You lose	แพ้,ฟันธง		
+ANSR-137	แพ้ / ชนะ	แพ้ขาด	A clear loss	แพ้,ฟันธง		
+ANSR-138	แพ้ / ชนะ	แพ้แบบเฉียดฉิว	A narrow loss	แพ้,ค่อนข้าง		
+ANSR-139	แพ้ / ชนะ	แพ้ก่อนแล้วชนะทีหลัง	Lose first, win later	แพ้,มีเงื่อนไข		
+ANSR-140	แพ้ / ชนะ	เสมอ	A draw	เสมอ,กลาง		
+ANSR-141	ใช่ / ไม่ใช่	ใช่	Yes	ใช่,ฟันธง		
+ANSR-142	ใช่ / ไม่ใช่	ใช่เลย	That's it	ใช่,ฟันธง		
+ANSR-143	ใช่ / ไม่ใช่	ใช่แน่นอน	Definitely yes	ใช่,ฟันธง		
+ANSR-144	ใช่ / ไม่ใช่	น่าจะใช่	Probably yes	ใช่,ค่อนข้าง		
+ANSR-145	ใช่ / ไม่ใช่	ใช่แต่ยังไม่ทั้งหมด	Yes, but not all of it	ใช่,มีเงื่อนไข		
+ANSR-146	ใช่ / ไม่ใช่	ไม่ใช่	No	ไม่ใช่,ฟันธง		
+ANSR-147	ใช่ / ไม่ใช่	ไม่ใช่เลย	Not at all	ไม่ใช่,ฟันธง		
+ANSR-148	ใช่ / ไม่ใช่	ไม่ใช่แน่นอน	Definitely not	ไม่ใช่,ฟันธง		
+ANSR-149	ใช่ / ไม่ใช่	น่าจะไม่ใช่	Probably not	ไม่ใช่,ค่อนข้าง		
+ANSR-150	ใช่ / ไม่ใช่	ไม่ใช่สิ่งที่คิด	Not what you think	ไม่ใช่,ค่อนข้าง		
+ANSR-151	จริง / ไม่จริง	จริง	True	จริง,ฟันธง		
+ANSR-152	จริง / ไม่จริง	จริงทุกอย่าง	All true	จริง,ฟันธง		
+ANSR-153	จริง / ไม่จริง	จริงใจ	Sincere	จริง,ค่อนข้าง		
+ANSR-154	จริง / ไม่จริง	จริงแค่ครึ่งเดียว	Only half true	จริง,มีเงื่อนไข		
+ANSR-155	จริง / ไม่จริง	เรื่องจริงจะเปิดเผย	The truth will come out	จริง,ค่อนข้าง		
+ANSR-156	จริง / ไม่จริง	ไม่จริง	Not true	ไม่จริง,ฟันธง		
+ANSR-157	จริง / ไม่จริง	โกหก	A lie	ไม่จริง,ฟันธง		
+ANSR-158	จริง / ไม่จริง	มีเรื่องปิดบัง	Something is hidden	ไม่จริง,ค่อนข้าง		
+ANSR-159	จริง / ไม่จริง	พูดเกินจริง	Exaggerated	ไม่จริง,ค่อนข้าง		
+ANSR-160	จริง / ไม่จริง	ไม่จริงใจ	Not sincere	ไม่จริง,ฟันธง		
+ANSR-161	สำเร็จ / ไม่สำเร็จ	สำเร็จ	Success	สำเร็จ,ฟันธง		
+ANSR-162	สำเร็จ / ไม่สำเร็จ	สำเร็จแน่นอน	Sure success	สำเร็จ,ฟันธง		
+ANSR-163	สำเร็จ / ไม่สำเร็จ	สำเร็จเกินคาด	Success beyond hopes	สำเร็จ,ฟันธง		
+ANSR-164	สำเร็จ / ไม่สำเร็จ	สำเร็จช้าแต่ชัวร์	Slow but sure success	สำเร็จ,มีเงื่อนไข		
+ANSR-165	สำเร็จ / ไม่สำเร็จ	สำเร็จถ้าไม่ล้มเลิก	Success if you don't give up	สำเร็จ,มีเงื่อนไข		
+ANSR-166	สำเร็จ / ไม่สำเร็จ	ไม่สำเร็จ	No success	ไม่สำเร็จ,ฟันธง		
+ANSR-167	สำเร็จ / ไม่สำเร็จ	ล้มเหลว	It fails	ไม่สำเร็จ,ฟันธง		
+ANSR-168	สำเร็จ / ไม่สำเร็จ	ไม่สำเร็จรอบนี้	Not this time	ไม่สำเร็จ,มีเงื่อนไข		
+ANSR-169	สำเร็จ / ไม่สำเร็จ	สำเร็จแค่บางส่วน	Partial success	ไม่สำเร็จ,ค่อนข้าง		
+ANSR-170	สำเร็จ / ไม่สำเร็จ	ค้างครึ่งทาง	Stuck halfway	ไม่สำเร็จ,ค่อนข้าง		
+ANSR-171	คุ้ม / ไม่คุ้ม	คุ้ม	Worth it	คุ้ม,ฟันธง		
+ANSR-172	คุ้ม / ไม่คุ้ม	คุ้มมาก	Very worth it	คุ้ม,ฟันธง		
+ANSR-173	คุ้ม / ไม่คุ้ม	คุ้มค่าทุกบาท	Worth every baht	คุ้ม,ฟันธง		
+ANSR-174	คุ้ม / ไม่คุ้ม	คุ้มในระยะยาว	Worth it in the long run	คุ้ม,มีเงื่อนไข		
+ANSR-175	คุ้ม / ไม่คุ้ม	คุ้มเสี่ยง	Worth the risk	คุ้ม,ค่อนข้าง		
+ANSR-176	คุ้ม / ไม่คุ้ม	ไม่คุ้ม	Not worth it	ไม่คุ้ม,ฟันธง		
+ANSR-177	คุ้ม / ไม่คุ้ม	ไม่คุ้มเลย	Not worth it at all	ไม่คุ้ม,ฟันธง		
+ANSR-178	คุ้ม / ไม่คุ้ม	ไม่คุ้มเสี่ยง	Not worth the risk	ไม่คุ้ม,ค่อนข้าง		
+ANSR-179	คุ้ม / ไม่คุ้ม	ได้ไม่คุ้มเสีย	You lose more than you gain	ไม่คุ้ม,ฟันธง		
+ANSR-180	คุ้ม / ไม่คุ้ม	คุ้มแค่ช่วงสั้น	Worth it only briefly	ไม่คุ้ม,มีเงื่อนไข		
+ANSR-181	เร็ว / ช้า	เร็ว	Fast	เร็ว,ฟันธง		
+ANSR-182	เร็ว / ช้า	เร็วมาก	Very fast	เร็ว,ฟันธง		
+ANSR-183	เร็ว / ช้า	เร็วกว่าที่คิด	Faster than you think	เร็ว,ฟันธง		
+ANSR-184	เร็ว / ช้า	เร็วทันใจ	As fast as you want	เร็ว,ค่อนข้าง		
+ANSR-185	เร็ว / ช้า	เร็วถ้ารีบลงมือ	Fast if you start now	เร็ว,มีเงื่อนไข		
+ANSR-186	เร็ว / ช้า	ช้า	Slow	ช้า,ฟันธง		
+ANSR-187	เร็ว / ช้า	ช้ามาก	Very slow	ช้า,ฟันธง		
+ANSR-188	เร็ว / ช้า	ช้ากว่าที่คิด	Slower than you think	ช้า,ฟันธง		
+ANSR-189	เร็ว / ช้า	ช้าแต่มาแน่	Slow but it will come	ช้า,มีเงื่อนไข		
+ANSR-190	เร็ว / ช้า	ติดขัดล่าช้า	Delayed by obstacles	ช้า,ค่อนข้าง		
+ANSR-191	รอด / ไม่รอด	รอด	You get through	รอด,ฟันธง		
+ANSR-192	รอด / ไม่รอด	รอดแน่นอน	You surely get through	รอด,ฟันธง		
+ANSR-193	รอด / ไม่รอด	รอดหวุดหวิด	You barely get through	รอด,ค่อนข้าง		
+ANSR-194	รอด / ไม่รอด	รอดเพราะมีคนช่วย	You get through with help	รอด,มีเงื่อนไข		
+ANSR-195	รอด / ไม่รอด	รอดถ้าตั้งสติ	You get through if you stay calm	รอด,มีเงื่อนไข		
+ANSR-196	รอด / ไม่รอด	ไม่รอด	You don't get through	ไม่รอด,ฟันธง		
+ANSR-197	รอด / ไม่รอด	ไปไม่รอด	It won't survive	ไม่รอด,ฟันธง		
+ANSR-198	รอด / ไม่รอด	รอดยาก	Hard to get through	ไม่รอด,ค่อนข้าง		
+ANSR-199	รอด / ไม่รอด	ไม่รอดถ้าไม่เปลี่ยน	Won't survive unless something changes	ไม่รอด,มีเงื่อนไข		
+ANSR-200	รอด / ไม่รอด	รอดตัวแต่เสียหาย	You get out, with losses	ไม่รอด,ค่อนข้าง		
+ANSR-201	ไป / ไม่ไป	ไป	Go	ไป,ฟันธง		
+ANSR-202	ไป / ไม่ไป	ไปเลย	Just go	ไป,ฟันธง		
+ANSR-203	ไป / ไม่ไป	ไปแล้วดี	Going is good	ไป,ฟันธง		
+ANSR-204	ไป / ไม่ไป	ไปได้แต่อย่าไปคนเดียว	Go, but not alone	ไป,มีเงื่อนไข		
+ANSR-205	ไป / ไม่ไป	ไปแล้วได้เจอสิ่งดี	You'll find something good there	ไป,ค่อนข้าง		
+ANSR-206	ไป / ไม่ไป	ไม่ไป	Don't go	ไม่ไป,ฟันธง		
+ANSR-207	ไป / ไม่ไป	อย่าไป	Stay away	ไม่ไป,ฟันธง		
+ANSR-208	ไป / ไม่ไป	อยู่ที่เดิมดีกว่า	Better to stay where you are	ไม่ไป,ค่อนข้าง		
+ANSR-209	ไป / ไม่ไป	ยังไม่ถึงเวลาไป	Not time to go yet	ไม่ไป,มีเงื่อนไข		
+ANSR-210	ไป / ไม่ไป	ไปแล้วเสียมากกว่าได้	Going costs more than it gives	ไม่ไป,ค่อนข้าง		
+ANSR-211	เอา / ไม่เอา	เอา	Take it	เอา,ฟันธง		
+ANSR-212	เอา / ไม่เอา	เอาเลย	Go for it	เอา,ฟันธง		
+ANSR-213	เอา / ไม่เอา	รับไว้	Accept it	เอา,ฟันธง		
+ANSR-214	เอา / ไม่เอา	เอาแต่ต่อรองก่อน	Take it, but negotiate first	เอา,มีเงื่อนไข		
+ANSR-215	เอา / ไม่เอา	เอาถ้ายังอยากได้อยู่	Take it if you still want it	เอา,มีเงื่อนไข		
+ANSR-216	เอา / ไม่เอา	ไม่เอา	Don't take it	ไม่เอา,ฟันธง		
+ANSR-217	เอา / ไม่เอา	ปฏิเสธ	Say no	ไม่เอา,ฟันธง		
+ANSR-218	เอา / ไม่เอา	ปล่อยไป	Let it go	ไม่เอา,ฟันธง		
+ANSR-219	เอา / ไม่เอา	ยังไม่เอา	Not for now	ไม่เอา,มีเงื่อนไข		
+ANSR-220	เอา / ไม่เอา	มีของที่ดีกว่ารออยู่	Something better is coming	ไม่เอา,ค่อนข้าง		
+ANSR-221	ทำต่อ / พอแค่นี้	ทำต่อ	Keep going	ทำต่อ,ฟันธง		
+ANSR-222	ทำต่อ / พอแค่นี้	อย่าเพิ่งยอมแพ้	Don't give up yet	ทำต่อ,ฟันธง		
+ANSR-223	ทำต่อ / พอแค่นี้	ใกล้ถึงแล้ว	You're almost there	ทำต่อ,ฟันธง		
+ANSR-224	ทำต่อ / พอแค่นี้	ทำต่อแต่ปรับวิธี	Keep going, but change your way	ทำต่อ,มีเงื่อนไข		
+ANSR-225	ทำต่อ / พอแค่นี้	พักแล้วค่อยทำต่อ	Rest, then go on	ทำต่อ,มีเงื่อนไข		
+ANSR-226	ทำต่อ / พอแค่นี้	พอแค่นี้	Stop here	พอ,ฟันธง		
+ANSR-227	ทำต่อ / พอแค่นี้	พอได้แล้ว	Enough	พอ,ฟันธง		
+ANSR-228	ทำต่อ / พอแค่นี้	ถอยดีกว่า	Better to step back	พอ,ฟันธง		
+ANSR-229	ทำต่อ / พอแค่นี้	หยุดก่อนจะเสียมากกว่านี้	Stop before you lose more	พอ,ค่อนข้าง		
+ANSR-230	ทำต่อ / พอแค่นี้	จบแค่นี้แล้วเริ่มใหม่	End it here and start fresh	พอ,มีเงื่อนไข		
+ANSR-231	มา / ไม่มา	มา	It comes	มา,ฟันธง		
+ANSR-232	มา / ไม่มา	มาแน่	It will surely come	มา,ฟันธง		
+ANSR-233	มา / ไม่มา	มาเร็วๆ นี้	Coming soon	มา,ฟันธง		
+ANSR-234	มา / ไม่มา	มาแต่ช้า	It comes, but late	มา,มีเงื่อนไข		
+ANSR-235	มา / ไม่มา	มาไม่ครบ	Only part of it comes	มา,ค่อนข้าง		
+ANSR-236	มา / ไม่มา	ไม่มา	It doesn't come	ไม่มา,ฟันธง		
+ANSR-237	มา / ไม่มา	ไม่มาแน่นอน	It surely won't come	ไม่มา,ฟันธง		
+ANSR-238	มา / ไม่มา	ยังไม่มา	Not yet	ไม่มา,มีเงื่อนไข		
+ANSR-239	มา / ไม่มา	เลื่อนออกไป	Postponed	ไม่มา,ค่อนข้าง		
+ANSR-240	มา / ไม่มา	มาแล้วไปเร็ว	Comes and goes quickly	ไม่มา,ค่อนข้าง		
+ANSR-241	กลับมา / ไม่กลับมา	กลับมา	It comes back	กลับมา,ฟันธง		
+ANSR-242	กลับมา / ไม่กลับมา	กลับมาแน่	It will surely come back	กลับมา,ฟันธง		
+ANSR-243	กลับมา / ไม่กลับมา	กลับมาดีกว่าเดิม	Comes back better than before	กลับมา,ฟันธง		
+ANSR-244	กลับมา / ไม่กลับมา	กลับมาแต่ไม่เหมือนเดิม	Comes back, but not the same	กลับมา,มีเงื่อนไข		
+ANSR-245	กลับมา / ไม่กลับมา	กลับมาเมื่อพร้อม	Comes back when ready	กลับมา,มีเงื่อนไข		
+ANSR-246	กลับมา / ไม่กลับมา	ไม่กลับมา	It doesn't come back	ไม่กลับมา,ฟันธง		
+ANSR-247	กลับมา / ไม่กลับมา	ไม่กลับมาแล้ว	Gone for good	ไม่กลับมา,ฟันธง		
+ANSR-248	กลับมา / ไม่กลับมา	อย่ารอ	Don't wait for it	ไม่กลับมา,ฟันธง		
+ANSR-249	กลับมา / ไม่กลับมา	ไปแล้วไปเลย	Once gone, it's gone	ไม่กลับมา,ค่อนข้าง		
+ANSR-250	กลับมา / ไม่กลับมา	กลับมาแค่ชั่วคราว	Back only for a while	ไม่กลับมา,ค่อนข้าง		
+ANSR-251	ผ่าน / ไม่ผ่าน	ผ่าน	You pass	ผ่าน,ฟันธง		
+ANSR-252	ผ่าน / ไม่ผ่าน	ผ่านฉลุย	You pass with ease	ผ่าน,ฟันธง		
+ANSR-253	ผ่าน / ไม่ผ่าน	ผ่านแน่นอน	You surely pass	ผ่าน,ฟันธง		
+ANSR-254	ผ่าน / ไม่ผ่าน	ผ่านแบบเฉียดฉิว	You just pass	ผ่าน,ค่อนข้าง		
+ANSR-255	ผ่าน / ไม่ผ่าน	ผ่านถ้าเตรียมตัวดี	You pass if well prepared	ผ่าน,มีเงื่อนไข		
+ANSR-256	ผ่าน / ไม่ผ่าน	ไม่ผ่าน	You don't pass	ไม่ผ่าน,ฟันธง		
+ANSR-257	ผ่าน / ไม่ผ่าน	ตก	You fail	ไม่ผ่าน,ฟันธง		
+ANSR-258	ผ่าน / ไม่ผ่าน	ไม่ผ่านรอบนี้	Not this round	ไม่ผ่าน,มีเงื่อนไข		
+ANSR-259	ผ่าน / ไม่ผ่าน	ต้องแก้ไขก่อน	Needs fixing first	ไม่ผ่าน,ค่อนข้าง		
+ANSR-260	ผ่าน / ไม่ผ่าน	ติดเงื่อนไข	Held up by conditions	ไม่ผ่าน,ค่อนข้าง		
+ANSR-261	รุ่ง / ร่วง	รุ่ง	Rising	รุ่ง,ฟันธง		
+ANSR-262	รุ่ง / ร่วง	รุ่งเรือง	Thriving	รุ่ง,ฟันธง		
+ANSR-263	รุ่ง / ร่วง	ขาขึ้น	On the way up	รุ่ง,ฟันธง		
+ANSR-264	รุ่ง / ร่วง	รุ่งช้าแต่มั่นคง	Slow, steady rise	รุ่ง,มีเงื่อนไข		
+ANSR-265	รุ่ง / ร่วง	รุ่งหลังจากลำบาก	Rising after hardship	รุ่ง,มีเงื่อนไข		
+ANSR-266	รุ่ง / ร่วง	ร่วง	Falling	ร่วง,ฟันธง		
+ANSR-267	รุ่ง / ร่วง	ขาลง	On the way down	ร่วง,ฟันธง		
+ANSR-268	รุ่ง / ร่วง	ทรงตัว	Holding steady	ทรงตัว,กลาง		
+ANSR-269	รุ่ง / ร่วง	ร่วงแล้วลุกได้	Falls, then rises again	ร่วง,มีเงื่อนไข		
+ANSR-270	รุ่ง / ร่วง	รุ่งแค่ชั่วคราว	Rises only for a while	ร่วง,ค่อนข้าง		
+ANSR-271	เปลี่ยน / ไม่เปลี่ยน	เปลี่ยน	Change	เปลี่ยน,ฟันธง		
+ANSR-272	เปลี่ยน / ไม่เปลี่ยน	เปลี่ยนเลย	Change now	เปลี่ยน,ฟันธง		
+ANSR-273	เปลี่ยน / ไม่เปลี่ยน	ถึงเวลาเปลี่ยน	Time for a change	เปลี่ยน,ฟันธง		
+ANSR-274	เปลี่ยน / ไม่เปลี่ยน	เปลี่ยนแล้วดีขึ้น	Change brings better things	เปลี่ยน,ค่อนข้าง		
+ANSR-275	เปลี่ยน / ไม่เปลี่ยน	เปลี่ยนทีละนิด	Change little by little	เปลี่ยน,มีเงื่อนไข		
+ANSR-276	เปลี่ยน / ไม่เปลี่ยน	ไม่เปลี่ยน	Don't change	ไม่เปลี่ยน,ฟันธง		
+ANSR-277	เปลี่ยน / ไม่เปลี่ยน	อยู่แบบเดิม	Stay as you are	ไม่เปลี่ยน,ฟันธง		
+ANSR-278	เปลี่ยน / ไม่เปลี่ยน	ของเดิมดีอยู่แล้ว	What you have is already good	ไม่เปลี่ยน,ฟันธง		
+ANSR-279	เปลี่ยน / ไม่เปลี่ยน	เขาไม่เปลี่ยน	They won't change	ไม่เปลี่ยน,ค่อนข้าง		
+ANSR-280	เปลี่ยน / ไม่เปลี่ยน	ยังไม่ถึงเวลาเปลี่ยน	Not time to change yet	ไม่เปลี่ยน,มีเงื่อนไข		
+ANSR-281	พูด / เงียบ	พูด	Speak up	พูด,ฟันธง		
+ANSR-282	พูด / เงียบ	บอกไปเลย	Tell them	พูด,ฟันธง		
+ANSR-283	พูด / เงียบ	พูดตรงๆ	Say it straight	พูด,ฟันธง		
+ANSR-284	พูด / เงียบ	พูดแต่เลือกคำ	Speak, but choose your words	พูด,มีเงื่อนไข		
+ANSR-285	พูด / เงียบ	พูดเมื่อใจเย็น	Speak when you're calm	พูด,มีเงื่อนไข		
+ANSR-286	พูด / เงียบ	เงียบ	Stay quiet	เงียบ,ฟันธง		
+ANSR-287	พูด / เงียบ	อย่าเพิ่งบอก	Don't tell yet	เงียบ,ฟันธง		
+ANSR-288	พูด / เงียบ	เก็บไว้ในใจ	Keep it to yourself	เงียบ,ฟันธง		
+ANSR-289	พูด / เงียบ	ฟังก่อนพูด	Listen before speaking	เงียบ,ค่อนข้าง		
+ANSR-290	พูด / เงียบ	รอให้เขาพูดก่อน	Let them speak first	เงียบ,มีเงื่อนไข		
+ANSR-291	เมื่อไร	วันนี้	Today	เวลา,เร็ว		
+ANSR-292	เมื่อไร	พรุ่งนี้	Tomorrow	เวลา,เร็ว		
+ANSR-293	เมื่อไร	สัปดาห์นี้	This week	เวลา,เร็ว		
+ANSR-294	เมื่อไร	เดือนนี้	This month	เวลา,เร็ว		
+ANSR-295	เมื่อไร	ภายใน 3 เดือน	Within 3 months	เวลา,กลาง		
+ANSR-296	เมื่อไร	ภายใน 6 เดือน	Within 6 months	เวลา,กลาง		
+ANSR-297	เมื่อไร	ปีนี้	This year	เวลา,กลาง		
+ANSR-298	เมื่อไร	ปีหน้า	Next year	เวลา,นาน		
+ANSR-299	เมื่อไร	อีกหลายปี	Many years from now	เวลา,นาน		
+ANSR-300	เมื่อไร	ยังไม่ถึงเวลา	Not time yet	เวลา,นาน		
